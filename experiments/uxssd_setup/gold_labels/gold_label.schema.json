@@ -1,0 +1,236 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.org/onevoice/gold_label.schema.json",
+  "title": "OneVoice Gold Label Template",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "record_id",
+    "annotator",
+    "timebase",
+    "summary",
+    "utterances",
+    "qa"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string"
+    },
+    "record_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "annotator": {
+      "type": "object",
+      "required": [
+        "annotator_id",
+        "annotation_status",
+        "notes"
+      ],
+      "properties": {
+        "annotator_id": {
+          "type": "string"
+        },
+        "annotation_status": {
+          "type": "string",
+          "enum": [
+            "not_started",
+            "in_progress",
+            "complete"
+          ]
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true
+    },
+    "timebase": {
+      "type": "string",
+      "const": "utterance_local"
+    },
+    "summary": {
+      "type": "object",
+      "required": [
+        "bundle_duration_s"
+      ],
+      "properties": {
+        "bundle_duration_s": {
+          "type": "number",
+          "minimum": 0
+        },
+        "target_min_total_events": {
+          "type": "integer",
+          "minimum": 0
+        }
+      },
+      "additionalProperties": true
+    },
+    "utterances": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "utt",
+          "speaker_id",
+          "duration_s",
+          "mispronunciations",
+          "behavioral_events"
+        ],
+        "properties": {
+          "utt": {
+            "type": "string",
+            "minLength": 1
+          },
+          "speaker_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "duration_s": {
+            "type": "number",
+            "exclusiveMinimum": 0
+          },
+          "audio_wav": {
+            "type": "string"
+          },
+          "transcript_txt": {
+            "type": "string"
+          },
+          "mispronunciations": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/mispronunciation_item"
+            }
+          },
+          "behavioral_events": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/behavioral_event_item"
+            }
+          }
+        },
+        "additionalProperties": true
+      }
+    },
+    "qa": {
+      "type": "object",
+      "required": [
+        "all_events_have_type",
+        "all_events_have_valid_time_range",
+        "all_events_within_utterance",
+        "mispronunciations_have_target_or_observed_phone",
+        "no_duplicate_events"
+      ],
+      "properties": {
+        "all_events_have_type": {
+          "type": "boolean"
+        },
+        "all_events_have_valid_time_range": {
+          "type": "boolean"
+        },
+        "all_events_within_utterance": {
+          "type": "boolean"
+        },
+        "mispronunciations_have_target_or_observed_phone": {
+          "type": "boolean"
+        },
+        "no_duplicate_events": {
+          "type": "boolean"
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "$defs": {
+    "mispronunciation_item": {
+      "type": "object",
+      "required": [
+        "type",
+        "start",
+        "end"
+      ],
+      "properties": {
+        "type": {
+          "type": "string",
+          "minLength": 1
+        },
+        "target_phone": {
+          "type": "string"
+        },
+        "observed_phone": {
+          "type": "string"
+        },
+        "word_index": {
+          "oneOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "phone_index": {
+          "oneOf": [
+            {
+              "type": "integer"
+            },
+            {
+              "type": "string"
+            }
+          ]
+        },
+        "start": {
+          "type": "string",
+          "pattern": "^\\d{2}:\\d{2}:\\d{2}:\\d{3}$"
+        },
+        "end": {
+          "type": "string",
+          "pattern": "^\\d{2}:\\d{2}:\\d{2}:\\d{3}$"
+        },
+        "confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true
+    },
+    "behavioral_event_item": {
+      "type": "object",
+      "required": [
+        "type",
+        "start",
+        "end"
+      ],
+      "properties": {
+        "type": {
+          "type": "string",
+          "minLength": 1
+        },
+        "start": {
+          "type": "string",
+          "pattern": "^\\d{2}:\\d{2}:\\d{2}:\\d{3}$"
+        },
+        "end": {
+          "type": "string",
+          "pattern": "^\\d{2}:\\d{2}:\\d{2}:\\d{3}$"
+        },
+        "confidence": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": true
+    }
+  },
+  "additionalProperties": true
+}

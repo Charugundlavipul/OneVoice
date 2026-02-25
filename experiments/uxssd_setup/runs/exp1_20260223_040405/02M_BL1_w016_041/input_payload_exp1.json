@@ -1,0 +1,964 @@
+{
+  "record_id": "02M_BL1_w016_041",
+  "mode": "experiment1_onevoice_agnostic",
+  "bundle_duration_s": 120.93199999999999,
+  "utterances": [
+    {
+      "utt": "02M-BL1-016A",
+      "duration_s": 5.016,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/016A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/016A.txt",
+          "content": "roar carry err yellow\n22/12/2011 14:28:38\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-016A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.0155\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.0155\n9\n0.0\n1.23\n\"\"\n1.23\n1.8\n\"ROAR\"\n1.8\n2.07\n\"\"\n2.07\n2.7599999\n\"CARRY\"\n2.7599999\n3.24\n\"\"\n3.24\n3.73\n\"ERR\"\n3.73\n4.17\n\"\"\n4.17\n4.91\n\"YELLOW\"\n4.91\n5.0155\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-016A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.0155\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.0155\n21\n0.0\n1.23\n\"sil\"\n1.23\n1.45\n\"r\"\n1.45\n1.6399999\n\"@U\"\n1.6399999\n1.8\n\"r\"\n1.8\n2.07\n\"sil\"\n2.07\n2.1999999\n\"k\"\n2.1999999\n2.2\n\"\"\n2.2\n2.44\n\"a\"\n2.44\n2.54\n\"r\"\n2.54\n2.76\n\"i\"\n2.7599999\n3.2399999\n\"sil\"\n3.2399999\n3.24\n\"\"\n3.24\n3.34\n\"E\"\n3.34\n3.73\n\"r\"\n3.73\n4.17\n\"sil\"\n4.17\n4.33\n\"j\"\n4.33\n4.44\n\"E\"\n4.44\n4.58\n\"5\"\n4.58\n4.91\n\"@U\"\n4.91\n5.0\n\"sil\"\n5.0\n5.0155\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-016A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.0155\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.0155\n7\n0.0\n0.63\n\"\"\n0.63\n1.03\n\"SLT\"\n1.03\n1.16\n\"\"\n1.16\n2.7799999\n\"CHILD\"\n2.7799999\n3.2\n\"\"\n3.2\n4.88\n\"CHILD\"\n4.88\n5.0155\n\"\"\n"
+        },
+        {
+          "file_key": "slt_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/slt_labels/02M-BL1-016A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0\nxmax = 5.015509\ntiers? <exists>\nsize = 2\nitem []:\n\titem [1]:\n\t\tclass = \"IntervalTier\"\n\t\tname = \"annotation_0\"\n\t\txmin = 0.000000\n\t\txmax = 5.015509\n\t\tintervals: size = 5\n\t\tintervals [1]:\n\t\t\txmin = 0.000000\n\t\t\txmax = 1.254559\n\t\t\ttext = \"\"\n\t\tintervals [2]:\n\t\t\txmin = 1.254559\n\t\t\txmax = 1.396069\n\t\t\ttext = \"/r/\"\n\t\tintervals [3]:\n\t\t\txmin = 1.396069\n\t\t\txmax = 2.403430\n\t\t\ttext = \"\"\n\t\tintervals [4]:\n\t\t\txmin = 2.403430\n\t\t\txmax = 2.482009\n\t\t\ttext = \"/r/\"\n\t\tintervals [5]:\n\t\t\txmin = 2.482009\n\t\t\txmax = 5.015509\n\t\t\ttext = \"\"\n\titem [2]:\n\t\tclass = \"TextTier\"\n\t\tname = \"PointTier_0\"\n\t\txmin = 0.000000\n\t\txmax = 5.015509\n\t\tpoints: size = 2\n\t\tpoints [1]:\n\t\t\ttime = 1.325309\n\t\t\tmark = \"mdpt\"\n\t\tpoints [2]:\n\t\t\ttime = 2.442720\n\t\t\tmark = \"mdpt\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/016A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.486\nTimeInSecsOfFirstFrame=0.47837\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-017A",
+      "duration_s": 3.344,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/017A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/017A.txt",
+          "content": "wore berry three arrow\n22/12/2011 14:28:46\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-017A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.3437\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.3437\n8\n0.0\n0.74\n\"WORE\"\n0.74\n0.88\n\"\"\n0.88\n1.6\n\"BERRY\"\n1.6\n1.6299999\n\"\"\n1.6299999\n2.2799999\n\"THREE\"\n2.2799999\n2.36\n\"\"\n2.36\n3.02\n\"ARROW\"\n3.02\n3.3437\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-017A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.3437\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.3437\n18\n0.0\n0.28\n\"w\"\n0.28\n0.54\n\"@U\"\n0.54\n0.74\n\"r\"\n0.74\n0.88\n\"sil\"\n0.88\n0.96\n\"b\"\n0.96\n1.26\n\"E\"\n1.26\n1.36\n\"r\"\n1.36\n1.6\n\"i\"\n1.6\n1.63\n\"sil\"\n1.6299999\n1.88\n\"T\"\n1.88\n1.96\n\"r\"\n1.96\n2.2799999\n\"i\"\n2.2799999\n2.36\n\"sil\"\n2.36\n2.62\n\"a\"\n2.62\n2.8\n\"r\"\n2.8\n3.02\n\"@U\"\n3.02\n3.32\n\"sil\"\n3.32\n3.3437\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-017A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.3437\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.3437\n2\n0.0\n3.0299999\n\"CHILD\"\n3.0299999\n3.3437\n\"\"\n"
+        },
+        {
+          "file_key": "slt_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/slt_labels/02M-BL1-017A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0\nxmax = 3.343669\ntiers? <exists>\nsize = 2\nitem []:\n\titem [1]:\n\t\tclass = \"IntervalTier\"\n\t\tname = \"annotation_0\"\n\t\txmin = 0.000000\n\t\txmax = 3.343669\n\t\tintervals: size = 5\n\t\tintervals [1]:\n\t\t\txmin = 0.000000\n\t\t\txmax = 1.177780\n\t\t\ttext = \"\"\n\t\tintervals [2]:\n\t\t\txmin = 1.177780\n\t\t\txmax = 1.284359\n\t\t\ttext = \"/r/\"\n\t\tintervals [3]:\n\t\t\txmin = 1.284359\n\t\t\txmax = 2.646399\n\t\t\ttext = \"\"\n\t\tintervals [4]:\n\t\t\txmin = 2.646399\n\t\t\txmax = 2.751170\n\t\t\ttext = \"/r/\"\n\t\tintervals [5]:\n\t\t\txmin = 2.751170\n\t\t\txmax = 3.343669\n\t\t\ttext = \"\"\n\titem [2]:\n\t\tclass = \"TextTier\"\n\t\tname = \"PointTier_0\"\n\t\txmin = 0.000000\n\t\txmax = 3.343669\n\t\tpoints: size = 2\n\t\tpoints [1]:\n\t\t\ttime = 1.231070\n\t\t\tmark = \"mdpt\"\n\t\tpoints [2]:\n\t\t\ttime = 2.698780\n\t\t\tmark = \"mdpt\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/017A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.487\nTimeInSecsOfFirstFrame=0.49116\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-018A",
+      "duration_s": 5.016,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/018A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/018A.txt",
+          "content": "lore rate eerie shroom\n22/12/2011 14:28:54\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-018A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.0155\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.0155\n9\n0.0\n1.31\n\"\"\n1.31\n1.94\n\"LORE\"\n1.94\n2.31\n\"\"\n2.31\n2.88\n\"RATE\"\n2.88\n3.16\n\"\"\n3.16\n3.82\n\"EERIE\"\n3.82\n4.23\n\"\"\n4.23\n4.83\n\"SHROOM\"\n4.83\n5.0155\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-018A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.0155\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.0155\n22\n0.0\n1.31\n\"sil\"\n1.31\n1.55\n\"5\"\n1.55\n1.79\n\"@U\"\n1.79\n1.94\n\"r\"\n1.94\n2.31\n\"sil\"\n2.31\n2.36\n\"r\"\n2.36\n2.63\n\"eI\"\n2.63\n2.88\n\"t\"\n2.88\n3.16\n\"sil\"\n3.16\n3.45\n\"I@\"\n3.45\n3.5\n\"r\"\n3.5\n3.82\n\"i\"\n3.82\n4.2299999\n\"sil\"\n4.2299999\n4.23\n\"\"\n4.23\n4.26\n\"m\"\n4.26\n4.29\n\"V\"\n4.29\n4.48\n\"S\"\n4.48\n4.53\n\"r\"\n4.53\n4.63\n\"u\"\n4.63\n4.83\n\"m\"\n4.83\n5.0\n\"sil\"\n5.0\n5.0155\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-018A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.0155\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.0155\n6\n0.0\n0.33\n\"\"\n0.33\n0.94\n\"SLT\"\n0.94\n3.83\n\"CHILD\"\n3.83\n4.22\n\"\"\n4.22\n5.0\n\"CHILD\"\n5.0\n5.0155\n\"\"\n"
+        },
+        {
+          "file_key": "slt_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/slt_labels/02M-BL1-018A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0\nxmax = 5.015509\ntiers? <exists>\nsize = 2\nitem []:\n\titem [1]:\n\t\tclass = \"IntervalTier\"\n\t\tname = \"annotation_0\"\n\t\txmin = 0.000000\n\t\txmax = 5.015509\n\t\tintervals: size = 5\n\t\tintervals [1]:\n\t\t\txmin = 0.000000\n\t\t\txmax = 2.213760\n\t\t\ttext = \"\"\n\t\tintervals [2]:\n\t\t\txmin = 2.213760\n\t\t\txmax = 2.330270\n\t\t\ttext = \"/r/\"\n\t\tintervals [3]:\n\t\t\txmin = 2.330270\n\t\t\txmax = 3.449349\n\t\t\ttext = \"\"\n\t\tintervals [4]:\n\t\t\txmin = 3.449349\n\t\t\txmax = 3.530640\n\t\t\ttext = \"/r/\"\n\t\tintervals [5]:\n\t\t\txmin = 3.530640\n\t\t\txmax = 5.015509\n\t\t\ttext = \"\"\n\titem [2]:\n\t\tclass = \"TextTier\"\n\t\tname = \"PointTier_0\"\n\t\txmin = 0.000000\n\t\txmax = 5.015509\n\t\tpoints: size = 2\n\t\tpoints [1]:\n\t\t\ttime = 2.272009\n\t\t\tmark = \"mdpt\"\n\t\tpoints [2]:\n\t\t\ttime = 3.489990\n\t\t\tmark = \"mdpt\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/018A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.486\nTimeInSecsOfFirstFrame=0.48989\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-019A",
+      "duration_s": 4.458,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/019A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/019A.txt",
+          "content": "late careful wait Rab\n22/12/2011 14:29:03\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-019A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n9\n0.0\n1.03\n\"\"\n1.03\n1.72\n\"LATE\"\n1.72\n1.91\n\"\"\n1.91\n2.6399999\n\"CAREFUL\"\n2.6399999\n2.75\n\"\"\n2.75\n3.47\n\"WAIT\"\n3.47\n3.63\n\"\"\n3.63\n4.25\n\"RAB\"\n4.25\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-019A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n21\n0.0\n1.03\n\"sil\"\n1.03\n1.24\n\"5\"\n1.24\n1.48\n\"eI\"\n1.48\n1.72\n\"t\"\n1.72\n1.91\n\"sil\"\n1.91\n2.02\n\"k\"\n2.02\n2.19\n\"E@\"\n2.19\n2.2599999\n\"r\"\n2.2599999\n2.4099999\n\"f\"\n2.4099999\n2.41\n\"\"\n2.41\n2.64\n\"l=\"\n2.64\n2.75\n\"sil\"\n2.75\n3.02\n\"w\"\n3.02\n3.22\n\"eI\"\n3.22\n3.47\n\"t\"\n3.47\n3.63\n\"sil\"\n3.63\n3.82\n\"r\"\n3.82\n4.01\n\"a\"\n4.01\n4.25\n\"b\"\n4.25\n4.44\n\"sil\"\n4.44\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-019A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n3\n0.0\n0.87\n\"\"\n0.87\n4.24\n\"CHILD\"\n4.24\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "slt_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/slt_labels/02M-BL1-019A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0\nxmax = 4.458230\ntiers? <exists>\nsize = 2\nitem []:\n\titem [1]:\n\t\tclass = \"IntervalTier\"\n\t\tname = \"annotation_0\"\n\t\txmin = 0.000000\n\t\txmax = 4.458230\n\t\tintervals: size = 3\n\t\tintervals [1]:\n\t\t\txmin = 0.000000\n\t\t\txmax = 3.608010\n\t\t\ttext = \"\"\n\t\tintervals [2]:\n\t\t\txmin = 3.608010\n\t\t\txmax = 3.750119\n\t\t\ttext = \"/r/\"\n\t\tintervals [3]:\n\t\t\txmin = 3.750119\n\t\t\txmax = 4.458230\n\t\t\ttext = \"\"\n\titem [2]:\n\t\tclass = \"TextTier\"\n\t\tname = \"PointTier_0\"\n\t\txmin = 0.000000\n\t\txmax = 4.458230\n\t\tpoints: size = 1\n\t\tpoints [1]:\n\t\t\ttime = 3.679060\n\t\t\tmark = \"mdpt\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/019A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.487\nTimeInSecsOfFirstFrame=0.49002\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-020A",
+      "duration_s": 3.901,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/020A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/020A.txt",
+          "content": "yate rewind room dray\n22/12/2011 14:29:11\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-020A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.901\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.901\n9\n0.0\n0.25\n\"\"\n0.25\n0.96\n\"YATE\"\n0.96\n1.1299999\n\"\"\n1.1299999\n2.0299999\n\"REWIND\"\n2.0299999\n2.11\n\"\"\n2.11\n2.7399999\n\"ROOM\"\n2.7399999\n2.99\n\"\"\n2.99\n3.59\n\"DRAY\"\n3.59\n3.901\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-020A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.901\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.901\n23\n0.0\n0.25\n\"sil\"\n0.25\n0.54\n\"j\"\n0.54\n0.77\n\"eI\"\n0.77\n0.96\n\"t\"\n0.96\n1.1299999\n\"sil\"\n1.1299999\n1.2599999\n\"r\"\n1.2599999\n1.26\n\"\"\n1.26\n1.34\n\"i\"\n1.34\n1.47\n\"w\"\n1.47\n1.6299999\n\"aI\"\n1.6299999\n1.83\n\"n\"\n1.83\n2.03\n\"d\"\n2.0299999\n2.11\n\"sil\"\n2.11\n2.4\n\"r\"\n2.4\n2.5099999\n\"u\"\n2.5099999\n2.7399999\n\"m\"\n2.7399999\n2.74\n\"\"\n2.74\n2.99\n\"sil\"\n2.99\n3.14\n\"d\"\n3.14\n3.26\n\"r\"\n3.2599999\n3.59\n\"eI\"\n3.59\n3.88\n\"sil\"\n3.88\n3.901\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-020A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.901\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.901\n3\n0.0\n0.24\n\"\"\n0.24\n3.61\n\"CHILD\"\n3.61\n3.901\n\"\"\n"
+        },
+        {
+          "file_key": "slt_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/slt_labels/02M-BL1-020A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0\nxmax = 3.900949\ntiers? <exists>\nsize = 2\nitem []:\n\titem [1]:\n\t\tclass = \"IntervalTier\"\n\t\tname = \"annotation_0\"\n\t\txmin = 0.000000\n\t\txmax = 3.900949\n\t\tintervals: size = 5\n\t\tintervals [1]:\n\t\t\txmin = 0.000000\n\t\t\txmax = 1.114859\n\t\t\ttext = \"\"\n\t\tintervals [2]:\n\t\t\txmin = 1.114859\n\t\t\txmax = 1.234979\n\t\t\ttext = \"/r/\"\n\t\tintervals [3]:\n\t\t\txmin = 1.234979\n\t\t\txmax = 2.158059\n\t\t\ttext = \"\"\n\t\tintervals [4]:\n\t\t\txmin = 2.158059\n\t\t\txmax = 2.364599\n\t\t\ttext = \"/r/\"\n\t\tintervals [5]:\n\t\t\txmin = 2.364599\n\t\t\txmax = 3.900949\n\t\t\ttext = \"\"\n\titem [2]:\n\t\tclass = \"TextTier\"\n\t\tname = \"PointTier_0\"\n\t\txmin = 0.000000\n\t\txmax = 3.900949\n\t\tpoints: size = 2\n\t\tpoints [1]:\n\t\t\ttime = 1.174919\n\t\t\tmark = \"mdpt\"\n\t\tpoints [2]:\n\t\t\ttime = 2.261330\n\t\t\tmark = \"mdpt\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/020A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.487\nTimeInSecsOfFirstFrame=0.49215\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-021A",
+      "duration_s": 4.458,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/021A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/021A.txt",
+          "content": "loom tray stripe roast\n22/12/2011 14:29:19\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-021A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n9\n0.0\n1.09\n\"\"\n1.09\n1.72\n\"LOOM\"\n1.72\n1.9\n\"\"\n1.9\n2.58\n\"TRAY\"\n2.58\n2.68\n\"\"\n2.68\n3.43\n\"STRIPE\"\n3.43\n3.71\n\"\"\n3.71\n4.39\n\"ROAST\"\n4.39\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-021A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n22\n0.0\n1.09\n\"sil\"\n1.09\n1.33\n\"5\"\n1.33\n1.45\n\"u\"\n1.45\n1.72\n\"m\"\n1.72\n1.9\n\"sil\"\n1.9\n2.09\n\"t\"\n2.09\n2.15\n\"r\"\n2.15\n2.58\n\"eI\"\n2.58\n2.68\n\"sil\"\n2.68\n2.87\n\"s\"\n2.87\n2.99\n\"t\"\n2.99\n3.05\n\"r\"\n3.05\n3.25\n\"aI\"\n3.25\n3.43\n\"p\"\n3.43\n3.71\n\"sil\"\n3.71\n3.86\n\"r\"\n3.86\n3.94\n\"@U\"\n3.94\n4.2299999\n\"s\"\n4.2299999\n4.23\n\"\"\n4.23\n4.39\n\"t\"\n4.39\n4.4399999\n\"sil\"\n4.4399999\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-021A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n3\n0.0\n1.04\n\"\"\n1.04\n4.4\n\"CHILD\"\n4.4\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "slt_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/slt_labels/02M-BL1-021A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0\nxmax = 4.458230\ntiers? <exists>\nsize = 2\nitem []:\n\titem [1]:\n\t\tclass = \"IntervalTier\"\n\t\tname = \"annotation_0\"\n\t\txmin = 0.000000\n\t\txmax = 4.458230\n\t\tintervals: size = 3\n\t\tintervals [1]:\n\t\t\txmin = 0.000000\n\t\t\txmax = 3.632099\n\t\t\ttext = \"\"\n\t\tintervals [2]:\n\t\t\txmin = 3.632099\n\t\t\txmax = 3.793470\n\t\t\ttext = \"/r/\"\n\t\tintervals [3]:\n\t\t\txmin = 3.793470\n\t\t\txmax = 4.458230\n\t\t\ttext = \"\"\n\titem [2]:\n\t\tclass = \"TextTier\"\n\t\tname = \"PointTier_0\"\n\t\txmin = 0.000000\n\t\txmax = 4.458230\n\t\tpoints: size = 1\n\t\tpoints [1]:\n\t\t\ttime = 3.712779\n\t\t\tmark = \"mdpt\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/021A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.487\nTimeInSecsOfFirstFrame=0.48857\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-022A",
+      "duration_s": 3.344,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/022A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/022A.txt",
+          "content": "rye ref crow poor\n22/12/2011 14:29:27\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-022A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.3437\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.3437\n9\n0.0\n0.03\n\"\"\n0.03\n0.74\n\"RYE\"\n0.74\n0.93\n\"\"\n0.93\n1.72\n\"REF\"\n1.72\n1.95\n\"\"\n1.95\n2.54\n\"CROW\"\n2.54\n2.88\n\"\"\n2.88\n3.32\n\"POOR\"\n3.32\n3.3437\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-022A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.3437\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.3437\n17\n0.0\n0.03\n\"sil\"\n0.03\n0.2\n\"r\"\n0.2\n0.74\n\"ae\"\n0.74\n0.93\n\"sil\"\n0.93\n1.15\n\"r\"\n1.15\n1.3599999\n\"E\"\n1.3599999\n1.36\n\"\"\n1.36\n1.72\n\"f\"\n1.72\n1.95\n\"sil\"\n1.95\n2.09\n\"k\"\n2.09\n2.23\n\"r\"\n2.23\n2.54\n\"@U\"\n2.54\n2.88\n\"sil\"\n2.88\n2.98\n\"p\"\n2.98\n3.05\n\"U@\"\n3.05\n3.32\n\"r\"\n3.32\n3.3437\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-022A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.3437\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.3437\n4\n0.0\n2.57\n\"CHILD\"\n2.57\n2.88\n\"\"\n2.88\n3.32\n\"CHILD\"\n3.32\n3.3437\n\"\"\n"
+        },
+        {
+          "file_key": "slt_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/slt_labels/02M-BL1-022A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0\nxmax = 3.343669\ntiers? <exists>\nsize = 2\nitem []:\n\titem [1]:\n\t\tclass = \"IntervalTier\"\n\t\tname = \"annotation_0\"\n\t\txmin = 0.000000\n\t\txmax = 3.343669\n\t\tintervals: size = 3\n\t\tintervals [1]:\n\t\t\txmin = 0.000000\n\t\t\txmax = 0.982689\n\t\t\ttext = \"\"\n\t\tintervals [2]:\n\t\t\txmin = 0.982689\n\t\t\txmax = 1.148879\n\t\t\ttext = \"/r/\"\n\t\tintervals [3]:\n\t\t\txmin = 1.148879\n\t\t\txmax = 3.343669\n\t\t\ttext = \"\"\n\titem [2]:\n\t\tclass = \"TextTier\"\n\t\tname = \"PointTier_0\"\n\t\txmin = 0.000000\n\t\txmax = 3.343669\n\t\tpoints: size = 1\n\t\tpoints [1]:\n\t\t\ttime = 1.065779\n\t\t\tmark = \"mdpt\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/022A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.487\nTimeInSecsOfFirstFrame=0.48948\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-023A",
+      "duration_s": 4.458,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/023A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/023A.txt",
+          "content": "lie reek hair strewn\n22/12/2011 14:29:35\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-023A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n9\n0.0\n0.93\n\"\"\n0.93\n1.79\n\"LIE\"\n1.79\n1.95\n\"\"\n1.95\n2.6399999\n\"REEK\"\n2.6399999\n2.82\n\"\"\n2.82\n3.37\n\"HAIR\"\n3.37\n3.49\n\"\"\n3.49\n4.26\n\"STREWN\"\n4.26\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-023A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n20\n0.0\n0.93\n\"sil\"\n0.93\n1.19\n\"5\"\n1.19\n1.79\n\"ae\"\n1.79\n1.95\n\"sil\"\n1.95\n2.13\n\"r\"\n2.13\n2.31\n\"i\"\n2.31\n2.64\n\"k\"\n2.64\n2.82\n\"sil\"\n2.82\n2.9299999\n\"h\"\n2.9299999\n2.93\n\"\"\n2.93\n3.22\n\"E@\"\n3.22\n3.37\n\"r\"\n3.37\n3.49\n\"sil\"\n3.49\n3.71\n\"s\"\n3.71\n3.83\n\"t\"\n3.83\n3.9\n\"r\"\n3.9\n4.1\n\"u\"\n4.1\n4.26\n\"n\"\n4.26\n4.4399999\n\"sil\"\n4.4399999\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-023A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n3\n0.0\n0.76\n\"\"\n0.76\n4.44\n\"CHILD\"\n4.44\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "slt_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/slt_labels/02M-BL1-023A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0\nxmax = 4.458230\ntiers? <exists>\nsize = 2\nitem []:\n\titem [1]:\n\t\tclass = \"IntervalTier\"\n\t\tname = \"annotation_0\"\n\t\txmin = 0.000000\n\t\txmax = 4.458230\n\t\tintervals: size = 3\n\t\tintervals [1]:\n\t\t\txmin = 0.000000\n\t\t\txmax = 1.994280\n\t\t\ttext = \"\"\n\t\tintervals [2]:\n\t\t\txmin = 1.994280\n\t\t\txmax = 2.093030\n\t\t\ttext = \"/r/\"\n\t\tintervals [3]:\n\t\t\txmin = 2.093030\n\t\t\txmax = 4.458230\n\t\t\ttext = \"\"\n\titem [2]:\n\t\tclass = \"TextTier\"\n\t\tname = \"PointTier_0\"\n\t\txmin = 0.000000\n\t\txmax = 4.458230\n\t\tpoints: size = 1\n\t\tpoints [1]:\n\t\t\ttime = 2.043649\n\t\t\tmark = \"mdpt\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/023A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.487\nTimeInSecsOfFirstFrame=0.48889\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-024A",
+      "duration_s": 4.458,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/024A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/024A.txt",
+          "content": "rate worry sprite rot\n22/12/2011 14:29:43\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-024A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n8\n0.0\n1.04\n\"\"\n1.04\n1.76\n\"RATE\"\n1.76\n2.57\n\"WORRY\"\n2.57\n2.7\n\"\"\n2.7\n3.56\n\"SPRITE\"\n3.56\n3.78\n\"\"\n3.78\n4.4399999\n\"ROT\"\n4.4399999\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-024A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n22\n0.0\n1.04\n\"sil\"\n1.04\n1.27\n\"r\"\n1.27\n1.56\n\"eI\"\n1.56\n1.76\n\"t\"\n1.76\n2.13\n\"w\"\n2.13\n2.2599999\n\"V\"\n2.2599999\n2.3299999\n\"r\"\n2.3299999\n2.33\n\"\"\n2.33\n2.57\n\"i\"\n2.57\n2.6999999\n\"sil\"\n2.6999999\n2.7\n\"\"\n2.7\n2.88\n\"s\"\n2.88\n3.0299999\n\"p\"\n3.0299999\n3.09\n\"r\"\n3.09\n3.3\n\"aI\"\n3.3\n3.5599999\n\"t\"\n3.5599999\n3.56\n\"\"\n3.56\n3.78\n\"sil\"\n3.78\n3.97\n\"r\"\n3.97\n4.16\n\"O\"\n4.16\n4.44\n\"t\"\n4.44\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-024A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n3\n0.0\n0.95\n\"\"\n0.95\n4.4399999\n\"CHILD\"\n4.4399999\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "slt_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/slt_labels/02M-BL1-024A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0\nxmax = 4.458230\ntiers? <exists>\nsize = 2\nitem []:\n\titem [1]:\n\t\tclass = \"IntervalTier\"\n\t\tname = \"annotation_0\"\n\t\txmin = 0.000000\n\t\txmax = 4.458230\n\t\tintervals: size = 7\n\t\tintervals [1]:\n\t\t\txmin = 0.000000\n\t\t\txmax = 1.026040\n\t\t\ttext = \"\"\n\t\tintervals [2]:\n\t\t\txmin = 1.026040\n\t\t\txmax = 1.189820\n\t\t\ttext = \"/r/\"\n\t\tintervals [3]:\n\t\t\txmin = 1.189820\n\t\t\txmax = 2.215869\n\t\t\ttext = \"\"\n\t\tintervals [4]:\n\t\t\txmin = 2.215869\n\t\t\txmax = 2.304980\n\t\t\ttext = \"/r/\"\n\t\tintervals [5]:\n\t\t\txmin = 2.304980\n\t\t\txmax = 3.757340\n\t\t\ttext = \"\"\n\t\tintervals [6]:\n\t\t\txmin = 3.757340\n\t\t\txmax = 3.889819\n\t\t\ttext = \"/r/\"\n\t\tintervals [7]:\n\t\t\txmin = 3.889819\n\t\t\txmax = 4.458230\n\t\t\ttext = \"\"\n\titem [2]:\n\t\tclass = \"TextTier\"\n\t\tname = \"PointTier_0\"\n\t\txmin = 0.000000\n\t\txmax = 4.458230\n\t\tpoints: size = 3\n\t\tpoints [1]:\n\t\t\ttime = 1.107930\n\t\t\tmark = \"mdpt\"\n\t\tpoints [2]:\n\t\t\ttime = 2.260419\n\t\t\tmark = \"mdpt\"\n\t\tpoints [3]:\n\t\t\ttime = 3.823580\n\t\t\tmark = \"mdpt\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/024A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.487\nTimeInSecsOfFirstFrame=0.50512\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-025A",
+      "duration_s": 3.344,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/025A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/025A.txt",
+          "content": "rule peer fray rye\n22/12/2011 14:29:50\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-025A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.3437\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.3437\n9\n0.0\n0.04\n\"\"\n0.04\n0.65\n\"RULE\"\n0.65\n0.96\n\"\"\n0.96\n1.46\n\"PEER\"\n1.46\n1.65\n\"\"\n1.65\n2.38\n\"FRAY\"\n2.38\n2.66\n\"\"\n2.66\n3.2\n\"RYE\"\n3.2\n3.3437\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-025A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.3437\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.3437\n18\n0.0\n0.04\n\"sil\"\n0.04\n0.26\n\"r\"\n0.26\n0.29\n\"u\"\n0.29\n0.6499999\n\"5\"\n0.6499999\n0.65\n\"\"\n0.65\n0.96\n\"sil\"\n0.96\n1.07\n\"p\"\n1.07\n1.26\n\"I@\"\n1.26\n1.46\n\"r\"\n1.46\n1.65\n\"sil\"\n1.65\n1.9\n\"f\"\n1.9\n1.97\n\"r\"\n1.97\n2.38\n\"eI\"\n2.38\n2.66\n\"sil\"\n2.66\n2.74\n\"r\"\n2.74\n3.2\n\"ae\"\n3.2\n3.32\n\"sil\"\n3.32\n3.3437\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-025A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.3437\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.3437\n4\n0.0\n0.7\n\"CHILD\"\n0.7\n0.96\n\"\"\n0.96\n3.23\n\"CHILD\"\n3.23\n3.3437\n\"\"\n"
+        },
+        {
+          "file_key": "reference_word_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-025A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0 \nxmax = 3.3437 \ntiers? <exists> \nsize = 1 \nitem []: \n    item [1]:\n        class = \"IntervalTier\" \n        name = \"tier_1\" \n        xmin = 0 \n        xmax = 3.3437 \n        intervals: size = 9 \n        intervals [1]:\n            xmin = 0 \n            xmax = 0.04 \n            text = \"\" \n        intervals [2]:\n            xmin = 0.04 \n            xmax = 0.65 \n            text = \"RULE\" \n        intervals [3]:\n            xmin = 0.65 \n            xmax = 0.96 \n            text = \"\" \n        intervals [4]:\n            xmin = 0.96 \n            xmax = 1.46 \n            text = \"PEER\" \n        intervals [5]:\n            xmin = 1.46 \n            xmax = 1.6747859626972352 \n            text = \"\" \n        intervals [6]:\n            xmin = 1.6747859626972352 \n            xmax = 2.38 \n            text = \"FRAY\" \n        intervals [7]:\n            xmin = 2.38 \n            xmax = 2.6260378766014045 \n            text = \"\" \n        intervals [8]:\n            xmin = 2.6260378766014045 \n            xmax = 3.191700022935365 \n            text = \"RYE\" \n        intervals [9]:\n            xmin = 3.191700022935365 \n            xmax = 3.3437 \n            text = \"\" \n"
+        },
+        {
+          "file_key": "reference_phone_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-025A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.3437\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.3437\n16\n0.0\n0.04\n\"\"\n0.04\n0.24\n\"r\"\n0.24\n0.36\n\"u\"\n0.36\n0.63\n\"5\"\n0.63\n0.96\n\"\"\n0.96\n1.04\n\"p\"\n1.04\n1.27\n\"I@\"\n1.27\n1.44\n\"r\"\n1.44\n1.6747859\n\"\"\n1.6747859\n1.8947859\n\"f\"\n1.8947859\n1.9547859\n\"r\"\n1.9547859\n2.3647859\n\"eI\"\n2.3647859\n2.6260378\n\"\"\n2.6260378\n2.7560378\n\"r\"\n2.7560378\n3.1760378\n\"ae\"\n3.1760378\n3.3437\n\"\"\n"
+        },
+        {
+          "file_key": "slt_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/slt_labels/02M-BL1-025A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0\nxmax = 3.343669\ntiers? <exists>\nsize = 2\nitem []:\n\titem [1]:\n\t\tclass = \"IntervalTier\"\n\t\tname = \"annotation_0\"\n\t\txmin = 0.000000\n\t\txmax = 3.343669\n\t\tintervals: size = 3\n\t\tintervals [1]:\n\t\t\txmin = 0.000000\n\t\t\txmax = 2.622910\n\t\t\ttext = \"\"\n\t\tintervals [2]:\n\t\t\txmin = 2.622910\n\t\t\txmax = 2.733109\n\t\t\ttext = \"/r/\"\n\t\tintervals [3]:\n\t\t\txmin = 2.733109\n\t\t\txmax = 3.343669\n\t\t\ttext = \"\"\n\titem [2]:\n\t\tclass = \"TextTier\"\n\t\tname = \"PointTier_0\"\n\t\txmin = 0.000000\n\t\txmax = 3.343669\n\t\tpoints: size = 1\n\t\tpoints [1]:\n\t\t\ttime = 2.678010\n\t\t\tmark = \"mdpt\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/025A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.486\nTimeInSecsOfFirstFrame=0.48884\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-026A",
+      "duration_s": 5.573,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/026A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/026A.txt",
+          "content": "round rut far pour\n22/12/2011 14:30:00\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-026A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.5728\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.5728\n9\n0.0\n1.89\n\"\"\n1.89\n2.88\n\"ROUND\"\n2.88\n2.93\n\"\"\n2.93\n3.62\n\"RUT\"\n3.62\n3.81\n\"\"\n3.81\n4.44\n\"FAR\"\n4.44\n4.72\n\"\"\n4.72\n5.21\n\"POUR\"\n5.21\n5.5728\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-026A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.5728\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.5728\n20\n0.0\n1.89\n\"sil\"\n1.89\n2.16\n\"r\"\n2.16\n2.45\n\"aU\"\n2.45\n2.63\n\"n\"\n2.63\n2.88\n\"d\"\n2.88\n2.9299999\n\"sil\"\n2.9299999\n2.93\n\"\"\n2.93\n3.15\n\"r\"\n3.15\n3.35\n\"V\"\n3.35\n3.62\n\"t\"\n3.62\n3.81\n\"sil\"\n3.81\n4.04\n\"f\"\n4.04\n4.07\n\"a\"\n4.07\n4.44\n\"r\"\n4.44\n4.72\n\"sil\"\n4.72\n4.83\n\"p\"\n4.83\n5.07\n\"@U\"\n5.07\n5.21\n\"r\"\n5.21\n5.55\n\"sil\"\n5.55\n5.5728\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-026A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.5728\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.5728\n7\n0.0\n1.2\n\"\"\n1.2\n1.52\n\"SLT\"\n1.52\n1.85\n\"\"\n1.85\n4.4799999\n\"CHILD\"\n4.4799999\n4.72\n\"\"\n4.72\n5.3099999\n\"CHILD\"\n5.3099999\n5.5728\n\"\"\n"
+        },
+        {
+          "file_key": "slt_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/slt_labels/02M-BL1-026A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0\nxmax = 5.572790\ntiers? <exists>\nsize = 2\nitem []:\n\titem [1]:\n\t\tclass = \"IntervalTier\"\n\t\tname = \"annotation_0\"\n\t\txmin = 0.000000\n\t\txmax = 5.572790\n\t\tintervals: size = 5\n\t\tintervals [1]:\n\t\t\txmin = 0.000000\n\t\t\txmax = 2.008129\n\t\t\ttext = \"\"\n\t\tintervals [2]:\n\t\t\txmin = 2.008129\n\t\t\txmax = 2.107479\n\t\t\ttext = \"/r/\"\n\t\tintervals [3]:\n\t\t\txmin = 2.107479\n\t\t\txmax = 3.025749\n\t\t\ttext = \"\"\n\t\tintervals [4]:\n\t\t\txmin = 3.025749\n\t\t\txmax = 3.110040\n\t\t\ttext = \"/r/\"\n\t\tintervals [5]:\n\t\t\txmin = 3.110040\n\t\t\txmax = 5.572790\n\t\t\ttext = \"\"\n\titem [2]:\n\t\tclass = \"TextTier\"\n\t\tname = \"PointTier_0\"\n\t\txmin = 0.000000\n\t\txmax = 5.572790\n\t\tpoints: size = 2\n\t\tpoints [1]:\n\t\t\ttime = 2.057799\n\t\t\tmark = \"mdpt\"\n\t\tpoints [2]:\n\t\t\ttime = 3.067889\n\t\t\tmark = \"mdpt\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/026A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.486\nTimeInSecsOfFirstFrame=0.50404\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-027A",
+      "duration_s": 4.458,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/027A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/027A.txt",
+          "content": "fur roller fire brown\n22/12/2011 14:30:09\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-027A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n9\n0.0\n1.15\n\"\"\n1.15\n1.89\n\"FUR\"\n1.89\n2.17\n\"\"\n2.17\n2.77\n\"ROLLER\"\n2.77\n2.85\n\"\"\n2.85\n3.66\n\"FIRE\"\n3.66\n3.78\n\"\"\n3.78\n4.4399999\n\"BROWN\"\n4.4399999\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-027A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n21\n0.0\n1.15\n\"sil\"\n1.15\n1.42\n\"f\"\n1.42\n1.75\n\"3\"\n1.75\n1.89\n\"r\"\n1.89\n2.17\n\"sil\"\n2.17\n2.29\n\"r\"\n2.29\n2.42\n\"@U\"\n2.42\n2.56\n\"5\"\n2.56\n2.61\n\"@\"\n2.61\n2.77\n\"r\"\n2.77\n2.85\n\"sil\"\n2.85\n3.11\n\"f\"\n3.11\n3.4\n\"aI\"\n3.4\n3.48\n\"@\"\n3.48\n3.66\n\"r\"\n3.66\n3.78\n\"sil\"\n3.78\n3.84\n\"b\"\n3.84\n4.01\n\"r\"\n4.01\n4.2\n\"aU\"\n4.2\n4.44\n\"n\"\n4.44\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-027A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n3\n0.0\n1.16\n\"\"\n1.16\n4.4399999\n\"CHILD\"\n4.4399999\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "slt_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/slt_labels/02M-BL1-027A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0\nxmax = 4.458230\ntiers? <exists>\nsize = 2\nitem []:\n\titem [1]:\n\t\tclass = \"IntervalTier\"\n\t\tname = \"annotation_0\"\n\t\txmin = 0.000000\n\t\txmax = 4.458230\n\t\tintervals: size = 3\n\t\tintervals [1]:\n\t\t\txmin = 0.000000\n\t\t\txmax = 2.150840\n\t\t\ttext = \"\"\n\t\tintervals [2]:\n\t\t\txmin = 2.150840\n\t\t\txmax = 2.232730\n\t\t\ttext = \"/r/\"\n\t\tintervals [3]:\n\t\t\txmin = 2.232730\n\t\t\txmax = 4.458230\n\t\t\ttext = \"\"\n\titem [2]:\n\t\tclass = \"TextTier\"\n\t\tname = \"PointTier_0\"\n\t\txmin = 0.000000\n\t\txmax = 4.458230\n\t\tpoints: size = 1\n\t\tpoints [1]:\n\t\t\ttime = 2.191780\n\t\t\tmark = \"mdpt\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/027A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.487\nTimeInSecsOfFirstFrame=0.48889\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-028A",
+      "duration_s": 5.573,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/028A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/028A.txt",
+          "content": "hour pry grow\n22/12/2011 14:30:18\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-028A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.5728\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.5728\n7\n0.0\n1.3799999\n\"\"\n1.3799999\n2.0099999\n\"HOUR\"\n2.0099999\n2.24\n\"\"\n2.24\n2.93\n\"PRY\"\n2.93\n3.04\n\"\"\n3.04\n3.67\n\"GROW\"\n3.67\n5.5728\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-028A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.5728\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.5728\n15\n0.0\n1.3799999\n\"sil\"\n1.3799999\n1.67\n\"aU\"\n1.67\n1.88\n\"@\"\n1.88\n2.0099999\n\"r\"\n2.0099999\n2.2399999\n\"sil\"\n2.2399999\n2.24\n\"\"\n2.24\n2.41\n\"p\"\n2.41\n2.47\n\"r\"\n2.47\n2.93\n\"ae\"\n2.93\n3.04\n\"sil\"\n3.04\n3.1\n\"g\"\n3.1\n3.32\n\"r\"\n3.32\n3.67\n\"@U\"\n3.67\n5.55\n\"sil\"\n5.55\n5.5728\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-028A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.5728\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.5728\n8\n0.0\n1.3799999\n\"\"\n1.3799999\n2.04\n\"CHILD\"\n2.04\n2.24\n\"\"\n2.24\n4.05\n\"CHILD\"\n4.05\n4.62\n\"SLT\"\n4.62\n4.85\n\"\"\n4.85\n5.55\n\"CHILD\"\n5.55\n5.5728\n\"\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/028A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.487\nTimeInSecsOfFirstFrame=0.48830\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-029C",
+      "duration_s": 7.245,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/029C.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/029C.txt",
+          "content": "Lauren grew a yellow lily in the garden\n22/12/2011 14:30:36\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-029C.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n7.2446\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n7.2446\n15\n0.0\n1.18\n\"\"\n1.18\n2.0299999\n\"LAUREN\"\n2.0299999\n2.66\n\"\"\n2.66\n3.08\n\"GREW\"\n3.08\n3.42\n\"\"\n3.42\n3.85\n\"A\"\n3.85\n3.89\n\"\"\n3.89\n4.66\n\"YELLOW\"\n4.66\n4.7\n\"\"\n4.7\n5.32\n\"LILY\"\n5.32\n5.53\n\"\"\n5.53\n6.02\n\"IN\"\n6.0199999\n6.21\n\"THE\"\n6.21\n6.92\n\"GARDEN\"\n6.92\n7.2446\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-029C.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n7.2446\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n7.2446\n37\n0.0\n1.18\n\"sil\"\n1.18\n1.3499999\n\"5\"\n1.3499999\n1.35\n\"\"\n1.35\n1.55\n\"O\"\n1.55\n1.59\n\"r\"\n1.59\n1.78\n\"@\"\n1.78\n2.03\n\"n\"\n2.0299999\n2.6599999\n\"sil\"\n2.6599999\n2.66\n\"\"\n2.66\n2.69\n\"g\"\n2.69\n2.7599999\n\"r\"\n2.7599999\n3.0799999\n\"u\"\n3.0799999\n3.08\n\"\"\n3.08\n3.42\n\"sil\"\n3.42\n3.85\n\"@\"\n3.85\n3.89\n\"sil\"\n3.89\n4.12\n\"j\"\n4.12\n4.22\n\"E\"\n4.22\n4.39\n\"5\"\n4.39\n4.66\n\"@U\"\n4.66\n4.7\n\"sil\"\n4.7\n4.88\n\"5\"\n4.88\n4.93\n\"I\"\n4.93\n5.05\n\"5\"\n5.05\n5.32\n\"i\"\n5.32\n5.53\n\"sil\"\n5.53\n5.73\n\"I\"\n5.73\n6.02\n\"n\"\n6.0199999\n6.05\n\"D\"\n6.05\n6.21\n\"i\"\n6.21\n6.39\n\"g\"\n6.39\n6.47\n\"a\"\n6.47\n6.64\n\"r\"\n6.64\n6.71\n\"d\"\n6.71\n6.92\n\"n=\"\n6.92\n7.22\n\"sil\"\n7.22\n7.2446\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-029C.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n7.2446\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n7.2446\n7\n0.0\n1.1399999\n\"\"\n1.1399999\n3.12\n\"CHILD\"\n3.12\n3.34\n\"\"\n3.34\n5.33\n\"CHILD\"\n5.33\n5.53\n\"\"\n5.53\n6.93\n\"CHILD\"\n6.93\n7.2446\n\"\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/029C.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.486\nTimeInSecsOfFirstFrame=0.50404\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-030C",
+      "duration_s": 6.13,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/030C.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/030C.txt",
+          "content": "Four really red hot pastries burnt my throat\n22/12/2011 14:30:47\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-030C.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n6.1301\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n6.1301\n12\n0.0\n1.31\n\"\"\n1.31\n1.95\n\"FOUR\"\n1.95\n2.6\n\"REALLY\"\n2.6\n3.09\n\"RED\"\n3.09\n3.2\n\"\"\n3.2\n3.7\n\"HOT\"\n3.7\n4.47\n\"PASTRIES\"\n4.47\n4.66\n\"\"\n4.66\n5.14\n\"BURNT\"\n5.14\n5.55\n\"MY\"\n5.55\n6.1099999\n\"THROAT\"\n6.1099999\n6.1301\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-030C.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n6.1301\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n6.1301\n39\n0.0\n1.31\n\"sil\"\n1.31\n1.54\n\"f\"\n1.54\n1.8\n\"@U\"\n1.8\n1.95\n\"r\"\n1.95\n2.1\n\"r\"\n2.1\n2.13\n\"I@\"\n2.13\n2.32\n\"5\"\n2.32\n2.5999999\n\"i\"\n2.5999999\n2.6\n\"\"\n2.6\n2.68\n\"r\"\n2.68\n2.88\n\"E\"\n2.88\n3.09\n\"d\"\n3.09\n3.1999999\n\"sil\"\n3.1999999\n3.2\n\"\"\n3.2\n3.42\n\"h\"\n3.42\n3.57\n\"O\"\n3.57\n3.7\n\"t\"\n3.7\n3.86\n\"p\"\n3.86\n3.98\n\"eI\"\n3.98\n4.11\n\"s\"\n4.11\n4.17\n\"t\"\n4.17\n4.2299999\n\"r\"\n4.2299999\n4.23\n\"\"\n4.23\n4.29\n\"i\"\n4.29\n4.47\n\"z\"\n4.47\n4.66\n\"sil\"\n4.66\n4.73\n\"b\"\n4.73\n4.9\n\"3\"\n4.9\n4.94\n\"r\"\n4.94\n5.02\n\"n\"\n5.0199999\n5.14\n\"t\"\n5.14\n5.2699999\n\"m\"\n5.2699999\n5.55\n\"ae\"\n5.55\n5.76\n\"T\"\n5.76\n5.8199999\n\"r\"\n5.8199999\n5.82\n\"\"\n5.82\n5.95\n\"@U\"\n5.95\n6.11\n\"t\"\n6.11\n6.1301\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-030C.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n6.1301\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n6.1301\n3\n0.0\n1.3899999\n\"\"\n1.3899999\n6.1099999\n\"CHILD\"\n6.1099999\n6.1301\n\"\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/030C.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.487\nTimeInSecsOfFirstFrame=0.48422\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-031C",
+      "duration_s": 6.13,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/031C.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/031C.txt",
+          "content": "Lauren grew a yellow lily in the garden\n22/12/2011 14:31:01\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-031C.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n6.1301\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n6.1301\n12\n0.0\n1.7\n\"\"\n1.7\n2.5099999\n\"LAUREN\"\n2.5099999\n2.58\n\"\"\n2.58\n3.1\n\"GREW\"\n3.1\n3.41\n\"A\"\n3.41\n4.0\n\"YELLOW\"\n4.0\n4.55\n\"LILY\"\n4.55\n4.58\n\"\"\n4.58\n5.02\n\"IN\"\n5.0199999\n5.25\n\"THE\"\n5.25\n5.92\n\"GARDEN\"\n5.92\n6.1301\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-031C.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n6.1301\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n6.1301\n33\n0.0\n1.7\n\"sil\"\n1.7\n1.91\n\"5\"\n1.91\n2.04\n\"O\"\n2.04\n2.12\n\"r\"\n2.12\n2.28\n\"@\"\n2.2799999\n2.5099999\n\"n\"\n2.5099999\n2.5799999\n\"sil\"\n2.5799999\n2.58\n\"\"\n2.58\n2.64\n\"g\"\n2.64\n2.76\n\"r\"\n2.7599999\n3.0999999\n\"u\"\n3.0999999\n3.1\n\"\"\n3.1\n3.41\n\"@\"\n3.41\n3.64\n\"j\"\n3.64\n3.73\n\"E\"\n3.73\n3.86\n\"5\"\n3.86\n4.0\n\"@U\"\n4.0\n4.13\n\"5\"\n4.13\n4.2\n\"I\"\n4.2\n4.32\n\"5\"\n4.32\n4.55\n\"i\"\n4.55\n4.58\n\"sil\"\n4.58\n4.73\n\"I\"\n4.73\n5.02\n\"n\"\n5.0199999\n5.0599999\n\"D\"\n5.0599999\n5.25\n\"i\"\n5.25\n5.41\n\"g\"\n5.41\n5.51\n\"a\"\n5.51\n5.63\n\"r\"\n5.63\n5.72\n\"d\"\n5.72\n5.92\n\"n=\"\n5.92\n6.11\n\"sil\"\n6.11\n6.1301\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-031C.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n6.1301\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n6.1301\n3\n0.0\n1.73\n\"\"\n1.73\n5.7\n\"CHILD\"\n5.7\n6.1301\n\"\"\n"
+        },
+        {
+          "file_key": "slt_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/slt_labels/02M-BL1-031C.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0\nxmax = 6.130069\ntiers? <exists>\nsize = 1\nitem []:\n\titem [1]:\n\t\tclass = \"TextTier\"\n\t\tname = \"PointTier_0\"\n\t\txmin = 0.000000\n\t\txmax = 6.130069\n\t\tpoints: size = 1\n\t\tpoints [1]:\n\t\t\ttime = 1.313819\n\t\t\tmark = \"Swallow\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/031C.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.487\nTimeInSecsOfFirstFrame=0.47941\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-032C",
+      "duration_s": 5.016,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/032C.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/032C.txt",
+          "content": "Four really red hot pastries burnt my throat\n22/12/2011 14:31:12\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-032C.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.0155\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.0155\n13\n0.0\n1.1399999\n\"\"\n1.1399999\n1.6399999\n\"FOUR\"\n1.6399999\n2.1399999\n\"REALLY\"\n2.1399999\n2.14\n\"\"\n2.14\n2.52\n\"RED\"\n2.52\n3.04\n\"HOT\"\n3.04\n3.25\n\"\"\n3.25\n3.82\n\"PASTRIES\"\n3.82\n4.2299999\n\"BURNT\"\n4.2299999\n4.23\n\"\"\n4.23\n4.59\n\"MY\"\n4.59\n5.0\n\"THROAT\"\n5.0\n5.0155\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-032C.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.0155\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.0155\n37\n0.0\n1.1399999\n\"sil\"\n1.1399999\n1.3399999\n\"f\"\n1.3399999\n1.34\n\"\"\n1.34\n1.53\n\"@U\"\n1.53\n1.64\n\"r\"\n1.6399999\n1.77\n\"r\"\n1.77\n1.8\n\"I@\"\n1.8\n1.98\n\"5\"\n1.98\n2.14\n\"i\"\n2.14\n2.22\n\"r\"\n2.22\n2.4\n\"E\"\n2.4\n2.52\n\"d\"\n2.52\n2.7\n\"h\"\n2.7\n2.91\n\"O\"\n2.91\n3.04\n\"t\"\n3.04\n3.25\n\"sil\"\n3.25\n3.35\n\"p\"\n3.35\n3.47\n\"eI\"\n3.47\n3.58\n\"s\"\n3.58\n3.62\n\"t\"\n3.62\n3.68\n\"r\"\n3.68\n3.73\n\"i\"\n3.73\n3.82\n\"z\"\n3.82\n3.91\n\"b\"\n3.91\n4.04\n\"3\"\n4.04\n4.1\n\"r\"\n4.1\n4.1499999\n\"n\"\n4.1499999\n4.15\n\"\"\n4.15\n4.23\n\"t\"\n4.23\n4.37\n\"m\"\n4.37\n4.59\n\"ae\"\n4.59\n4.7699999\n\"T\"\n4.7699999\n4.8199999\n\"r\"\n4.8199999\n4.82\n\"\"\n4.82\n4.96\n\"@U\"\n4.96\n5.0\n\"t\"\n5.0\n5.0155\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-032C.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.0155\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.0155\n3\n0.0\n1.1299999\n\"\"\n1.1299999\n5.0\n\"CHILD\"\n5.0\n5.0155\n\"\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/032C.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.486\nTimeInSecsOfFirstFrame=0.50014\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-033A",
+      "duration_s": 3.901,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/033A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/033A.txt",
+          "content": "roar carry err yellow\n22/12/2011 14:31:26\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-033A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.901\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.901\n8\n0.0\n1.53\n\"\"\n1.53\n1.98\n\"ROAR\"\n1.98\n2.73\n\"CARRY\"\n2.73\n2.86\n\"\"\n2.86\n3.36\n\"ERR\"\n3.36\n3.4\n\"\"\n3.4\n3.88\n\"YELLOW\"\n3.88\n3.901\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-033A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.901\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.901\n17\n0.0\n1.53\n\"sil\"\n1.53\n1.64\n\"r\"\n1.6399999\n1.89\n\"@U\"\n1.89\n1.98\n\"r\"\n1.98\n2.18\n\"k\"\n2.18\n2.39\n\"a\"\n2.39\n2.49\n\"r\"\n2.49\n2.73\n\"i\"\n2.73\n2.86\n\"sil\"\n2.86\n2.96\n\"E\"\n2.96\n3.36\n\"r\"\n3.36\n3.4\n\"sil\"\n3.4\n3.57\n\"j\"\n3.57\n3.65\n\"E\"\n3.65\n3.8\n\"5\"\n3.8\n3.88\n\"@U\"\n3.88\n3.901\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-033A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.901\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.901\n3\n0.0\n1.17\n\"\"\n1.17\n3.88\n\"CHILD\"\n3.88\n3.901\n\"\"\n"
+        },
+        {
+          "file_key": "reference_word_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-033A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0 \nxmax = 3.901 \ntiers? <exists> \nsize = 1 \nitem []: \n    item [1]:\n        class = \"IntervalTier\" \n        name = \"tier_1\" \n        xmin = 0 \n        xmax = 3.901 \n        intervals: size = 9 \n        intervals [1]:\n            xmin = 0 \n            xmax = 1.4583979276744354 \n            text = \"\" \n        intervals [2]:\n            xmin = 1.4583979276744354 \n            xmax = 1.9950289578206426 \n            text = \"ROAR\" \n        intervals [3]:\n            xmin = 1.9950289578206426 \n            xmax = 2.0635350467754776 \n            text = \"\" \n        intervals [4]:\n            xmin = 2.0635350467754776 \n            xmax = 2.73 \n            text = \"CARRY\" \n        intervals [5]:\n            xmin = 2.73 \n            xmax = 2.86 \n            text = \"\" \n        intervals [6]:\n            xmin = 2.86 \n            xmax = 3.36 \n            text = \"ERR\" \n        intervals [7]:\n            xmin = 3.36 \n            xmax = 3.4 \n            text = \"\" \n        intervals [8]:\n            xmin = 3.4 \n            xmax = 3.89721469446656 \n            text = \"YELLOW\" \n        intervals [9]:\n            xmin = 3.89721469446656 \n            xmax = 3.901 \n            text = \"\" \n"
+        },
+        {
+          "file_key": "reference_phone_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-033A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.901\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.901\n18\n0.0\n1.4583979\n\"\"\n1.4583979\n1.5983979\n\"r\"\n1.5983979\n1.6883979\n\"@U\"\n1.6883979\n1.9783979\n\"r\"\n1.9783979\n2.063535\n\"\"\n2.063535\n2.203535\n\"k\"\n2.203535\n2.273535\n\"a\"\n2.273535\n2.3635349\n\"r\"\n2.3635349\n2.7135349\n\"i\"\n2.7135349\n2.86\n\"\"\n2.86\n3.2599999\n\"E\"\n3.2599999\n3.34\n\"r\"\n3.34\n3.4\n\"\"\n3.4\n3.58\n\"j\"\n3.58\n3.69\n\"E\"\n3.69\n3.79\n\"5\"\n3.79\n3.88\n\"@U\"\n3.88\n3.901\n\"\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/033A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.486\nTimeInSecsOfFirstFrame=0.48005\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-034A",
+      "duration_s": 2.229,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/034A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/034A.txt",
+          "content": "wore berry three arrow\n22/12/2011 14:31:32\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-034A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n2.2291\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n2.2291\n7\n0.0\n0.6899999\n\"WORE\"\n0.6899999\n1.3199999\n\"BERRY\"\n1.3199999\n1.32\n\"\"\n1.32\n1.84\n\"THREE\"\n1.84\n1.92\n\"\"\n1.92\n2.21\n\"ARROW\"\n2.21\n2.2291\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-034A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n2.2291\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n2.2291\n17\n0.0\n0.39\n\"w\"\n0.39\n0.46\n\"@U\"\n0.46\n0.69\n\"r\"\n0.6899999\n0.83\n\"b\"\n0.83\n1.1199999\n\"E\"\n1.1199999\n1.12\n\"\"\n1.12\n1.18\n\"r\"\n1.18\n1.3199999\n\"i\"\n1.3199999\n1.32\n\"\"\n1.32\n1.47\n\"T\"\n1.47\n1.54\n\"r\"\n1.54\n1.84\n\"i\"\n1.84\n1.92\n\"sil\"\n1.92\n2.14\n\"a\"\n2.14\n2.17\n\"r\"\n2.17\n2.21\n\"@U\"\n2.21\n2.2291\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-034A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n2.2291\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n2.2291\n2\n0.0\n2.21\n\"CHILD\"\n2.21\n2.2291\n\"\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/034A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.488\nTimeInSecsOfFirstFrame=0.48417\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-035A",
+      "duration_s": 5.016,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/035A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/035A.txt",
+          "content": "lore rate eerie shroom\n22/12/2011 14:31:41\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-035A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.0155\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.0155\n6\n0.0\n1.67\n\"\"\n1.67\n2.35\n\"LORE\"\n2.35\n3.1\n\"RATE\"\n3.1\n3.63\n\"EERIE\"\n3.63\n4.17\n\"SHROOM\"\n4.17\n5.0155\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-035A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.0155\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.0155\n19\n0.0\n1.67\n\"sil\"\n1.67\n1.87\n\"5\"\n1.87\n2.12\n\"@U\"\n2.12\n2.35\n\"r\"\n2.35\n2.51\n\"r\"\n2.5099999\n2.8099999\n\"eI\"\n2.8099999\n2.81\n\"\"\n2.81\n3.1\n\"t\"\n3.1\n3.41\n\"I@\"\n3.41\n3.47\n\"r\"\n3.47\n3.63\n\"i\"\n3.63\n3.66\n\"m\"\n3.66\n3.69\n\"V\"\n3.69\n3.86\n\"S\"\n3.86\n3.91\n\"r\"\n3.91\n3.98\n\"u\"\n3.98\n4.17\n\"m\"\n4.17\n5.0\n\"sil\"\n5.0\n5.0155\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-035A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.0155\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.0155\n3\n0.0\n1.67\n\"\"\n1.67\n4.22\n\"CHILD\"\n4.22\n5.0155\n\"\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/035A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.487\nTimeInSecsOfFirstFrame=0.50440\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-036A",
+      "duration_s": 4.458,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/036A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/036A.txt",
+          "content": "late careful wait Rab\n22/12/2011 14:31:49\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-036A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n7\n0.0\n1.1299999\n\"\"\n1.1299999\n1.93\n\"LATE\"\n1.93\n2.56\n\"CAREFUL\"\n2.56\n3.2\n\"WAIT\"\n3.2\n3.35\n\"\"\n3.35\n4.0\n\"RAB\"\n4.0\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-036A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n20\n0.0\n1.1299999\n\"sil\"\n1.1299999\n1.3699999\n\"5\"\n1.3699999\n1.37\n\"\"\n1.37\n1.61\n\"eI\"\n1.61\n1.93\n\"t\"\n1.93\n2.05\n\"k\"\n2.05\n2.2199999\n\"E@\"\n2.2199999\n2.22\n\"\"\n2.22\n2.27\n\"r\"\n2.27\n2.43\n\"f\"\n2.43\n2.56\n\"l=\"\n2.56\n2.83\n\"w\"\n2.83\n3.02\n\"eI\"\n3.02\n3.2\n\"t\"\n3.2\n3.35\n\"sil\"\n3.35\n3.56\n\"r\"\n3.56\n3.76\n\"a\"\n3.76\n4.0\n\"b\"\n4.0\n4.44\n\"sil\"\n4.44\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-036A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n3\n0.0\n1.1\n\"\"\n1.1\n4.01\n\"CHILD\"\n4.01\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "reference_word_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-036A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0 \nxmax = 4.4582 \ntiers? <exists> \nsize = 1 \nitem []: \n    item [1]:\n        class = \"IntervalTier\" \n        name = \"tier_1\" \n        xmin = 0 \n        xmax = 4.4582 \n        intervals: size = 7 \n        intervals [1]:\n            xmin = 0 \n            xmax = 1.1299999 \n            text = \"\" \n        intervals [2]:\n            xmin = 1.1299999 \n            xmax = 1.9198498869969598 \n            text = \"LATE\" \n        intervals [3]:\n            xmin = 1.9198498869969598 \n            xmax = 2.67144509834612 \n            text = \"CAREFUL\" \n        intervals [4]:\n            xmin = 2.67144509834612 \n            xmax = 3.2 \n            text = \"WAIT\" \n        intervals [5]:\n            xmin = 3.2 \n            xmax = 3.35 \n            text = \"\" \n        intervals [6]:\n            xmin = 3.35 \n            xmax = 4 \n            text = \"RAB\" \n        intervals [7]:\n            xmin = 4 \n            xmax = 4.4582 \n            text = \"\" \n"
+        },
+        {
+          "file_key": "reference_phone_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-036A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n19\n0.0\n1.1299999\n\"\"\n1.1299999\n1.3699999\n\"5\"\n1.3699999\n1.6099999\n\"eI\"\n1.6099999\n1.8999999\n\"t\"\n1.8999999\n1.9198498\n\"\"\n1.9198498\n2.0698498\n\"k\"\n2.0698498\n2.1998498\n\"E@\"\n2.1998498\n2.2898498\n\"r\"\n2.2898498\n2.4698498\n\"f\"\n2.4698498\n2.6498498\n\"l=\"\n2.6498498\n2.671445\n\"\"\n2.671445\n2.831445\n\"w\"\n2.831445\n2.991445\n\"eI\"\n2.9914449\n3.1814449\n\"t\"\n3.1814449\n3.35\n\"\"\n3.35\n3.53\n\"r\"\n3.53\n3.78\n\"a\"\n3.78\n3.98\n\"b\"\n3.98\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/036A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.487\nTimeInSecsOfFirstFrame=0.48485\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-037A",
+      "duration_s": 4.458,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/037A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/037A.txt",
+          "content": "yate rewind room dray\n22/12/2011 14:31:57\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-037A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n8\n0.0\n0.64\n\"\"\n0.64\n1.41\n\"YATE\"\n1.41\n1.57\n\"\"\n1.57\n2.56\n\"REWIND\"\n2.56\n2.96\n\"ROOM\"\n2.96\n3.09\n\"\"\n3.09\n3.7\n\"DRAY\"\n3.7\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-037A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n22\n0.0\n0.64\n\"sil\"\n0.64\n0.96\n\"j\"\n0.96\n1.2\n\"eI\"\n1.2\n1.41\n\"t\"\n1.41\n1.5699999\n\"sil\"\n1.5699999\n1.57\n\"\"\n1.57\n1.69\n\"r\"\n1.69\n1.77\n\"i\"\n1.77\n1.91\n\"w\"\n1.91\n2.11\n\"aI\"\n2.11\n2.2599999\n\"n\"\n2.2599999\n2.5599999\n\"d\"\n2.5599999\n2.56\n\"\"\n2.56\n2.62\n\"r\"\n2.62\n2.73\n\"u\"\n2.73\n2.96\n\"m\"\n2.96\n3.09\n\"sil\"\n3.09\n3.25\n\"d\"\n3.25\n3.34\n\"r\"\n3.34\n3.7\n\"eI\"\n3.7\n4.44\n\"sil\"\n4.44\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-037A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n3\n0.0\n0.64\n\"\"\n0.64\n3.75\n\"CHILD\"\n3.75\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/037A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.486\nTimeInSecsOfFirstFrame=0.48667\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-038A",
+      "duration_s": 5.573,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/038A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/038A.txt",
+          "content": "loom tray stripe roast\n22/12/2011 14:32:07\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-038A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.5728\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.5728\n6\n0.0\n2.16\n\"\"\n2.16\n2.86\n\"LOOM\"\n2.86\n3.4\n\"TRAY\"\n3.4\n4.29\n\"STRIPE\"\n4.29\n4.83\n\"ROAST\"\n4.83\n5.5728\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-038A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.5728\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.5728\n18\n0.0\n2.16\n\"sil\"\n2.16\n2.41\n\"5\"\n2.41\n2.52\n\"u\"\n2.52\n2.86\n\"m\"\n2.86\n3.02\n\"t\"\n3.02\n3.09\n\"r\"\n3.09\n3.4\n\"eI\"\n3.4\n3.57\n\"s\"\n3.57\n3.72\n\"t\"\n3.72\n3.77\n\"r\"\n3.77\n3.97\n\"aI\"\n3.97\n4.29\n\"p\"\n4.29\n4.38\n\"r\"\n4.38\n4.45\n\"@U\"\n4.45\n4.71\n\"s\"\n4.71\n4.83\n\"t\"\n4.83\n5.55\n\"sil\"\n5.55\n5.5728\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-038A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.5728\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.5728\n3\n0.0\n1.92\n\"\"\n1.92\n4.85\n\"CHILD\"\n4.85\n5.5728\n\"\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/038A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.487\nTimeInSecsOfFirstFrame=0.48531\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-039A",
+      "duration_s": 5.016,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/039A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/039A.txt",
+          "content": "rye ref crow poor\n22/12/2011 14:32:17\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-039A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.0155\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.0155\n9\n0.0\n1.37\n\"\"\n1.37\n2.06\n\"RYE\"\n2.06\n2.3\n\"\"\n2.3\n2.8699999\n\"REF\"\n2.8699999\n3.12\n\"\"\n3.12\n3.76\n\"CROW\"\n3.76\n3.85\n\"\"\n3.85\n4.35\n\"POOR\"\n4.35\n5.0155\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-039A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.0155\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.0155\n18\n0.0\n1.37\n\"sil\"\n1.37\n1.58\n\"r\"\n1.58\n2.06\n\"ae\"\n2.06\n2.3\n\"sil\"\n2.3\n2.36\n\"r\"\n2.36\n2.57\n\"E\"\n2.57\n2.8699999\n\"f\"\n2.8699999\n2.87\n\"\"\n2.87\n3.12\n\"sil\"\n3.12\n3.29\n\"k\"\n3.29\n3.41\n\"r\"\n3.41\n3.76\n\"@U\"\n3.76\n3.85\n\"sil\"\n3.85\n3.99\n\"p\"\n3.99\n4.1\n\"U@\"\n4.1\n4.35\n\"r\"\n4.35\n5.0\n\"sil\"\n5.0\n5.0155\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-039A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.0155\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.0155\n3\n0.0\n1.32\n\"\"\n1.32\n4.45\n\"CHILD\"\n4.45\n5.0155\n\"\"\n"
+        },
+        {
+          "file_key": "reference_word_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-039A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0 \nxmax = 5.0155 \ntiers? <exists> \nsize = 1 \nitem []: \n    item [1]:\n        class = \"IntervalTier\" \n        name = \"tier_1\" \n        xmin = 0 \n        xmax = 5.0155 \n        intervals: size = 9 \n        intervals [1]:\n            xmin = 0 \n            xmax = 1.37 \n            text = \"\" \n        intervals [2]:\n            xmin = 1.37 \n            xmax = 2.165713755564201 \n            text = \"RYE\" \n        intervals [3]:\n            xmin = 2.165713755564201 \n            xmax = 2.3 \n            text = \"\" \n        intervals [4]:\n            xmin = 2.3 \n            xmax = 2.8699999 \n            text = \"REF\" \n        intervals [5]:\n            xmin = 2.8699999 \n            xmax = 3.12 \n            text = \"\" \n        intervals [6]:\n            xmin = 3.12 \n            xmax = 3.76 \n            text = \"CROW\" \n        intervals [7]:\n            xmin = 3.76 \n            xmax = 3.85 \n            text = \"\" \n        intervals [8]:\n            xmin = 3.85 \n            xmax = 4.35 \n            text = \"POOR\" \n        intervals [9]:\n            xmin = 4.35 \n            xmax = 5.0155 \n            text = \"\" \n"
+        },
+        {
+          "file_key": "reference_phone_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-039A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n5.0155\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n5.0155\n16\n0.0\n1.37\n\"\"\n1.37\n1.6\n\"r\"\n1.6\n2.15\n\"ae\"\n2.15\n2.3\n\"\"\n2.3\n2.38\n\"r\"\n2.38\n2.6399999\n\"E\"\n2.6399999\n2.8499999\n\"f\"\n2.8499999\n3.12\n\"\"\n3.12\n3.31\n\"k\"\n3.31\n3.38\n\"r\"\n3.38\n3.74\n\"@U\"\n3.74\n3.85\n\"\"\n3.85\n3.99\n\"p\"\n3.99\n4.13\n\"U@\"\n4.13\n4.33\n\"r\"\n4.33\n5.0155\n\"\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/039A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.487\nTimeInSecsOfFirstFrame=0.48454\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-040A",
+      "duration_s": 3.901,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/040A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/040A.txt",
+          "content": "lie reek hair strewn\n22/12/2011 14:32:25\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-040A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.901\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.901\n8\n0.0\n0.97\n\"\"\n0.97\n1.7\n\"LIE\"\n1.7\n1.73\n\"\"\n1.73\n2.36\n\"REEK\"\n2.36\n2.42\n\"\"\n2.42\n2.86\n\"HAIR\"\n2.86\n3.6\n\"STREWN\"\n3.6\n3.901\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-040A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.901\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.901\n20\n0.0\n0.97\n\"sil\"\n0.97\n1.2\n\"5\"\n1.2\n1.7\n\"ae\"\n1.7\n1.73\n\"sil\"\n1.73\n1.94\n\"r\"\n1.94\n2.12\n\"i\"\n2.12\n2.36\n\"k\"\n2.36\n2.42\n\"sil\"\n2.42\n2.55\n\"h\"\n2.55\n2.8099999\n\"E@\"\n2.8099999\n2.81\n\"\"\n2.81\n2.86\n\"r\"\n2.86\n3.09\n\"s\"\n3.09\n3.1999999\n\"t\"\n3.1999999\n3.2\n\"\"\n3.2\n3.37\n\"r\"\n3.37\n3.44\n\"u\"\n3.44\n3.6\n\"n\"\n3.6\n3.88\n\"sil\"\n3.88\n3.901\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-040A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.901\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.901\n3\n0.0\n0.97\n\"\"\n0.97\n3.7\n\"CHILD\"\n3.7\n3.901\n\"\"\n"
+        },
+        {
+          "file_key": "reference_word_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-040A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0 \nxmax = 3.901 \ntiers? <exists> \nsize = 1 \nitem []: \n    item [1]:\n        class = \"IntervalTier\" \n        name = \"tier_1\" \n        xmin = 0 \n        xmax = 3.901 \n        intervals: size = 8 \n        intervals [1]:\n            xmin = 0 \n            xmax = 0.97 \n            text = \"\" \n        intervals [2]:\n            xmin = 0.97 \n            xmax = 1.7 \n            text = \"LIE\" \n        intervals [3]:\n            xmin = 1.7 \n            xmax = 1.73 \n            text = \"\" \n        intervals [4]:\n            xmin = 1.73 \n            xmax = 2.36 \n            text = \"REEK\" \n        intervals [5]:\n            xmin = 2.36 \n            xmax = 2.42 \n            text = \"\" \n        intervals [6]:\n            xmin = 2.42 \n            xmax = 2.86 \n            text = \"HAIR\" \n        intervals [7]:\n            xmin = 2.86 \n            xmax = 3.6 \n            text = \"STREWN\" \n        intervals [8]:\n            xmin = 3.6 \n            xmax = 3.901 \n            text = \"\" \n"
+        },
+        {
+          "file_key": "reference_phone_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-040A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n3.901\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n3.901\n18\n0.0\n0.97\n\"\"\n0.97\n1.21\n\"5\"\n1.21\n1.68\n\"ae\"\n1.68\n1.73\n\"\"\n1.73\n1.93\n\"r\"\n1.93\n2.15\n\"i\"\n2.15\n2.34\n\"k\"\n2.34\n2.42\n\"\"\n2.42\n2.56\n\"h\"\n2.56\n2.81\n\"E@\"\n2.81\n2.84\n\"r\"\n2.84\n2.86\n\"\"\n2.86\n3.05\n\"s\"\n3.05\n3.1999999\n\"t\"\n3.1999999\n3.2599999\n\"r\"\n3.2599999\n3.4\n\"u\"\n3.4\n3.58\n\"n\"\n3.58\n3.901\n\"\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/040A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.486\nTimeInSecsOfFirstFrame=0.48395\n"
+        }
+      ]
+    },
+    {
+      "utt": "02M-BL1-041A",
+      "duration_s": 4.458,
+      "audio_wav": "ultrasuite/uxssd_core/02M/BL1/041A.wav",
+      "text_files": [
+        {
+          "file_key": "transcript_txt",
+          "path": "ultrasuite/uxssd_core/02M/BL1/041A.txt",
+          "content": "rate worry sprite rot\n22/12/2011 14:32:33\n02M-BL1, "
+        },
+        {
+          "file_key": "word_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-041A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n7\n0.0\n1.46\n\"\"\n1.46\n2.0299999\n\"RATE\"\n2.0299999\n2.69\n\"WORRY\"\n2.69\n3.38\n\"SPRITE\"\n3.38\n3.47\n\"\"\n3.47\n4.19\n\"ROT\"\n4.19\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "phone_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-041A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n22\n0.0\n1.46\n\"sil\"\n1.46\n1.67\n\"r\"\n1.67\n1.92\n\"eI\"\n1.92\n2.0299999\n\"t\"\n2.0299999\n2.3099999\n\"w\"\n2.3099999\n2.31\n\"\"\n2.31\n2.42\n\"V\"\n2.42\n2.5099999\n\"r\"\n2.5099999\n2.69\n\"i\"\n2.69\n2.91\n\"s\"\n2.91\n3.0\n\"p\"\n3.0\n3.05\n\"r\"\n3.05\n3.2399999\n\"aI\"\n3.2399999\n3.24\n\"\"\n3.24\n3.38\n\"t\"\n3.38\n3.47\n\"sil\"\n3.47\n3.7\n\"r\"\n3.7\n3.92\n\"O\"\n3.92\n4.1899999\n\"t\"\n4.1899999\n4.19\n\"\"\n4.19\n4.44\n\"sil\"\n4.44\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "speaker_labels_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-041A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n5\n0.0\n0.64\n\"\"\n0.64\n0.77\n\"CHILD\"\n0.77\n1.42\n\"\"\n1.42\n4.19\n\"CHILD\"\n4.19\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "reference_word_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-041A.TextGrid",
+          "content": "File type = \"ooTextFile\"\nObject class = \"TextGrid\"\n\nxmin = 0 \nxmax = 4.4582 \ntiers? <exists> \nsize = 1 \nitem []: \n    item [1]:\n        class = \"IntervalTier\" \n        name = \"tier_1\" \n        xmin = 0 \n        xmax = 4.4582 \n        intervals: size = 7 \n        intervals [1]:\n            xmin = 0 \n            xmax = 1.46 \n            text = \"\" \n        intervals [2]:\n            xmin = 1.46 \n            xmax = 2.0477254611501157 \n            text = \"RATE\" \n        intervals [3]:\n            xmin = 2.0477254611501157 \n            xmax = 2.69 \n            text = \"WORRY\" \n        intervals [4]:\n            xmin = 2.69 \n            xmax = 3.38 \n            text = \"SPRITE\" \n        intervals [5]:\n            xmin = 3.38 \n            xmax = 3.47 \n            text = \"\" \n        intervals [6]:\n            xmin = 3.47 \n            xmax = 4.19 \n            text = \"ROT\" \n        intervals [7]:\n            xmin = 4.19 \n            xmax = 4.4582 \n            text = \"\" \n"
+        },
+        {
+          "file_key": "reference_phone_textgrid",
+          "path": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-041A.TextGrid",
+          "content": "File type = \"ooTextFile short\"\nObject class = \"TextGrid\"\n\n0.0\n4.4582\n<exists>\n1\n\"IntervalTier\"\n\"tier_1\"\n0.0\n4.4582\n20\n0.0\n1.46\n\"\"\n1.46\n1.67\n\"r\"\n1.67\n1.87\n\"eI\"\n1.87\n2.0299999\n\"t\"\n2.0299999\n2.0477254\n\"\"\n2.0477254\n2.2977254\n\"w\"\n2.2977254\n2.3377254\n\"V\"\n2.3377254\n2.3677254\n\"r\"\n2.3677254\n2.6677253\n\"i\"\n2.6677253\n2.69\n\"\"\n2.69\n2.89\n\"s\"\n2.89\n2.99\n\"p\"\n2.9899999\n3.05\n\"r\"\n3.05\n3.23\n\"aI\"\n3.23\n3.36\n\"t\"\n3.36\n3.47\n\"\"\n3.47\n3.7\n\"r\"\n3.7\n3.91\n\"O\"\n3.91\n4.17\n\"t\"\n4.17\n4.4582\n\"\"\n"
+        },
+        {
+          "file_key": "param_file",
+          "path": "ultrasuite/uxssd_core/02M/BL1/041A.param",
+          "content": "NumVectors=63\nPixPerVector=412\nZeroOffset=50\nBitsPerPixel=8\nAngle=0.038\nKind=0\nPixelsPerMm=10.000\nFramesPerSec=121.487\nTimeInSecsOfFirstFrame=0.48512\n"
+        }
+      ]
+    }
+  ]
+}

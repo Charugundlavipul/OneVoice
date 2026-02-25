@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "record_id": "06M_Post_w005_012",
+  "annotator": {
+    "annotator_id": "auto_prefill_from_sources",
+    "annotation_status": "in_progress",
+    "notes": "Auto-prefilled from UXSSD source files on 2026-02-20T19:26:48Z"
+  },
+  "timebase": "utterance_local",
+  "source": {
+    "manifest_path": "experiments/uxssd_low_event_setup/experiment1_agnostic_manifest.jsonl",
+    "created_utc": "2026-02-20T19:26:48Z"
+  },
+  "summary": {
+    "bundle_duration_s": 159.984,
+    "target_min_total_events": 6,
+    "expected_proxy": {
+      "mispronunciation_events": 7,
+      "behavioral_events": 8,
+      "note": "small-scale bundle selection (5-10 behavioral, 5-10 mispronunciation)"
+    },
+    "auto_prefill_event_counts": {
+      "mispronunciations": 7,
+      "behavioral_events": 8,
+      "total_events": 15
+    }
+  },
+  "utterances": [
+    {
+      "utt": "06M-Post-005A",
+      "speaker_id": "06M_CHILD",
+      "duration_s": 14.489,
+      "audio_wav": "ultrasuite/uxssd_core/06M/Post/005A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/06M/Post/005A.txt",
+      "mispronunciations": [
+        {
+          "type": "mispronunciation",
+          "target_phone": "r",
+          "word_index": 1,
+          "start": "00:00:03:913",
+          "end": "00:00:05:043",
+          "notes": "auto_prefill source=reference_word_textgrid; word=UMBRELLA; phone_class=rhotics; median_primary_score=1.0"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:08:220",
+          "end": "00:00:08:490",
+          "notes": "auto_prefill source=speaker_labels_textgrid label=SLT"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:08:210",
+          "end": "00:00:08:230",
+          "notes": "auto_prefill source=speaker_labels_textgrid transition=CHILD->SLT"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:12:870",
+          "end": "00:00:12:890",
+          "notes": "auto_prefill source=speaker_labels_textgrid transition=SLT->CHILD"
+        }
+      ],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    },
+    {
+      "utt": "06M-Post-006A",
+      "speaker_id": "06M_CHILD",
+      "duration_s": 12.678,
+      "audio_wav": "ultrasuite/uxssd_core/06M/Post/006A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/06M/Post/006A.txt",
+      "mispronunciations": [
+        {
+          "type": "mispronunciation",
+          "target_phone": "r",
+          "word_index": 1,
+          "start": "00:00:04:477",
+          "end": "00:00:05:622",
+          "notes": "auto_prefill source=reference_word_textgrid; word=UMBRELLA; phone_class=rhotics; median_primary_score=1.0"
+        }
+      ],
+      "behavioral_events": [],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    },
+    {
+      "utt": "06M-Post-007A",
+      "speaker_id": "06M_CHILD",
+      "duration_s": 39.845,
+      "audio_wav": "ultrasuite/uxssd_core/06M/Post/007A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/06M/Post/007A.txt",
+      "mispronunciations": [
+        {
+          "type": "mispronunciation",
+          "target_phone": "r",
+          "word_index": 1,
+          "start": "00:00:35:168",
+          "end": "00:00:36:131",
+          "notes": "auto_prefill source=reference_word_textgrid; word=GIRAFFE; phone_class=rhotics; median_primary_score=2.0"
+        },
+        {
+          "type": "mispronunciation",
+          "target_phone": "r",
+          "word_index": 1,
+          "start": "00:00:03:970",
+          "end": "00:00:05:157",
+          "notes": "auto_prefill source=reference_word_textgrid; word=BREAD; phone_class=rhotics; median_primary_score=1.0"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:24:910",
+          "end": "00:00:25:290",
+          "notes": "auto_prefill source=speaker_labels_textgrid label=SLT"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:24:900",
+          "end": "00:00:24:920",
+          "notes": "auto_prefill source=speaker_labels_textgrid transition=CHILD->SLT"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:25:280",
+          "end": "00:00:25:300",
+          "notes": "auto_prefill source=speaker_labels_textgrid transition=SLT->CHILD"
+        }
+      ],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    },
+    {
+      "utt": "06M-Post-008A",
+      "speaker_id": "06M_CHILD",
+      "duration_s": 1.811,
+      "audio_wav": "ultrasuite/uxssd_core/06M/Post/008A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/06M/Post/008A.txt",
+      "mispronunciations": [],
+      "behavioral_events": [],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    },
+    {
+      "utt": "06M-Post-009A",
+      "speaker_id": "06M_CHILD",
+      "duration_s": 28.979,
+      "audio_wav": "ultrasuite/uxssd_core/06M/Post/009A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/06M/Post/009A.txt",
+      "mispronunciations": [
+        {
+          "type": "mispronunciation",
+          "target_phone": "r",
+          "word_index": 1,
+          "start": "00:00:19:170",
+          "end": "00:00:20:750",
+          "notes": "auto_prefill source=reference_word_textgrid; word=ORANGE; phone_class=rhotics; median_primary_score=1.0"
+        }
+      ],
+      "behavioral_events": [],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    },
+    {
+      "utt": "06M-Post-010A",
+      "speaker_id": "06M_CHILD",
+      "duration_s": 31.393,
+      "audio_wav": "ultrasuite/uxssd_core/06M/Post/010A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/06M/Post/010A.txt",
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:01:270",
+          "end": "00:00:01:490",
+          "notes": "auto_prefill source=speaker_labels_textgrid label=SLT"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:02:220",
+          "end": "00:00:02:240",
+          "notes": "auto_prefill source=speaker_labels_textgrid transition=SLT->CHILD"
+        }
+      ],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    },
+    {
+      "utt": "06M-Post-011A",
+      "speaker_id": "06M_CHILD",
+      "duration_s": 16.3,
+      "audio_wav": "ultrasuite/uxssd_core/06M/Post/011A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/06M/Post/011A.txt",
+      "mispronunciations": [],
+      "behavioral_events": [],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    },
+    {
+      "utt": "06M-Post-012A",
+      "speaker_id": "06M_CHILD",
+      "duration_s": 14.489,
+      "audio_wav": "ultrasuite/uxssd_core/06M/Post/012A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/06M/Post/012A.txt",
+      "mispronunciations": [
+        {
+          "type": "mispronunciation",
+          "target_phone": "r",
+          "word_index": 1,
+          "start": "00:00:12:449",
+          "end": "00:00:13:693",
+          "notes": "auto_prefill source=reference_word_textgrid; word=FROG; phone_class=rhotics; median_primary_score=1.0"
+        },
+        {
+          "type": "mispronunciation",
+          "target_phone": "r",
+          "word_index": 1,
+          "start": "00:00:09:755",
+          "end": "00:00:10:667",
+          "notes": "auto_prefill source=reference_word_textgrid; word=THREE; phone_class=rhotics; median_primary_score=1.0"
+        }
+      ],
+      "behavioral_events": [],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    }
+  ],
+  "qa": {
+    "all_events_have_type": true,
+    "all_events_have_valid_time_range": true,
+    "all_events_within_utterance": true,
+    "mispronunciations_have_target_or_observed_phone": true,
+    "no_duplicate_events": true
+  }
+}

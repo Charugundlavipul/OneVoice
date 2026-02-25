@@ -1,0 +1,111 @@
+{
+  "session_id": "demo_session_001",
+  "session_date": "2026-02-10",
+  "audio_file_path": "input/audio/demo_session_001.wav",
+  "audio_format": "wav",
+  "speakers": [
+    {
+      "speaker_id": "SPK_001",
+      "gender": "female",
+      "language": "en",
+      "native_language": "en",
+      "accent": "us",
+      "name": "Speaker 1",
+      "age_group": "child",
+      "age": 10
+    }
+  ],
+  "turns": [
+    {
+      "turn_index": 0,
+      "utt_id": "demo_session_001_utt_0000",
+      "speaker_id": "SPK_001",
+      "start": "00:00:00:000",
+      "end": "00:00:03:200",
+      "word_alignments": [
+        {
+          "word_index": 0,
+          "word": "hello",
+          "start": "00:00:00:100",
+          "end": "00:00:01:400",
+          "phonemes": [
+            {
+              "phone": "HH",
+              "start": "00:00:00:100",
+              "end": "00:00:00:400",
+              "phone_index": 0
+            },
+            {
+              "phone": "AH",
+              "start": "00:00:00:400",
+              "end": "00:00:00:700",
+              "phone_index": 1
+            },
+            {
+              "phone": "L",
+              "start": "00:00:00:700",
+              "end": "00:00:01:000",
+              "phone_index": 2
+            },
+            {
+              "phone": "OW",
+              "start": "00:00:01:000",
+              "end": "00:00:01:400",
+              "phone_index": 3
+            }
+          ]
+        },
+        {
+          "word_index": 1,
+          "word": "world",
+          "start": "00:00:01:500",
+          "end": "00:00:03:000",
+          "phonemes": [
+            {
+              "phone": "W",
+              "start": "00:00:01:500",
+              "end": "00:00:01:900",
+              "phone_index": 0
+            },
+            {
+              "phone": "ER",
+              "start": "00:00:01:900",
+              "end": "00:00:02:300",
+              "phone_index": 1
+            },
+            {
+              "phone": "L",
+              "start": "00:00:02:300",
+              "end": "00:00:02:700",
+              "phone_index": 2
+            },
+            {
+              "phone": "D",
+              "start": "00:00:02:700",
+              "end": "00:00:03:000",
+              "phone_index": 3
+            }
+          ]
+        }
+      ],
+      "mispronunciations": [],
+      "behavioral_events": [],
+      "raw_transcript": "hello world",
+      "orthographic_transcript": "hello world",
+      "reference_transcript": "read this prompt",
+      "phonetic_transcript": "HH AH L OW W ER L D"
+    }
+  ],
+  "metadata": {
+    "dataset_name": "demo_dataset",
+    "dataset_split": "train",
+    "text_annotation_source": "human",
+    "text_annotation_details": "",
+    "text_coverage": "full",
+    "phoneme_annotation_source": "machine_with_partial_human_review",
+    "phoneme_annotation_details": "",
+    "phoneme_coverage": "full"
+  },
+  "sample_rate": 16000,
+  "session_duration": "00:00:03:200"
+}

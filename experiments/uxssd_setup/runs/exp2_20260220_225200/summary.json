@@ -1,0 +1,9 @@
+[
+  {
+    "record_id": "04M_Post_w044_063",
+    "status": "exception: Failed to parse model JSON after 2 repair attempts: Unterminated string starting at: line 3 column 26 (char 82). Raw snippet: {   \"record_id\": \"04M_Post_w044_063\",   \"task\": \"Detect and add behavioral_events. Preserve mispronunciations.\",   \"onevoice_json\": {     \"session_id\": \"04M_Post_w044_063\",     \"session_date\": \"2018-11-06\",     \"sample_rate\": 22050,     \"audio_file_path\": \"\",     \"audio_format\": \"wav\",     \"session_duration\": \"00:02:35:759\",     \"speakers\": [       {         \"speaker_id\": \"04M_CHILD\",         \"gen | Hint: try increasing --max-output-tokens (e.g., 16000).",
+    "ok": false,
+    "bundle_duration_s": 155.75800000000004,
+    "utterance_count": 20
+  }
+]

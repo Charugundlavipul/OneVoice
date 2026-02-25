@@ -1,0 +1,103 @@
+{
+  "record_id": "05M_Mid_round2_w006_016",
+  "utterances": [
+    {
+      "utt": "05M-Mid_round2-006A",
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "utt": "05M-Mid_round2-007A",
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:00:17:150",
+          "end": "00:00:17:200",
+          "notes": "child -> SLT"
+        },
+        {
+          "type": "slt_intervention",
+          "start": "00:00:17:150",
+          "end": "00:00:17:910",
+          "notes": "SLT speaks (intervention)"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:17:910",
+          "end": "00:00:17:960",
+          "notes": "SLT -> child"
+        }
+      ]
+    },
+    {
+      "utt": "05M-Mid_round2-008A",
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:00:000",
+          "end": "00:00:00:300",
+          "notes": "SLT speaks (intervention)"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:00:300",
+          "end": "00:00:00:350",
+          "notes": "SLT -> child"
+        }
+      ]
+    },
+    {
+      "utt": "05M-Mid_round2-009A",
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "utt": "05M-Mid_round2-010A",
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "utt": "05M-Mid_round2-011A",
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "utt": "05M-Mid_round2-012A",
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "E",
+          "observed_phone": "i",
+          "word_index": 8,
+          "phone_index": 2,
+          "start": "00:00:13:870",
+          "end": "00:00:13:990",
+          "notes": "ZEBRA: canonical mid-front vowel /E/ realized as high front /i/ (vowel substitution)"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "utt": "05M-Mid_round2-013A",
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "utt": "05M-Mid_round2-014A",
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "utt": "05M-Mid_round2-015E",
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "utt": "05M-Mid_round2-016A",
+      "mispronunciations": [],
+      "behavioral_events": []
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+Validating experiments\uxssd_low_event_setup\runs\exp2_20260222_052857\08M_Maint_w002_026\agentA_validation\candidate.json...
+Validation FAILED with the following errors:
+ - metadata: Unknown key 'annotator' found. Not allowed in OneVoice schema.
+ - metadata: Unknown key 'audio_checked' found. Not allowed in OneVoice schema.
+ - metadata: Unknown key 'annotation_date' found. Not allowed in OneVoice schema.

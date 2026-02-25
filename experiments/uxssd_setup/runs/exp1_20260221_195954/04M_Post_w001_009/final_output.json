@@ -1,0 +1,101 @@
+{
+  "record_id": "04M_Post_w001_009",
+  "utterances": [
+    {
+      "utt": "04M-Post-001E",
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-002A",
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:00:09:650",
+          "end": "00:00:09:700",
+          "notes": "speaker change to SLT"
+        },
+        {
+          "type": "slt_intervention",
+          "start": "00:00:09:650",
+          "end": "00:00:10:820",
+          "notes": "SLT speaks / prompt"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:10:820",
+          "end": "00:00:10:870",
+          "notes": "SLT -> other (turn end)"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-003A",
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-004A",
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:01:401",
+          "end": "00:00:02:044",
+          "notes": "SLT prompt before CHILD word"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:02:044",
+          "end": "00:00:02:094",
+          "notes": "SLT -> CHILD (child turn start)"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-005A",
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-006A",
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:00:11:060",
+          "end": "00:00:11:110",
+          "notes": "CHILD -> SLT (SLT turn start)"
+        },
+        {
+          "type": "slt_intervention",
+          "start": "00:00:11:060",
+          "end": "00:00:11:220",
+          "notes": "SLT speaks"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:11:220",
+          "end": "00:00:11:270",
+          "notes": "SLT -> other (turn end)"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-007A",
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-008A",
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-009A",
+      "mispronunciations": [],
+      "behavioral_events": []
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "mode": "exp2",
+  "manifest": "experiments/uxssd_setup/experiment2_onevoice_manifest.jsonl",
+  "output_root": "experiments/uxssd_setup/runs",
+  "model": "gpt-5-mini",
+  "temperature": 0.0,
+  "max_records": null,
+  "record_ids": [
+    "08M_Maint_w002_026"
+  ],
+  "max_file_chars": 3200,
+  "max_files_per_utt": 8,
+  "max_utterances_per_record": null,
+  "max_repair_rounds": 3,
+  "validator_path": "validate_onevoice.py",
+  "dry_run": false,
+  "run_started_utc": "2026-02-21T00:06:00Z",
+  "record_count": 1
+}

@@ -1,0 +1,170 @@
+{
+  "record_id": "04M_Post_w001_009",
+  "utterances": [
+    {
+      "utt": "04M-Post-001E",
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:00:00:930",
+          "end": "00:00:00:980",
+          "notes": "silence -> CHILD (child turn start)"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:01:900",
+          "end": "00:00:01:950",
+          "notes": "CHILD -> silence (child turn end)"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-002A",
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:00:09:650",
+          "end": "00:00:09:700",
+          "notes": "speaker change to SLT"
+        },
+        {
+          "type": "slt_intervention",
+          "start": "00:00:09:650",
+          "end": "00:00:10:820",
+          "notes": "SLT speaks / prompt"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:10:820",
+          "end": "00:00:10:870",
+          "notes": "SLT -> other (turn end)"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-003A",
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:00:00:340",
+          "end": "00:00:00:390",
+          "notes": "silence -> CHILD (child turn start)"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:03:540",
+          "end": "00:00:03:590",
+          "notes": "silence -> CHILD (child turn resumption)"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-004A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:01:401",
+          "end": "00:00:02:044",
+          "notes": "SLT prompt before CHILD word"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:02:044",
+          "end": "00:00:02:094",
+          "notes": "SLT -> CHILD (child turn start)"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-005A",
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:00:01:760",
+          "end": "00:00:01:810",
+          "notes": "silence -> CHILD (child turn start)"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:05:010",
+          "end": "00:00:05:060",
+          "notes": "silence -> CHILD (child turn start)"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-006A",
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:00:11:060",
+          "end": "00:00:11:110",
+          "notes": "CHILD -> SLT (SLT turn start)"
+        },
+        {
+          "type": "slt_intervention",
+          "start": "00:00:11:060",
+          "end": "00:00:11:220",
+          "notes": "SLT speaks"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:11:220",
+          "end": "00:00:11:270",
+          "notes": "SLT -> other (turn end)"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-007A",
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:00:02:410",
+          "end": "00:00:02:460",
+          "notes": "silence -> CHILD (child turn start)"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:03:820",
+          "end": "00:00:03:870",
+          "notes": "silence -> CHILD (child turn start)"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-008A",
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:00:00:560",
+          "end": "00:00:00:610",
+          "notes": "silence -> CHILD (child turn start)"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:03:730",
+          "end": "00:00:03:780",
+          "notes": "silence -> CHILD (child turn start)"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-009A",
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:00:01:440",
+          "end": "00:00:01:490",
+          "notes": "silence -> CHILD (child turn start)"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:04:110",
+          "end": "00:00:04:160",
+          "notes": "silence -> CHILD (child turn start)"
+        }
+      ]
+    }
+  ]
+}

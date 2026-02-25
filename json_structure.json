@@ -1,0 +1,79 @@
+{
+  "session_id": "string",
+  "session_date": "string (YYYY-MM-DD)",
+  "sample_rate": "number",
+  "audio_file_path": "string",
+  "audio_format": "string",
+  "session_duration": "string (HH:MM:SS:mmm)",
+  "speakers": [
+    {
+      "speaker_id": "string",
+      "gender": "male|female|other",
+      "language": "string",
+      "native_language": "string",
+      "accent": "string",
+      "age": "number",
+      "name": "string",
+      "age_group": "adult|child"
+    }
+  ],
+  "turns": [
+    {
+      "turn_index": "number",
+      "utt_id": "string",
+      "speaker_id": "string",
+      "reference_transcript": "string",
+      "phoneme_reference": "string",
+      "orthographic_transcript": "string",
+      "phonetic_transcript": "string",
+      "ipa_transcript": "string",
+      "raw_transcript": "string",
+      "start": "string (HH:MM:SS:mmm)",
+      "end": "string (HH:MM:SS:mmm)",
+      "word_alignments": [
+        {
+          "word_index": "number",
+          "word": "string",
+          "start": "string (HH:MM:SS:mmm)",
+          "end": "string (HH:MM:SS:mmm)",
+          "phonemes": [
+            {
+              "phone": "string",
+              "start": "string (HH:MM:SS:mmm)",
+              "end": "string (HH:MM:SS:mmm)",
+              "phone_index": "number"
+            }
+          ]
+        }
+      ],
+      "mispronunciations": [
+        {
+          "word_index": "number",
+          "phone_index": "number",
+          "target_phone": "string",
+          "observed_phone": "string",
+          "type": "string",
+          "start": "string (HH:MM:SS:mmm)",
+          "end": "string (HH:MM:SS:mmm)"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "string",
+          "start": "string (HH:MM:SS:mmm)",
+          "end": "string (HH:MM:SS:mmm)"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "dataset_name": "string",
+    "dataset_split": "string",
+    "text_annotation_source": "none|human|machine|machine_with_partial_human_review|machine_with_full_human_review",
+    "text_annotation_details": "string",
+    "text_coverage": "none|partial|full",
+    "phoneme_annotation_source": "none|human|machine|machine_with_partial_human_review|machine_with_full_human_review",
+    "phoneme_annotation_details": "string",
+    "phoneme_coverage": "none|partial|full"
+  }
+}

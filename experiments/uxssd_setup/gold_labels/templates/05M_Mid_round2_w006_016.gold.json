@@ -1,0 +1,265 @@
+{
+  "schema_version": "1.0",
+  "record_id": "05M_Mid_round2_w006_016",
+  "annotator": {
+    "annotator_id": "auto_prefill_from_sources",
+    "annotation_status": "in_progress",
+    "notes": "Auto-prefilled from UXSSD source files on 2026-02-20T19:26:48Z"
+  },
+  "timebase": "utterance_local",
+  "source": {
+    "manifest_path": "experiments/uxssd_low_event_setup/experiment1_agnostic_manifest.jsonl",
+    "created_utc": "2026-02-20T19:26:48Z"
+  },
+  "summary": {
+    "bundle_duration_s": 149.722,
+    "target_min_total_events": 6,
+    "expected_proxy": {
+      "mispronunciation_events": 6,
+      "behavioral_events": 5,
+      "note": "small-scale bundle selection (5-10 behavioral, 5-10 mispronunciation)"
+    },
+    "auto_prefill_event_counts": {
+      "mispronunciations": 6,
+      "behavioral_events": 5,
+      "total_events": 11
+    }
+  },
+  "utterances": [
+    {
+      "utt": "05M-Mid_round2-006A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 16.904,
+      "audio_wav": "ultrasuite/uxssd_core/05M/Mid_round2/006A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/05M/Mid_round2/006A.txt",
+      "mispronunciations": [],
+      "behavioral_events": [],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    },
+    {
+      "utt": "05M-Mid_round2-007A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 21.13,
+      "audio_wav": "ultrasuite/uxssd_core/05M/Mid_round2/007A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/05M/Mid_round2/007A.txt",
+      "mispronunciations": [
+        {
+          "type": "mispronunciation",
+          "target_phone": "g",
+          "word_index": 1,
+          "start": "00:00:02:992",
+          "end": "00:00:04:040",
+          "notes": "auto_prefill source=reference_word_textgrid; word=GLOVES; phone_class=velars; median_primary_score=1.0"
+        },
+        {
+          "type": "mispronunciation",
+          "target_phone": "r",
+          "word_index": 1,
+          "start": "00:00:10:380",
+          "end": "00:00:11:220",
+          "notes": "auto_prefill source=reference_word_textgrid; word=THREE; phone_class=rhotics; median_primary_score=2.0"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:16:620",
+          "end": "00:00:17:150",
+          "notes": "auto_prefill source=speaker_labels_textgrid label=SLT"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:16:610",
+          "end": "00:00:16:630",
+          "notes": "auto_prefill source=speaker_labels_textgrid transition=CHILD->SLT"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:17:900",
+          "end": "00:00:17:920",
+          "notes": "auto_prefill source=speaker_labels_textgrid transition=SLT->CHILD"
+        }
+      ],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    },
+    {
+      "utt": "05M-Mid_round2-008A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 15.697,
+      "audio_wav": "ultrasuite/uxssd_core/05M/Mid_round2/008A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/05M/Mid_round2/008A.txt",
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:00:000",
+          "end": "00:00:00:300",
+          "notes": "auto_prefill source=speaker_labels_textgrid label=SLT"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:00:290",
+          "end": "00:00:00:310",
+          "notes": "auto_prefill source=speaker_labels_textgrid transition=SLT->CHILD"
+        }
+      ],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    },
+    {
+      "utt": "05M-Mid_round2-009A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 14.489,
+      "audio_wav": "ultrasuite/uxssd_core/05M/Mid_round2/009A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/05M/Mid_round2/009A.txt",
+      "mispronunciations": [
+        {
+          "type": "mispronunciation",
+          "target_phone": "r",
+          "word_index": 1,
+          "start": "00:00:10:070",
+          "end": "00:00:10:800",
+          "notes": "auto_prefill source=reference_word_textgrid; word=PRAM; phone_class=rhotics; median_primary_score=1.0"
+        }
+      ],
+      "behavioral_events": [],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    },
+    {
+      "utt": "05M-Mid_round2-010A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 13.886,
+      "audio_wav": "ultrasuite/uxssd_core/05M/Mid_round2/010A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/05M/Mid_round2/010A.txt",
+      "mispronunciations": [
+        {
+          "type": "mispronunciation",
+          "target_phone": "r",
+          "word_index": 1,
+          "start": "00:00:10:010",
+          "end": "00:00:11:369",
+          "notes": "auto_prefill source=reference_word_textgrid; word=TOOTHBRUSH; phone_class=rhotics; median_primary_score=1.0"
+        }
+      ],
+      "behavioral_events": [],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    },
+    {
+      "utt": "05M-Mid_round2-011A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 15.093,
+      "audio_wav": "ultrasuite/uxssd_core/05M/Mid_round2/011A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/05M/Mid_round2/011A.txt",
+      "mispronunciations": [],
+      "behavioral_events": [],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    },
+    {
+      "utt": "05M-Mid_round2-012A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 15.697,
+      "audio_wav": "ultrasuite/uxssd_core/05M/Mid_round2/012A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/05M/Mid_round2/012A.txt",
+      "mispronunciations": [
+        {
+          "type": "mispronunciation",
+          "target_phone": "r",
+          "word_index": 1,
+          "start": "00:00:13:272",
+          "end": "00:00:14:376",
+          "notes": "auto_prefill source=reference_word_textgrid; word=ZEBRA; phone_class=rhotics; median_primary_score=1.0"
+        }
+      ],
+      "behavioral_events": [],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    },
+    {
+      "utt": "05M-Mid_round2-013A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 12.074,
+      "audio_wav": "ultrasuite/uxssd_core/05M/Mid_round2/013A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/05M/Mid_round2/013A.txt",
+      "mispronunciations": [
+        {
+          "type": "mispronunciation",
+          "target_phone": "r",
+          "word_index": 1,
+          "start": "00:00:10:220",
+          "end": "00:00:11:410",
+          "notes": "auto_prefill source=reference_word_textgrid; word=RABBIT; phone_class=rhotics; median_primary_score=1.0"
+        }
+      ],
+      "behavioral_events": [],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    },
+    {
+      "utt": "05M-Mid_round2-014A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 10.263,
+      "audio_wav": "ultrasuite/uxssd_core/05M/Mid_round2/014A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/05M/Mid_round2/014A.txt",
+      "mispronunciations": [],
+      "behavioral_events": [],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    },
+    {
+      "utt": "05M-Mid_round2-015E",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 3.622,
+      "audio_wav": "ultrasuite/uxssd_core/05M/Mid_round2/015E.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/05M/Mid_round2/015E.txt",
+      "mispronunciations": [],
+      "behavioral_events": [],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    },
+    {
+      "utt": "05M-Mid_round2-016A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 10.867,
+      "audio_wav": "ultrasuite/uxssd_core/05M/Mid_round2/016A.wav",
+      "transcript_txt": "ultrasuite/uxssd_core/05M/Mid_round2/016A.txt",
+      "mispronunciations": [],
+      "behavioral_events": [],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    }
+  ],
+  "qa": {
+    "all_events_have_type": true,
+    "all_events_have_valid_time_range": true,
+    "all_events_within_utterance": true,
+    "mispronunciations_have_target_or_observed_phone": true,
+    "no_duplicate_events": true
+  }
+}

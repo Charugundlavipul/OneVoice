@@ -1,0 +1,150 @@
+{
+  "record_id": "08M_Maint_w002_026",
+  "utterances": [
+    {
+      "utt": "08M-Maint-002A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-003A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-004A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-005A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:00:000",
+          "end": "00:00:01:560",
+          "notes": "SLT speaks before child turn"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:01:540",
+          "end": "00:00:01:560",
+          "notes": "transition from SLT to CHILD at 1.56s"
+        }
+      ]
+    },
+    {
+      "utt": "08M-Maint-006A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-007A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-008A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-009A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-010A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-011A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-012A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-013A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-014A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-015A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-016A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-017A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-018A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-019A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-020A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-021A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-022A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-023A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-024A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "08M-Maint-025A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:01:980",
+          "end": "00:00:02:510",
+          "notes": "SLT prompt/intervention between child turns"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:01:960",
+          "end": "00:00:01:980",
+          "notes": "transition from CHILD to SLT at ~1.98s"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:02:490",
+          "end": "00:00:02:510",
+          "notes": "transition from SLT to CHILD at ~2.51s"
+        }
+      ]
+    },
+    {
+      "utt": "08M-Maint-026A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:04:210",
+          "end": "00:00:04:226",
+          "notes": "brief SLT utterance at end of recording"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:03:920",
+          "end": "00:00:03:940",
+          "notes": "transition from CHILD to non-child (precedes SLT) around 3.94s"
+        }
+      ]
+    }
+  ]
+}

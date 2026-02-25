@@ -1,0 +1,10 @@
+Validating experiments\uxssd_low_event_setup\runs\exp2_20260220_225200\06M_Post_w018_027\agentB_validation\candidate.json...
+Validation FAILED with the following errors:
+ - : Unknown key 'record_id' found. Not allowed in OneVoice schema.
+ - : Unknown key 'onevoice_json' found. Not allowed in OneVoice schema.
+ - : Unknown key 'task' found. Not allowed in OneVoice schema.
+ - Missing mandatory root field: 'session_id'
+ - Missing mandatory root field: 'turns'
+ - Missing mandatory root field: 'speakers'
+ - Missing mandatory root field: 'metadata'
+ - Content Error: Document must have either a populated 'audio_file_path' or at least one turn with a populated 'raw_transcript'.

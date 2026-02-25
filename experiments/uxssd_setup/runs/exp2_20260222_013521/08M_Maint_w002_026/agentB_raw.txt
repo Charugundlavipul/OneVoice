@@ -1,0 +1,2439 @@
+{
+  "record_id": "08M_Maint_w002_026",
+  "task": "Detect and add behavioral_events. Preserve mispronunciations.",
+  "onevoice_json": {
+    "session_id": "08M_Maint_w002_026",
+    "session_date": "2018-11-06",
+    "sample_rate": 22050,
+    "audio_file_path": "",
+    "audio_format": "wav",
+    "session_duration": "00:02:06:784",
+    "metadata": {},
+    "speakers": [
+      {
+        "speaker_id": "08M_CHILD",
+        "gender": "male",
+        "language": "en",
+        "age_group": "child",
+        "age": 7.58
+      }
+    ],
+    "turns": [
+      {
+        "turn_index": 0,
+        "utt_id": "08M-Maint-002A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "watch fishing gloves spider",
+        "orthographic_transcript": "WATCH FISHING GLOVES SPIDER",
+        "phonetic_transcript": "[sil] w O tS [sil] f I S [sil] I N [sil] g 5 V v z [sil] [sil] s p ae d @ r [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "WATCH FISHING GLOVES SPIDER",
+        "start": "00:00:00:000",
+        "end": "00:00:06:037",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:00:000",
+            "end": "00:00:00:880"
+          },
+          {
+            "word_index": 1,
+            "word": "WATCH",
+            "start": "00:00:00:880",
+            "end": "00:00:01:800"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:01:800",
+            "end": "00:00:02:130"
+          },
+          {
+            "word_index": 3,
+            "word": "FISHING",
+            "start": "00:00:02:130",
+            "end": "00:00:02:930"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:02:930",
+            "end": "00:00:03:260"
+          },
+          {
+            "word_index": 5,
+            "word": "GLOVES",
+            "start": "00:00:03:260",
+            "end": "00:00:04:310"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:00:04:310",
+            "end": "00:00:04:570"
+          },
+          {
+            "word_index": 7,
+            "word": "SPIDER",
+            "start": "00:00:04:570",
+            "end": "00:00:05:600"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:00:05:600",
+            "end": "00:00:06:037"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": [
+          {
+            "type": "other_speaker_activity",
+            "start": "00:00:00:200",
+            "end": "00:00:00:880",
+            "notes": "adult attention-getter/brief prompt before child onset"
+          }
+        ]
+      },
+      {
+        "turn_index": 1,
+        "utt_id": "08M-Maint-003A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "thank you scissors helicopter bridge",
+        "orthographic_transcript": "THANK YOU SCISSORS HELICOPTER BRIDGE",
+        "phonetic_transcript": "[sil] T [sil] a N k j u [sil] s I z @ r [sil] z [sil] h E 5 I k O p [sil] t @ r b r I dZ [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "THANK YOU SCISSORS HELICOPTER BRIDGE",
+        "start": "00:00:06:037",
+        "end": "00:00:10:867",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:06:037",
+            "end": "00:00:06:517"
+          },
+          {
+            "word_index": 1,
+            "word": "THANK",
+            "start": "00:00:06:517",
+            "end": "00:00:07:047"
+          },
+          {
+            "word_index": 2,
+            "word": "YOU",
+            "start": "00:00:07:047",
+            "end": "00:00:07:467"
+          },
+          {
+            "word_index": 3,
+            "word": "",
+            "start": "00:00:07:467",
+            "end": "00:00:07:497"
+          },
+          {
+            "word_index": 4,
+            "word": "SCISSORS",
+            "start": "00:00:07:497",
+            "end": "00:00:08:437"
+          },
+          {
+            "word_index": 5,
+            "word": "",
+            "start": "00:00:08:437",
+            "end": "00:00:08:667"
+          },
+          {
+            "word_index": 6,
+            "word": "HELICOPTER",
+            "start": "00:00:08:667",
+            "end": "00:00:09:717"
+          },
+          {
+            "word_index": 7,
+            "word": "BRIDGE",
+            "start": "00:00:09:717",
+            "end": "00:00:10:637"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:00:10:637",
+            "end": "00:00:10:867"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 2,
+        "utt_id": "08M-Maint-004A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "umbrella elephant",
+        "orthographic_transcript": "UMBRELLA ELEPHANT",
+        "phonetic_transcript": "[sil] V m b [sil] r E 5 @ [sil] E 5 I f n= t [sil] [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "UMBRELLA ELEPHANT",
+        "start": "00:00:10:867",
+        "end": "00:00:13:886",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:10:867",
+            "end": "00:00:11:427"
+          },
+          {
+            "word_index": 1,
+            "word": "UMBRELLA",
+            "start": "00:00:11:427",
+            "end": "00:00:12:447"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:12:447",
+            "end": "00:00:12:697"
+          },
+          {
+            "word_index": 3,
+            "word": "ELEPHANT",
+            "start": "00:00:12:697",
+            "end": "00:00:13:717"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:13:717",
+            "end": "00:00:13:886"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 3,
+        "utt_id": "08M-Maint-005A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "elephant umbrella train swing",
+        "orthographic_transcript": "ELEPHANT UMBRELLA TRAIN SWING",
+        "phonetic_transcript": "[sil] E [sil] 5 I f n= t V m b r E 5 @ [sil] t r [sil] eI n [sil] s w I [sil] N [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "ELEPHANT UMBRELLA TRAIN SWING",
+        "start": "00:00:13:886",
+        "end": "00:00:19:923",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:13:886",
+            "end": "00:00:16:186"
+          },
+          {
+            "word_index": 1,
+            "word": "ELEPHANT",
+            "start": "00:00:16:186",
+            "end": "00:00:17:036"
+          },
+          {
+            "word_index": 2,
+            "word": "UMBRELLA",
+            "start": "00:00:17:036",
+            "end": "00:00:17:816"
+          },
+          {
+            "word_index": 3,
+            "word": "",
+            "start": "00:00:17:816",
+            "end": "00:00:18:006"
+          },
+          {
+            "word_index": 4,
+            "word": "TRAIN",
+            "start": "00:00:18:006",
+            "end": "00:00:18:656"
+          },
+          {
+            "word_index": 5,
+            "word": "",
+            "start": "00:00:18:656",
+            "end": "00:00:18:856"
+          },
+          {
+            "word_index": 6,
+            "word": "SWING",
+            "start": "00:00:18:856",
+            "end": "00:00:19:506"
+          },
+          {
+            "word_index": 7,
+            "word": "",
+            "start": "00:00:19:506",
+            "end": "00:00:19:923"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": [
+          {
+            "type": "other_speaker_activity",
+            "start": "00:00:14:000",
+            "end": "00:00:16:000",
+            "notes": "adult instruction/overlap during initial long pause"
+          }
+        ]
+      },
+      {
+        "turn_index": 4,
+        "utt_id": "08M-Maint-006A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "bread duck giraffe five",
+        "orthographic_transcript": "BREAD DUCK GIRAFFE FIVE",
+        "phonetic_transcript": "[sil] b r E d [sil] d V k [sil] dZ I r a f [sil] f ae v [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "BREAD DUCK GIRAFFE FIVE",
+        "start": "00:00:19:923",
+        "end": "00:00:25:357",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:19:923",
+            "end": "00:00:20:563"
+          },
+          {
+            "word_index": 1,
+            "word": "BREAD",
+            "start": "00:00:20:563",
+            "end": "00:00:21:423"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:21:423",
+            "end": "00:00:21:553"
+          },
+          {
+            "word_index": 3,
+            "word": "DUCK",
+            "start": "00:00:21:553",
+            "end": "00:00:22:283"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:22:283",
+            "end": "00:00:22:713"
+          },
+          {
+            "word_index": 5,
+            "word": "GIRAFFE",
+            "start": "00:00:22:713",
+            "end": "00:00:23:573"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:00:23:573",
+            "end": "00:00:23:823"
+          },
+          {
+            "word_index": 7,
+            "word": "FIVE",
+            "start": "00:00:23:823",
+            "end": "00:00:24:613"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:00:24:613",
+            "end": "00:00:25:357"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 5,
+        "utt_id": "08M-Maint-007A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "teeth watch orange school",
+        "orthographic_transcript": "TEETH WATCH ORANGE SCHOOL",
+        "phonetic_transcript": "[sil] t i T [sil] w O tS [sil] O [sil] r I n dZ [sil] s k u 5 [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "TEETH WATCH ORANGE SCHOOL",
+        "start": "00:00:25:357",
+        "end": "00:00:30:791",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:25:357",
+            "end": "00:00:26:747"
+          },
+          {
+            "word_index": 1,
+            "word": "TEETH",
+            "start": "00:00:26:747",
+            "end": "00:00:27:367"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:27:367",
+            "end": "00:00:27:607"
+          },
+          {
+            "word_index": 3,
+            "word": "WATCH",
+            "start": "00:00:27:607",
+            "end": "00:00:28:467"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:28:467",
+            "end": "00:00:28:637"
+          },
+          {
+            "word_index": 5,
+            "word": "ORANGE",
+            "start": "00:00:28:637",
+            "end": "00:00:29:347"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:00:29:347",
+            "end": "00:00:29:457"
+          },
+          {
+            "word_index": 7,
+            "word": "SCHOOL",
+            "start": "00:00:29:457",
+            "end": "00:00:30:187"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:00:30:187",
+            "end": "00:00:30:791"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 6,
+        "utt_id": "08M-Maint-008A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "crab biscuits thank you helicopter",
+        "orthographic_transcript": "CRAB BISCUITS THANK YOU HELICOPTER",
+        "phonetic_transcript": "[sil] k r a b [sil] [sil] b I s k I t s [sil] [sil] T a N k j u [sil] [sil] h E 5 I [sil] k O p t @ [sil] r [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "CRAB BISCUITS THANK YOU HELICOPTER",
+        "start": "00:00:30:791",
+        "end": "00:00:37:432",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:30:791",
+            "end": "00:00:31:461"
+          },
+          {
+            "word_index": 1,
+            "word": "CRAB",
+            "start": "00:00:31:461",
+            "end": "00:00:32:141"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:32:141",
+            "end": "00:00:32:381"
+          },
+          {
+            "word_index": 3,
+            "word": "BISCUITS",
+            "start": "00:00:32:381",
+            "end": "00:00:33:011"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:33:011",
+            "end": "00:00:34:631"
+          },
+          {
+            "word_index": 5,
+            "word": "THANK",
+            "start": "00:00:34:631",
+            "end": "00:00:35:081"
+          },
+          {
+            "word_index": 6,
+            "word": "YOU",
+            "start": "00:00:35:081",
+            "end": "00:00:35:571"
+          },
+          {
+            "word_index": 7,
+            "word": "",
+            "start": "00:00:35:571",
+            "end": "00:00:35:881"
+          },
+          {
+            "word_index": 8,
+            "word": "HELICOPTER",
+            "start": "00:00:35:881",
+            "end": "00:00:37:041"
+          },
+          {
+            "word_index": 9,
+            "word": "",
+            "start": "00:00:37:041",
+            "end": "00:00:37:432"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": [
+          {
+            "type": "slt_intervention",
+            "start": "00:00:33:200",
+            "end": "00:00:34:600",
+            "notes": "brief adult prompt/repetition during long pause between words"
+          }
+        ]
+      },
+      {
+        "turn_index": 7,
+        "utt_id": "08M-Maint-009A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "egg splash square pig",
+        "orthographic_transcript": "EGG SPLASH SQUARE PIG",
+        "phonetic_transcript": "[sil] E g [sil] s p 5 a [sil] S [sil] s k w E@ r [sil] p I [sil] g [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "EGG SPLASH SQUARE PIG",
+        "start": "00:00:37:432",
+        "end": "00:00:43:469",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:37:432",
+            "end": "00:00:38:452"
+          },
+          {
+            "word_index": 1,
+            "word": "EGG",
+            "start": "00:00:38:452",
+            "end": "00:00:39:072"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:39:072",
+            "end": "00:00:39:302"
+          },
+          {
+            "word_index": 3,
+            "word": "SPLASH",
+            "start": "00:00:39:302",
+            "end": "00:00:40:422"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:40:422",
+            "end": "00:00:40:862"
+          },
+          {
+            "word_index": 5,
+            "word": "SQUARE",
+            "start": "00:00:40:862",
+            "end": "00:00:41:572"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:00:41:572",
+            "end": "00:00:41:842"
+          },
+          {
+            "word_index": 7,
+            "word": "PIG",
+            "start": "00:00:41:842",
+            "end": "00:00:42:422"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:00:42:422",
+            "end": "00:00:43:469"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 8,
+        "utt_id": "08M-Maint-010A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "gloves queen three frog",
+        "orthographic_transcript": "GLOVES QUEEN THREE FROG",
+        "phonetic_transcript": "[sil] g 5 V v z [sil] [sil] k w i [sil] n [sil] T [sil] r i [sil] [sil] f r O g [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "GLOVES QUEEN THREE FROG",
+        "start": "00:00:43:469",
+        "end": "00:00:51:317",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:43:469",
+            "end": "00:00:45:319"
+          },
+          {
+            "word_index": 1,
+            "word": "GLOVES",
+            "start": "00:00:45:319",
+            "end": "00:00:46:459"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:46:459",
+            "end": "00:00:47:789"
+          },
+          {
+            "word_index": 3,
+            "word": "QUEEN",
+            "start": "00:00:47:789",
+            "end": "00:00:48:449"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:48:449",
+            "end": "00:00:48:559"
+          },
+          {
+            "word_index": 5,
+            "word": "THREE",
+            "start": "00:00:48:559",
+            "end": "00:00:49:249"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:00:49:249",
+            "end": "00:00:49:549"
+          },
+          {
+            "word_index": 7,
+            "word": "FROG",
+            "start": "00:00:49:549",
+            "end": "00:00:50:309"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:00:50:309",
+            "end": "00:00:51:317"
+          }
+        ],
+        "mispronunciations": [
+          {
+            "type": "substitution",
+            "target_phone": "θ",
+            "observed_phone": "t",
+            "start": "00:00:48:559",
+            "end": "00:00:49:249"
+          }
+        ],
+        "behavioral_events": [
+          {
+            "type": "slt_intervention",
+            "start": "00:00:49:300",
+            "end": "00:00:49:700",
+            "notes": "brief SLT recast/model of 'three' following child production"
+          }
+        ]
+      },
+      {
+        "turn_index": 9,
+        "utt_id": "08M-Maint-011A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "yellow strawberry spider web",
+        "orthographic_transcript": "YELLOW STRAWBERRY SPIDER WEB",
+        "phonetic_transcript": "[sil] j E 5 @U [sil] s t r O b @ [sil] r i s p ae d [sil] @ r w [sil] E b [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "YELLOW STRAWBERRY SPIDER WEB",
+        "start": "00:00:51:317",
+        "end": "00:00:56:147",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:51:317",
+            "end": "00:00:52:087"
+          },
+          {
+            "word_index": 1,
+            "word": "YELLOW",
+            "start": "00:00:52:087",
+            "end": "00:00:52:797"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:52:797",
+            "end": "00:00:52:827"
+          },
+          {
+            "word_index": 3,
+            "word": "STRAWBERRY",
+            "start": "00:00:52:827",
+            "end": "00:00:53:747"
+          },
+          {
+            "word_index": 4,
+            "word": "SPIDER",
+            "start": "00:00:53:747",
+            "end": "00:00:54:347"
+          },
+          {
+            "word_index": 5,
+            "word": "WEB",
+            "start": "00:00:54:347",
+            "end": "00:00:54:867"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:00:54:867",
+            "end": "00:00:56:147"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 10,
+        "utt_id": "08M-Maint-012A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "sheep snake pram feather",
+        "orthographic_transcript": "SHEEP SNAKE PRAM FEATHER",
+        "phonetic_transcript": "[sil] S i p [sil] [sil] s n eI k [sil] p r a m [sil] f E [sil] D @ r [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "SHEEP SNAKE PRAM FEATHER",
+        "start": "00:00:56:147",
+        "end": "00:01:02:184",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:56:147",
+            "end": "00:00:56:967"
+          },
+          {
+            "word_index": 1,
+            "word": "SHEEP",
+            "start": "00:00:56:967",
+            "end": "00:00:57:597"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:57:597",
+            "end": "00:00:57:747"
+          },
+          {
+            "word_index": 3,
+            "word": "SNAKE",
+            "start": "00:00:57:747",
+            "end": "00:00:58:707"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:58:707",
+            "end": "00:00:58:957"
+          },
+          {
+            "word_index": 5,
+            "word": "PRAM",
+            "start": "00:00:58:957",
+            "end": "00:00:59:697"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:00:59:697",
+            "end": "00:01:00:287"
+          },
+          {
+            "word_index": 7,
+            "word": "FEATHER",
+            "start": "00:01:00:287",
+            "end": "00:01:00:887"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:01:00:887",
+            "end": "00:01:02:184"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 11,
+        "utt_id": "08M-Maint-013A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "tomato monkey toothbrush apple",
+        "orthographic_transcript": "TOMATO MONKEY TOOTHBRUSH APPLE",
+        "phonetic_transcript": "[sil] t @ m a t @U m V N k i [sil] t u T b r V S [sil] a p @ 5 [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "TOMATO MONKEY TOOTHBRUSH APPLE",
+        "start": "00:01:02:184",
+        "end": "00:01:08:221",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:02:184",
+            "end": "00:01:03:824"
+          },
+          {
+            "word_index": 1,
+            "word": "TOMATO",
+            "start": "00:01:03:824",
+            "end": "00:01:04:524"
+          },
+          {
+            "word_index": 2,
+            "word": "MONKEY",
+            "start": "00:01:04:524",
+            "end": "00:01:05:304"
+          },
+          {
+            "word_index": 3,
+            "word": "TOOTHBRUSH",
+            "start": "00:01:05:304",
+            "end": "00:01:06:414"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:01:06:414",
+            "end": "00:01:06:684"
+          },
+          {
+            "word_index": 5,
+            "word": "APPLE",
+            "start": "00:01:06:684",
+            "end": "00:01:07:384"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:01:07:384",
+            "end": "00:01:08:221"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": [
+          {
+            "type": "other_speaker_activity",
+            "start": "00:01:02:300",
+            "end": "00:01:03:700",
+            "notes": "adult instruction/overlap during initial pause"
+          }
+        ]
+      },
+      {
+        "turn_index": 12,
+        "utt_id": "08M-Maint-014A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "knife van ear this",
+        "orthographic_transcript": "KNIFE VAN EAR THIS",
+        "phonetic_transcript": "[sil] n [sil] aI f [sil] [sil] v a n [sil] I@ r [sil] D I [sil] s [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "KNIFE VAN EAR THIS",
+        "start": "00:01:08:221",
+        "end": "00:01:13:051",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:08:221",
+            "end": "00:01:08:471"
+          },
+          {
+            "word_index": 1,
+            "word": "KNIFE",
+            "start": "00:01:08:471",
+            "end": "00:01:09:411"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:01:09:411",
+            "end": "00:01:09:591"
+          },
+          {
+            "word_index": 3,
+            "word": "VAN",
+            "start": "00:01:09:591",
+            "end": "00:01:10:291"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:01:10:291",
+            "end": "00:01:10:481"
+          },
+          {
+            "word_index": 5,
+            "word": "EAR",
+            "start": "00:01:10:481",
+            "end": "00:01:10:981"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:01:10:981",
+            "end": "00:01:11:061"
+          },
+          {
+            "word_index": 7,
+            "word": "THIS",
+            "start": "00:01:11:061",
+            "end": "00:01:11:861"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:01:11:861",
+            "end": "00:01:13:051"
+          }
+        ],
+        "mispronunciations": [
+          {
+            "type": "substitution",
+            "target_phone": "ð",
+            "observed_phone": "s",
+            "start": "00:01:11:061",
+            "end": "00:01:11:861"
+          }
+        ],
+        "behavioral_events": [
+          {
+            "type": "slt_intervention",
+            "start": "00:01:11:900",
+            "end": "00:01:12:300",
+            "notes": "brief SLT recast/model of 'this' after production"
+          }
+        ]
+      },
+      {
+        "turn_index": 13,
+        "utt_id": "08M-Maint-015A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "scissors fishing lighthouse zebra",
+        "orthographic_transcript": "SCISSORS FISHING LIGHTHOUSE ZEBRA",
+        "phonetic_transcript": "[sil] s I z @ r z [sil] f I S I N [sil] [sil] 5 aI [sil] t h aU s z E b r @ [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "SCISSORS FISHING LIGHTHOUSE ZEBRA",
+        "start": "00:01:13:051",
+        "end": "00:01:18:485",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:13:051",
+            "end": "00:01:13:331"
+          },
+          {
+            "word_index": 1,
+            "word": "SCISSORS",
+            "start": "00:01:13:331",
+            "end": "00:01:14:261"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:01:14:261",
+            "end": "00:01:15:051"
+          },
+          {
+            "word_index": 3,
+            "word": "FISHING",
+            "start": "00:01:15:051",
+            "end": "00:01:15:641"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:01:15:641",
+            "end": "00:01:15:671"
+          },
+          {
+            "word_index": 5,
+            "word": "LIGHTHOUSE",
+            "start": "00:01:15:671",
+            "end": "00:01:16:381"
+          },
+          {
+            "word_index": 6,
+            "word": "ZEBRA",
+            "start": "00:01:16:381",
+            "end": "00:01:17:301"
+          },
+          {
+            "word_index": 7,
+            "word": "",
+            "start": "00:01:17:301",
+            "end": "00:01:18:485"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 14,
+        "utt_id": "08M-Maint-016A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "kitchen sausage tiger rabbit",
+        "orthographic_transcript": "KITCHEN SAUSAGE TIGER RABBIT",
+        "phonetic_transcript": "[sil] k I tS I n [sil] s O s I dZ t ae [sil] g @ r r a b I t [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "KITCHEN SAUSAGE TIGER RABBIT",
+        "start": "00:01:18:485",
+        "end": "00:01:23:919",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:18:485",
+            "end": "00:01:19:135"
+          },
+          {
+            "word_index": 1,
+            "word": "KITCHEN",
+            "start": "00:01:19:135",
+            "end": "00:01:20:055"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:01:20:055",
+            "end": "00:01:20:305"
+          },
+          {
+            "word_index": 3,
+            "word": "SAUSAGE",
+            "start": "00:01:20:305",
+            "end": "00:01:21:285"
+          },
+          {
+            "word_index": 4,
+            "word": "TIGER",
+            "start": "00:01:21:285",
+            "end": "00:01:22:075"
+          },
+          {
+            "word_index": 5,
+            "word": "RABBIT",
+            "start": "00:01:22:075",
+            "end": "00:01:22:945"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:01:22:945",
+            "end": "00:01:23:919"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 15,
+        "utt_id": "08M-Maint-017A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "book boy",
+        "orthographic_transcript": "BOOK BOY",
+        "phonetic_transcript": "[sil] b u k b OI [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "BOOK BOY",
+        "start": "00:01:23:919",
+        "end": "00:01:25:730",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:23:919",
+            "end": "00:01:24:519"
+          },
+          {
+            "word_index": 1,
+            "word": "BOOK",
+            "start": "00:01:24:519",
+            "end": "00:01:24:939"
+          },
+          {
+            "word_index": 2,
+            "word": "BOY",
+            "start": "00:01:24:939",
+            "end": "00:01:25:519"
+          },
+          {
+            "word_index": 3,
+            "word": "",
+            "start": "00:01:25:519",
+            "end": "00:01:25:730"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 16,
+        "utt_id": "08M-Maint-018A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "teacher toenail talc",
+        "orthographic_transcript": "TEACHER TOENAIL TALC",
+        "phonetic_transcript": "[sil] t i tS @ r [sil] t @U n [sil] eI 5 [sil] [sil] t [sil] a 5 k [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "TEACHER TOENAIL TALC",
+        "start": "00:01:25:730",
+        "end": "00:01:31:164",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:25:730",
+            "end": "00:01:26:490"
+          },
+          {
+            "word_index": 1,
+            "word": "TEACHER",
+            "start": "00:01:26:490",
+            "end": "00:01:27:290"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:01:27:290",
+            "end": "00:01:27:370"
+          },
+          {
+            "word_index": 3,
+            "word": "TOENAIL",
+            "start": "00:01:27:370",
+            "end": "00:01:28:390"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:01:28:390",
+            "end": "00:01:30:110"
+          },
+          {
+            "word_index": 5,
+            "word": "TALC",
+            "start": "00:01:30:110",
+            "end": "00:01:30:710"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:01:30:710",
+            "end": "00:01:31:164"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": [
+          {
+            "type": "slt_intervention",
+            "start": "00:01:28:600",
+            "end": "00:01:29:800",
+            "notes": "adult prompt/repetition during long pause between words"
+          }
+        ]
+      },
+      {
+        "turn_index": 17,
+        "utt_id": "08M-Maint-019A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "deep dome daffodil",
+        "orthographic_transcript": "DEEP DOME DAFFODIL",
+        "phonetic_transcript": "[sil] d [sil] i p [sil] d @U m [sil] d a f @ d I [sil] 5 [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "DEEP DOME DAFFODIL",
+        "start": "00:01:31:164",
+        "end": "00:01:35:390",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:31:164",
+            "end": "00:01:31:984"
+          },
+          {
+            "word_index": 1,
+            "word": "DEEP",
+            "start": "00:01:31:984",
+            "end": "00:01:32:594"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:01:32:594",
+            "end": "00:01:32:764"
+          },
+          {
+            "word_index": 3,
+            "word": "DOME",
+            "start": "00:01:32:764",
+            "end": "00:01:33:344"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:01:33:344
+
+[JSON_REPAIRED]
+{
+  "record_id": "08M_Maint_w002_026",
+  "task": "Detect and add behavioral_events. Preserve mispronunciations.",
+  "onevoice_json": {
+    "session_id": "08M_Maint_w002_026",
+    "session_date": "2018-11-06",
+    "sample_rate": 22050,
+    "audio_file_path": "",
+    "audio_format": "wav",
+    "session_duration": "00:02:06:784",
+    "metadata": {},
+    "speakers": [
+      {
+        "speaker_id": "08M_CHILD",
+        "gender": "male",
+        "language": "en",
+        "age_group": "child",
+        "age": 7.58
+      }
+    ],
+    "turns": [
+      {
+        "turn_index": 0,
+        "utt_id": "08M-Maint-002A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "watch fishing gloves spider",
+        "orthographic_transcript": "WATCH FISHING GLOVES SPIDER",
+        "phonetic_transcript": "[sil] w O tS [sil] f I S [sil] I N [sil] g 5 V v z [sil] [sil] s p ae d @ r [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "WATCH FISHING GLOVES SPIDER",
+        "start": "00:00:00:000",
+        "end": "00:00:06:037",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:00:000",
+            "end": "00:00:00:880"
+          },
+          {
+            "word_index": 1,
+            "word": "WATCH",
+            "start": "00:00:00:880",
+            "end": "00:00:01:800"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:01:800",
+            "end": "00:00:02:130"
+          },
+          {
+            "word_index": 3,
+            "word": "FISHING",
+            "start": "00:00:02:130",
+            "end": "00:00:02:930"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:02:930",
+            "end": "00:00:03:260"
+          },
+          {
+            "word_index": 5,
+            "word": "GLOVES",
+            "start": "00:00:03:260",
+            "end": "00:00:04:310"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:00:04:310",
+            "end": "00:00:04:570"
+          },
+          {
+            "word_index": 7,
+            "word": "SPIDER",
+            "start": "00:00:04:570",
+            "end": "00:00:05:600"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:00:05:600",
+            "end": "00:00:06:037"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": [
+          {
+            "type": "other_speaker_activity",
+            "start": "00:00:00:200",
+            "end": "00:00:00:880",
+            "notes": "adult attention-getter/brief prompt before child onset"
+          }
+        ]
+      },
+      {
+        "turn_index": 1,
+        "utt_id": "08M-Maint-003A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "thank you scissors helicopter bridge",
+        "orthographic_transcript": "THANK YOU SCISSORS HELICOPTER BRIDGE",
+        "phonetic_transcript": "[sil] T [sil] a N k j u [sil] s I z @ r [sil] z [sil] h E 5 I k O p [sil] t @ r b r I dZ [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "THANK YOU SCISSORS HELICOPTER BRIDGE",
+        "start": "00:00:06:037",
+        "end": "00:00:10:867",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:06:037",
+            "end": "00:00:06:517"
+          },
+          {
+            "word_index": 1,
+            "word": "THANK",
+            "start": "00:00:06:517",
+            "end": "00:00:07:047"
+          },
+          {
+            "word_index": 2,
+            "word": "YOU",
+            "start": "00:00:07:047",
+            "end": "00:00:07:467"
+          },
+          {
+            "word_index": 3,
+            "word": "",
+            "start": "00:00:07:467",
+            "end": "00:00:07:497"
+          },
+          {
+            "word_index": 4,
+            "word": "SCISSORS",
+            "start": "00:00:07:497",
+            "end": "00:00:08:437"
+          },
+          {
+            "word_index": 5,
+            "word": "",
+            "start": "00:00:08:437",
+            "end": "00:00:08:667"
+          },
+          {
+            "word_index": 6,
+            "word": "HELICOPTER",
+            "start": "00:00:08:667",
+            "end": "00:00:09:717"
+          },
+          {
+            "word_index": 7,
+            "word": "BRIDGE",
+            "start": "00:00:09:717",
+            "end": "00:00:10:637"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:00:10:637",
+            "end": "00:00:10:867"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 2,
+        "utt_id": "08M-Maint-004A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "umbrella elephant",
+        "orthographic_transcript": "UMBRELLA ELEPHANT",
+        "phonetic_transcript": "[sil] V m b [sil] r E 5 @ [sil] E 5 I f n= t [sil] [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "UMBRELLA ELEPHANT",
+        "start": "00:00:10:867",
+        "end": "00:00:13:886",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:10:867",
+            "end": "00:00:11:427"
+          },
+          {
+            "word_index": 1,
+            "word": "UMBRELLA",
+            "start": "00:00:11:427",
+            "end": "00:00:12:447"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:12:447",
+            "end": "00:00:12:697"
+          },
+          {
+            "word_index": 3,
+            "word": "ELEPHANT",
+            "start": "00:00:12:697",
+            "end": "00:00:13:717"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:13:717",
+            "end": "00:00:13:886"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 3,
+        "utt_id": "08M-Maint-005A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "elephant umbrella train swing",
+        "orthographic_transcript": "ELEPHANT UMBRELLA TRAIN SWING",
+        "phonetic_transcript": "[sil] E [sil] 5 I f n= t V m b r E 5 @ [sil] t r [sil] eI n [sil] s w I [sil] N [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "ELEPHANT UMBRELLA TRAIN SWING",
+        "start": "00:00:13:886",
+        "end": "00:00:19:923",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:13:886",
+            "end": "00:00:16:186"
+          },
+          {
+            "word_index": 1,
+            "word": "ELEPHANT",
+            "start": "00:00:16:186",
+            "end": "00:00:17:036"
+          },
+          {
+            "word_index": 2,
+            "word": "UMBRELLA",
+            "start": "00:00:17:036",
+            "end": "00:00:17:816"
+          },
+          {
+            "word_index": 3,
+            "word": "",
+            "start": "00:00:17:816",
+            "end": "00:00:18:006"
+          },
+          {
+            "word_index": 4,
+            "word": "TRAIN",
+            "start": "00:00:18:006",
+            "end": "00:00:18:656"
+          },
+          {
+            "word_index": 5,
+            "word": "",
+            "start": "00:00:18:656",
+            "end": "00:00:18:856"
+          },
+          {
+            "word_index": 6,
+            "word": "SWING",
+            "start": "00:00:18:856",
+            "end": "00:00:19:506"
+          },
+          {
+            "word_index": 7,
+            "word": "",
+            "start": "00:00:19:506",
+            "end": "00:00:19:923"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": [
+          {
+            "type": "other_speaker_activity",
+            "start": "00:00:14:000",
+            "end": "00:00:16:000",
+            "notes": "adult instruction/overlap during initial long pause"
+          }
+        ]
+      },
+      {
+        "turn_index": 4,
+        "utt_id": "08M-Maint-006A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "bread duck giraffe five",
+        "orthographic_transcript": "BREAD DUCK GIRAFFE FIVE",
+        "phonetic_transcript": "[sil] b r E d [sil] d V k [sil] dZ I r a f [sil] f ae v [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "BREAD DUCK GIRAFFE FIVE",
+        "start": "00:00:19:923",
+        "end": "00:00:25:357",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:19:923",
+            "end": "00:00:20:563"
+          },
+          {
+            "word_index": 1,
+            "word": "BREAD",
+            "start": "00:00:20:563",
+            "end": "00:00:21:423"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:21:423",
+            "end": "00:00:21:553"
+          },
+          {
+            "word_index": 3,
+            "word": "DUCK",
+            "start": "00:00:21:553",
+            "end": "00:00:22:283"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:22:283",
+            "end": "00:00:22:713"
+          },
+          {
+            "word_index": 5,
+            "word": "GIRAFFE",
+            "start": "00:00:22:713",
+            "end": "00:00:23:573"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:00:23:573",
+            "end": "00:00:23:823"
+          },
+          {
+            "word_index": 7,
+            "word": "FIVE",
+            "start": "00:00:23:823",
+            "end": "00:00:24:613"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:00:24:613",
+            "end": "00:00:25:357"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 5,
+        "utt_id": "08M-Maint-007A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "teeth watch orange school",
+        "orthographic_transcript": "TEETH WATCH ORANGE SCHOOL",
+        "phonetic_transcript": "[sil] t i T [sil] w O tS [sil] O [sil] r I n dZ [sil] s k u 5 [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "TEETH WATCH ORANGE SCHOOL",
+        "start": "00:00:25:357",
+        "end": "00:00:30:791",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:25:357",
+            "end": "00:00:26:747"
+          },
+          {
+            "word_index": 1,
+            "word": "TEETH",
+            "start": "00:00:26:747",
+            "end": "00:00:27:367"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:27:367",
+            "end": "00:00:27:607"
+          },
+          {
+            "word_index": 3,
+            "word": "WATCH",
+            "start": "00:00:27:607",
+            "end": "00:00:28:467"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:28:467",
+            "end": "00:00:28:637"
+          },
+          {
+            "word_index": 5,
+            "word": "ORANGE",
+            "start": "00:00:28:637",
+            "end": "00:00:29:347"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:00:29:347",
+            "end": "00:00:29:457"
+          },
+          {
+            "word_index": 7,
+            "word": "SCHOOL",
+            "start": "00:00:29:457",
+            "end": "00:00:30:187"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:00:30:187",
+            "end": "00:00:30:791"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 6,
+        "utt_id": "08M-Maint-008A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "crab biscuits thank you helicopter",
+        "orthographic_transcript": "CRAB BISCUITS THANK YOU HELICOPTER",
+        "phonetic_transcript": "[sil] k r a b [sil] [sil] b I s k I t s [sil] [sil] T a N k j u [sil] [sil] h E 5 I [sil] k O p t @ [sil] r [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "CRAB BISCUITS THANK YOU HELICOPTER",
+        "start": "00:00:30:791",
+        "end": "00:00:37:432",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:30:791",
+            "end": "00:00:31:461"
+          },
+          {
+            "word_index": 1,
+            "word": "CRAB",
+            "start": "00:00:31:461",
+            "end": "00:00:32:141"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:32:141",
+            "end": "00:00:32:381"
+          },
+          {
+            "word_index": 3,
+            "word": "BISCUITS",
+            "start": "00:00:32:381",
+            "end": "00:00:33:011"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:33:011",
+            "end": "00:00:34:631"
+          },
+          {
+            "word_index": 5,
+            "word": "THANK",
+            "start": "00:00:34:631",
+            "end": "00:00:35:081"
+          },
+          {
+            "word_index": 6,
+            "word": "YOU",
+            "start": "00:00:35:081",
+            "end": "00:00:35:571"
+          },
+          {
+            "word_index": 7,
+            "word": "",
+            "start": "00:00:35:571",
+            "end": "00:00:35:881"
+          },
+          {
+            "word_index": 8,
+            "word": "HELICOPTER",
+            "start": "00:00:35:881",
+            "end": "00:00:37:041"
+          },
+          {
+            "word_index": 9,
+            "word": "",
+            "start": "00:00:37:041",
+            "end": "00:00:37:432"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": [
+          {
+            "type": "slt_intervention",
+            "start": "00:00:33:200",
+            "end": "00:00:34:600",
+            "notes": "brief adult prompt/repetition during long pause between words"
+          }
+        ]
+      },
+      {
+        "turn_index": 7,
+        "utt_id": "08M-Maint-009A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "egg splash square pig",
+        "orthographic_transcript": "EGG SPLASH SQUARE PIG",
+        "phonetic_transcript": "[sil] E g [sil] s p 5 a [sil] S [sil] s k w E@ r [sil] p I [sil] g [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "EGG SPLASH SQUARE PIG",
+        "start": "00:00:37:432",
+        "end": "00:00:43:469",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:37:432",
+            "end": "00:00:38:452"
+          },
+          {
+            "word_index": 1,
+            "word": "EGG",
+            "start": "00:00:38:452",
+            "end": "00:00:39:072"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:39:072",
+            "end": "00:00:39:302"
+          },
+          {
+            "word_index": 3,
+            "word": "SPLASH",
+            "start": "00:00:39:302",
+            "end": "00:00:40:422"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:40:422",
+            "end": "00:00:40:862"
+          },
+          {
+            "word_index": 5,
+            "word": "SQUARE",
+            "start": "00:00:40:862",
+            "end": "00:00:41:572"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:00:41:572",
+            "end": "00:00:41:842"
+          },
+          {
+            "word_index": 7,
+            "word": "PIG",
+            "start": "00:00:41:842",
+            "end": "00:00:42:422"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:00:42:422",
+            "end": "00:00:43:469"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 8,
+        "utt_id": "08M-Maint-010A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "gloves queen three frog",
+        "orthographic_transcript": "GLOVES QUEEN THREE FROG",
+        "phonetic_transcript": "[sil] g 5 V v z [sil] [sil] k w i [sil] n [sil] T [sil] r i [sil] [sil] f r O g [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "GLOVES QUEEN THREE FROG",
+        "start": "00:00:43:469",
+        "end": "00:00:51:317",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:43:469",
+            "end": "00:00:45:319"
+          },
+          {
+            "word_index": 1,
+            "word": "GLOVES",
+            "start": "00:00:45:319",
+            "end": "00:00:46:459"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:46:459",
+            "end": "00:00:47:789"
+          },
+          {
+            "word_index": 3,
+            "word": "QUEEN",
+            "start": "00:00:47:789",
+            "end": "00:00:48:449"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:48:449",
+            "end": "00:00:48:559"
+          },
+          {
+            "word_index": 5,
+            "word": "THREE",
+            "start": "00:00:48:559",
+            "end": "00:00:49:249"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:00:49:249",
+            "end": "00:00:49:549"
+          },
+          {
+            "word_index": 7,
+            "word": "FROG",
+            "start": "00:00:49:549",
+            "end": "00:00:50:309"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:00:50:309",
+            "end": "00:00:51:317"
+          }
+        ],
+        "mispronunciations": [
+          {
+            "type": "substitution",
+            "target_phone": "θ",
+            "observed_phone": "t",
+            "start": "00:00:48:559",
+            "end": "00:00:49:249"
+          }
+        ],
+        "behavioral_events": [
+          {
+            "type": "slt_intervention",
+            "start": "00:00:49:300",
+            "end": "00:00:49:700",
+            "notes": "brief SLT recast/model of 'three' following child production"
+          }
+        ]
+      },
+      {
+        "turn_index": 9,
+        "utt_id": "08M-Maint-011A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "yellow strawberry spider web",
+        "orthographic_transcript": "YELLOW STRAWBERRY SPIDER WEB",
+        "phonetic_transcript": "[sil] j E 5 @U [sil] s t r O b @ [sil] r i s p ae d [sil] @ r w [sil] E b [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "YELLOW STRAWBERRY SPIDER WEB",
+        "start": "00:00:51:317",
+        "end": "00:00:56:147",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:51:317",
+            "end": "00:00:52:087"
+          },
+          {
+            "word_index": 1,
+            "word": "YELLOW",
+            "start": "00:00:52:087",
+            "end": "00:00:52:797"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:52:797",
+            "end": "00:00:52:827"
+          },
+          {
+            "word_index": 3,
+            "word": "STRAWBERRY",
+            "start": "00:00:52:827",
+            "end": "00:00:53:747"
+          },
+          {
+            "word_index": 4,
+            "word": "SPIDER",
+            "start": "00:00:53:747",
+            "end": "00:00:54:347"
+          },
+          {
+            "word_index": 5,
+            "word": "WEB",
+            "start": "00:00:54:347",
+            "end": "00:00:54:867"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:00:54:867",
+            "end": "00:00:56:147"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 10,
+        "utt_id": "08M-Maint-012A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "sheep snake pram feather",
+        "orthographic_transcript": "SHEEP SNAKE PRAM FEATHER",
+        "phonetic_transcript": "[sil] S i p [sil] [sil] s n eI k [sil] p r a m [sil] f E [sil] D @ r [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "SHEEP SNAKE PRAM FEATHER",
+        "start": "00:00:56:147",
+        "end": "00:01:02:184",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:56:147",
+            "end": "00:00:56:967"
+          },
+          {
+            "word_index": 1,
+            "word": "SHEEP",
+            "start": "00:00:56:967",
+            "end": "00:00:57:597"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:57:597",
+            "end": "00:00:57:747"
+          },
+          {
+            "word_index": 3,
+            "word": "SNAKE",
+            "start": "00:00:57:747",
+            "end": "00:00:58:707"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:58:707",
+            "end": "00:00:58:957"
+          },
+          {
+            "word_index": 5,
+            "word": "PRAM",
+            "start": "00:00:58:957",
+            "end": "00:00:59:697"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:00:59:697",
+            "end": "00:01:00:287"
+          },
+          {
+            "word_index": 7,
+            "word": "FEATHER",
+            "start": "00:01:00:287",
+            "end": "00:01:00:887"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:01:00:887",
+            "end": "00:01:02:184"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 11,
+        "utt_id": "08M-Maint-013A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "tomato monkey toothbrush apple",
+        "orthographic_transcript": "TOMATO MONKEY TOOTHBRUSH APPLE",
+        "phonetic_transcript": "[sil] t @ m a t @U m V N k i [sil] t u T b r V S [sil] a p @ 5 [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "TOMATO MONKEY TOOTHBRUSH APPLE",
+        "start": "00:01:02:184",
+        "end": "00:01:08:221",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:02:184",
+            "end": "00:01:03:824"
+          },
+          {
+            "word_index": 1,
+            "word": "TOMATO",
+            "start": "00:01:03:824",
+            "end": "00:01:04:524"
+          },
+          {
+            "word_index": 2,
+            "word": "MONKEY",
+            "start": "00:01:04:524",
+            "end": "00:01:05:304"
+          },
+          {
+            "word_index": 3,
+            "word": "TOOTHBRUSH",
+            "start": "00:01:05:304",
+            "end": "00:01:06:414"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:01:06:414",
+            "end": "00:01:06:684"
+          },
+          {
+            "word_index": 5,
+            "word": "APPLE",
+            "start": "00:01:06:684",
+            "end": "00:01:07:384"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:01:07:384",
+            "end": "00:01:08:221"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": [
+          {
+            "type": "other_speaker_activity",
+            "start": "00:01:02:300",
+            "end": "00:01:03:700",
+            "notes": "adult instruction/overlap during initial pause"
+          }
+        ]
+      },
+      {
+        "turn_index": 12,
+        "utt_id": "08M-Maint-014A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "knife van ear this",
+        "orthographic_transcript": "KNIFE VAN EAR THIS",
+        "phonetic_transcript": "[sil] n [sil] aI f [sil] [sil] v a n [sil] I@ r [sil] D I [sil] s [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "KNIFE VAN EAR THIS",
+        "start": "00:01:08:221",
+        "end": "00:01:13:051",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:08:221",
+            "end": "00:01:08:471"
+          },
+          {
+            "word_index": 1,
+            "word": "KNIFE",
+            "start": "00:01:08:471",
+            "end": "00:01:09:411"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:01:09:411",
+            "end": "00:01:09:591"
+          },
+          {
+            "word_index": 3,
+            "word": "VAN",
+            "start": "00:01:09:591",
+            "end": "00:01:10:291"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:01:10:291",
+            "end": "00:01:10:481"
+          },
+          {
+            "word_index": 5,
+            "word": "EAR",
+            "start": "00:01:10:481",
+            "end": "00:01:10:981"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:01:10:981",
+            "end": "00:01:11:061"
+          },
+          {
+            "word_index": 7,
+            "word": "THIS",
+            "start": "00:01:11:061",
+            "end": "00:01:11:861"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:01:11:861",
+            "end": "00:01:13:051"
+          }
+        ],
+        "mispronunciations": [
+          {
+            "type": "substitution",
+            "target_phone": "ð",
+            "observed_phone": "s",
+            "start": "00:01:11:061",
+            "end": "00:01:11:861"
+          }
+        ],
+        "behavioral_events": [
+          {
+            "type": "slt_intervention",
+            "start": "00:01:11:900",
+            "end": "00:01:12:300",
+            "notes": "brief SLT recast/model of 'this' after production"
+          }
+        ]
+      },
+      {
+        "turn_index": 13,
+        "utt_id": "08M-Maint-015A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "scissors fishing lighthouse zebra",
+        "orthographic_transcript": "SCISSORS FISHING LIGHTHOUSE ZEBRA",
+        "phonetic_transcript": "[sil] s I z @ r z [sil] f I S I N [sil] [sil] 5 aI [sil] t h aU s z E b r @ [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "SCISSORS FISHING LIGHTHOUSE ZEBRA",
+        "start": "00:01:13:051",
+        "end": "00:01:18:485",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:13:051",
+            "end": "00:01:13:331"
+          },
+          {
+            "word_index": 1,
+            "word": "SCISSORS",
+            "start": "00:01:13:331",
+            "end": "00:01:14:261"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:01:14:261",
+            "end": "00:01:15:051"
+          },
+          {
+            "word_index": 3,
+            "word": "FISHING",
+            "start": "00:01:15:051",
+            "end": "00:01:15:641"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:01:15:641",
+            "end": "00:01:15:671"
+          },
+          {
+            "word_index": 5,
+            "word": "LIGHTHOUSE",
+            "start": "00:01:15:671",
+            "end": "00:01:16:381"
+          },
+          {
+            "word_index": 6,
+            "word": "ZEBRA",
+            "start": "00:01:16:381",
+            "end": "00:01:17:301"
+          },
+          {
+            "word_index": 7,
+            "word": "",
+            "start": "00:01:17:301",
+            "end": "00:01:18:485"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 14,
+        "utt_id": "08M-Maint-016A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "kitchen sausage tiger rabbit",
+        "orthographic_transcript": "KITCHEN SAUSAGE TIGER RABBIT",
+        "phonetic_transcript": "[sil] k I tS I n [sil] s O s I dZ t ae [sil] g @ r r a b I t [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "KITCHEN SAUSAGE TIGER RABBIT",
+        "start": "00:01:18:485",
+        "end": "00:01:23:919",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:18:485",
+            "end": "00:01:19:135"
+          },
+          {
+            "word_index": 1,
+            "word": "KITCHEN",
+            "start": "00:01:19:135",
+            "end": "00:01:20:055"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:01:20:055",
+            "end": "00:01:20:305"
+          },
+          {
+            "word_index": 3,
+            "word": "SAUSAGE",
+            "start": "00:01:20:305",
+            "end": "00:01:21:285"
+          },
+          {
+            "word_index": 4,
+            "word": "TIGER",
+            "start": "00:01:21:285",
+            "end": "00:01:22:075"
+          },
+          {
+            "word_index": 5,
+            "word": "RABBIT",
+            "start": "00:01:22:075",
+            "end": "00:01:22:945"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:01:22:945",
+            "end": "00:01:23:919"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 15,
+        "utt_id": "08M-Maint-017A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "book boy",
+        "orthographic_transcript": "BOOK BOY",
+        "phonetic_transcript": "[sil] b u k b OI [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "BOOK BOY",
+        "start": "00:01:23:919",
+        "end": "00:01:25:730",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:23:919",
+            "end": "00:01:24:519"
+          },
+          {
+            "word_index": 1,
+            "word": "BOOK",
+            "start": "00:01:24:519",
+            "end": "00:01:24:939"
+          },
+          {
+            "word_index": 2,
+            "word": "BOY",
+            "start": "00:01:24:939",
+            "end": "00:01:25:519"
+          },
+          {
+            "word_index": 3,
+            "word": "",
+            "start": "00:01:25:519",
+            "end": "00:01:25:730"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 16,
+        "utt_id": "08M-Maint-018A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "teacher toenail talc",
+        "orthographic_transcript": "TEACHER TOENAIL TALC",
+        "phonetic_transcript": "[sil] t i tS @ r [sil] t @U n [sil] eI 5 [sil] [sil] t [sil] a 5 k [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "TEACHER TOENAIL TALC",
+        "start": "00:01:25:730",
+        "end": "00:01:31:164",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:25:730",
+            "end": "00:01:26:490"
+          },
+          {
+            "word_index": 1,
+            "word": "TEACHER",
+            "start": "00:01:26:490",
+            "end": "00:01:27:290"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:01:27:290",
+            "end": "00:01:27:370"
+          },
+          {
+            "word_index": 3,
+            "word": "TOENAIL",
+            "start": "00:01:27:370",
+            "end": "00:01:28:390"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:01:28:390",
+            "end": "00:01:30:110"
+          },
+          {
+            "word_index": 5,
+            "word": "TALC",
+            "start": "00:01:30:110",
+            "end": "00:01:30:710"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:01:30:710",
+            "end": "00:01:31:164"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": [
+          {
+            "type": "slt_intervention",
+            "start": "00:01:28:600",
+            "end": "00:01:29:800",
+            "notes": "adult prompt/repetition during long pause between words"
+          }
+        ]
+      },
+      {
+        "turn_index": 17,
+        "utt_id": "08M-Maint-019A",
+        "speaker_id": "08M_CHILD",
+        "reference_transcript": "deep dome daffodil",
+        "orthographic_transcript": "DEEP DOME DAFFODIL",
+        "phonetic_transcript": "[sil] d [sil] i p [sil] d @U m [sil] d a f @ d I [sil] 5 [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "DEEP DOME DAFFODIL",
+        "start": "00:01:31:164",
+        "end": "00:01:35:390",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:31:164",
+            "end": "00:01:31:984"
+          },
+          {
+            "word_index": 1,
+            "word": "DEEP",
+            "start": "00:01:31:984",
+            "end": "00:01:32:594"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:01:32:594",
+            "end": "00:01:32:764"
+          },
+          {
+            "word_index": 3,
+            "word": "DOME",
+            "start": "00:01:32:764",
+            "end": "00:01:33:344"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:01:33:344",
+            "end": "00:01:33:544"
+          },
+          {
+            "word_index": 5,
+            "word": "DAFFODIL",
+            "start": "00:01:33:544",
+            "end": "00:01:34:474"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:01:34:474",
+            "end": "00:01:35:390"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      }
+    ]
+  }
+}

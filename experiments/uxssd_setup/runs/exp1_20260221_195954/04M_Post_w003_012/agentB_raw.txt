@@ -1,0 +1,102 @@
+{
+  "record_id": "04M_Post_w003_012",
+  "utterances": [
+    {
+      "utt": "04M-Post-003A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-004A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-005A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-006A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:11:060",
+          "end": "00:00:11:220",
+          "notes": "SLT speaks"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:11:060",
+          "end": "00:00:11:070",
+          "notes": "child -> SLT turn transition"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:11:220",
+          "end": "00:00:11:230",
+          "notes": "SLT -> other/silence transition"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-007A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-008A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-009A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-010A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-011A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:08:620",
+          "end": "00:00:09:220",
+          "notes": "SLT speaks"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:08:620",
+          "end": "00:00:08:630",
+          "notes": "child -> SLT turn transition"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:09:220",
+          "end": "00:00:09:230",
+          "notes": "SLT -> other/silence transition"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-012A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:01:260",
+          "end": "00:00:01:680",
+          "notes": "SLT speaks"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:01:260",
+          "end": "00:00:01:270",
+          "notes": "other -> SLT turn transition"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:01:680",
+          "end": "00:00:01:690",
+          "notes": "SLT -> other/silence transition"
+        }
+      ]
+    }
+  ]
+}

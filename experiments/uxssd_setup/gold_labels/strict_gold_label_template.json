@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "record_id": "RECORD_ID",
+  "annotator": {
+    "annotator_id": "",
+    "annotation_status": "not_started",
+    "notes": ""
+  },
+  "timebase": "utterance_local",
+  "source": {
+    "manifest_path": "experiments/uxssd_setup/experiment1_agnostic_manifest.jsonl",
+    "created_utc": "YYYY-MM-DDTHH:MM:SSZ"
+  },
+  "summary": {
+    "bundle_duration_s": 0.0,
+    "target_min_total_events": 6
+  },
+  "utterances": [
+    {
+      "utt": "UTT_ID",
+      "speaker_id": "SPEAKER_ID",
+      "duration_s": 0.0,
+      "audio_wav": "",
+      "transcript_txt": "",
+      "mispronunciations": [],
+      "behavioral_events": [],
+      "review": {
+        "is_reviewed": false,
+        "comments": ""
+      }
+    }
+  ],
+  "qa": {
+    "all_events_have_type": false,
+    "all_events_have_valid_time_range": false,
+    "all_events_within_utterance": false,
+    "mispronunciations_have_target_or_observed_phone": false,
+    "no_duplicate_events": false
+  },
+  "contracts": {
+    "mispronunciation_item": {
+      "type": "required non-empty string",
+      "target_phone": "optional non-empty string",
+      "observed_phone": "optional non-empty string",
+      "word_index": "optional int or non-empty string",
+      "phone_index": "optional int or non-empty string",
+      "start": "required HH:MM:SS:mmm",
+      "end": "required HH:MM:SS:mmm",
+      "confidence": "optional number [0,1]",
+      "notes": "optional string"
+    },
+    "behavioral_event_item": {
+      "type": "required non-empty string",
+      "start": "required HH:MM:SS:mmm",
+      "end": "required HH:MM:SS:mmm",
+      "confidence": "optional number [0,1]",
+      "notes": "optional string"
+    }
+  }
+}

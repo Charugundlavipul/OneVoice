@@ -1,0 +1,696 @@
+{
+  "record_id": "06M_Post_w018_027",
+  "task": "Detect and add mispronunciations. Keep behavioral_events unchanged.",
+  "onevoice_json": {
+    "session_id": "06M_Post_w018_027",
+    "session_date": "2018-11-06",
+    "sample_rate": 22050,
+    "audio_file_path": "",
+    "audio_format": "wav",
+    "session_duration": "00:02:26:099",
+    "speakers": [
+      {
+        "speaker_id": "06M_CHILD",
+        "gender": "male",
+        "language": "en",
+        "age_group": "child",
+        "age": 5.92
+      }
+    ],
+    "turns": [
+      {
+        "turn_index": 0,
+        "utt_id": "06M-Post-018A",
+        "speaker_id": "06M_CHILD",
+        "reference_transcript": "scissors fishing lighthouse zebra",
+        "orthographic_transcript": "SCISSORS FISHING LIGHTHOUSE ZEBRA",
+        "phonetic_transcript": "[sil] s I z @ r [sil] z [sil] f I S I N [sil] 5 aI t h aU [sil] s [sil] z E b r @ [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "SCISSORS FISHING LIGHTHOUSE ZEBRA",
+        "start": "00:00:00:000",
+        "end": "00:00:30:790",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:00:000",
+            "end": "00:00:03:840"
+          },
+          {
+            "word_index": 1,
+            "word": "SCISSORS",
+            "start": "00:00:03:840",
+            "end": "00:00:04:630"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:04:630",
+            "end": "00:00:09:430"
+          },
+          {
+            "word_index": 3,
+            "word": "FISHING",
+            "start": "00:00:09:430",
+            "end": "00:00:11:130"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:11:130",
+            "end": "00:00:16:810"
+          },
+          {
+            "word_index": 5,
+            "word": "LIGHTHOUSE",
+            "start": "00:00:16:810",
+            "end": "00:00:18:210"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:00:18:210",
+            "end": "00:00:28:430"
+          },
+          {
+            "word_index": 7,
+            "word": "ZEBRA",
+            "start": "00:00:28:430",
+            "end": "00:00:29:040"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:00:29:040",
+            "end": "00:00:30:790"
+          }
+        ],
+        "mispronunciations": [
+          {
+            "type": "substitution",
+            "target_phone": "l",
+            "observed_phone": "5",
+            "start": "00:00:16:900",
+            "end": "00:00:17:050"
+          }
+        ],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 1,
+        "utt_id": "06M-Post-019A",
+        "speaker_id": "06M_CHILD",
+        "reference_transcript": "kitchen sausage tiger rabbit",
+        "orthographic_transcript": "KITCHEN SAUSAGE TIGER RABBIT",
+        "phonetic_transcript": "[sil] k I tS [sil] I n [sil] s O s I dZ [sil] t ae g [sil] @ r [sil] r a b I t [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "KITCHEN SAUSAGE TIGER RABBIT",
+        "start": "00:00:30:790",
+        "end": "00:01:10:635",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:00:30:790",
+            "end": "00:00:35:960"
+          },
+          {
+            "word_index": 1,
+            "word": "KITCHEN",
+            "start": "00:00:35:960",
+            "end": "00:00:36:900"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:00:36:900",
+            "end": "00:00:38:040"
+          },
+          {
+            "word_index": 3,
+            "word": "SAUSAGE",
+            "start": "00:00:38:040",
+            "end": "00:00:38:980"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:00:38:980",
+            "end": "00:00:50:170"
+          },
+          {
+            "word_index": 5,
+            "word": "TIGER",
+            "start": "00:00:50:170",
+            "end": "00:00:51:020"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:00:51:020",
+            "end": "00:01:00:670"
+          },
+          {
+            "word_index": 7,
+            "word": "RABBIT",
+            "start": "00:01:00:670",
+            "end": "00:01:01:370"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:01:01:370",
+            "end": "00:01:10:635"
+          }
+        ],
+        "mispronunciations": [
+          {
+            "type": "substitution",
+            "target_phone": "aI",
+            "observed_phone": "ae",
+            "start": "00:00:50:350",
+            "end": "00:00:50:520"
+          }
+        ],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 2,
+        "utt_id": "06M-Post-020A",
+        "speaker_id": "06M_CHILD",
+        "reference_transcript": "kitchen sausage tiger rabbit",
+        "orthographic_transcript": "KITCHEN SAUSAGE TIGER RABBIT",
+        "phonetic_transcript": "[sil] k I [sil] tS I n s O s I dZ [sil] t ae g @ r [sil] r a b I t [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "KITCHEN SAUSAGE TIGER RABBIT",
+        "start": "00:01:10:635",
+        "end": "00:01:26:935",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:10:635",
+            "end": "00:01:15:875"
+          },
+          {
+            "word_index": 1,
+            "word": "KITCHEN",
+            "start": "00:01:15:875",
+            "end": "00:01:16:335"
+          },
+          {
+            "word_index": 2,
+            "word": "SAUSAGE",
+            "start": "00:01:16:335",
+            "end": "00:01:16:965"
+          },
+          {
+            "word_index": 3,
+            "word": "",
+            "start": "00:01:16:965",
+            "end": "00:01:18:545"
+          },
+          {
+            "word_index": 4,
+            "word": "TIGER",
+            "start": "00:01:18:545",
+            "end": "00:01:19:705"
+          },
+          {
+            "word_index": 5,
+            "word": "",
+            "start": "00:01:19:705",
+            "end": "00:01:25:285"
+          },
+          {
+            "word_index": 6,
+            "word": "RABBIT",
+            "start": "00:01:25:285",
+            "end": "00:01:25:955"
+          },
+          {
+            "word_index": 7,
+            "word": "",
+            "start": "00:01:25:955",
+            "end": "00:01:26:935"
+          }
+        ],
+        "mispronunciations": [
+          {
+            "type": "substitution",
+            "target_phone": "aI",
+            "observed_phone": "ae",
+            "start": "00:01:18:650",
+            "end": "00:01:18:820"
+          }
+        ],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 3,
+        "utt_id": "06M-Post-021A",
+        "speaker_id": "06M_CHILD",
+        "reference_transcript": "book boy",
+        "orthographic_transcript": "BOOK BOY",
+        "phonetic_transcript": "[sil] b [sil] u k [sil] b OI [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "BOOK BOY",
+        "start": "00:01:26:935",
+        "end": "00:01:34:180",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:26:935",
+            "end": "00:01:29:835"
+          },
+          {
+            "word_index": 1,
+            "word": "BOOK",
+            "start": "00:01:29:835",
+            "end": "00:01:30:215"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:01:30:215",
+            "end": "00:01:32:915"
+          },
+          {
+            "word_index": 3,
+            "word": "BOY",
+            "start": "00:01:32:915",
+            "end": "00:01:33:655"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:01:33:655",
+            "end": "00:01:34:180"
+          }
+        ],
+        "mispronunciations": [
+          {
+            "type": "substitution",
+            "target_phone": "ʊ",
+            "observed_phone": "u",
+            "start": "00:01:29:900",
+            "end": "00:01:30:050"
+          }
+        ],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 4,
+        "utt_id": "06M-Post-022E",
+        "speaker_id": "06M_CHILD",
+        "reference_transcript": "swallow",
+        "orthographic_transcript": "",
+        "phonetic_transcript": "",
+        "ipa_transcript": "",
+        "raw_transcript": "",
+        "start": "00:01:34:180",
+        "end": "00:01:39:010",
+        "word_alignments": [],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 5,
+        "utt_id": "06M-Post-023A",
+        "speaker_id": "06M_CHILD",
+        "reference_transcript": "tore keep thicker kitten",
+        "orthographic_transcript": "TORE KEEP THICKER KITTEN",
+        "phonetic_transcript": "[sil] t @U r [sil] k i p [sil] T I k @ r [sil] k I t n= [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "TORE KEEP THICKER KITTEN",
+        "start": "00:01:39:010",
+        "end": "00:01:48:669",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:39:010",
+            "end": "00:01:40:120"
+          },
+          {
+            "word_index": 1,
+            "word": "TORE",
+            "start": "00:01:40:120",
+            "end": "00:01:40:690"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:01:40:690",
+            "end": "00:01:41:080"
+          },
+          {
+            "word_index": 3,
+            "word": "KEEP",
+            "start": "00:01:41:080",
+            "end": "00:01:41:640"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:01:41:640",
+            "end": "00:01:41:840"
+          },
+          {
+            "word_index": 5,
+            "word": "THICKER",
+            "start": "00:01:41:840",
+            "end": "00:01:42:440"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:01:42:440",
+            "end": "00:01:42:680"
+          },
+          {
+            "word_index": 7,
+            "word": "KITTEN",
+            "start": "00:01:42:680",
+            "end": "00:01:43:140"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:01:43:140",
+            "end": "00:01:48:669"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 6,
+        "utt_id": "06M-Post-024A",
+        "speaker_id": "06M_CHILD",
+        "reference_transcript": "core cone peaking table",
+        "orthographic_transcript": "CORE CONE PEAKING TABLE",
+        "phonetic_transcript": "[sil] k @U [sil] r [sil] k @U n [sil] p [sil] i k [sil] I N [sil] t eI b @ 5 [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "CORE CONE PEAKING TABLE",
+        "start": "00:01:48:669",
+        "end": "00:01:58:328",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:48:669",
+            "end": "00:01:49:689"
+          },
+          {
+            "word_index": 1,
+            "word": "CORE",
+            "start": "00:01:49:689",
+            "end": "00:01:50:289"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:01:50:289",
+            "end": "00:01:50:619"
+          },
+          {
+            "word_index": 3,
+            "word": "CONE",
+            "start": "00:01:50:619",
+            "end": "00:01:51:269"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:01:51:269",
+            "end": "00:01:51:529"
+          },
+          {
+            "word_index": 5,
+            "word": "PEAKING",
+            "start": "00:01:51:529",
+            "end": "00:01:52:149"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:01:52:149",
+            "end": "00:01:52:379"
+          },
+          {
+            "word_index": 7,
+            "word": "TABLE",
+            "start": "00:01:52:379",
+            "end": "00:01:52:879"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:01:52:879",
+            "end": "00:01:58:328"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 7,
+        "utt_id": "06M-Post-025A",
+        "speaker_id": "06M_CHILD",
+        "reference_transcript": "cable butterfly coop kitkat",
+        "orthographic_transcript": "CABLE BUTTERFLY COOP KITKAT",
+        "phonetic_transcript": "[sil] k eI b @ 5 [sil] b V t @ r f 5 ae [sil] k u p [sil] k I t k a t [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "CABLE BUTTERFLY COOP KITKAT",
+        "start": "00:01:58:328",
+        "end": "00:02:07:384",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:01:58:328",
+            "end": "00:01:59:118"
+          },
+          {
+            "word_index": 1,
+            "word": "CABLE",
+            "start": "00:01:59:118",
+            "end": "00:01:59:788"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:01:59:788",
+            "end": "00:01:59:988"
+          },
+          {
+            "word_index": 3,
+            "word": "BUTTERFLY",
+            "start": "00:01:59:988",
+            "end": "00:02:00:868"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:02:00:868",
+            "end": "00:02:01:028"
+          },
+          {
+            "word_index": 5,
+            "word": "COOP",
+            "start": "00:02:01:028",
+            "end": "00:02:01:518"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:02:01:518",
+            "end": "00:02:01:658"
+          },
+          {
+            "word_index": 7,
+            "word": "KITKAT",
+            "start": "00:02:01:658",
+            "end": "00:02:02:408"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:02:02:408",
+            "end": "00:02:07:384"
+          }
+        ],
+        "mispronunciations": [],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 8,
+        "utt_id": "06M-Post-026A",
+        "speaker_id": "06M_CHILD",
+        "reference_transcript": "coot packer toot tie",
+        "orthographic_transcript": "COOT PACKER TOOT TIE",
+        "phonetic_transcript": "[sil] k u t [sil] p a k @ [sil] r [sil] t [sil] u t [sil] t ae [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "COOT PACKER TOOT TIE",
+        "start": "00:02:07:384",
+        "end": "00:02:17:043",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:02:07:384",
+            "end": "00:02:08:544"
+          },
+          {
+            "word_index": 1,
+            "word": "COOT",
+            "start": "00:02:08:544",
+            "end": "00:02:09:084"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:02:09:084",
+            "end": "00:02:09:294"
+          },
+          {
+            "word_index": 3,
+            "word": "PACKER",
+            "start": "00:02:09:294",
+            "end": "00:02:09:924"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:02:09:924",
+            "end": "00:02:10:244"
+          },
+          {
+            "word_index": 5,
+            "word": "TOOT",
+            "start": "00:02:10:244",
+            "end": "00:02:10:744"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:02:10:744",
+            "end": "00:02:10:974"
+          },
+          {
+            "word_index": 7,
+            "word": "TIE",
+            "start": "00:02:10:974",
+            "end": "00:02:11:454"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:02:11:454",
+            "end": "00:02:17:043"
+          }
+        ],
+        "mispronunciations": [
+          {
+            "type": "substitution",
+            "target_phone": "aI",
+            "observed_phone": "ae",
+            "start": "00:02:11:020",
+            "end": "00:02:11:150"
+          }
+        ],
+        "behavioral_events": []
+      },
+      {
+        "turn_index": 9,
+        "utt_id": "06M-Post-027A",
+        "speaker_id": "06M_CHILD",
+        "reference_transcript": "kai came hockey tactic",
+        "orthographic_transcript": "KAI CAME HOCKEY TACTIC",
+        "phonetic_transcript": "[sil] k [sil] ae [sil] k eI m [sil] h O k i [sil] t a k t I k [sil] [sil]",
+        "ipa_transcript": "",
+        "raw_transcript": "KAI CAME HOCKEY TACTIC",
+        "start": "00:02:17:043",
+        "end": "00:02:26:099",
+        "word_alignments": [
+          {
+            "word_index": 0,
+            "word": "",
+            "start": "00:02:17:043",
+            "end": "00:02:17:993"
+          },
+          {
+            "word_index": 1,
+            "word": "KAI",
+            "start": "00:02:17:993",
+            "end": "00:02:18:623"
+          },
+          {
+            "word_index": 2,
+            "word": "",
+            "start": "00:02:18:623",
+            "end": "00:02:18:873"
+          },
+          {
+            "word_index": 3,
+            "word": "CAME",
+            "start": "00:02:18:873",
+            "end": "00:02:19:463"
+          },
+          {
+            "word_index": 4,
+            "word": "",
+            "start": "00:02:19:463",
+            "end": "00:02:19:643"
+          },
+          {
+            "word_index": 5,
+            "word": "HOCKEY",
+            "start": "00:02:19:643",
+            "end": "00:02:20:303"
+          },
+          {
+            "word_index": 6,
+            "word": "",
+            "start": "00:02:20:303",
+            "end": "00:02:20:453"
+          },
+          {
+            "word_index": 7,
+            "word": "TACTIC",
+            "start": "00:02:20:453",
+            "end": "00:02:21:223"
+          },
+          {
+            "word_index": 8,
+            "word": "",
+            "start": "00:02:21:223",
+            "end": "00:02:26:099"
+          }
+        ],
+        "mispronunciations": [
+          {
+            "type": "substitution",
+            "target_phone": "aI",
+            "observed_phone": "ae",
+            "start": "00:02:18:050",
+            "end": "00:02:18:220"
+          }
+        ],
+        "behavioral_events": []
+      }
+    ],
+    "metadata": {
+      "dataset_name": "uxssd",
+      "dataset_split": "",
+      "text_annotation_source": "human",
+      "text_annotation_details": "manual transcription",
+      "text_coverage": "full",
+      "phoneme_annotation_source": "machine",
+      "phoneme_annotation_details": "Kaldi forced alignment (PF-STAR recipe)",
+      "phoneme_coverage": "full"
+    }
+  }
+}
