@@ -1,0 +1,451 @@
+{
+  "window_id": "childes_olivia_0040_0079",
+  "source_file": "CHILDES/raw/childes/Eng-NA/Bates/Free20/olivia.cha",
+  "speakers": [
+    {
+      "id": "CHI",
+      "label": "Child",
+      "name": "Olivia",
+      "role": "target_child",
+      "utterance_count": 23,
+      "turn_count": 14,
+      "utterance_indices": [0,2,4,5,6,7,9,10,11,12,13,15,17,19,21,23,26,27,29,30,32,34,38]
+    },
+    {
+      "id": "MOT",
+      "label": "Mother",
+      "role": "adult_caregiver",
+      "utterance_count": 17,
+      "turn_count": 14,
+      "utterance_indices": [1,3,8,14,16,18,20,22,24,25,28,31,33,35,36,37,39]
+    }
+  ],
+  "utterances": [
+    {
+      "index": 0,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "&~aw (.) down !",
+      "dependent_tiers": {
+        "mor": ["adv|down !"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "act": ["puts man in chair in her lap . puts man in chair on floor"]
+      }
+    },
+    {
+      "index": 1,
+      "speaker": "MOT",
+      "role": "adult_caregiver",
+      "raw": "oh look !",
+      "dependent_tiers": {
+        "mor": ["co|oh n|look !"],
+        "gra": ["1|2|COM 2|0|INCROOT 3|2|PUNCT"],
+        "act": ["<aft> takes out another chair and puts on floor"],
+        "gpx": ["points to chair"]
+      }
+    },
+    {
+      "index": 2,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "ah (.) chair .",
+      "dependent_tiers": {
+        "mor": ["co|ah n|chair ."],
+        "gra": ["1|2|COM 2|0|INCROOT 3|2|PUNCT"],
+        "act": ["touches Mother's chair"]
+      }
+    },
+    {
+      "index": 3,
+      "speaker": "MOT",
+      "role": "adult_caregiver",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": ["takes out bed and puts on floor . takes out ladder , examines briefly and puts down on side of dollhouse"]
+      }
+    },
+    {
+      "index": 4,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "yyy (.) oh !",
+      "dependent_tiers": {
+        "mor": ["co|oh !"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "xpho": ["<1w> y6 oU"]
+      }
+    },
+    {
+      "index": 5,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "&-uh !",
+      "dependent_tiers": {
+        "xpho": ["<1w> 6 bA"]
+      }
+    },
+    {
+      "index": 6,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "&-uh bed !",
+      "dependent_tiers": {
+        "mor": ["n|bed !"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "xpho": ["<1w> bi"]
+      }
+    },
+    {
+      "index": 7,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "bed !",
+      "dependent_tiers": {
+        "mor": ["n|bed !"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "act": ["<aft> picks up nesting cup and manipulates"]
+      }
+    },
+    {
+      "index": 8,
+      "speaker": "MOT",
+      "role": "adult_caregiver",
+      "raw": "look at that !",
+      "dependent_tiers": {
+        "mor": ["v|look prep|at pro:dem|that !"],
+        "gra": ["1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT"],
+        "act": ["takes out bed and briefly holds out to Olivia"]
+      }
+    },
+    {
+      "index": 9,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "uhoh !",
+      "dependent_tiers": {
+        "mor": ["co|uhoh !"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "act": ["puts nesting cup down"]
+      }
+    },
+    {
+      "index": 10,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "people !",
+      "dependent_tiers": {
+        "mor": ["n|person&PL !"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"]
+      }
+    },
+    {
+      "index": 11,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "&-uh yyy brush ?",
+      "dependent_tiers": {
+        "mor": ["n|brush ?"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "act": ["touches bed"],
+        "xpho": ["<2w> du"]
+      }
+    },
+    {
+      "index": 12,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "bed ?",
+      "dependent_tiers": {
+        "mor": ["n|bed ?"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "xpho": ["<1w> be"]
+      }
+    },
+    {
+      "index": 13,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "my bed ?",
+      "dependent_tiers": {
+        "mor": ["det:poss|my n|bed ?"],
+        "gra": ["1|2|DET 2|0|INCROOT 3|2|PUNCT"],
+        "xpho": ["<2w> beI"]
+      }
+    },
+    {
+      "index": 14,
+      "speaker": "MOT",
+      "role": "adult_caregiver",
+      "raw": "yeah .",
+      "dependent_tiers": {
+        "mor": ["co|yeah ."],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "act": ["puts bed down by Olivia . picks up another bed and puts down by first one . takes out another bed , examines and puts down by others"]
+      }
+    },
+    {
+      "index": 15,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "yyy ?",
+      "dependent_tiers": {
+        "act": ["<aft> taps twice"],
+        "gpx": ["points to bed"],
+        "xpho": ["du"]
+      }
+    },
+    {
+      "index": 16,
+      "speaker": "MOT",
+      "role": "adult_caregiver",
+      "raw": "yeah here's some more people .",
+      "dependent_tiers": {
+        "mor": ["co|yeah pro:exist|here~cop|be&3S qn|some qn|more n|person&PL ."],
+        "gra": ["1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|QUANT 6|3|PRED 7|3|PUNCT"],
+        "act": ["takes men out and briefly holds out to Olivia . puts one on floor . puts another one down"]
+      }
+    },
+    {
+      "index": 17,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "more people ?",
+      "dependent_tiers": {
+        "mor": ["qn|more n|person&PL ?"],
+        "gra": ["1|2|QUANT 2|0|INCROOT 3|2|PUNCT"],
+        "act": ["<aft> reaches for men"]
+      }
+    },
+    {
+      "index": 18,
+      "speaker": "MOT",
+      "role": "adult_caregiver",
+      "raw": "what do you wanna do with them ?",
+      "dependent_tiers": {
+        "mor": ["pro:int|what mod|do pro:per|you v|want~inf|to v|do prep|with pro:obj|them ?"],
+        "gra": ["1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|7|POBJ 9|4|PUNCT"],
+        "act": ["takes more things out of dollhouse"]
+      }
+    },
+    {
+      "index": 19,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "&-uh boy !",
+      "dependent_tiers": {
+        "mor": ["co|boy !"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "act": ["picks up man and holds"]
+      }
+    },
+    {
+      "index": 20,
+      "speaker": "MOT",
+      "role": "adult_caregiver",
+      "raw": "here (.) let's set up the table .",
+      "dependent_tiers": {
+        "mor": ["adv|here v|let~pro:obj|us part|set&PASTP prep|up det:art|the n|table ."],
+        "gra": ["1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT"],
+        "act": ["<aft> holds table toward car , moves car and puts table on floor"]
+      }
+    },
+    {
+      "index": 21,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "that boy ?",
+      "dependent_tiers": {
+        "mor": ["det:dem|that n|boy ?"],
+        "gra": ["1|2|DET 2|0|INCROOT 3|2|PUNCT"],
+        "xpho": ["<1w> dat"]
+      }
+    },
+    {
+      "index": 22,
+      "speaker": "MOT",
+      "role": "adult_caregiver",
+      "raw": "yeah .",
+      "dependent_tiers": {
+        "mor": ["co|yeah ."],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"]
+      }
+    },
+    {
+      "index": 23,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "&-uh boy !",
+      "dependent_tiers": {
+        "mor": ["co|boy !"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "act": ["picks up car but man falls out . puts car on lap . puts man in car"]
+      }
+    },
+    {
+      "index": 24,
+      "speaker": "MOT",
+      "role": "adult_caregiver",
+      "raw": "here (.) like this .",
+      "dependent_tiers": {
+        "mor": ["adv|here prep|like pro:dem|this ."],
+        "gra": ["1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT"],
+        "act": ["<dur> picks up man in chair and puts down by table <bef> picks up man and puts down by table . takes away ."]
+      }
+    },
+    {
+      "index": 25,
+      "speaker": "MOT",
+      "role": "adult_caregiver",
+      "raw": "look .",
+      "dependent_tiers": {
+        "mor": ["co|look ."],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "act": ["<dur> picks up man in chair and puts down by table"]
+      }
+    },
+    {
+      "index": 26,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "the xxx other one .",
+      "dependent_tiers": {
+        "mor": ["det:art|the qn|other pro:indef|one ."],
+        "gra": ["1|3|DET 2|3|QUANT 3|0|INCROOT 4|3|PUNCT"],
+        "act": ["reaches for and picks up man"]
+      }
+    },
+    {
+      "index": 27,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "&-uh &-uh .",
+      "dependent_tiers": {
+        "act": ["attempts to put man in car and succeeds"]
+      }
+    },
+    {
+      "index": 28,
+      "speaker": "MOT",
+      "role": "adult_caregiver",
+      "raw": "should we open the door ?",
+      "dependent_tiers": {
+        "mor": ["mod|should pro:sub|we v|open det:art|the n|door ?"],
+        "gra": ["1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT"],
+        "act": ["opens door"]
+      }
+    },
+    {
+      "index": 29,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "(o)kay !",
+      "dependent_tiers": {
+        "mor": ["co|okay !"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"]
+      }
+    },
+    {
+      "index": 30,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "&-eh (.) &-uh (.) ah xxx (.) doggie get in .",
+      "dependent_tiers": {
+        "mor": ["co|ah n|dog-DIM v|get adv|in ."],
+        "gra": ["1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT"],
+        "act": ["<aft> touches dog in car . takes dog out <1w> picks up dog , attempts to put in car and succeeds ."]
+      }
+    },
+    {
+      "index": 31,
+      "speaker": "MOT",
+      "role": "adult_caregiver",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": ["picks up bed and puts in dollhouse . repeats two times"]
+      }
+    },
+    {
+      "index": 32,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "(o)kay .",
+      "dependent_tiers": {
+        "mor": ["co|okay ."],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "act": ["<aft> rights car . attempts to put man in car"]
+      }
+    },
+    {
+      "index": 33,
+      "speaker": "MOT",
+      "role": "adult_caregiver",
+      "raw": "this is a grill where they can cook things .",
+      "dependent_tiers": {
+        "mor": ["pro:dem|this cop|be&3S det:art|a n|grill pro:rel|where pro:sub|they mod|can v|cook n|thing-PL ."],
+        "gra": ["1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CMOD 9|8|OBJ 10|2|PUNCT"],
+        "gpx": ["points to grill two times"],
+        "act": ["picks up grill , shows Olivia briefly and puts down on floor"]
+      }
+    },
+    {
+      "index": 34,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "gpx": ["glances at grill , at car , at grill"]
+      }
+    },
+    {
+      "index": 35,
+      "speaker": "MOT",
+      "role": "adult_caregiver",
+      "raw": "see (.) the hot dogs ?",
+      "dependent_tiers": {
+        "mor": ["v|see det:art|the adj|hot n|dog-PL ?"],
+        "gra": ["1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT"],
+        "gpx": ["points to grill"]
+      }
+    },
+    {
+      "index": 36,
+      "speaker": "MOT",
+      "role": "adult_caregiver",
+      "raw": "hamburgers ?",
+      "dependent_tiers": {
+        "mor": ["n|hamburger-PL ?"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"]
+      }
+    },
+    {
+      "index": 37,
+      "speaker": "MOT",
+      "role": "adult_caregiver",
+      "raw": "steak ?",
+      "dependent_tiers": {
+        "mor": ["n|steak ?"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"]
+      }
+    },
+    {
+      "index": 38,
+      "speaker": "CHI",
+      "role": "target_child",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": ["succeeds in getting man in car"]
+      }
+    },
+    {
+      "index": 39,
+      "speaker": "MOT",
+      "role": "adult_caregiver",
+      "raw": "you see hot dogs on there ?",
+      "dependent_tiers": {
+        "mor": ["pro:per|you v|see adj|hot n|dog-PL prep|on n|there ?"],
+        "gra": ["1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|JCT 6|5|POBJ 7|2|PUNCT"],
+        "gpx": ["glances at Olivia"]
+      }
+    }
+  ]
+}

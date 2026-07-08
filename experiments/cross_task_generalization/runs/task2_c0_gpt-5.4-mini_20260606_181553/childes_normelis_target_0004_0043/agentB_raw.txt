@@ -1,0 +1,61 @@
+[
+  {
+    "event_type": "repetition",
+    "speaker_cue": "*CHI",
+    "utterance_index": 5,
+    "utterance_cue": "<what's that on> [/] <on the tabe> [//] <by the tabe> [//] by the window ?",
+    "source_text": "CHILD repetition/self-correction sequence: \"<what's that on> [/] <on the tabe> [//] <by the tabe> [//] by the window ?\""
+  },
+  {
+    "event_type": "repair",
+    "speaker_cue": "*CHI",
+    "utterance_index": 5,
+    "utterance_cue": "<what's that on> [/] <on the tabe> [//] <by the tabe> [//] by the window ?",
+    "source_text": "Self-repair with successive replacements: \"<what's that on> [/] <on the tabe> [//] <by the tabe> [//] by the window ?\""
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "*CHI",
+    "utterance_index": 4,
+    "utterance_cue": "a sticker &~a:h there right ?",
+    "source_text": "&~a:h"
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "*CHI",
+    "utterance_index": 20,
+    "utterance_cue": "<I just had a thing> [//] I just had a cough drop .",
+    "source_text": "(.)"
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "*CHI",
+    "utterance_index": 30,
+    "utterance_cue": "<put the> [/] the baby's diaper (.) that thing on (.) on the bum .",
+    "source_text": "(.)"
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "*CHI",
+    "utterance_index": 30,
+    "utterance_cue": "<put the> [/] the baby's diaper (.) that thing on (.) on the bum .",
+    "source_text": "(.)"
+  },
+  {
+    "event_type": "repair",
+    "speaker_cue": "*CHI",
+    "utterance_index": 20,
+    "utterance_cue": "<I just had a thing> [//] I just had a cough drop .",
+    "source_text": "<I just had a thing> [//] I just had a cough drop ."
+  },
+  {
+    "event_type": "repair",
+    "speaker_cue": "*CHI",
+    "utterance_index": 30,
+    "utterance_cue": "<put the> [/] the baby's diaper (.) that thing on (.) on the bum .",
+    "source_text": "<put the> [/] the baby's diaper (.) that thing on (.) on the bum ."
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"*CHI\",\n    \"utterance_index\": 5,\n    \"utterance_cue\": \"<what's that on> [/] <on the tabe> [//] <by the tabe> [//] by the window ?\",\n    \"source_text\": \"CHILD repetition/self-correction sequence: \\\"<what's that on> [/] <on the tabe> [//] <by the tabe> [//] by the window ?\\\"\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"*CHI\",\n    \"utterance_index\": 5,\n    \"utterance_cue\": \"<what's that on> [/] <on the tabe> [//] <by the tabe> [//] by the window ?\",\n    \"source_text\": \"Self-repair with successive replacements: \\\"<what's that on> [/] <on the tabe> [//] <by the tabe> [//] by the window ?\\\"\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"*CHI\",\n    \"utterance_index\": 4,\n    \"utterance_cue\": \"a sticker &~a:h there right ?\",\n    \"source_text\": \"&~a:h\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"*CHI\",\n    \"utterance_index\": 20,\n    \"utterance_cue\": \"<I just had a thing> [//] I just had a cough drop .\",\n    \"source_text\": \"(.)\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"*CHI\",\n    \"utterance_index\": 30,\n    \"utterance_cue\": \"<put the> [/] the baby's diaper (.) that thing on (.) on the bum .\",\n    \"source_text\": \"(.)\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"*CHI\",\n    \"utterance_index\": 20,\n    \"utterance_cue\": \"<I just had a thing> [//] I just had a cough drop .\",\n    \"source_text\": \"<I just had a thing> [//] I just had a cough drop .\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"*CHI\",\n    \"utterance_index\": 30,\n    \"utterance_cue\": \"<put the> [/] the baby's diaper (.) that thing on (.) on the bum .\",\n    \"source_text\": \"<put the> [/] the baby's diaper (.) that thing on (.) on the bum .\"\n  }\n]"}

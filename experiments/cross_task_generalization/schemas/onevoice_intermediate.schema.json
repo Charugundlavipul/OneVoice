@@ -1,0 +1,8 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OneVoice intermediate record used for C1/C2",
+  "description": "This documents the OneVoice subset used in the new experiments. Runtime validation uses validate_onevoice.py plus task-specific checks.",
+  "type": "object",
+  "required": ["session_id", "speakers", "turns", "metadata"],
+  "additionalProperties": true
+}

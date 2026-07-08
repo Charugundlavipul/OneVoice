@@ -1,0 +1,347 @@
+```json
+{
+  "session_id": "timit_FJAS0_chunk_1_1",
+  "session_date": "",
+  "sample_rate": 16000,
+  "audio_file_path": "",
+  "audio_format": "wav",
+  "session_duration": "00:00:05:939",
+  "speakers": [
+    {
+      "speaker_id": "FJAS0",
+      "gender": "other",
+      "language": "en",
+      "native_language": "english",
+      "accent": "",
+      "age": "",
+      "name": "",
+      "age_group": "adult"
+    }
+  ],
+  "turns": [
+    {
+      "turn_index": 1,
+      "utt_id": "FJAS0_SA2",
+      "speaker_id": "FJAS0",
+      "reference_transcript": "Don't ask me to carry an oily rag like that.",
+      "phoneme_reference": "",
+      "orthographic_transcript": "Don't ask me to carry an oily rag like that.",
+      "phonetic_transcript": "h# t ow nx ae s kcl k m iy dx ix kcl k eh r iy ix nx oy l iy r ae gcl g l ay kcl k dh ae tcl h#",
+      "ipa_transcript": "",
+      "raw_transcript": "Don't ask me to carry an oily rag like that.",
+      "start": "00:00:03:558",
+      "end": "00:00:05:939",
+      "word_alignments": [
+        {
+          "word": "don't",
+          "start": "00:00:03:696",
+          "end": "00:00:03:856",
+          "phonemes": [
+            {
+              "phone": "t",
+              "start": "00:00:03:696",
+              "end": "00:00:03:730"
+            },
+            {
+              "phone": "ow",
+              "start": "00:00:03:730",
+              "end": "00:00:03:826"
+            },
+            {
+              "phone": "nx",
+              "start": "00:00:03:826",
+              "end": "00:00:03:856"
+            }
+          ]
+        },
+        {
+          "word": "ask",
+          "start": "00:00:03:856",
+          "end": "00:00:04:131",
+          "phonemes": [
+            {
+              "phone": "ae",
+              "start": "00:00:03:856",
+              "end": "00:00:04:005"
+            },
+            {
+              "phone": "s",
+              "start": "00:00:04:005",
+              "end": "00:00:04:073"
+            },
+            {
+              "phone": "kcl",
+              "start": "00:00:04:073",
+              "end": "00:00:04:098"
+            },
+            {
+              "phone": "k",
+              "start": "00:00:04:098",
+              "end": "00:00:04:131"
+            }
+          ]
+        },
+        {
+          "word": "me",
+          "start": "00:00:04:131",
+          "end": "00:00:04:221",
+          "phonemes": [
+            {
+              "phone": "m",
+              "start": "00:00:04:131",
+              "end": "00:00:04:156"
+            },
+            {
+              "phone": "iy",
+              "start": "00:00:04:156",
+              "end": "00:00:04:221"
+            }
+          ]
+        },
+        {
+          "word": "to",
+          "start": "00:00:04:221",
+          "end": "00:00:04:301",
+          "phonemes": [
+            {
+              "phone": "dx",
+              "start": "00:00:04:221",
+              "end": "00:00:04:246"
+            },
+            {
+              "phone": "ix",
+              "start": "00:00:04:246",
+              "end": "00:00:04:301"
+            }
+          ]
+        },
+        {
+          "word": "carry",
+          "start": "00:00:04:301",
+          "end": "00:00:04:629",
+          "phonemes": [
+            {
+              "phone": "kcl",
+              "start": "00:00:04:301",
+              "end": "00:00:04:337"
+            },
+            {
+              "phone": "k",
+              "start": "00:00:04:337",
+              "end": "00:00:04:418"
+            },
+            {
+              "phone": "eh",
+              "start": "00:00:04:418",
+              "end": "00:00:04:477"
+            },
+            {
+              "phone": "r",
+              "start": "00:00:04:477",
+              "end": "00:00:04:553"
+            },
+            {
+              "phone": "iy",
+              "start": "00:00:04:553",
+              "end": "00:00:04:629"
+            }
+          ]
+        },
+        {
+          "word": "an",
+          "start": "00:00:04:629",
+          "end": "00:00:04:716",
+          "phonemes": [
+            {
+              "phone": "ix",
+              "start": "00:00:04:629",
+              "end": "00:00:04:686"
+            },
+            {
+              "phone": "nx",
+              "start": "00:00:04:686",
+              "end": "00:00:04:716"
+            }
+          ]
+        },
+        {
+          "word": "oily",
+          "start": "00:00:04:716",
+          "end": "00:00:04:989",
+          "phonemes": [
+            {
+              "phone": "oy",
+              "start": "00:00:04:716",
+              "end": "00:00:04:866"
+            },
+            {
+              "phone": "l",
+              "start": "00:00:04:866",
+              "end": "00:00:04:900"
+            },
+            {
+              "phone": "iy",
+              "start": "00:00:04:900",
+              "end": "00:00:04:989"
+            }
+          ]
+        },
+        {
+          "word": "rag",
+          "start": "00:00:04:989",
+          "end": "00:00:05:302",
+          "phonemes": [
+            {
+              "phone": "r",
+              "start": "00:00:04:989",
+              "end": "00:00:05:068"
+            },
+            {
+              "phone": "ae",
+              "start": "00:00:05:068",
+              "end": "00:00:05:251"
+            },
+            {
+              "phone": "gcl",
+              "start": "00:00:05:251",
+              "end": "00:00:05:281"
+            },
+            {
+              "phone": "g",
+              "start": "00:00:05:281",
+              "end": "00:00:05:302"
+            }
+          ]
+        },
+        {
+          "word": "like",
+          "start": "00:00:05:302",
+          "end": "00:00:05:566",
+          "phonemes": [
+            {
+              "phone": "l",
+              "start": "00:00:05:302",
+              "end": "00:00:05:360"
+            },
+            {
+              "phone": "ay",
+              "start": "00:00:05:360",
+              "end": "00:00:05:476"
+            },
+            {
+              "phone": "kcl",
+              "start": "00:00:05:476",
+              "end": "00:00:05:528"
+            },
+            {
+              "phone": "k",
+              "start": "00:00:05:528",
+              "end": "00:00:05:566"
+            }
+          ]
+        },
+        {
+          "word": "that",
+          "start": "00:00:05:566",
+          "end": "00:00:05:921",
+          "phonemes": [
+            {
+              "phone": "dh",
+              "start": "00:00:05:566",
+              "end": "00:00:05:605"
+            },
+            {
+              "phone": "ae",
+              "start": "00:00:05:605",
+              "end": "00:00:05:806"
+            },
+            {
+              "phone": "tcl",
+              "start": "00:00:05:806",
+              "end": "00:00:05:921"
+            }
+          ]
+        }
+      ],
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "long_word",
+          "start": "00:00:00:742",
+          "end": "00:00:01:070"
+        },
+        {
+          "type": "long_word",
+          "start": "00:00:01:431",
+          "end": "00:00:01:743"
+        },
+        {
+          "type": "long_word",
+          "start": "00:00:02:007",
+          "end": "00:00:02:362"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:01:158",
+          "end": "00:00:01:308"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:01:509",
+          "end": "00:00:01:692"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:02:046",
+          "end": "00:00:02:248"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:00:515",
+          "end": "00:00:00:539"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:00:742",
+          "end": "00:00:00:778"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:01:692",
+          "end": "00:00:01:722"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:01:918",
+          "end": "00:00:01:970"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:02:248",
+          "end": "00:00:02:362"
+        },
+        {
+          "type": "pause_silence_segment",
+          "start": "00:00:00:000",
+          "end": "00:00:00:138"
+        },
+        {
+          "type": "pause_silence_segment",
+          "start": "00:00:02:362",
+          "end": "00:00:02:380"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "dataset_name": "TIMIT",
+    "dataset_split": "TEST",
+    "text_annotation_source": "TIMIT .TXT/.WRD",
+    "text_annotation_details": "Human-aligned word intervals.",
+    "text_coverage": "full",
+    "phoneme_annotation_source": "TIMIT .PHN",
+    "phoneme_annotation_details": "Human-aligned phone intervals.",
+    "phoneme_coverage": "full"
+  }
+}
+```

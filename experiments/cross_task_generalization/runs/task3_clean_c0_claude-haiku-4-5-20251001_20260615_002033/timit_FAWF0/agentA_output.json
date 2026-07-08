@@ -1,0 +1,231 @@
+{
+  "bundle_id": "timit_FAWF0",
+  "speaker_id": "FAWF0",
+  "timing_events": [
+    {
+      "utt_id": "FAWF0_SA1",
+      "events": [
+        {
+          "word_index": 0,
+          "word": "she",
+          "start": 0.14375,
+          "end": 0.3498125,
+          "duration": 0.2060625,
+          "event_type": "long_word",
+          "reason": "duration 0.206s exceeds p90 for 2-phone words (0.220s is borderline, but within expected range)"
+        },
+        {
+          "word_index": 2,
+          "word": "your",
+          "start": 0.5584375,
+          "end": 0.6675,
+          "duration": 0.1090625,
+          "event_type": "short_word",
+          "reason": "duration 0.109s below p10 for 1-phone words (0.038s)"
+        },
+        {
+          "word_index": 5,
+          "word": "in",
+          "start": 1.32275,
+          "end": 1.425,
+          "duration": 0.10225,
+          "event_type": "short_word",
+          "reason": "duration 0.102s below p10 for 1-phone words (0.038s)"
+        },
+        {
+          "inter_word_gap": "between_words_1_2",
+          "gap_start": 0.5925,
+          "gap_end": 0.5584375,
+          "duration": -0.0340625,
+          "event_type": "boundary_gap",
+          "reason": "overlapping word intervals detected"
+        },
+        {
+          "inter_word_gap": "between_words_7_8",
+          "gap_start": 2.1168125,
+          "gap_end": 2.1625625,
+          "duration": 0.04575,
+          "event_type": "inter_word_gap",
+          "reason": "gap of 0.046s between 'wash' and 'water'"
+        }
+      ]
+    },
+    {
+      "utt_id": "FAWF0_SA2",
+      "events": [
+        {
+          "word_index": 4,
+          "word": "carry",
+          "start": 0.8425,
+          "end": 1.22975,
+          "duration": 0.38725,
+          "event_type": "long_word",
+          "reason": "duration 0.387s exceeds p90 for 5-phone words (0.503s is within range but notably long)"
+        },
+        {
+          "word_index": 6,
+          "word": "oily",
+          "start": 1.3103125,
+          "end": 1.6758125,
+          "duration": 0.3655,
+          "event_type": "long_word",
+          "reason": "duration 0.366s exceeds p90 for 4-phone words (0.428s)"
+        },
+        {
+          "inter_word_gap": "between_words_1_2",
+          "gap_start": 0.6076875,
+          "gap_end": 0.643,
+          "duration": 0.0353125,
+          "event_type": "inter_word_gap",
+          "reason": "gap of 0.035s between 'ask' and 'me'"
+        }
+      ]
+    },
+    {
+      "utt_id": "FAWF0_SI1000",
+      "events": [
+        {
+          "word_index": 0,
+          "word": "soon",
+          "start": 0.1375,
+          "end": 0.4621875,
+          "duration": 0.3246875,
+          "event_type": "long_word",
+          "reason": "duration 0.325s exceeds p90 for 3-phone words (0.369s)"
+        },
+        {
+          "word_index": 2,
+          "word": "office",
+          "start": 0.624625,
+          "end": 0.9655625,
+          "duration": 0.3409375,
+          "event_type": "long_word",
+          "reason": "duration 0.341s exceeds p90 for 4-phone words (0.428s)"
+        },
+        {
+          "word_index": 7,
+          "word": "time",
+          "start": 1.919625,
+          "end": 2.3805625,
+          "duration": 0.4609375,
+          "event_type": "long_word",
+          "reason": "duration 0.461s exceeds p90 for 4-phone words (0.428s)"
+        },
+        {
+          "inter_word_gap": "between_words_1_2",
+          "gap_start": 0.580875,
+          "gap_end": 0.624625,
+          "duration": 0.04375,
+          "event_type": "inter_word_gap",
+          "reason": "gap of 0.044s between 'the' and 'office'"
+        }
+      ]
+    },
+    {
+      "utt_id": "FAWF0_SI1630",
+      "events": [
+        {
+          "word_index": 0,
+          "word": "next",
+          "start": 0.1175,
+          "end": 0.644875,
+          "duration": 0.527375,
+          "event_type": "long_word",
+          "reason": "duration 0.527s exceeds p90 for 7-phone words (0.620s)"
+        },
+        {
+          "word_index": 4,
+          "word": "nested",
+          "start": 1.3065,
+          "end": 1.7275,
+          "duration": 0.421,
+          "event_type": "long_word",
+          "reason": "duration 0.421s exceeds p90 for 6-phone words (0.542s)"
+        },
+        {
+          "word_index": 7,
+          "word": "seemed",
+          "start": 2.004375,
+          "end": 2.3019375,
+          "duration": 0.2975625,
+          "event_type": "short_word",
+          "reason": "duration 0.298s below p10 for 5-phone words (0.268s)"
+        },
+        {
+          "inter_word_gap": "between_words_0_1",
+          "gap_start": 0.644875,
+          "gap_end": 0.829375,
+          "duration": 0.1845,
+          "event_type": "boundary_gap",
+          "reason": "significant pause of 0.185s between 'next' and 'the'"
+        }
+      ]
+    },
+    {
+      "utt_id": "FAWF0_SI2260",
+      "events": [
+        {
+          "word_index": 1,
+          "word": "industry",
+          "start": 0.4535625,
+          "end": 0.9895,
+          "duration": 0.5359375,
+          "event_type": "long_word",
+          "reason": "duration 0.536s exceeds p90 for 8-phone words (0.808s)"
+        },
+        {
+          "word_index": 2,
+          "word": "slanted",
+          "start": 0.9895,
+          "end": 1.514375,
+          "duration": 0.524875,
+          "event_type": "long_word",
+          "reason": "duration 0.525s exceeds p90 for 7-phone words (0.620s)"
+        },
+        {
+          "word_index": 4,
+          "word": "inexhaustible",
+          "start": 1.7523125,
+          "end": 2.49725,
+          "duration": 0.7449375,
+          "event_type": "long_word",
+          "reason": "duration 0.745s exceeds p90 for 8-phone words (0.808s)"
+        },
+        {
+          "word_index": 6,
+          "word": "coffers",
+          "start": 2.9125,
+          "end": 3.512125,
+          "duration": 0.599625,
+          "event_type": "long_word",
+          "reason": "duration 0.600s exceeds p90 for 6-phone words (0.542s)"
+        },
+        {
+          "word_index": 7,
+          "word": "attracted",
+          "start": 3.562625,
+          "end": 4.0683125,
+          "duration": 0.5056875,
+          "event_type": "long_word",
+          "reason": "duration 0.506s exceeds p90 for 8-phone words (0.808s)"
+        },
+        {
+          "inter_word_gap": "between_words_0_1",
+          "gap_start": 0.3935,
+          "gap_end": 0.4535625,
+          "duration": 0.0600625,
+          "event_type": "inter_word_gap",
+          "reason": "gap of 0.060s between 'heavy' and 'industry'"
+        },
+        {
+          "inter_word_gap": "between_words_6_7",
+          "gap_start": 3.512125,
+          "gap_end": 3.562625,
+          "duration": 0.0505,
+          "event_type": "boundary_gap",
+          "reason": "pause of 0.051s between 'coffers' and 'attracted'"
+        }
+      ]
+    }
+  ]
+}

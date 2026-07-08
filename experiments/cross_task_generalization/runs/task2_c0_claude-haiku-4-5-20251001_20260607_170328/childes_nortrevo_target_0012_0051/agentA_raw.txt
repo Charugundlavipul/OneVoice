@@ -1,0 +1,82 @@
+```json
+{
+  "window_id": "childes_nortrevo_target_0012_0051",
+  "source_file": "CHILDES/raw/childes/Eng-NA/Bliss/nortrevo.cha",
+  "speakers": [
+    {
+      "speaker_id": "CHI",
+      "role": "target_child",
+      "description": "Child participant"
+    },
+    {
+      "speaker_id": "JAC",
+      "role": "adult",
+      "description": "Adult interlocutor (Jackie)"
+    },
+    {
+      "speaker_id": "TRA",
+      "role": "adult",
+      "description": "Adult interlocutor (Trainer)"
+    },
+    {
+      "speaker_id": "HEI",
+      "role": "adult",
+      "description": "Adult interlocutor (Heidi)"
+    }
+  ],
+  "utterance_assignments": [
+    {"utt_index": 0, "speaker": "JAC", "turn": 1},
+    {"utt_index": 1, "speaker": "CHI", "turn": 1},
+    {"utt_index": 2, "speaker": "JAC", "turn": 2},
+    {"utt_index": 3, "speaker": "CHI", "turn": 2},
+    {"utt_index": 4, "speaker": "TRA", "turn": 1},
+    {"utt_index": 5, "speaker": "TRA", "turn": 2},
+    {"utt_index": 6, "speaker": "JAC", "turn": 3},
+    {"utt_index": 7, "speaker": "CHI", "turn": 3},
+    {"utt_index": 8, "speaker": "JAC", "turn": 4},
+    {"utt_index": 9, "speaker": "JAC", "turn": 5},
+    {"utt_index": 10, "speaker": "CHI", "turn": 4},
+    {"utt_index": 11, "speaker": "HEI", "turn": 1},
+    {"utt_index": 12, "speaker": "HEI", "turn": 2},
+    {"utt_index": 13, "speaker": "CHI", "turn": 5},
+    {"utt_index": 14, "speaker": "CHI", "turn": 6},
+    {"utt_index": 15, "speaker": "CHI", "turn": 7},
+    {"utt_index": 16, "speaker": "CHI", "turn": 8},
+    {"utt_index": 17, "speaker": "HEI", "turn": 3},
+    {"utt_index": 18, "speaker": "CHI", "turn": 9},
+    {"utt_index": 19, "speaker": "HEI", "turn": 4},
+    {"utt_index": 20, "speaker": "CHI", "turn": 10},
+    {"utt_index": 21, "speaker": "CHI", "turn": 11},
+    {"utt_index": 22, "speaker": "CHI", "turn": 12},
+    {"utt_index": 23, "speaker": "CHI", "turn": 13},
+    {"utt_index": 24, "speaker": "CHI", "turn": 14},
+    {"utt_index": 25, "speaker": "CHI", "turn": 15},
+    {"utt_index": 26, "speaker": "CHI", "turn": 16},
+    {"utt_index": 27, "speaker": "HEI", "turn": 5},
+    {"utt_index": 28, "speaker": "CHI", "turn": 17},
+    {"utt_index": 29, "speaker": "HEI", "turn": 6},
+    {"utt_index": 30, "speaker": "CHI", "turn": 18},
+    {"utt_index": 31, "speaker": "HEI", "turn": 7},
+    {"utt_index": 32, "speaker": "HEI", "turn": 8},
+    {"utt_index": 33, "speaker": "HEI", "turn": 9},
+    {"utt_index": 34, "speaker": "HEI", "turn": 10},
+    {"utt_index": 35, "speaker": "CHI", "turn": 19},
+    {"utt_index": 36, "speaker": "CHI", "turn": 20},
+    {"utt_index": 37, "speaker": "HEI", "turn": 11},
+    {"utt_index": 38, "speaker": "CHI", "turn": 21},
+    {"utt_index": 39, "speaker": "HEI", "turn": 12}
+  ],
+  "summary": {
+    "total_utterances": 40,
+    "total_speakers": 4,
+    "chi_turns": 21,
+    "adult_turns": 19,
+    "speaker_turn_counts": {
+      "CHI": 21,
+      "JAC": 5,
+      "TRA": 2,
+      "HEI": 12
+    }
+  }
+}
+```

@@ -1,0 +1,102 @@
+{
+  "interaction_events": [
+    {
+      "event_type": "repetition",
+      "utterance_index": 3,
+      "speaker": "MOT",
+      "source_text": "Mama .",
+      "note": "repeated at utterance_index 4"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 4,
+      "speaker": "MOT",
+      "source_text": "Mama .",
+      "note": "repetition of utterance_index 3"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 2,
+      "speaker": "MOT",
+      "source_text": "&~a &~ba [/] &~ba [/] &~ba [/] &~ba [/] &~ba .",
+      "note": "multiple repetitions marked with [/]"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 7,
+      "speaker": "MOT",
+      "source_text": "&~a &~ma [/] &~ma [/] &~ma [/] &~ma [/] &~ma .",
+      "note": "multiple repetitions marked with [/]"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 9,
+      "speaker": "MOT",
+      "source_text": "Mama .",
+      "note": "repetition of earlier utterances 3 and 4"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 27,
+      "speaker": "MOT",
+      "source_text": "Mum .",
+      "note": "repeated at utterance_index 28"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 28,
+      "speaker": "MOT",
+      "source_text": "Mum .",
+      "note": "repetition of utterance_index 27"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 33,
+      "speaker": "CHI",
+      "source_text": "&~hm [/] &~hm [/] &~hm .",
+      "note": "multiple repetitions marked with [/]"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 37,
+      "speaker": "MOT",
+      "source_text": "<good boy> [/] good boy .",
+      "note": "repetition marked with [/]"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 23,
+      "speaker": "CHI",
+      "source_text": "+< &~aa:r .",
+      "note": "overlap marker +< indicates simultaneous speech with previous MOT utterance"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 35,
+      "speaker": "MOT",
+      "source_text": "+< &=babbles .",
+      "note": "overlap marker +< indicates simultaneous speech with CHI utterance 34"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 5,
+      "speaker": "CHI",
+      "source_text": "&=shouts .",
+      "note": "non-speech vocalization event"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 32,
+      "speaker": "MOT",
+      "source_text": "&=clears:throat .",
+      "note": "non-speech vocalization event"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 34,
+      "speaker": "CHI",
+      "source_text": "&=babbles .",
+      "note": "non-speech vocalization event"
+    }
+  ]
+}

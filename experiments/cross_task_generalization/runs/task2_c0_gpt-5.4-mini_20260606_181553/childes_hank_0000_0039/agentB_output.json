@@ -1,0 +1,218 @@
+{
+  "events": [
+    {
+      "event_type": "pause",
+      "utterance_index": 0,
+      "speaker": "MOT",
+      "source_text": "uhuh (.) the other way !",
+      "cue": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 2,
+      "speaker": "MOT",
+      "source_text": "no (.) this [!] way .",
+      "cue": "(.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 2,
+      "speaker": "MOT",
+      "source_text": "no (.) this [!] way .",
+      "cue": "[!]",
+      "note": "transcript-encoded emphatic/marked token"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 7,
+      "speaker": "MOT",
+      "source_text": "like this .",
+      "cue": "<aft> / <bef> in act tier",
+      "note": "action tier timing markers"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 9,
+      "speaker": "MOT",
+      "source_text": "good [!] (.) Hank !",
+      "cue": "[!]",
+      "note": "transcript-encoded emphatic/marked token"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 9,
+      "speaker": "MOT",
+      "source_text": "good [!] (.) Hank !",
+      "cue": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 17,
+      "speaker": "MOT",
+      "source_text": "okay now (.) look !",
+      "cue": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 20,
+      "speaker": "MOT",
+      "source_text": "look (.) look (.) look !",
+      "cue": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 20,
+      "speaker": "MOT",
+      "source_text": "look (.) look (.) look !",
+      "cue": "(.)",
+      "note": "second pause marker"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 22,
+      "speaker": "CHI",
+      "source_text": "&-uh !",
+      "cue": "<dur> / <bef> in act tier",
+      "note": "action tier duration/before markers"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 25,
+      "speaker": "MOT",
+      "source_text": "like this (.) baby .",
+      "cue": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 28,
+      "speaker": "MOT",
+      "source_text": "okay (.) try it !",
+      "cue": "(.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 22,
+      "speaker": "CHI",
+      "source_text": "&-uh !",
+      "cue": "&-uh"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 36,
+      "speaker": "CHI",
+      "source_text": "&-uh ?",
+      "cue": "&-uh"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 20,
+      "speaker": "MOT",
+      "source_text": "look (.) look (.) look !",
+      "cue": "look ... look ... look"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 0,
+      "speaker": "MOT",
+      "source_text": "uhuh (.) the other way !",
+      "cue": "<bef> holds shape box object out to Hank",
+      "note": "action tier overlaps with adjacent child attempt"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 1,
+      "speaker": "CHI",
+      "source_text": "&-uh !",
+      "cue": "<dur> tries another hole <bef> takes object and attempts to put in shape box .",
+      "note": "action tier overlaps with speaker turn"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 7,
+      "speaker": "MOT",
+      "source_text": "like this .",
+      "cue": "<aft> holds object over hole and moves it in and out . holds object out to Hank <bef> takes object .",
+      "note": "action tier overlap markers"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 9,
+      "speaker": "MOT",
+      "source_text": "good [!] (.) Hank !",
+      "cue": "<bef> claps hands",
+      "note": "action tier overlap marker"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 20,
+      "speaker": "MOT",
+      "source_text": "look (.) look (.) look !",
+      "cue": "<1w> moves shape box closer to self .",
+      "note": "timed action overlap marker"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 21,
+      "speaker": "MOT",
+      "source_text": "in here !",
+      "cue": "<1w> holds shape box object over hole , moves it in and out and holds out to Hank",
+      "note": "timed action overlap marker"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 23,
+      "speaker": "MOT",
+      "source_text": "watch what you're doing !",
+      "cue": "dependent tier relation to ongoing action",
+      "note": "speaker warning during child attempt"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 26,
+      "speaker": "MOT",
+      "source_text": "look !",
+      "cue": "<aft> moves object in and out . let Hank take it . helps him",
+      "note": "action tier overlap marker"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 30,
+      "speaker": "MOT",
+      "source_text": "that was good [!] !",
+      "cue": "<bef> claps hands",
+      "note": "action tier overlap marker"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 31,
+      "speaker": "CHI",
+      "source_text": "&-uh .",
+      "cue": "<aft> holds arm out toward shape box objects",
+      "note": "action tier overlap marker"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 35,
+      "speaker": "MOT",
+      "source_text": "in this same one .",
+      "cue": "<1w> points to hole",
+      "note": "gesture overlaps with utterance"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 36,
+      "speaker": "CHI",
+      "source_text": "&-uh ?",
+      "cue": "<bef> holds object and examines",
+      "note": "action tier overlap marker"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 37,
+      "speaker": "MOT",
+      "source_text": "in this one .",
+      "cue": "points to hole",
+      "note": "gesture overlaps with utterance"
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "window_id": "childes_adam0916_target_0018_0057",
+  "source_file": "CHILDES/raw/childes/Eng-UK/Edinburgh/adam0916.cha",
+  "raw_chat": "*MOT:\t+< &=clears:throat .\n*CHI:\t&=various:noises .\n*CHI:\t&=blows:raspberry &~ee:r &=strange:breathing:noise .\n*MOT:\t+< &=babbles .\n*MOT:\t&~a Mama .\n%gra:\t1|0|INCROOT 2|1|PUNCT\n%mor:\tn:prop|Mama .\n*MOT:\t&~ba [/] &~ba [/] &~ba [/] &~ba [/] &~ba &~aba .\n*CHI:\t+< &=blows:raspberries .\n*CHI:\t&=blows:raspberries .\n*MOT:\t&~mm: &~amm: .\n*CHI:\t+< &=laughs .\n*MOT:\t&~a &~amm: .\n*CHI:\t+< &=laughs .\n*MOT:\t&~a &~mm: .\n*CHI:\t+< &=laughs .\n*MOT:\t&~aba .\n*MOT:\twhere you going ?\n%gra:\t1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT\n%mor:\tpro:int|where pro:per|you part|go-PRESP ?\n*MOT:\twhere you going ?\n%gra:\t1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT\n%mor:\tpro:int|where pro:per|you part|go-PRESP ?\n*MOT:\twhere you going ?\n%gra:\t1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT\n%mor:\tpro:int|where pro:per|you part|go-PRESP ?\n*MOT:\t&~aga .\n*CHI:\t+< &~g &~g .\n*MOT:\t&~ga give me a <highfive> [/] highfive [/] highfive .\n%gra:\t1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|1|PUNCT\n%mor:\tv|give pro:obj|me det:art|a n|+adj|high+n|five .\n*MOT:\twhoo, yay [=! clapping] !\n%gra:\t1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT\n%mor:\tco|whoo cm|cm co|yay !\n*MOT:\twhat can you see ?\n%gra:\t1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT\n%mor:\tpro:int|what mod|can pro:per|you v|see ?\n*MOT:\tshall we look at this then ?\n%gra:\t1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|3|PUNCT\n%mor:\tmod|shall pro:sub|we v|look prep|at pro:dem|this adv:tem|then ?\n*MOT:\t&=clears:throat .\n*MOT:\t&~amm: .\n*MOT:\twhere you going ?\n%gra:\t1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT\n%mor:\tpro:int|where pro:per|you part|go-PRESP ?\n*CHI:\t&~agum: &=blows:raspberries &~mu:m: .\n*MOT:\t&~mu:m: .\n*CHI:\t&=blows:raspberries .\n*CHI:\t&=blows:raspberries .\n*CHI:\t&=blows:raspberries .\n*CHI:\t&=blows:raspberries .\n*CHI:\t&=blows:raspberries .\n*CHI:\t&=blows:raspberries .\n*MOT:\to:w, that was sore .\n%gra:\t1|4|COM 2|1|LP 3|4|LINK 4|0|ROOT 5|4|PRED 6|4|PUNCT\n%mor:\tco|ow cm|cm pro:rel|that cop|be&PAST&13S adj|sore .\n*MOT:\tno, uh, no .\n%gra:\t1|0|INCROOT 2|1|LP 3|1|ENUM 4|3|LP 5|1|ENUM 6|1|PUNCT\n%mor:\tco|no cm|cm n|uh cm|cm co|no .\n*CHI:\t&=babbles .\n*MOT:\tno .\n%gra:\t1|0|INCROOT 2|1|PUNCT\n%mor:\tco|no .\n*CHI:\t&=blows:raspberries .",
+  "utterances": [
+    {
+      "utt_index": 0,
+      "speaker_hint": "MOT",
+      "raw": "+< &=clears:throat .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 1,
+      "speaker_hint": "CHI",
+      "raw": "&=various:noises .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 2,
+      "speaker_hint": "CHI",
+      "raw": "&=blows:raspberry &~ee:r &=strange:breathing:noise .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 3,
+      "speaker_hint": "MOT",
+      "raw": "+< &=babbles .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 4,
+      "speaker_hint": "MOT",
+      "raw": "&~a Mama .",
+      "dependent_tiers": {
+        "mor": [
+          "n:prop|Mama ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 5,
+      "speaker_hint": "MOT",
+      "raw": "&~ba [/] &~ba [/] &~ba [/] &~ba [/] &~ba &~aba .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 6,
+      "speaker_hint": "CHI",
+      "raw": "+< &=blows:raspberries .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 7,
+      "speaker_hint": "CHI",
+      "raw": "&=blows:raspberries .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 8,
+      "speaker_hint": "MOT",
+      "raw": "&~mm: &~amm: .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 9,
+      "speaker_hint": "CHI",
+      "raw": "+< &=laughs .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 10,
+      "speaker_hint": "MOT",
+      "raw": "&~a &~amm: .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 11,
+      "speaker_hint": "CHI",
+      "raw": "+< &=laughs .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 12,
+      "speaker_hint": "MOT",
+      "raw": "&~a &~mm: .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 13,
+      "speaker_hint": "CHI",
+      "raw": "+< &=laughs .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 14,
+      "speaker_hint": "MOT",
+      "raw": "&~aba .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 15,
+      "speaker_hint": "MOT",
+      "raw": "where you going ?",
+      "dependent_tiers": {
+        "mor": [
+          "pro:int|where pro:per|you part|go-PRESP ?"
+        ],
+        "gra": [
+          "1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 16,
+      "speaker_hint": "MOT",
+      "raw": "where you going ?",
+      "dependent_tiers": {
+        "mor": [
+          "pro:int|where pro:per|you part|go-PRESP ?"
+        ],
+        "gra": [
+          "1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 17,
+      "speaker_hint": "MOT",
+      "raw": "where you going ?",
+      "dependent_tiers": {
+        "mor": [
+          "pro:int|where pro:per|you part|go-PRESP ?"
+        ],
+        "gra": [
+          "1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 18,
+      "speaker_hint": "MOT",
+      "raw": "&~aga .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 19,
+      "speaker_hint": "CHI",
+      "raw": "+< &~g &~g .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 20,
+      "speaker_hint": "MOT",
+      "raw": "&~ga give me a <highfive> [/] highfive [/] highfive .",
+      "dependent_tiers": {
+        "mor": [
+          "v|give pro:obj|me det:art|a n|+adj|high+n|five ."
+        ],
+        "gra": [
+          "1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 21,
+      "speaker_hint": "MOT",
+      "raw": "whoo, yay [=! clapping] !",
+      "dependent_tiers": {
+        "mor": [
+          "co|whoo cm|cm co|yay !"
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 22,
+      "speaker_hint": "MOT",
+      "raw": "what can you see ?",
+      "dependent_tiers": {
+        "mor": [
+          "pro:int|what mod|can pro:per|you v|see ?"
+        ],
+        "gra": [
+          "1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 23,
+      "speaker_hint": "MOT",
+      "raw": "shall we look at this then ?",
+      "dependent_tiers": {
+        "mor": [
+          "mod|shall pro:sub|we v|look prep|at pro:dem|this adv:tem|then ?"
+        ],
+        "gra": [
+          "1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|3|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 24,
+      "speaker_hint": "MOT",
+      "raw": "&=clears:throat .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 25,
+      "speaker_hint": "MOT",
+      "raw": "&~amm: .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 26,
+      "speaker_hint": "MOT",
+      "raw": "where you going ?",
+      "dependent_tiers": {
+        "mor": [
+          "pro:int|where pro:per|you part|go-PRESP ?"
+        ],
+        "gra": [
+          "1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 27,
+      "speaker_hint": "CHI",
+      "raw": "&~agum: &=blows:raspberries &~mu:m: .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 28,
+      "speaker_hint": "MOT",
+      "raw": "&~mu:m: .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 29,
+      "speaker_hint": "CHI",
+      "raw": "&=blows:raspberries .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 30,
+      "speaker_hint": "CHI",
+      "raw": "&=blows:raspberries .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 31,
+      "speaker_hint": "CHI",
+      "raw": "&=blows:raspberries .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 32,
+      "speaker_hint": "CHI",
+      "raw": "&=blows:raspberries .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 33,
+      "speaker_hint": "CHI",
+      "raw": "&=blows:raspberries .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 34,
+      "speaker_hint": "CHI",
+      "raw": "&=blows:raspberries .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 35,
+      "speaker_hint": "MOT",
+      "raw": "o:w, that was sore .",
+      "dependent_tiers": {
+        "mor": [
+          "co|ow cm|cm pro:rel|that cop|be&PAST&13S adj|sore ."
+        ],
+        "gra": [
+          "1|4|COM 2|1|LP 3|4|LINK 4|0|ROOT 5|4|PRED 6|4|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 36,
+      "speaker_hint": "MOT",
+      "raw": "no, uh, no .",
+      "dependent_tiers": {
+        "mor": [
+          "co|no cm|cm n|uh cm|cm co|no ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|LP 3|1|ENUM 4|3|LP 5|1|ENUM 6|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 37,
+      "speaker_hint": "CHI",
+      "raw": "&=babbles .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 38,
+      "speaker_hint": "MOT",
+      "raw": "no .",
+      "dependent_tiers": {
+        "mor": [
+          "co|no ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 39,
+      "speaker_hint": "CHI",
+      "raw": "&=blows:raspberries .",
+      "dependent_tiers": {}
+    }
+  ]
+}

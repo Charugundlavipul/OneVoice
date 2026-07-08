@@ -1,0 +1,63 @@
+{
+  "events": [
+    {
+      "event_type": "pause",
+      "utterance_index": 6,
+      "speaker": "MOT",
+      "source_text": "good (.) yeah ."
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 39,
+      "speaker": "MOT",
+      "source_text": "okay (.) well we'd better put the dollies in the car (.) don't ya think ?",
+      "note": "first (.) pause in utterance"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 39,
+      "speaker": "MOT",
+      "source_text": "okay (.) well we'd better put the dollies in the car (.) don't ya think ?",
+      "note": "second (.) pause in utterance"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 14,
+      "speaker": "CHI",
+      "source_text": "[=! screams]"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 33,
+      "speaker": "CHI",
+      "source_text": "[=! little groan]"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 29,
+      "speaker": "CHI",
+      "source_text": "gpx: shakes head no"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 29,
+      "speaker": "CHI",
+      "source_text": "par: fusses"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 36,
+      "speaker": "CHI",
+      "source_text": "gpx: shakes head yes"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_indices": [
+        32,
+        34
+      ],
+      "speaker": "MOT",
+      "source_text": "you wanna take the dollies byebye ? (repeated across utterances 32 and 34)"
+    }
+  ]
+}

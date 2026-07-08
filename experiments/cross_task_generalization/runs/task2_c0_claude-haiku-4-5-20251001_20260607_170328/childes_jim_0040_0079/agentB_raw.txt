@@ -1,0 +1,60 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "pause",
+      "utterance_index": 6,
+      "speaker": "MOT",
+      "source_text": "can you say (.) +\"/.",
+      "description": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 8,
+      "speaker": "MOT",
+      "source_text": "take the red [!] one out !",
+      "related_utterance_index": 10,
+      "description": "Same utterance repeated at utterance 10"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 10,
+      "speaker": "MOT",
+      "source_text": "take the red [!] one out .",
+      "related_utterance_index": 8,
+      "description": "Repetition of utterance 8 with punctuation change"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 17,
+      "speaker": "CHI",
+      "source_text": "yyy big !",
+      "related_utterance_index": 20,
+      "description": "Same utterance repeated at utterance 20"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 20,
+      "speaker": "CHI",
+      "source_text": "yyy big !",
+      "related_utterance_index": 17,
+      "description": "Repetition of utterance 17"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 19,
+      "speaker": "MOT",
+      "source_text": "those are even bigger [!] (.) huh [!] ?",
+      "description": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 38,
+      "speaker": "MOT",
+      "source_text": "no ?",
+      "related_utterance_index": 37,
+      "description": "Repetition with rising intonation, echoing child's response"
+    }
+  ]
+}
+```

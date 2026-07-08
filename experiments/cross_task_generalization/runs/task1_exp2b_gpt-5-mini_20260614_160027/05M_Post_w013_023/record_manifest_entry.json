@@ -1,0 +1,108 @@
+{
+  "record_id": "05M_Post_w013_023",
+  "cohort": "balanced",
+  "dataset": "uxssd",
+  "mode": "experiment2_onevoice_pipeline_low_event",
+  "input_policy": {
+    "use_onevoice_schema": true,
+    "validator_in_loop": true,
+    "validator_command": "python validate_onevoice.py <generated_onevoice_record.json> --mode full",
+    "max_repair_rounds_per_agent": 3
+  },
+  "bundle_duration_s": 153.345,
+  "expected_proxy": {
+    "mispronunciation_events": 8,
+    "behavioral_events": 8,
+    "note": "small-scale bundle selection (5-10 behavioral, 5-10 mispronunciation)"
+  },
+  "utterances": [
+    {
+      "utt": "05M-Post-013A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 12.678,
+      "mispronunciation_proxy_events": 3,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/05M/05M-Post-013A.json"
+    },
+    {
+      "utt": "05M-Post-014A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 14.489,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/05M/05M-Post-014A.json"
+    },
+    {
+      "utt": "05M-Post-015A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 13.282,
+      "mispronunciation_proxy_events": 1,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/05M/05M-Post-015A.json"
+    },
+    {
+      "utt": "05M-Post-016A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 16.904,
+      "mispronunciation_proxy_events": 1,
+      "behavioral_event_proxy_events": 3,
+      "onevoice_json": "ultrasuite/output/uxssd/05M/05M-Post-016A.json"
+    },
+    {
+      "utt": "05M-Post-017A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 33.205,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/05M/05M-Post-017A.json"
+    },
+    {
+      "utt": "05M-Post-018A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 15.093,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/05M/05M-Post-018A.json"
+    },
+    {
+      "utt": "05M-Post-019A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 12.678,
+      "mispronunciation_proxy_events": 3,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/05M/05M-Post-019A.json"
+    },
+    {
+      "utt": "05M-Post-020A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 10.867,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/05M/05M-Post-020A.json"
+    },
+    {
+      "utt": "05M-Post-021E",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 4.83,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/05M/05M-Post-021E.json"
+    },
+    {
+      "utt": "05M-Post-022A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 10.867,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/05M/05M-Post-022A.json"
+    },
+    {
+      "utt": "05M-Post-023A",
+      "speaker_id": "05M_CHILD",
+      "duration_s": 8.452,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 5,
+      "onevoice_json": "ultrasuite/output/uxssd/05M/05M-Post-023A.json"
+    }
+  ]
+}

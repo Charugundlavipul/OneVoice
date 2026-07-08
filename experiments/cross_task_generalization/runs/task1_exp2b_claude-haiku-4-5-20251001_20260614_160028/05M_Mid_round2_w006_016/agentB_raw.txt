@@ -1,0 +1,273 @@
+```json
+{
+  "session_id": "05M_Mid_round2_w006_016",
+  "session_date": "2018-11-06",
+  "sample_rate": 22050,
+  "audio_file_path": "",
+  "audio_format": "wav",
+  "session_duration": "00:02:29:722",
+  "speakers": [
+    {
+      "speaker_id": "05M_CHILD",
+      "gender": "male",
+      "language": "en",
+      "age_group": "child",
+      "age": 6.42
+    }
+  ],
+  "turns": [
+    {
+      "turn_index": 0,
+      "utt_id": "05M-Mid_round2-006A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "egg splash square pig",
+      "orthographic_transcript": "EGG SPLASH SQUARE PIG",
+      "phonetic_transcript": "[sil] E [sil] g [sil] [sil] s p 5 a S [sil] s k w E@ r [sil] p I g [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "EGG SPLASH SQUARE PIG",
+      "start": "00:00:00:000",
+      "end": "00:00:16:904",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "ɛ",
+          "observed_phone": "E",
+          "start": "00:00:00:500",
+          "end": "00:00:01:200"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 1,
+      "utt_id": "05M-Mid_round2-007A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "gloves queen three frog",
+      "orthographic_transcript": "GLOVES QUEEN THREE FROG",
+      "phonetic_transcript": "[sil] g [sil] 5 V v z [sil] k w i n [sil] T r i [sil] [sil] f r O g [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "GLOVES QUEEN THREE FROG",
+      "start": "00:00:16:904",
+      "end": "00:00:38:034",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "θ",
+          "observed_phone": "T",
+          "start": "00:00:28:500",
+          "end": "00:00:29:100"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 2,
+      "utt_id": "05M-Mid_round2-008A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "yellow strawberry spider web",
+      "orthographic_transcript": "YELLOW STRAWBERRY SPIDER WEB",
+      "phonetic_transcript": "[sil] j E 5 @U [sil] s t [sil] r O b @ r i [sil] s p ae d @ r [sil] w E [sil] b [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "YELLOW STRAWBERRY SPIDER WEB",
+      "start": "00:00:38:034",
+      "end": "00:00:53:731",
+      "word_alignments": [],
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 3,
+      "utt_id": "05M-Mid_round2-009A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "sheep snake pram feather",
+      "orthographic_transcript": "SHEEP SNAKE PRAM FEATHER",
+      "phonetic_transcript": "[sil] S i p [sil] s n eI k [sil] [sil] p r a m [sil] f E D [sil] @ r [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "SHEEP SNAKE PRAM FEATHER",
+      "start": "00:00:53:731",
+      "end": "00:01:08:220",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "ʃ",
+          "observed_phone": "S",
+          "start": "00:00:54:200",
+          "end": "00:00:54:700"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "ð",
+          "observed_phone": "D",
+          "start": "00:01:05:500",
+          "end": "00:01:06:100"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 4,
+      "utt_id": "05M-Mid_round2-010A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "tomato monkey toothbrush apple",
+      "orthographic_transcript": "TOMATO MONKEY TOOTHBRUSH APPLE",
+      "phonetic_transcript": "[sil] t @ m a t @U [sil] m V N k i [sil] t u T [sil] b r V S [sil] a [sil] p @ 5 [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "TOMATO MONKEY TOOTHBRUSH APPLE",
+      "start": "00:01:08:220",
+      "end": "00:01:22:106",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "θ",
+          "observed_phone": "T",
+          "start": "00:01:14:800",
+          "end": "00:01:15:400"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "ʃ",
+          "observed_phone": "S",
+          "start": "00:01:16:900",
+          "end": "00:01:17:500"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 5,
+      "utt_id": "05M-Mid_round2-011A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "knife van ear this",
+      "orthographic_transcript": "KNIFE VAN EAR THIS",
+      "phonetic_transcript": "[sil] n aI f [sil] [sil] v a n [sil] I@ r [sil] D I s [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "KNIFE VAN EAR THIS",
+      "start": "00:01:22:106",
+      "end": "00:01:37:199",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "ð",
+          "observed_phone": "D",
+          "start": "00:01:33:800",
+          "end": "00:01:34:400"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 6,
+      "utt_id": "05M-Mid_round2-012A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "scissors fishing lighthouse zebra",
+      "orthographic_transcript": "SCISSORS FISHING LIGHTHOUSE ZEBRA",
+      "phonetic_transcript": "[sil] s I z @ r z [sil] f I [sil] S I N [sil] [sil] 5 [sil] aI t h aU s [sil] z i b [sil] r @ [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "SCISSORS FISHING LIGHTHOUSE ZEBRA",
+      "start": "00:01:37:199",
+      "end": "00:01:52:896",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "ʃ",
+          "observed_phone": "S",
+          "start": "00:01:42:300",
+          "end": "00:01:42:900"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 7,
+      "utt_id": "05M-Mid_round2-013A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "kitchen sausage tiger rabbit",
+      "orthographic_transcript": "KITCHEN SAUSAGE TIGER RABBIT",
+      "phonetic_transcript": "[sil] k I tS I n [sil] s O s I dZ [sil] t ae g @ r [sil] r a b I t [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "KITCHEN SAUSAGE TIGER RABBIT",
+      "start": "00:01:52:896",
+      "end": "00:02:04:970",
+      "word_alignments": [],
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 8,
+      "utt_id": "05M-Mid_round2-014A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "book boy",
+      "orthographic_transcript": "BOOK BOY",
+      "phonetic_transcript": "[sil] b u [sil] k [sil] b OI [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "BOOK BOY",
+      "start": "00:02:04:970",
+      "end": "00:02:15:233",
+      "word_alignments": [],
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 9,
+      "utt_id": "05M-Mid_round2-015E",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "swallow",
+      "orthographic_transcript": "",
+      "phonetic_transcript": "",
+      "ipa_transcript": "",
+      "raw_transcript": "",
+      "start": "00:02:15:233",
+      "end": "00:02:18:855",
+      "word_alignments": [],
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "other_speaker_activity",
+          "start": "00:02:15:233",
+          "end": "00:02:18:855",
+          "notes": "no response/non-attempt"
+        }
+      ]
+    },
+    {
+      "turn_index": 10,
+      "utt_id": "05M-Mid_round2-016A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "tore keep thicker kitten",
+      "orthographic_transcript": "TORE KEEP THICKER KITTEN",
+      "phonetic_transcript": "[sil] t [sil] @U r [sil] k i p [sil] T I k @ r [sil] k I t n= [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "TORE KEEP THICKER KITTEN",
+      "start": "00:02:18:855",
+      "end": "00:02:29:722",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "θ",
+          "observed_phone": "T",
+          "start": "00:02:23:200",
+          "end": "00:02:23:800"
+        }
+      ],
+      "behavioral_events": []
+    }
+  ],
+  "metadata": {
+    "dataset_name": "uxssd",
+    "dataset_split": "",
+    "text_annotation_source": "human",
+    "text_annotation_details": "manual transcription",
+    "text_coverage": "full",
+    "phoneme_annotation_source": "machine",
+    "phoneme_annotation_details": "Kaldi forced alignment (PF-STAR recipe)",
+    "phoneme_coverage": "full"
+  }
+}
+```

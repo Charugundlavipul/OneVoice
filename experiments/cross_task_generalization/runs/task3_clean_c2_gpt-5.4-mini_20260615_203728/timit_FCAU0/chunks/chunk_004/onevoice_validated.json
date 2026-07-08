@@ -1,0 +1,345 @@
+{
+  "session_id": "timit_FCAU0_chunk_4_4",
+  "session_date": "",
+  "sample_rate": 16000,
+  "audio_file_path": "",
+  "audio_format": "wav",
+  "session_duration": "00:00:18:643",
+  "speakers": [
+    {
+      "speaker_id": "FCAU0",
+      "gender": "other",
+      "language": "en",
+      "native_language": "english",
+      "accent": "",
+      "age": "",
+      "name": "",
+      "age_group": "adult"
+    }
+  ],
+  "turns": [
+    {
+      "turn_index": 4,
+      "utt_id": "FCAU0_SI2297",
+      "speaker_id": "FCAU0",
+      "reference_transcript": "One could hear a very faint, ladylike sigh of relief.",
+      "phoneme_reference": "",
+      "orthographic_transcript": "One could hear a very faint, ladylike sigh of relief.",
+      "phonetic_transcript": "h# w ah ng kcl k ih dcl hv ih r er v eh r ih f ey n tcl pau l ey dx iy l ay kcl k s ay ix v r iy l iy f h#",
+      "ipa_transcript": "",
+      "raw_transcript": "One could hear a very faint, ladylike sigh of relief.",
+      "start": "00:00:15:200",
+      "end": "00:00:18:643",
+      "word_alignments": [
+        {
+          "word": "one",
+          "start": "00:00:15:330",
+          "end": "00:00:15:459",
+          "phonemes": [
+            {
+              "phone": "w",
+              "start": "00:00:15:330",
+              "end": "00:00:15:370"
+            },
+            {
+              "phone": "ah",
+              "start": "00:00:15:370",
+              "end": "00:00:15:418"
+            },
+            {
+              "phone": "ng",
+              "start": "00:00:15:418",
+              "end": "00:00:15:459"
+            }
+          ]
+        },
+        {
+          "word": "could",
+          "start": "00:00:15:459",
+          "end": "00:00:15:605",
+          "phonemes": [
+            {
+              "phone": "kcl",
+              "start": "00:00:15:459",
+              "end": "00:00:15:508"
+            },
+            {
+              "phone": "k",
+              "start": "00:00:15:508",
+              "end": "00:00:15:531"
+            },
+            {
+              "phone": "ih",
+              "start": "00:00:15:531",
+              "end": "00:00:15:580"
+            },
+            {
+              "phone": "dcl",
+              "start": "00:00:15:580",
+              "end": "00:00:15:605"
+            }
+          ]
+        },
+        {
+          "word": "hear",
+          "start": "00:00:15:605",
+          "end": "00:00:15:845",
+          "phonemes": [
+            {
+              "phone": "hv",
+              "start": "00:00:15:605",
+              "end": "00:00:15:727"
+            },
+            {
+              "phone": "ih",
+              "start": "00:00:15:727",
+              "end": "00:00:15:788"
+            },
+            {
+              "phone": "r",
+              "start": "00:00:15:788",
+              "end": "00:00:15:845"
+            }
+          ]
+        },
+        {
+          "word": "a",
+          "start": "00:00:15:845",
+          "end": "00:00:15:929",
+          "phonemes": [
+            {
+              "phone": "er",
+              "start": "00:00:15:845",
+              "end": "00:00:15:929"
+            }
+          ]
+        },
+        {
+          "word": "very",
+          "start": "00:00:15:929",
+          "end": "00:00:16:271",
+          "phonemes": [
+            {
+              "phone": "v",
+              "start": "00:00:15:929",
+              "end": "00:00:16:017"
+            },
+            {
+              "phone": "eh",
+              "start": "00:00:16:017",
+              "end": "00:00:16:097"
+            },
+            {
+              "phone": "r",
+              "start": "00:00:16:097",
+              "end": "00:00:16:177"
+            },
+            {
+              "phone": "ih",
+              "start": "00:00:16:177",
+              "end": "00:00:16:271"
+            }
+          ]
+        },
+        {
+          "word": "faint",
+          "start": "00:00:16:271",
+          "end": "00:00:16:728",
+          "phonemes": [
+            {
+              "phone": "f",
+              "start": "00:00:16:271",
+              "end": "00:00:16:433"
+            },
+            {
+              "phone": "ey",
+              "start": "00:00:16:433",
+              "end": "00:00:16:597"
+            },
+            {
+              "phone": "n",
+              "start": "00:00:16:597",
+              "end": "00:00:16:638"
+            },
+            {
+              "phone": "tcl",
+              "start": "00:00:16:638",
+              "end": "00:00:16:728"
+            }
+          ]
+        },
+        {
+          "word": "ladylike",
+          "start": "00:00:16:812",
+          "end": "00:00:17:445",
+          "phonemes": [
+            {
+              "phone": "l",
+              "start": "00:00:16:812",
+              "end": "00:00:16:876"
+            },
+            {
+              "phone": "ey",
+              "start": "00:00:16:876",
+              "end": "00:00:17:002"
+            },
+            {
+              "phone": "dx",
+              "start": "00:00:17:002",
+              "end": "00:00:17:024"
+            },
+            {
+              "phone": "iy",
+              "start": "00:00:17:024",
+              "end": "00:00:17:103"
+            },
+            {
+              "phone": "l",
+              "start": "00:00:17:103",
+              "end": "00:00:17:188"
+            },
+            {
+              "phone": "ay",
+              "start": "00:00:17:188",
+              "end": "00:00:17:358"
+            },
+            {
+              "phone": "kcl",
+              "start": "00:00:17:358",
+              "end": "00:00:17:424"
+            },
+            {
+              "phone": "k",
+              "start": "00:00:17:424",
+              "end": "00:00:17:445"
+            }
+          ]
+        },
+        {
+          "word": "sigh",
+          "start": "00:00:17:445",
+          "end": "00:00:17:736",
+          "phonemes": [
+            {
+              "phone": "s",
+              "start": "00:00:17:445",
+              "end": "00:00:17:568"
+            },
+            {
+              "phone": "ay",
+              "start": "00:00:17:568",
+              "end": "00:00:17:736"
+            }
+          ]
+        },
+        {
+          "word": "of",
+          "start": "00:00:17:736",
+          "end": "00:00:17:912",
+          "phonemes": [
+            {
+              "phone": "ix",
+              "start": "00:00:17:736",
+              "end": "00:00:17:818"
+            },
+            {
+              "phone": "v",
+              "start": "00:00:17:818",
+              "end": "00:00:17:912"
+            }
+          ]
+        },
+        {
+          "word": "relief",
+          "start": "00:00:17:912",
+          "end": "00:00:18:501",
+          "phonemes": [
+            {
+              "phone": "r",
+              "start": "00:00:17:912",
+              "end": "00:00:17:963"
+            },
+            {
+              "phone": "iy",
+              "start": "00:00:17:963",
+              "end": "00:00:18:005"
+            },
+            {
+              "phone": "l",
+              "start": "00:00:18:005",
+              "end": "00:00:18:083"
+            },
+            {
+              "phone": "iy",
+              "start": "00:00:18:083",
+              "end": "00:00:18:274"
+            },
+            {
+              "phone": "f",
+              "start": "00:00:18:274",
+              "end": "00:00:18:501"
+            }
+          ]
+        }
+      ],
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "short_word",
+          "start": "00:00:00:645",
+          "end": "00:00:00:729"
+        },
+        {
+          "type": "long_word",
+          "start": "00:00:01:611",
+          "end": "00:00:02:245"
+        },
+        {
+          "type": "boundary_gap",
+          "start": "00:00:01:528",
+          "end": "00:00:01:611"
+        },
+        {
+          "type": "boundary_gap",
+          "start": "00:00:00:000",
+          "end": "00:00:00:130"
+        },
+        {
+          "type": "boundary_gap",
+          "start": "00:00:03:301",
+          "end": "00:00:03:440"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:00:258",
+          "end": "00:00:00:308"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:00:380",
+          "end": "00:00:00:404"
+        },
+        {
+          "type": "short_phone",
+          "start": "00:00:01:802",
+          "end": "00:00:01:824"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:02:158",
+          "end": "00:00:02:224"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "dataset_name": "TIMIT",
+    "dataset_split": "TEST",
+    "text_annotation_source": "TIMIT .TXT/.WRD",
+    "text_annotation_details": "Human-aligned word intervals.",
+    "text_coverage": "full",
+    "phoneme_annotation_source": "TIMIT .PHN",
+    "phoneme_annotation_details": "Human-aligned phone intervals.",
+    "phoneme_coverage": "full"
+  }
+}

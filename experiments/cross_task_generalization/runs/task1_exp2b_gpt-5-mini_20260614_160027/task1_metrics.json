@@ -1,0 +1,15 @@
+{
+  "mean_event_count_precision": 0.877,
+  "mean_event_count_recall": 0.869,
+  "mean_event_count_f1": 0.873,
+  "mean_event_count_mae": 3.47,
+  "valid_rate": 1.0,
+  "rows": 15,
+  "path": "experiments/cross_task_generalization/runs/task1_exp2b_gpt-5-mini_20260614_160027/task1_metrics.json",
+  "task": "task1_uxssd",
+  "condition": "exp2b",
+  "model": "gpt-5-mini",
+  "gold_count": 206,
+  "gold_mispronunciation": 94,
+  "gold_behavioral": 112
+}

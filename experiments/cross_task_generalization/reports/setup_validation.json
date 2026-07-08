@@ -1,0 +1,44 @@
+{
+  "ok": true,
+  "errors": [],
+  "task2": {
+    "manifest_windows": 75,
+    "source_files": 38,
+    "gold_files": 75,
+    "event_distribution": {
+      "non_speech": 385,
+      "overlap": 71,
+      "pause": 248,
+      "repair": 23,
+      "repetition": 164
+    }
+  },
+  "task3": {
+    "manifest_bundles": 40,
+    "speakers": 40,
+    "gold_files": 40,
+    "event_distribution": {
+      "boundary_gap": 369,
+      "closure_segment": 1069,
+      "glottal_stop": 200,
+      "inter_word_gap": 172,
+      "long_phone": 1011,
+      "long_word": 255,
+      "pause_silence_segment": 545,
+      "short_phone": 662,
+      "short_word": 129
+    }
+  },
+  "onevoice_checks": [
+    {
+      "task": "task2_childes",
+      "ok": true,
+      "log_tail": "Validating experiments\\cross_task_generalization\\reports\\onevoice_check_task2\\candidate.json...\nValidation SUCCESSFUL: Structure and Constraints passed.\n"
+    },
+    {
+      "task": "task3_timit",
+      "ok": true,
+      "log_tail": "Validating experiments\\cross_task_generalization\\reports\\onevoice_check_task3\\candidate.json...\nValidation SUCCESSFUL: Structure and Constraints passed.\n"
+    }
+  ]
+}

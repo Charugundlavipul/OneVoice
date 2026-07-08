@@ -1,0 +1,121 @@
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "speaker_cue": "CHI",
+      "utterance_cues": [
+        15,
+        16
+      ],
+      "source_text": "*CHI:\tI want a balloon .\n*CHI:\tI want a balloon ."
+    },
+    {
+      "event_type": "repair",
+      "speaker_cue": "CHI",
+      "utterance_cues": [
+        1
+      ],
+      "source_text": "*CHI:\ta circle a Oma an(d) Opa .",
+      "note": "self-repair/adjustment in noun phrase; 'Oma' and 'Opa' appear as corrected or elaborated target terms"
+    },
+    {
+      "event_type": "repair",
+      "speaker_cue": "CHI",
+      "utterance_cues": [
+        20
+      ],
+      "source_text": "*CHI:\tDaddy change my [/] my blanket .",
+      "note": "retracing/restart indicated by [/]"
+    },
+    {
+      "event_type": "non_speech",
+      "speaker_cue": "CHI",
+      "utterance_cue": 5,
+      "source_text": "*CHI:\thard !\n%com:\t<1w> Having difficulty in standing up on the bed"
+    },
+    {
+      "event_type": "non_speech",
+      "speaker_cue": "CHI",
+      "utterance_cue": 10,
+      "source_text": "*CHI:\twhere's that ?\n%xpho:\t<2w> d&et",
+      "note": "phonetic/non-lexical annotation in xpho"
+    },
+    {
+      "event_type": "non_speech",
+      "speaker_cue": "CHI",
+      "utterance_cue": 12,
+      "source_text": "*CHI:\toh oh !\n%act:\tA snap from Marjorie's sleeper came undone and her father snapped it together again ."
+    },
+    {
+      "event_type": "non_speech",
+      "speaker_cue": "CHI",
+      "utterance_cue": 14,
+      "source_text": "*CHI:\tsnack !\n%xpho:\tEchoic attempt of snap sound",
+      "note": "echoic/phonetic attempt"
+    },
+    {
+      "event_type": "non_speech",
+      "speaker_cue": "CHI",
+      "utterance_cue": 17,
+      "source_text": "*CHI:\tcome Daddy come .\n%act:\t<1w> Getting out of bed"
+    },
+    {
+      "event_type": "non_speech",
+      "speaker_cue": "CHI",
+      "utterance_cue": 18,
+      "source_text": "*CHI:\tI'm dry .\n%sit:\t<1w> In her bed+room"
+    },
+    {
+      "event_type": "non_speech",
+      "speaker_cue": "CHI",
+      "utterance_cue": 22,
+      "source_text": "*CHI:\tI want a sit in da [: the] bed .\n%act:\t<1w> Picking up her blanket off of her bed"
+    },
+    {
+      "event_type": "non_speech",
+      "speaker_cue": "CHI",
+      "utterance_cue": 29,
+      "source_text": "*CHI:\tbacking downstairs .\n%exp:\t<1w> vacuuming"
+    },
+    {
+      "event_type": "non_speech",
+      "speaker_cue": "CHI",
+      "utterance_cue": 30,
+      "source_text": "*CHI:\ta fork .\n%act:\t<1w> Picking up plastic fork"
+    },
+    {
+      "event_type": "non_speech",
+      "speaker_cue": "MOT",
+      "utterance_cue": 11,
+      "source_text": "*MOT:\tmatches .\n%xpho:\t<2w> d&et"
+    },
+    {
+      "event_type": "non_speech",
+      "speaker_cue": "CHI",
+      "utterance_cue": 25,
+      "source_text": "*CHI:\tits &~unch time .",
+      "note": "embedded non-lexical/phonological fragment in raw transcript"
+    },
+    {
+      "event_type": "pause",
+      "speaker_cue": "CHI",
+      "utterance_cue": 25,
+      "source_text": "*CHI:\tits &~unch time .",
+      "note": "fragmentary token may indicate hesitation or cut-off"
+    },
+    {
+      "event_type": "overlap",
+      "speaker_cue": "CHI",
+      "utterance_cue": 20,
+      "source_text": "*CHI:\tDaddy change my [/] my blanket .",
+      "note": "repeated/overlapping self-initiated reformulation within same utterance"
+    },
+    {
+      "event_type": "overlap",
+      "speaker_cue": "CHI",
+      "utterance_cue": 15,
+      "source_text": "*CHI:\tI want a balloon .\n%xpho:\t<3w> e <4w> b&un ,",
+      "note": "xpho timing suggests overlap with phonetic rendering"
+    }
+  ]
+}

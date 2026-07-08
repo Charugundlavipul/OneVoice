@@ -1,0 +1,294 @@
+{
+  "bundle_id": "timit_FJCS0",
+  "speaker_id": "FJCS0",
+  "timing_events": [
+    {
+      "utt_id": "FJCS0_SA1",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 3,
+          "word": "dark",
+          "start": 0.7325,
+          "end": 1.04,
+          "duration": 0.3075,
+          "phone_count": 6,
+          "threshold_p90": 0.3694375,
+          "severity": "moderate"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "greasy",
+          "start": 1.4725,
+          "end": 1.8625,
+          "duration": 0.39,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "severity": "mild"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            7,
+            8
+          ],
+          "gap_start": 2.228375,
+          "gap_end": 2.2718125,
+          "duration": 0.0434375,
+          "context": "wash → water"
+        },
+        {
+          "event_type": "boundary_gap",
+          "gap_type": "inter_utterance_pause",
+          "start": 2.5875,
+          "end": 2.7675,
+          "duration": 0.18,
+          "between_words": [
+            8,
+            9
+          ],
+          "context": "water → all"
+        }
+      ]
+    },
+    {
+      "utt_id": "FJCS0_SA2",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "carry",
+          "start": 0.7520625,
+          "end": 1.0756875,
+          "duration": 0.323625,
+          "phone_count": 5,
+          "threshold_p90": 0.503275,
+          "severity": "mild"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "oily",
+          "start": 1.1508125,
+          "end": 1.50125,
+          "duration": 0.3504375,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "severity": "moderate"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "rag",
+          "start": 1.50125,
+          "end": 1.83025,
+          "duration": 0.329,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "severity": "mild"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 9,
+          "word": "that",
+          "start": 2.0374375,
+          "end": 2.4475,
+          "duration": 0.4100625,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "severity": "mild"
+        }
+      ]
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "events": [
+        {
+          "event_type": "short_word",
+          "word_index": 0,
+          "word": "the",
+          "start": 0.1425,
+          "end": 0.185375,
+          "duration": 0.042875,
+          "phone_count": 2,
+          "threshold_p10": 0.0675,
+          "severity": "moderate"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 2,
+          "word": "quality",
+          "start": 0.4325,
+          "end": 0.8775,
+          "duration": 0.445,
+          "phone_count": 8,
+          "threshold_p90": 0.808275,
+          "severity": "mild"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 3,
+          "word": "products",
+          "start": 0.8775,
+          "end": 1.3825,
+          "duration": 0.505,
+          "phone_count": 9,
+          "threshold_p90": 0.808275,
+          "severity": "mild"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "these",
+          "start": 1.8355,
+          "end": 2.1459375,
+          "duration": 0.3104375,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "severity": "mild"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 8,
+          "word": "lines",
+          "start": 2.1459375,
+          "end": 2.558875,
+          "duration": 0.4129375,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "severity": "mild"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 9,
+          "word": "contain",
+          "start": 2.558875,
+          "end": 3.0234375,
+          "duration": 0.4645625,
+          "phone_count": 8,
+          "threshold_p90": 0.808275,
+          "severity": "mild"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 10,
+          "word": "phosphate",
+          "start": 3.0234375,
+          "end": 3.6725,
+          "duration": 0.6490625,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "severity": "high"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 11,
+          "word": "builders",
+          "start": 3.6725,
+          "end": 4.2194375,
+          "duration": 0.5469375,
+          "phone_count": 7,
+          "threshold_p90": 0.6202625,
+          "severity": "mild"
+        }
+      ]
+    },
+    {
+      "utt_id": "FJCS0_SI1833",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 5,
+          "word": "patsy",
+          "start": 0.9875,
+          "end": 1.4675,
+          "duration": 0.48,
+          "phone_count": 7,
+          "threshold_p90": 0.6202625,
+          "severity": "mild"
+        },
+        {
+          "event_type": "boundary_gap",
+          "gap_type": "inter_utterance_pause",
+          "start": 1.4675,
+          "end": 2.355,
+          "duration": 0.8875,
+          "word_index": 5,
+          "context": "end of utterance"
+        }
+      ]
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "events": [
+        {
+          "event_type": "short_word",
+          "word_index": 0,
+          "word": "put",
+          "start": 0.1525,
+          "end": 0.2525,
+          "duration": 0.1,
+          "phone_count": 3,
+          "threshold_p10": 0.1350625,
+          "severity": "mild"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 5,
+          "word": "corduroy",
+          "start": 1.0689375,
+          "end": 1.5375,
+          "duration": 0.4685625,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "severity": "mild"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "coat",
+          "start": 1.5375,
+          "end": 1.9385,
+          "duration": 0.401,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "severity": "mild"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 10,
+          "word": "already",
+          "start": 2.212875,
+          "end": 2.5475,
+          "duration": 0.334625,
+          "phone_count": 5,
+          "threshold_p90": 0.503275,
+          "severity": "mild"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 11,
+          "word": "soaked",
+          "start": 2.5475,
+          "end": 3.0466875,
+          "duration": 0.4991875,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "severity": "high"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_utterances": 5,
+    "total_events": 28,
+    "long_word_events": 24,
+    "short_word_events": 2,
+    "inter_word_gap_events": 1,
+    "boundary_gap_events": 2,
+    "high_severity_events": 2,
+    "moderate_severity_events": 3,
+    "mild_severity_events": 19
+  }
+}

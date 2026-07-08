@@ -1,0 +1,662 @@
+{
+  "window_id": "childes_adam0917_target_0009_0048",
+  "source_file": "CHILDES/raw/childes/Eng-UK/Edinburgh/adam0917.cha",
+  "speakers": [
+    {
+      "id": "MOT",
+      "label": "MOT",
+      "role": "mother",
+      "utterance_count": 33,
+      "turn_count": 8
+    },
+    {
+      "id": "CHI",
+      "label": "CHI",
+      "role": "child",
+      "utterance_count": 7,
+      "turn_count": 7
+    }
+  ],
+  "total_utterances": 40,
+  "total_turns": 15,
+  "utterances": [
+    {
+      "utt_index": 0,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "oh are you still sleepy ?",
+      "dependent_tiers": {
+        "mor": [
+          "co|oh aux|be&PRES pro:per|you adv|still adj|sleep&dn-Y ?"
+        ],
+        "gra": [
+          "1|2|COM 2|0|ROOT 3|5|SUBJ 4|5|JCT 5|2|PRED 6|2|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 1,
+      "speaker": "CHI",
+      "role": "child",
+      "raw": "&=coo .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 2,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "&~u: .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 3,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "ugh .",
+      "dependent_tiers": {
+        "mor": [
+          "co|ugh ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "com": [
+          "mother making sound as she moves ."
+        ]
+      }
+    },
+    {
+      "utt_index": 4,
+      "speaker": "CHI",
+      "role": "child",
+      "raw": "&~a: .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 5,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "whee .",
+      "dependent_tiers": {
+        "mor": [
+          "co|whee ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 6,
+      "speaker": "CHI",
+      "role": "child",
+      "raw": "&=babble .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 7,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "okay .",
+      "dependent_tiers": {
+        "mor": [
+          "co|okay ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 8,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "oh where're you going ?",
+      "dependent_tiers": {
+        "mor": [
+          "co|oh pro:int|where~aux|be&PRES pro:per|you part|go-PRESP ?"
+        ],
+        "gra": [
+          "1|5|COM 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 9,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "where're you going ?",
+      "dependent_tiers": {
+        "mor": [
+          "pro:int|where~aux|be&PRES pro:per|you part|go-PRESP ?"
+        ],
+        "gra": [
+          "1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 10,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "ooh there you go .",
+      "dependent_tiers": {
+        "mor": [
+          "v|ooh adv|there pro:per|you v|go ."
+        ],
+        "gra": [
+          "1|0|ROOT 2|1|JCT 3|4|SUBJ 4|1|COMP 5|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 11,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "there you go .",
+      "dependent_tiers": {
+        "mor": [
+          "adv|there pro:per|you v|go ."
+        ],
+        "gra": [
+          "1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 12,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "oh dear .",
+      "dependent_tiers": {
+        "mor": [
+          "co|oh n|dear ."
+        ],
+        "gra": [
+          "1|2|COM 2|0|INCROOT 3|2|PUNCT"
+        ],
+        "com": [
+          "baby is crying a little ."
+        ]
+      }
+    },
+    {
+      "utt_index": 13,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "come on .",
+      "dependent_tiers": {
+        "mor": [
+          "v|come adv|on ."
+        ],
+        "gra": [
+          "1|0|ROOT 2|1|JCT 3|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 14,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "come on .",
+      "dependent_tiers": {
+        "mor": [
+          "v|come adv|on ."
+        ],
+        "gra": [
+          "1|0|ROOT 2|1|JCT 3|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 15,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "oh &~abababababa .",
+      "dependent_tiers": {
+        "mor": [
+          "co|oh ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 16,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "&~aba .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 17,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "oh, okay so what are we gonna [: going to ] do today ?",
+      "dependent_tiers": {
+        "mor": [
+          "co|oh cm|cm adj|okay adv|so pro:int|what cop|be&PRES pro:sub|we part|go-PRESP inf|to v|do adv:tem|today ?"
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|LP 3|1|ENUM 4|6|JCT 5|6|SUBJ 6|3|CMOD 7|6|PRED 8|7|XMOD 9|10|INF 10|8|COMP 11|10|JCT 12|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 18,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "what are we gonna [: going to ] do ?",
+      "dependent_tiers": {
+        "mor": [
+          "pro:int|what cop|be&PRES pro:sub|we part|go-PRESP inf|to v|do ?"
+        ],
+        "gra": [
+          "1|2|LINK 2|0|ROOT 3|2|PRED 4|3|XMOD 5|6|INF 6|4|COMP 7|2|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 19,
+      "speaker": "CHI",
+      "role": "child",
+      "raw": "&=coughs .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 20,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "oh cough [/] cough .",
+      "dependent_tiers": {
+        "mor": [
+          "co|oh n|cough ."
+        ],
+        "gra": [
+          "1|2|COM 2|0|INCROOT 3|2|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 21,
+      "speaker": "CHI",
+      "role": "child",
+      "raw": "&=babble &~abu .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 22,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "&~abu: .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 23,
+      "speaker": "CHI",
+      "role": "child",
+      "raw": "&=babble .",
+      "dependent_tiers": {
+        "com": [
+          "baby babbling and blowing rasberries for a prolonged time ."
+        ]
+      }
+    },
+    {
+      "utt_index": 24,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "is that right ?",
+      "dependent_tiers": {
+        "mor": [
+          "cop|be&3S comp|that co|right ?"
+        ],
+        "gra": [
+          "1|0|ROOT 2|4|LINK 3|4|COM 4|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 25,
+      "speaker": "CHI",
+      "role": "child",
+      "raw": "&=babble .",
+      "dependent_tiers": {
+        "com": [
+          "baby babbling and blowing rasberries for a prolonged time ."
+        ]
+      }
+    },
+    {
+      "utt_index": 26,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "hello .",
+      "dependent_tiers": {
+        "mor": [
+          "co|hello ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 27,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "hello .",
+      "dependent_tiers": {
+        "mor": [
+          "co|hello ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 28,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "hm .",
+      "dependent_tiers": {
+        "mor": [
+          "co|hm ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 29,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "highfive .",
+      "dependent_tiers": {
+        "mor": [
+          "n|+adj|high+n|five ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 30,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "ooh .",
+      "dependent_tiers": {
+        "mor": [
+          "v|ooh ."
+        ],
+        "gra": [
+          "1|0|ROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 31,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "ooh .",
+      "dependent_tiers": {
+        "mor": [
+          "v|ooh ."
+        ],
+        "gra": [
+          "1|0|ROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 32,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "highfive .",
+      "dependent_tiers": {
+        "mor": [
+          "n|+adj|high+n|five ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 33,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "yeah .",
+      "dependent_tiers": {
+        "mor": [
+          "co|yeah ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 34,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "yeah .",
+      "dependent_tiers": {
+        "mor": [
+          "co|yeah ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 35,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "&~m &~m &~m: [=! singing] .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 36,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "&~la &~la &~la [=! singing] .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 37,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "&~la &~la &~la &~la [=! singing] .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 38,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "&~a !",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 39,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "oh: .",
+      "dependent_tiers": {
+        "mor": [
+          "co|oh ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    }
+  ],
+  "turns": [
+    {
+      "turn_index": 1,
+      "speaker": "MOT",
+      "utterance_indices": [
+        0
+      ],
+      "start_utt": 0,
+      "end_utt": 0
+    },
+    {
+      "turn_index": 2,
+      "speaker": "CHI",
+      "utterance_indices": [
+        1
+      ],
+      "start_utt": 1,
+      "end_utt": 1
+    },
+    {
+      "turn_index": 3,
+      "speaker": "MOT",
+      "utterance_indices": [
+        2,
+        3
+      ],
+      "start_utt": 2,
+      "end_utt": 3
+    },
+    {
+      "turn_index": 4,
+      "speaker": "CHI",
+      "utterance_indices": [
+        4
+      ],
+      "start_utt": 4,
+      "end_utt": 4
+    },
+    {
+      "turn_index": 5,
+      "speaker": "MOT",
+      "utterance_indices": [
+        5
+      ],
+      "start_utt": 5,
+      "end_utt": 5
+    },
+    {
+      "turn_index": 6,
+      "speaker": "CHI",
+      "utterance_indices": [
+        6
+      ],
+      "start_utt": 6,
+      "end_utt": 6
+    },
+    {
+      "turn_index": 7,
+      "speaker": "MOT",
+      "utterance_indices": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "start_utt": 7,
+      "end_utt": 18
+    },
+    {
+      "turn_index": 8,
+      "speaker": "CHI",
+      "utterance_indices": [
+        19
+      ],
+      "start_utt": 19,
+      "end_utt": 19
+    },
+    {
+      "turn_index": 9,
+      "speaker": "MOT",
+      "utterance_indices": [
+        20
+      ],
+      "start_utt": 20,
+      "end_utt": 20
+    },
+    {
+      "turn_index": 10,
+      "speaker": "CHI",
+      "utterance_indices": [
+        21
+      ],
+      "start_utt": 21,
+      "end_utt": 21
+    },
+    {
+      "turn_index": 11,
+      "speaker": "MOT",
+      "utterance_indices": [
+        22
+      ],
+      "start_utt": 22,
+      "end_utt": 22
+    },
+    {
+      "turn_index": 12,
+      "speaker": "CHI",
+      "utterance_indices": [
+        23
+      ],
+      "start_utt": 23,
+      "end_utt": 23
+    },
+    {
+      "turn_index": 13,
+      "speaker": "MOT",
+      "utterance_indices": [
+        24
+      ],
+      "start_utt": 24,
+      "end_utt": 24
+    },
+    {
+      "turn_index": 14,
+      "speaker": "CHI",
+      "utterance_indices": [
+        25
+      ],
+      "start_utt": 25,
+      "end_utt": 25
+    },
+    {
+      "turn_index": 15,
+      "speaker": "MOT",
+      "utterance_indices": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39
+      ],
+      "start_utt": 26,
+      "end_utt": 39
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+[
+  {
+    "event_type": "non_speech",
+    "utterance_index": 2,
+    "speaker": "CHI",
+    "source_text": "<1w> Left the study and came back again ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 4,
+    "speaker": "MOT",
+    "source_text": "Downstairs watching Sesame Street"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 12,
+    "speaker": "CHI",
+    "source_text": "<1w> Concepts of up and down with the zipper were shown"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 17,
+    "speaker": "MOT",
+    "source_text": "Ernie had said he wanted to play baseball but it was raining ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 24,
+    "speaker": "MOT",
+    "source_text": "Looking outside window"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 27,
+    "speaker": "CHI",
+    "source_text": "<3w> der"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 29,
+    "speaker": "CHI",
+    "source_text": "<1w> A pull along toy of Humpty Dumpty"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 30,
+    "speaker": "CHI",
+    "source_text": "<1w> Trying to get picture stickers together"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 31,
+    "speaker": "MOT",
+    "source_text": "Pointing to Halloween clown suit"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 32,
+    "speaker": "CHI",
+    "source_text": "<2w> Kevn"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 34,
+    "speaker": "CHI",
+    "source_text": "<1w> Church Halloween party for children"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 35,
+    "speaker": "CHI",
+    "source_text": "<1w> Pointing to these parts with reference to make+up she had on at the party"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 38,
+    "speaker": "CHI",
+    "source_text": "<and then>"
+  },
+  {
+    "event_type": "repair",
+    "utterance_index": 38,
+    "speaker": "CHI",
+    "source_text": "[//]"
+  }
+]
+
+[JSON_REPAIRED]
+{
+  "events": [
+    {
+      "event_type": "non_speech",
+      "utterance_index": 2,
+      "speaker": "CHI",
+      "source_text": "<1w> Left the study and came back again ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 4,
+      "speaker": "MOT",
+      "source_text": "Downstairs watching Sesame Street"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 12,
+      "speaker": "CHI",
+      "source_text": "<1w> Concepts of up and down with the zipper were shown"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 17,
+      "speaker": "MOT",
+      "source_text": "Ernie had said he wanted to play baseball but it was raining ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 24,
+      "speaker": "MOT",
+      "source_text": "Looking outside window"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 27,
+      "speaker": "CHI",
+      "source_text": "<3w> der"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 29,
+      "speaker": "CHI",
+      "source_text": "<1w> A pull along toy of Humpty Dumpty"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 30,
+      "speaker": "CHI",
+      "source_text": "<1w> Trying to get picture stickers together"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 31,
+      "speaker": "MOT",
+      "source_text": "Pointing to Halloween clown suit"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 32,
+      "speaker": "CHI",
+      "source_text": "<2w> Kevn"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 34,
+      "speaker": "CHI",
+      "source_text": "<1w> Church Halloween party for children"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 35,
+      "speaker": "CHI",
+      "source_text": "<1w> Pointing to these parts with reference to make+up she had on at the party"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 38,
+      "speaker": "CHI",
+      "source_text": "<and then>"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 38,
+      "speaker": "CHI",
+      "source_text": "[//]"
+    }
+  ]
+}

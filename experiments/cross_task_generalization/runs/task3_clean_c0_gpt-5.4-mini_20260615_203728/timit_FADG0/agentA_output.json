@@ -1,0 +1,543 @@
+{
+  "speaker_id": "FADG0",
+  "bundle_id": "timit_FADG0",
+  "rules": {
+    "long_word": "word_duration > p90(global word duration)",
+    "short_word": "word_duration < p10(global word duration)",
+    "inter_word_gap": "gap between adjacent word intervals > 0",
+    "boundary_gap": "gap at utterance edges (initial/final silence)"
+  },
+  "events": [
+    {
+      "utt_id": "FADG0_SA1",
+      "word_index": -1,
+      "word": "<BOUNDARY>",
+      "start": 0.0,
+      "end": 0.1325,
+      "duration": 0.1325,
+      "event_type": "boundary_gap"
+    },
+    {
+      "utt_id": "FADG0_SA1",
+      "word_index": 0,
+      "word": "she",
+      "start": 0.1325,
+      "end": 0.3025,
+      "duration": 0.17,
+      "event_type": "short_word"
+    },
+    {
+      "utt_id": "FADG0_SA1",
+      "word_index": 1,
+      "word": "had",
+      "start": 0.3025,
+      "end": 0.547,
+      "duration": 0.2445,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA1",
+      "word_index": 2,
+      "word": "your",
+      "start": 0.547,
+      "end": 0.66575,
+      "duration": 0.11875,
+      "event_type": "short_word"
+    },
+    {
+      "utt_id": "FADG0_SA1",
+      "word_index": 3,
+      "word": "dark",
+      "start": 0.66575,
+      "end": 0.975,
+      "duration": 0.30925,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA1",
+      "word_index": 4,
+      "word": "suit",
+      "start": 0.975,
+      "end": 1.3368125,
+      "duration": 0.3618125,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA1",
+      "word_index": 5,
+      "word": "in",
+      "start": 1.3368125,
+      "end": 1.5038125,
+      "duration": 0.167,
+      "event_type": "short_word"
+    },
+    {
+      "utt_id": "FADG0_SA1",
+      "word_index": 6,
+      "word": "greasy",
+      "start": 1.5038125,
+      "end": 1.8775,
+      "duration": 0.3736875,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA1",
+      "word_index": 7,
+      "word": "wash",
+      "start": 1.8775,
+      "end": 2.2428125,
+      "duration": 0.3653125,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA1",
+      "word_index": -1,
+      "word": "<GAP>",
+      "start": 2.2428125,
+      "end": 2.274125,
+      "duration": 0.0313125,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FADG0_SA1",
+      "word_index": 8,
+      "word": "water",
+      "start": 2.274125,
+      "end": 2.5398125,
+      "duration": 0.2656875,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA1",
+      "word_index": -1,
+      "word": "<GAP>",
+      "start": 2.5398125,
+      "end": 2.581375,
+      "duration": 0.0415625,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FADG0_SA1",
+      "word_index": 9,
+      "word": "all",
+      "start": 2.581375,
+      "end": 2.7766875,
+      "duration": 0.1953125,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA1",
+      "word_index": 10,
+      "word": "year",
+      "start": 2.7766875,
+      "end": 3.1425,
+      "duration": 0.3658125,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA1",
+      "word_index": -1,
+      "word": "<BOUNDARY>",
+      "start": 3.1425,
+      "end": 3.44,
+      "duration": 0.2975,
+      "event_type": "boundary_gap"
+    },
+    {
+      "utt_id": "FADG0_SA2",
+      "word_index": -1,
+      "word": "<BOUNDARY>",
+      "start": 0.0,
+      "end": 0.133125,
+      "duration": 0.133125,
+      "event_type": "boundary_gap"
+    },
+    {
+      "utt_id": "FADG0_SA2",
+      "word_index": 0,
+      "word": "don't",
+      "start": 0.133125,
+      "end": 0.3524375,
+      "duration": 0.2193125,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA2",
+      "word_index": 1,
+      "word": "ask",
+      "start": 0.3524375,
+      "end": 0.6625,
+      "duration": 0.3100625,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA2",
+      "word_index": 2,
+      "word": "me",
+      "start": 0.6625,
+      "end": 0.7675,
+      "duration": 0.105,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA2",
+      "word_index": 3,
+      "word": "to",
+      "start": 0.7675,
+      "end": 0.8625,
+      "duration": 0.095,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA2",
+      "word_index": 4,
+      "word": "carry",
+      "start": 0.8625,
+      "end": 1.203625,
+      "duration": 0.341125,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA2",
+      "word_index": 5,
+      "word": "an",
+      "start": 1.203625,
+      "end": 1.3125,
+      "duration": 0.108875,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA2",
+      "word_index": 6,
+      "word": "oily",
+      "start": 1.3125,
+      "end": 1.639625,
+      "duration": 0.327125,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA2",
+      "word_index": 7,
+      "word": "rag",
+      "start": 1.639625,
+      "end": 1.9843125,
+      "duration": 0.3446875,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA2",
+      "word_index": 8,
+      "word": "like",
+      "start": 1.9843125,
+      "end": 2.203625,
+      "duration": 0.2193125,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA2",
+      "word_index": 9,
+      "word": "that",
+      "start": 2.203625,
+      "end": 2.56875,
+      "duration": 0.365125,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SA2",
+      "word_index": -1,
+      "word": "<BOUNDARY>",
+      "start": 2.56875,
+      "end": 2.63,
+      "duration": 0.06125,
+      "event_type": "boundary_gap"
+    },
+    {
+      "utt_id": "FADG0_SI1279",
+      "word_index": -1,
+      "word": "<BOUNDARY>",
+      "start": 0.0,
+      "end": 0.1375,
+      "duration": 0.1375,
+      "event_type": "boundary_gap"
+    },
+    {
+      "utt_id": "FADG0_SI1279",
+      "word_index": 0,
+      "word": "bricks",
+      "start": 0.1375,
+      "end": 0.4635,
+      "duration": 0.326,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SI1279",
+      "word_index": 1,
+      "word": "are",
+      "start": 0.4635,
+      "end": 0.7023125,
+      "duration": 0.2388125,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SI1279",
+      "word_index": 2,
+      "word": "an",
+      "start": 0.7023125,
+      "end": 0.8025,
+      "duration": 0.1001875,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SI1279",
+      "word_index": 3,
+      "word": "alternative",
+      "start": 0.8025,
+      "end": 1.6475,
+      "duration": 0.845,
+      "event_type": "long_word"
+    },
+    {
+      "utt_id": "FADG0_SI1279",
+      "word_index": -1,
+      "word": "<BOUNDARY>",
+      "start": 1.6475,
+      "end": 1.815,
+      "duration": 0.1675,
+      "event_type": "boundary_gap"
+    },
+    {
+      "utt_id": "FADG0_SI1909",
+      "word_index": -1,
+      "word": "<BOUNDARY>",
+      "start": 0.0,
+      "end": 0.1425,
+      "duration": 0.1425,
+      "event_type": "boundary_gap"
+    },
+    {
+      "utt_id": "FADG0_SI1909",
+      "word_index": 0,
+      "word": "fat",
+      "start": 0.1425,
+      "end": 0.4595,
+      "duration": 0.317,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SI1909",
+      "word_index": 1,
+      "word": "showed",
+      "start": 0.4595,
+      "end": 0.9346875,
+      "duration": 0.4751875,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SI1909",
+      "word_index": 2,
+      "word": "in",
+      "start": 0.9346875,
+      "end": 1.11225,
+      "duration": 0.1775625,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SI1909",
+      "word_index": 3,
+      "word": "loose",
+      "start": 1.11225,
+      "end": 1.4595,
+      "duration": 0.34725,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SI1909",
+      "word_index": 4,
+      "word": "rolls",
+      "start": 1.4595,
+      "end": 1.8375,
+      "duration": 0.378,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SI1909",
+      "word_index": 5,
+      "word": "beneath",
+      "start": 1.8375,
+      "end": 2.2675,
+      "duration": 0.43,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SI1909",
+      "word_index": 6,
+      "word": "the",
+      "start": 2.2675,
+      "end": 2.3125,
+      "duration": 0.045,
+      "event_type": "short_word"
+    },
+    {
+      "utt_id": "FADG0_SI1909",
+      "word_index": 7,
+      "word": "shirt",
+      "start": 2.3125,
+      "end": 2.72875,
+      "duration": 0.41625,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SI1909",
+      "word_index": -1,
+      "word": "<BOUNDARY>",
+      "start": 2.72875,
+      "end": 2.79,
+      "duration": 0.06125,
+      "event_type": "boundary_gap"
+    },
+    {
+      "utt_id": "FADG0_SI649",
+      "word_index": -1,
+      "word": "<BOUNDARY>",
+      "start": 0.0,
+      "end": 0.1475,
+      "duration": 0.1475,
+      "event_type": "boundary_gap"
+    },
+    {
+      "utt_id": "FADG0_SI649",
+      "word_index": 0,
+      "word": "it",
+      "start": 0.1475,
+      "end": 0.22975,
+      "duration": 0.08225,
+      "event_type": "short_word"
+    },
+    {
+      "utt_id": "FADG0_SI649",
+      "word_index": 1,
+      "word": "suffers",
+      "start": 0.22975,
+      "end": 0.6945,
+      "duration": 0.46475,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SI649",
+      "word_index": 2,
+      "word": "from",
+      "start": 0.6945,
+      "end": 0.8925,
+      "duration": 0.198,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SI649",
+      "word_index": 3,
+      "word": "a",
+      "start": 0.8925,
+      "end": 0.9675,
+      "duration": 0.075,
+      "event_type": "short_word"
+    },
+    {
+      "utt_id": "FADG0_SI649",
+      "word_index": 4,
+      "word": "lack",
+      "start": 0.9675,
+      "end": 1.2871875,
+      "duration": 0.3196875,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SI649",
+      "word_index": 5,
+      "word": "of",
+      "start": 1.2871875,
+      "end": 1.415125,
+      "duration": 0.1279375,
+      "event_type": "short_word"
+    },
+    {
+      "utt_id": "FADG0_SI649",
+      "word_index": 6,
+      "word": "unity",
+      "start": 1.415125,
+      "end": 1.90075,
+      "duration": 0.485625,
+      "event_type": "long_word"
+    },
+    {
+      "utt_id": "FADG0_SI649",
+      "word_index": 7,
+      "word": "of",
+      "start": 1.90075,
+      "end": 2.02,
+      "duration": 0.11925,
+      "event_type": "short_word"
+    },
+    {
+      "utt_id": "FADG0_SI649",
+      "word_index": 8,
+      "word": "purpose",
+      "start": 2.02,
+      "end": 2.5475,
+      "duration": 0.5275,
+      "event_type": "long_word"
+    },
+    {
+      "utt_id": "FADG0_SI649",
+      "word_index": 9,
+      "word": "and",
+      "start": 2.5475,
+      "end": 2.6695,
+      "duration": 0.122,
+      "event_type": "short_word"
+    },
+    {
+      "utt_id": "FADG0_SI649",
+      "word_index": 10,
+      "word": "respect",
+      "start": 2.6695,
+      "end": 3.1928125,
+      "duration": 0.5233125,
+      "event_type": "long_word"
+    },
+    {
+      "utt_id": "FADG0_SI649",
+      "word_index": 11,
+      "word": "for",
+      "start": 3.1928125,
+      "end": 3.39125,
+      "duration": 0.1984375,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SI649",
+      "word_index": 12,
+      "word": "heroic",
+      "start": 3.39125,
+      "end": 3.8951875,
+      "duration": 0.5039375,
+      "event_type": "word"
+    },
+    {
+      "utt_id": "FADG0_SI649",
+      "word_index": 13,
+      "word": "leadership",
+      "start": 3.8951875,
+      "end": 4.4875,
+      "duration": 0.5923125,
+      "event_type": "long_word"
+    },
+    {
+      "utt_id": "FADG0_SI649",
+      "word_index": -1,
+      "word": "<BOUNDARY>",
+      "start": 4.4875,
+      "end": 4.605,
+      "duration": 0.1175,
+      "event_type": "boundary_gap"
+    }
+  ]
+}

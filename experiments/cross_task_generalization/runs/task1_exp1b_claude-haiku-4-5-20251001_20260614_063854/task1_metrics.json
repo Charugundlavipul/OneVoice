@@ -1,0 +1,15 @@
+{
+  "mean_event_count_precision": 0.656,
+  "mean_event_count_recall": 0.937,
+  "mean_event_count_f1": 0.772,
+  "mean_event_count_mae": 7.6,
+  "valid_rate": 1.0,
+  "rows": 15,
+  "path": "experiments/cross_task_generalization/runs/task1_exp1b_claude-haiku-4-5-20251001_20260614_063854/task1_metrics.json",
+  "task": "task1_uxssd",
+  "condition": "exp1b",
+  "model": "claude-haiku-4-5-20251001",
+  "gold_count": 206,
+  "gold_mispronunciation": 94,
+  "gold_behavioral": 112
+}

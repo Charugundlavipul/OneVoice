@@ -1,0 +1,62 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "repair",
+      "utterance_index": 9,
+      "speaker": "CHI",
+      "source_text": "<what's that on> [/] <on the tabe> [//] <by the tabe> [//] by the window ?",
+      "description": "Multiple self-repairs: 'what's that on' repaired to 'on the tabe', then repaired to 'by the tabe', then repaired to 'by the window'"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 17,
+      "speaker": "CHI",
+      "source_text": "she's got (.) curly hair .",
+      "description": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 8,
+      "speaker": "CHI",
+      "source_text": "a sticker &~a:h there right ?",
+      "description": "Non-speech vocalization &~a:h"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 24,
+      "speaker": "CHI",
+      "source_text": "<I just had a thing> [//] I just had a cough drop .",
+      "description": "Self-repair: 'I just had a thing' repaired to 'I just had a cough drop'"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 34,
+      "speaker": "CHI",
+      "source_text": "<put the> [/] the baby's diaper (.) that thing on (.) on the bum .",
+      "description": "Two pauses indicated by (.)"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 34,
+      "speaker": "CHI",
+      "source_text": "<put the> [/] the baby's diaper (.) that thing on (.) on the bum .",
+      "description": "Self-repair: 'put the' repaired to 'the baby's diaper'"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 36,
+      "speaker": "CHI",
+      "source_text": "cause he (.) do something .",
+      "description": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 39,
+      "speaker": "CHI",
+      "source_text": "<the (ba)by> [//] the mother kissing the baby .",
+      "description": "Self-repair: 'the baby' repaired to 'the mother kissing the baby'"
+    }
+  ]
+}
+```

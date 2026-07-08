@@ -1,0 +1,305 @@
+{
+  "bundle_id": "timit_FLBW0",
+  "speaker_id": "FLBW0",
+  "timing_events": [
+    {
+      "utt_id": "FLBW0_SA1",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "suit",
+          "start": 0.958125,
+          "end": 1.3994375,
+          "duration": 0.4413125,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "deviation": 0.0138062
+        },
+        {
+          "event_type": "short_word",
+          "word_index": 2,
+          "word": "your",
+          "start": 0.550875,
+          "end": 0.6475,
+          "duration": 0.096625,
+          "phone_count": 2,
+          "threshold_p10": 0.0675,
+          "deviation": -0.0289375
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            7,
+            8
+          ],
+          "gap_start": 1.9325,
+          "gap_end": 2.2663125,
+          "duration": 0.3337125,
+          "note": "epi phone at index 29"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            8,
+            9
+          ],
+          "gap_start": 2.504625,
+          "gap_end": 2.60125,
+          "duration": 0.096625,
+          "note": "q phone at index 34"
+        },
+        {
+          "event_type": "boundary_gap",
+          "position": "end",
+          "gap_start": 3.0625,
+          "gap_end": 3.56,
+          "duration": 0.4975
+        }
+      ]
+    },
+    {
+      "utt_id": "FLBW0_SA2",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "ask",
+          "start": 0.3225,
+          "end": 0.6379375,
+          "duration": 0.3154375,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "deviation": -0.0539875
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "carry",
+          "start": 0.8725,
+          "end": 1.2349375,
+          "duration": 0.3624375,
+          "phone_count": 5,
+          "threshold_p90": 0.503275,
+          "deviation": -0.1408375
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "rag",
+          "start": 1.6375,
+          "end": 1.9790625,
+          "duration": 0.3415625,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "deviation": -0.0859688
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 9,
+          "word": "that",
+          "start": 2.1925,
+          "end": 2.5175,
+          "duration": 0.325,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "deviation": -0.1025313
+        },
+        {
+          "event_type": "boundary_gap",
+          "position": "end",
+          "gap_start": 2.5175,
+          "gap_end": 2.955,
+          "duration": 0.4375
+        }
+      ]
+    },
+    {
+      "utt_id": "FLBW0_SI1219",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 0,
+          "word": "students'",
+          "start": 0.1175,
+          "end": 0.624,
+          "duration": 0.5065,
+          "phone_count": 9,
+          "threshold_p90": 0.6202625,
+          "deviation": -0.1137625
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "choices",
+          "start": 0.624,
+          "end": 1.1175,
+          "duration": 0.4935,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "deviation": -0.0488
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "educational",
+          "start": 1.6526875,
+          "end": 2.2925,
+          "duration": 0.6398125,
+          "phone_count": 11,
+          "threshold_p90": null,
+          "note": "exceeds 8-phone threshold"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 8,
+          "word": "arbitrary",
+          "start": 3.0225,
+          "end": 3.558375,
+          "duration": 0.535875,
+          "phone_count": 9,
+          "threshold_p90": 0.6202625,
+          "deviation": -0.0844375
+        },
+        {
+          "event_type": "short_word",
+          "word_index": 6,
+          "word": "are",
+          "start": 2.6975,
+          "end": 2.7725,
+          "duration": 0.075,
+          "phone_count": 1,
+          "threshold_p10": 0.0376125,
+          "deviation": 0.0373875
+        },
+        {
+          "event_type": "short_word",
+          "word_index": 9,
+          "word": "or",
+          "start": 3.6445,
+          "end": 3.7045625,
+          "duration": 0.0600625,
+          "phone_count": 1,
+          "threshold_p10": 0.0376125,
+          "deviation": 0.02245
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            8,
+            9
+          ],
+          "gap_start": 3.558375,
+          "gap_end": 3.6445,
+          "duration": 0.086125,
+          "note": "q phone at index 52"
+        },
+        {
+          "event_type": "boundary_gap",
+          "position": "end",
+          "gap_start": 4.2475,
+          "gap_end": 4.355,
+          "duration": 0.1075
+        }
+      ]
+    },
+    {
+      "utt_id": "FLBW0_SI1849",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "remembered",
+          "start": 0.2475,
+          "end": 0.7225,
+          "duration": 0.475,
+          "phone_count": 9,
+          "threshold_p90": 0.6202625,
+          "deviation": -0.1452625
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 3,
+          "word": "well",
+          "start": 0.9425,
+          "end": 1.2525,
+          "duration": 0.31,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "deviation": -0.0594375
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "period",
+          "start": 1.8725,
+          "end": 2.3811875,
+          "duration": 0.5086875,
+          "phone_count": 8,
+          "threshold_p90": 0.808275,
+          "deviation": -0.2995875
+        },
+        {
+          "event_type": "boundary_gap",
+          "position": "end",
+          "gap_start": 2.3811875,
+          "gap_end": 2.6,
+          "duration": 0.2188125
+        }
+      ]
+    },
+    {
+      "utt_id": "FLBW0_SI2253",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 0,
+          "word": "more",
+          "start": 0.127875,
+          "end": 0.4225,
+          "duration": 0.294625,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "deviation": -0.0748125
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 3,
+          "word": "take",
+          "start": 0.7910625,
+          "end": 1.0775,
+          "duration": 0.2864375,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "deviation": -0.1410938
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 5,
+          "word": "leisure",
+          "start": 1.2558125,
+          "end": 1.6025,
+          "duration": 0.3466875,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "deviation": -0.0808438
+        },
+        {
+          "event_type": "boundary_gap",
+          "position": "end",
+          "gap_start": 1.6025,
+          "gap_end": 1.855,
+          "duration": 0.2525
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_utterances": 5,
+    "total_words": 46,
+    "long_word_events": 17,
+    "short_word_events": 3,
+    "inter_word_gap_events": 3,
+    "boundary_gap_events": 5
+  }
+}

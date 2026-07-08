@@ -1,0 +1,173 @@
+[
+  {
+    "event_type": "non_speech",
+    "utt_index": 1,
+    "speaker": "MOT",
+    "source_text": "0 ."
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 5,
+    "speaker": "MOT",
+    "source_text": "0 ."
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 10,
+    "speaker": "CHI",
+    "source_text": "0 ."
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 13,
+    "speaker": "CHI",
+    "source_text": "0 ."
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 15,
+    "speaker": "CHI",
+    "source_text": "0 ."
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 18,
+    "speaker": "CHI",
+    "source_text": "0 ."
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 20,
+    "speaker": "CHI",
+    "source_text": "0 ."
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 22,
+    "speaker": "CHI",
+    "source_text": "0 ."
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 24,
+    "speaker": "CHI",
+    "source_text": "0 ."
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 28,
+    "speaker": "MOT",
+    "source_text": "0 ."
+  },
+  {
+    "event_type": "repair",
+    "utt_index": 12,
+    "speaker": "MOT",
+    "source_text": "<then the yellow one> [/] then the yellow one ."
+  },
+  {
+    "event_type": "overlap",
+    "utt_index": 12,
+    "speaker": "MOT",
+    "source_text": "<then the yellow one> [/] then the yellow one ."
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 14,
+    "speaker": "MOT",
+    "source_text": "yellow (.) red !"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 16,
+    "speaker": "MOT",
+    "source_text": "yellow (.) red !"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 23,
+    "speaker": "MOT",
+    "source_text": "Kent (.) would you like to play with this now ?"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 31,
+    "speaker": "MOT",
+    "source_text": "oh (.) where does the orange one go ?"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 32,
+    "speaker": "MOT",
+    "source_text": "I think it goes (.) right (.) there !"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 32,
+    "speaker": "MOT",
+    "source_text": "I think it goes (.) right (.) there !"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 37,
+    "speaker": "MOT",
+    "source_text": "Kent (.) would you like to play with the house ?"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 7,
+    "speaker": "MOT",
+    "source_text": "<1w> puts arm out toward Kent's hand ."
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 8,
+    "speaker": "MOT",
+    "source_text": "<1w> takes small cup out of stack ."
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 9,
+    "speaker": "MOT",
+    "source_text": "<1w> holds above stack"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 29,
+    "speaker": "CHI",
+    "source_text": "<1w> dA+dA+i"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 30,
+    "speaker": "CHI",
+    "source_text": "<1w> dA+deI"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 32,
+    "speaker": "MOT",
+    "source_text": "<6w> holds cup up <5w> picks up nesting cup ."
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 32,
+    "speaker": "MOT",
+    "source_text": "<6w> holds cup up <5w> picks up nesting cup ."
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 36,
+    "speaker": "MOT",
+    "source_text": "<1w> pats nesting cup stack two times ."
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 37,
+    "speaker": "MOT",
+    "source_text": "<1w> rummages in toys . picks up table and puts in dollhouse"
+  }
+]
+
+[JSON_REPAIRED]
+{"events":[{"event_type":"non_speech","utt_index":1,"speaker":"MOT","source_text":"0 ."},{"event_type":"non_speech","utt_index":5,"speaker":"MOT","source_text":"0 ."},{"event_type":"non_speech","utt_index":10,"speaker":"CHI","source_text":"0 ."},{"event_type":"non_speech","utt_index":13,"speaker":"CHI","source_text":"0 ."},{"event_type":"non_speech","utt_index":15,"speaker":"CHI","source_text":"0 ."},{"event_type":"non_speech","utt_index":18,"speaker":"CHI","source_text":"0 ."},{"event_type":"non_speech","utt_index":20,"speaker":"CHI","source_text":"0 ."},{"event_type":"non_speech","utt_index":22,"speaker":"CHI","source_text":"0 ."},{"event_type":"non_speech","utt_index":24,"speaker":"CHI","source_text":"0 ."},{"event_type":"non_speech","utt_index":28,"speaker":"MOT","source_text":"0 ."},{"event_type":"repair","utt_index":12,"speaker":"MOT","source_text":"<then the yellow one> [/] then the yellow one ."},{"event_type":"overlap","utt_index":12,"speaker":"MOT","source_text":"<then the yellow one> [/] then the yellow one ."},{"event_type":"pause","utt_index":14,"speaker":"MOT","source_text":"yellow (.) red !"},{"event_type":"pause","utt_index":16,"speaker":"MOT","source_text":"yellow (.) red !"},{"event_type":"pause","utt_index":23,"speaker":"MOT","source_text":"Kent (.) would you like to play with this now ?"},{"event_type":"pause","utt_index":31,"speaker":"MOT","source_text":"oh (.) where does the orange one go ?"},{"event_type":"pause","utt_index":32,"speaker":"MOT","source_text":"I think it goes (.) right (.) there !"},{"event_type":"pause","utt_index":32,"speaker":"MOT","source_text":"I think it goes (.) right (.) there !"},{"event_type":"pause","utt_index":37,"speaker":"MOT","source_text":"Kent (.) would you like to play with the house ?"},{"event_type":"pause","utt_index":7,"speaker":"MOT","source_text":"<1w> puts arm out toward Kent's hand ."},{"event_type":"pause","utt_index":8,"speaker":"MOT","source_text":"<1w> takes small cup out of stack ."},{"event_type":"pause","utt_index":9,"speaker":"MOT","source_text":"<1w> holds above stack"},{"event_type":"pause","utt_index":29,"speaker":"CHI","source_text":"<1w> dA+dA+i"},{"event_type":"pause","utt_index":30,"speaker":"CHI","source_text":"<1w> dA+deI"},{"event_type":"pause","utt_index":32,"speaker":"MOT","source_text":"<6w> holds cup up <5w> picks up nesting cup ."},{"event_type":"pause","utt_index":32,"speaker":"MOT","source_text":"<6w> holds cup up <5w> picks up nesting cup ."},{"event_type":"pause","utt_index":36,"speaker":"MOT","source_text":"<1w> pats nesting cup stack two times ."},{"event_type":"pause","utt_index":37,"speaker":"MOT","source_text":"<1w> rummages in toys . picks up table and puts in dollhouse"}]}

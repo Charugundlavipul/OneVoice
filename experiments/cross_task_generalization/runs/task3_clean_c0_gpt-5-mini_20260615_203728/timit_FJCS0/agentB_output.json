@@ -1,0 +1,825 @@
+{
+  "bundle_id": "timit_FJCS0",
+  "speaker_id": "FJCS0",
+  "events": [
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 0,
+      "phone_label": "h#",
+      "start": 0.0,
+      "end": 0.265,
+      "event_type": "pause_silence_segment",
+      "duration": 0.265
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 0,
+      "phone_label": "h#",
+      "start": 0.0,
+      "end": 0.265,
+      "event_type": "long_phone",
+      "duration": 0.265
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 5,
+      "phone_label": "dcl",
+      "start": 0.5613125,
+      "end": 0.6074375,
+      "event_type": "closure_segment",
+      "duration": 0.046125
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 8,
+      "phone_label": "dcl",
+      "start": 0.7325,
+      "end": 0.7925,
+      "event_type": "closure_segment",
+      "duration": 0.06
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 9,
+      "phone_label": "d",
+      "start": 0.7925,
+      "end": 0.8075,
+      "event_type": "short_phone",
+      "duration": 0.015
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 12,
+      "phone_label": "kcl",
+      "start": 0.953,
+      "end": 1.015625,
+      "event_type": "closure_segment",
+      "duration": 0.062625
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 13,
+      "phone_label": "k",
+      "start": 1.015625,
+      "end": 1.04,
+      "event_type": "short_phone",
+      "duration": 0.024375
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 15,
+      "phone_label": "ux",
+      "start": 1.1723125,
+      "end": 1.3125,
+      "event_type": "long_phone",
+      "duration": 0.1401875
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 16,
+      "phone_label": "tcl",
+      "start": 1.3125,
+      "end": 1.3375,
+      "event_type": "closure_segment",
+      "duration": 0.025
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 16,
+      "phone_label": "tcl",
+      "start": 1.3125,
+      "end": 1.3375,
+      "event_type": "short_phone",
+      "duration": 0.025
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 17,
+      "phone_label": "t",
+      "start": 1.3375,
+      "end": 1.3525,
+      "event_type": "short_phone",
+      "duration": 0.015
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 20,
+      "phone_label": "gcl",
+      "start": 1.4725,
+      "end": 1.50125,
+      "event_type": "closure_segment",
+      "duration": 0.02875
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 27,
+      "phone_label": "ao",
+      "start": 1.98025,
+      "end": 2.1225,
+      "event_type": "long_phone",
+      "duration": 0.14225
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 29,
+      "phone_label": "epi",
+      "start": 2.228375,
+      "end": 2.2718125,
+      "event_type": "pause_silence_segment",
+      "duration": 0.0434375
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 34,
+      "phone_label": "pau",
+      "start": 2.5875,
+      "end": 2.7675,
+      "event_type": "pause_silence_segment",
+      "duration": 0.18
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 34,
+      "phone_label": "pau",
+      "start": 2.5875,
+      "end": 2.7675,
+      "event_type": "long_phone",
+      "duration": 0.18
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 35,
+      "phone_label": "q",
+      "start": 2.7675,
+      "end": 2.8175,
+      "event_type": "glottal_stop",
+      "duration": 0.05
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 40,
+      "phone_label": "axr",
+      "start": 3.1181875,
+      "end": 3.2725,
+      "event_type": "long_phone",
+      "duration": 0.1543125
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 41,
+      "phone_label": "h#",
+      "start": 3.2725,
+      "end": 3.465,
+      "event_type": "pause_silence_segment",
+      "duration": 0.1925
+    },
+    {
+      "utt_id": "FJCS0_SA1",
+      "phone_index": 41,
+      "phone_label": "h#",
+      "start": 3.2725,
+      "end": 3.465,
+      "event_type": "long_phone",
+      "duration": 0.1925
+    },
+    {
+      "utt_id": "FJCS0_SA2",
+      "phone_index": 0,
+      "phone_label": "h#",
+      "start": 0.0,
+      "end": 0.2325,
+      "event_type": "pause_silence_segment",
+      "duration": 0.2325
+    },
+    {
+      "utt_id": "FJCS0_SA2",
+      "phone_index": 0,
+      "phone_label": "h#",
+      "start": 0.0,
+      "end": 0.2325,
+      "event_type": "long_phone",
+      "duration": 0.2325
+    },
+    {
+      "utt_id": "FJCS0_SA2",
+      "phone_index": 6,
+      "phone_label": "kcl",
+      "start": 0.5355,
+      "end": 0.5874375,
+      "event_type": "closure_segment",
+      "duration": 0.0519375
+    },
+    {
+      "utt_id": "FJCS0_SA2",
+      "phone_index": 9,
+      "phone_label": "dx",
+      "start": 0.6761875,
+      "end": 0.691875,
+      "event_type": "short_phone",
+      "duration": 0.0156875
+    },
+    {
+      "utt_id": "FJCS0_SA2",
+      "phone_index": 11,
+      "phone_label": "kcl",
+      "start": 0.7520625,
+      "end": 0.7943125,
+      "event_type": "closure_segment",
+      "duration": 0.04225
+    },
+    {
+      "utt_id": "FJCS0_SA2",
+      "phone_index": 18,
+      "phone_label": "q",
+      "start": 1.1508125,
+      "end": 1.2349375,
+      "event_type": "glottal_stop",
+      "duration": 0.084125
+    },
+    {
+      "utt_id": "FJCS0_SA2",
+      "phone_index": 19,
+      "phone_label": "oy",
+      "start": 1.2349375,
+      "end": 1.3994375,
+      "event_type": "long_phone",
+      "duration": 0.1645
+    },
+    {
+      "utt_id": "FJCS0_SA2",
+      "phone_index": 23,
+      "phone_label": "ae",
+      "start": 1.59525,
+      "end": 1.7728125,
+      "event_type": "long_phone",
+      "duration": 0.1775625
+    },
+    {
+      "utt_id": "FJCS0_SA2",
+      "phone_index": 24,
+      "phone_label": "gcl",
+      "start": 1.7728125,
+      "end": 1.81425,
+      "event_type": "closure_segment",
+      "duration": 0.0414375
+    },
+    {
+      "utt_id": "FJCS0_SA2",
+      "phone_index": 25,
+      "phone_label": "g",
+      "start": 1.81425,
+      "end": 1.83025,
+      "event_type": "short_phone",
+      "duration": 0.016
+    },
+    {
+      "utt_id": "FJCS0_SA2",
+      "phone_index": 28,
+      "phone_label": "kcl",
+      "start": 1.9525,
+      "end": 2.0374375,
+      "event_type": "closure_segment",
+      "duration": 0.0849375
+    },
+    {
+      "utt_id": "FJCS0_SA2",
+      "phone_index": 29,
+      "phone_label": "dh",
+      "start": 2.0374375,
+      "end": 2.0625,
+      "event_type": "short_phone",
+      "duration": 0.0250625
+    },
+    {
+      "utt_id": "FJCS0_SA2",
+      "phone_index": 30,
+      "phone_label": "ae",
+      "start": 2.0625,
+      "end": 2.2875,
+      "event_type": "long_phone",
+      "duration": 0.225
+    },
+    {
+      "utt_id": "FJCS0_SA2",
+      "phone_index": 33,
+      "phone_label": "h#",
+      "start": 2.4475,
+      "end": 2.62,
+      "event_type": "pause_silence_segment",
+      "duration": 0.1725
+    },
+    {
+      "utt_id": "FJCS0_SA2",
+      "phone_index": 33,
+      "phone_label": "h#",
+      "start": 2.4475,
+      "end": 2.62,
+      "event_type": "long_phone",
+      "duration": 0.1725
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 0,
+      "phone_label": "h#",
+      "start": 0.0,
+      "end": 0.1425,
+      "event_type": "pause_silence_segment",
+      "duration": 0.1425
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 0,
+      "phone_label": "h#",
+      "start": 0.0,
+      "end": 0.1425,
+      "event_type": "long_phone",
+      "duration": 0.1425
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 1,
+      "phone_label": "dh",
+      "start": 0.1425,
+      "end": 0.1575,
+      "event_type": "short_phone",
+      "duration": 0.015
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 3,
+      "phone_label": "bcl",
+      "start": 0.185375,
+      "end": 0.2475,
+      "event_type": "closure_segment",
+      "duration": 0.062125
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 4,
+      "phone_label": "b",
+      "start": 0.2475,
+      "end": 0.265,
+      "event_type": "short_phone",
+      "duration": 0.0175
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 6,
+      "phone_label": "dx",
+      "start": 0.3425,
+      "end": 0.362875,
+      "event_type": "short_phone",
+      "duration": 0.020375
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 8,
+      "phone_label": "kcl",
+      "start": 0.4325,
+      "end": 0.5025,
+      "event_type": "closure_segment",
+      "duration": 0.07
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 16,
+      "phone_label": "pcl",
+      "start": 0.8775,
+      "end": 0.9385,
+      "event_type": "closure_segment",
+      "duration": 0.061
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 20,
+      "phone_label": "dx",
+      "start": 1.1075,
+      "end": 1.1293125,
+      "event_type": "short_phone",
+      "duration": 0.0218125
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 22,
+      "phone_label": "kcl",
+      "start": 1.2428125,
+      "end": 1.2864375,
+      "event_type": "closure_segment",
+      "duration": 0.043625
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 23,
+      "phone_label": "k",
+      "start": 1.2864375,
+      "end": 1.3015,
+      "event_type": "short_phone",
+      "duration": 0.0150625
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 27,
+      "phone_label": "bcl",
+      "start": 1.519375,
+      "end": 1.5675,
+      "event_type": "closure_segment",
+      "duration": 0.048125
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 28,
+      "phone_label": "b",
+      "start": 1.5675,
+      "end": 1.5794375,
+      "event_type": "short_phone",
+      "duration": 0.0119375
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 33,
+      "phone_label": "iy",
+      "start": 1.902375,
+      "end": 2.0425,
+      "event_type": "long_phone",
+      "duration": 0.140125
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 36,
+      "phone_label": "ay",
+      "start": 2.1958125,
+      "end": 2.4275,
+      "event_type": "long_phone",
+      "duration": 0.2316875
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 39,
+      "phone_label": "kcl",
+      "start": 2.558875,
+      "end": 2.6138125,
+      "event_type": "closure_segment",
+      "duration": 0.0549375
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 41,
+      "phone_label": "ix",
+      "start": 2.6575,
+      "end": 2.6825,
+      "event_type": "short_phone",
+      "duration": 0.025
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 43,
+      "phone_label": "tcl",
+      "start": 2.7438125,
+      "end": 2.782875,
+      "event_type": "closure_segment",
+      "duration": 0.0390625
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 52,
+      "phone_label": "tcl",
+      "start": 3.5525,
+      "end": 3.6725,
+      "event_type": "closure_segment",
+      "duration": 0.12
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 53,
+      "phone_label": "b",
+      "start": 3.6725,
+      "end": 3.6975,
+      "event_type": "short_phone",
+      "duration": 0.025
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 56,
+      "phone_label": "dcl",
+      "start": 3.8575,
+      "end": 3.878625,
+      "event_type": "closure_segment",
+      "duration": 0.021125
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 56,
+      "phone_label": "dcl",
+      "start": 3.8575,
+      "end": 3.878625,
+      "event_type": "short_phone",
+      "duration": 0.021125
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 57,
+      "phone_label": "d",
+      "start": 3.878625,
+      "end": 3.89625,
+      "event_type": "short_phone",
+      "duration": 0.017625
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 58,
+      "phone_label": "axr",
+      "start": 3.89625,
+      "end": 4.0575,
+      "event_type": "long_phone",
+      "duration": 0.16125
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 59,
+      "phone_label": "s",
+      "start": 4.0575,
+      "end": 4.2194375,
+      "event_type": "long_phone",
+      "duration": 0.1619375
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 60,
+      "phone_label": "h#",
+      "start": 4.2194375,
+      "end": 4.36,
+      "event_type": "pause_silence_segment",
+      "duration": 0.1405625
+    },
+    {
+      "utt_id": "FJCS0_SI1309",
+      "phone_index": 60,
+      "phone_label": "h#",
+      "start": 4.2194375,
+      "end": 4.36,
+      "event_type": "long_phone",
+      "duration": 0.1405625
+    },
+    {
+      "utt_id": "FJCS0_SI1833",
+      "phone_index": 0,
+      "phone_label": "h#",
+      "start": 0.0,
+      "end": 0.1435625,
+      "event_type": "pause_silence_segment",
+      "duration": 0.1435625
+    },
+    {
+      "utt_id": "FJCS0_SI1833",
+      "phone_index": 0,
+      "phone_label": "h#",
+      "start": 0.0,
+      "end": 0.1435625,
+      "event_type": "long_phone",
+      "duration": 0.1435625
+    },
+    {
+      "utt_id": "FJCS0_SI1833",
+      "phone_index": 4,
+      "phone_label": "pcl",
+      "start": 0.3325,
+      "end": 0.3925,
+      "event_type": "closure_segment",
+      "duration": 0.06
+    },
+    {
+      "utt_id": "FJCS0_SI1833",
+      "phone_index": 5,
+      "phone_label": "p",
+      "start": 0.3925,
+      "end": 0.4175,
+      "event_type": "short_phone",
+      "duration": 0.025
+    },
+    {
+      "utt_id": "FJCS0_SI1833",
+      "phone_index": 7,
+      "phone_label": "kcl",
+      "start": 0.4925,
+      "end": 0.5375,
+      "event_type": "closure_segment",
+      "duration": 0.045
+    },
+    {
+      "utt_id": "FJCS0_SI1833",
+      "phone_index": 14,
+      "phone_label": "pcl",
+      "start": 0.9875,
+      "end": 1.05825,
+      "event_type": "closure_segment",
+      "duration": 0.07075
+    },
+    {
+      "utt_id": "FJCS0_SI1833",
+      "phone_index": 17,
+      "phone_label": "tcl",
+      "start": 1.2375,
+      "end": 1.2875,
+      "event_type": "closure_segment",
+      "duration": 0.05
+    },
+    {
+      "utt_id": "FJCS0_SI1833",
+      "phone_index": 18,
+      "phone_label": "t",
+      "start": 1.2875,
+      "end": 1.3133125,
+      "event_type": "short_phone",
+      "duration": 0.0258125
+    },
+    {
+      "utt_id": "FJCS0_SI1833",
+      "phone_index": 21,
+      "phone_label": "h#",
+      "start": 1.4675,
+      "end": 2.355,
+      "event_type": "pause_silence_segment",
+      "duration": 0.8875
+    },
+    {
+      "utt_id": "FJCS0_SI1833",
+      "phone_index": 21,
+      "phone_label": "h#",
+      "start": 1.4675,
+      "end": 2.355,
+      "event_type": "long_phone",
+      "duration": 0.8875
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 0,
+      "phone_label": "h#",
+      "start": 0.0,
+      "end": 0.1525,
+      "event_type": "pause_silence_segment",
+      "duration": 0.1525
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 0,
+      "phone_label": "h#",
+      "start": 0.0,
+      "end": 0.1525,
+      "event_type": "long_phone",
+      "duration": 0.1525
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 3,
+      "phone_label": "dx",
+      "start": 0.2275,
+      "end": 0.2525,
+      "event_type": "short_phone",
+      "duration": 0.025
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 4,
+      "phone_label": "ao",
+      "start": 0.2525,
+      "end": 0.405,
+      "event_type": "long_phone",
+      "duration": 0.1525
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 5,
+      "phone_label": "nx",
+      "start": 0.405,
+      "end": 0.43,
+      "event_type": "short_phone",
+      "duration": 0.025
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 10,
+      "phone_label": "dcl",
+      "start": 0.7475,
+      "end": 0.7975,
+      "event_type": "closure_segment",
+      "duration": 0.05
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 11,
+      "phone_label": "b",
+      "start": 0.7975,
+      "end": 0.8175,
+      "event_type": "short_phone",
+      "duration": 0.02
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 15,
+      "phone_label": "kcl",
+      "start": 1.0689375,
+      "end": 1.1245,
+      "event_type": "closure_segment",
+      "duration": 0.0555625
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 18,
+      "phone_label": "dx",
+      "start": 1.2663125,
+      "end": 1.2845625,
+      "event_type": "short_phone",
+      "duration": 0.01825
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 21,
+      "phone_label": "kcl",
+      "start": 1.5375,
+      "end": 1.603125,
+      "event_type": "closure_segment",
+      "duration": 0.065625
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 22,
+      "phone_label": "k",
+      "start": 1.603125,
+      "end": 1.694625,
+      "event_type": "long_phone",
+      "duration": 0.0915
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 23,
+      "phone_label": "ow",
+      "start": 1.694625,
+      "end": 1.8876875,
+      "event_type": "long_phone",
+      "duration": 0.1930625
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 24,
+      "phone_label": "tcl",
+      "start": 1.8876875,
+      "end": 1.9385,
+      "event_type": "closure_segment",
+      "duration": 0.0508125
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 27,
+      "phone_label": "q",
+      "start": 2.0339375,
+      "end": 2.09075,
+      "event_type": "glottal_stop",
+      "duration": 0.0568125
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 34,
+      "phone_label": "dx",
+      "start": 2.4475,
+      "end": 2.4725,
+      "event_type": "short_phone",
+      "duration": 0.025
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 37,
+      "phone_label": "ow",
+      "start": 2.673625,
+      "end": 2.8675,
+      "event_type": "long_phone",
+      "duration": 0.193875
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 38,
+      "phone_label": "kcl",
+      "start": 2.8675,
+      "end": 2.9825,
+      "event_type": "closure_segment",
+      "duration": 0.115
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 40,
+      "phone_label": "h#",
+      "start": 3.0466875,
+      "end": 3.195,
+      "event_type": "pause_silence_segment",
+      "duration": 0.1483125
+    },
+    {
+      "utt_id": "FJCS0_SI1939",
+      "phone_index": 40,
+      "phone_label": "h#",
+      "start": 3.0466875,
+      "end": 3.195,
+      "event_type": "long_phone",
+      "duration": 0.1483125
+    }
+  ]
+}

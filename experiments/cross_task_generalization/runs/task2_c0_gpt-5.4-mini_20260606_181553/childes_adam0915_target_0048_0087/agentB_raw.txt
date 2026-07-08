@@ -1,0 +1,159 @@
+{
+  "window_id": "childes_adam0915_target_0048_0087",
+  "events": [
+    {
+      "event_type": "pause",
+      "utt_index": 1,
+      "speaker": "MOT",
+      "source_text": "what's that on his forehead it's like a red +... [+ NAC]",
+      "cue": "+..."
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 5,
+      "speaker": "MOT",
+      "source_text": "ring a ring [=! singing] +... [+ SNG]",
+      "cue": "[=! singing], [+ SNG]"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 12,
+      "speaker": "MOT",
+      "source_text": "whee: !",
+      "cue": "comment: sound of water being poured"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 14,
+      "speaker": "FAT",
+      "source_text": "&=laughs .",
+      "cue": "&=laughs"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 15,
+      "speaker": "MOT",
+      "source_text": "+< &=laughs .",
+      "cue": "&=laughs, +<"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 20,
+      "speaker": "MOT",
+      "source_text": "&~m [/] &~m .",
+      "cue": "&~m [/] &~m"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 30,
+      "speaker": "FAT",
+      "source_text": "&=gasp .",
+      "cue": "&=gasp"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 31,
+      "speaker": "MOT",
+      "source_text": "&~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [=! singing] .",
+      "cue": "&~erh [/] ... &~m [/] ... [=! singing]"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 32,
+      "speaker": "CHI",
+      "source_text": "&=gasp .",
+      "cue": "&=gasp"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 33,
+      "speaker": "MOT",
+      "source_text": "&=gasp &~chookoochoo .",
+      "cue": "&=gasp, &~chookoochoo"
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": 6,
+      "speaker": "MOT",
+      "source_text": "&~aga !",
+      "cue": "repeated immediately in utt_index 7 and again at 10/11"
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": 7,
+      "speaker": "MOT",
+      "source_text": "&~aga !",
+      "cue": "repetition of prior non-speech vocalization"
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": 18,
+      "speaker": "MOT",
+      "source_text": "whee: !",
+      "cue": "repeats utt_index 12"
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": 27,
+      "speaker": "MOT",
+      "source_text": "+< here it is .",
+      "cue": "+<"
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": 28,
+      "speaker": "MOT",
+      "source_text": "here it is .",
+      "cue": "repeats utt_index 27"
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": 29,
+      "speaker": "MOT",
+      "source_text": "here it is .",
+      "cue": "repeats utt_index 28"
+    },
+    {
+      "event_type": "repair",
+      "utt_index": 27,
+      "speaker": "MOT",
+      "source_text": "+< here it is .",
+      "cue": "+< self-repair/repair onset"
+    },
+    {
+      "event_type": "repair",
+      "utt_index": 31,
+      "speaker": "MOT",
+      "source_text": "&~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [=! singing] .",
+      "cue": "[/] repeated reformulation/repair-like cutoffs"
+    },
+    {
+      "event_type": "repair",
+      "utt_index": 34,
+      "speaker": "MOT",
+      "source_text": "oh [/] oh [/] oh oh no !",
+      "cue": "[/] repeated restart"
+    },
+    {
+      "event_type": "repair",
+      "utt_index": 24,
+      "speaker": "FAT",
+      "source_text": "don't know, you had it a second ago . [+ NAC]",
+      "cue": "possible speaker self-repair/ellipsis in fixed expression"
+    },
+    {
+      "event_type": "overlap",
+      "utt_index": 13,
+      "speaker": "FAT",
+      "source_text": "and look what's the first thing he does ? [+ NAC]",
+      "cue": "+< &=laughs . in next utterance"
+    },
+    {
+      "event_type": "overlap",
+      "utt_index": 15,
+      "speaker": "MOT",
+      "source_text": "+< &=laughs .",
+      "cue": "+<"
+    }
+  ]
+}

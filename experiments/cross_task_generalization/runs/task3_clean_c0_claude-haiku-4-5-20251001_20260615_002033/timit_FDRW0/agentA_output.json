@@ -1,0 +1,169 @@
+{
+  "bundle_id": "timit_FDRW0",
+  "speaker_id": "FDRW0",
+  "timing_events": [
+    {
+      "utterance_id": "FDRW0_SA1",
+      "events": [
+        {
+          "word_index": 2,
+          "word": "your",
+          "start": 0.53625,
+          "end": 0.657625,
+          "duration": 0.121375,
+          "event_type": "short_word",
+          "reason": "below p10 for 1-phone words (0.0376)"
+        },
+        {
+          "word_index": 8,
+          "word": "water",
+          "start": 2.2973125,
+          "end": 2.5675,
+          "duration": 0.2701875,
+          "event_type": "inter_word_gap",
+          "gap_before": 0.0,
+          "gap_after": 0.0811875,
+          "reason": "gap between word 8 and 9 (phone 33: q)"
+        },
+        {
+          "word_index": 9,
+          "word": "all",
+          "start": 2.6486875,
+          "end": 2.8350625,
+          "duration": 0.186375,
+          "event_type": "normal_word"
+        }
+      ]
+    },
+    {
+      "utterance_id": "FDRW0_SA2",
+      "events": [
+        {
+          "word_index": 2,
+          "word": "me",
+          "start": 0.607,
+          "end": 0.715,
+          "duration": 0.108,
+          "event_type": "short_word",
+          "reason": "below p10 for 2-phone words (0.0675)"
+        },
+        {
+          "word_index": 3,
+          "word": "to",
+          "start": 0.715,
+          "end": 0.8125,
+          "duration": 0.0975,
+          "event_type": "short_word",
+          "reason": "below p10 for 2-phone words (0.0675)"
+        },
+        {
+          "word_index": 5,
+          "word": "an",
+          "start": 1.1958125,
+          "end": 1.2896875,
+          "duration": 0.093875,
+          "event_type": "short_word",
+          "reason": "below p10 for 2-phone words (0.0675)"
+        }
+      ]
+    },
+    {
+      "utterance_id": "FDRW0_SI1283",
+      "events": [
+        {
+          "word_index": 2,
+          "word": "a",
+          "start": 0.5351875,
+          "end": 0.5876875,
+          "duration": 0.0525,
+          "event_type": "short_word",
+          "reason": "below p10 for 1-phone words (0.0376)"
+        },
+        {
+          "word_index": 5,
+          "word": "radioactivity",
+          "start": 1.25325,
+          "end": 2.3410625,
+          "duration": 1.0878125,
+          "event_type": "long_word",
+          "reason": "above p90 for 13-phone words (estimated threshold ~0.8)"
+        },
+        {
+          "word_index": 6,
+          "word": "of",
+          "start": 2.4213125,
+          "end": 2.5378125,
+          "duration": 0.1165,
+          "event_type": "inter_word_gap",
+          "gap_before": 0.08025,
+          "gap_after": 0.0,
+          "reason": "gap between word 5 and 6 (phone 30: q)"
+        },
+        {
+          "word_index": 11,
+          "word": "first",
+          "start": 4.2558125,
+          "end": 4.9225,
+          "duration": 0.6666875,
+          "event_type": "long_word",
+          "reason": "above p90 for 5-phone words (0.503275)"
+        }
+      ]
+    },
+    {
+      "utterance_id": "FDRW0_SI1423",
+      "events": [
+        {
+          "word_index": 0,
+          "word": "about",
+          "start": 0.14075,
+          "end": 0.584375,
+          "duration": 0.443625,
+          "event_type": "long_word",
+          "reason": "above p90 for 5-phone words (0.503275)"
+        },
+        {
+          "word_index": 5,
+          "word": "to",
+          "start": 1.526875,
+          "end": 1.6375,
+          "duration": 0.110625,
+          "event_type": "short_word",
+          "reason": "below p10 for 2-phone words (0.0675)"
+        },
+        {
+          "word_index": 6,
+          "word": "blow",
+          "start": 1.6375,
+          "end": 2.1933125,
+          "duration": 0.5558125,
+          "event_type": "long_word",
+          "reason": "above p90 for 4-phone words (0.42753125)"
+        }
+      ]
+    },
+    {
+      "utterance_id": "FDRW0_SI653",
+      "events": [
+        {
+          "word_index": 0,
+          "word": "surely",
+          "start": 0.1375,
+          "end": 0.5575,
+          "duration": 0.42,
+          "event_type": "long_word",
+          "reason": "above p90 for 4-phone words (0.42753125)"
+        },
+        {
+          "word_index": 4,
+          "word": "reality",
+          "start": 1.0521875,
+          "end": 1.639625,
+          "duration": 0.5874375,
+          "event_type": "long_word",
+          "reason": "above p90 for 7-phone words (0.6202625)"
+        }
+      ]
+    }
+  ]
+}

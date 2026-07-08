@@ -1,0 +1,82 @@
+[
+  {
+    "event_type": "repair",
+    "utt_index": 3,
+    "speaker": "CHI",
+    "source_text": "<those ones> [//] that one ?",
+    "details": {
+      "repair_marker": "[//]",
+      "replaced_material": "those ones",
+      "replacement": "that one"
+    }
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 5,
+    "speaker": "CHI",
+    "source_text": "have a (.) xxx .",
+    "details": {
+      "marker": "xxx",
+      "pause_marker": "(.)"
+    }
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 7,
+    "speaker": "CHI",
+    "source_text": "xxx .",
+    "details": {
+      "marker": "xxx"
+    }
+  },
+  {
+    "event_type": "repetition",
+    "utt_index": 14,
+    "speaker": "CHI",
+    "source_text": "okay okay okay up here ?",
+    "details": {
+      "repeated_token": "okay",
+      "count": 3
+    }
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 15,
+    "speaker": "CHI",
+    "source_text": "hafta sit down (.) see .",
+    "details": {
+      "marker": "(.)"
+    }
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 25,
+    "speaker": "CHI",
+    "source_text": "one (.) xxx .",
+    "details": {
+      "marker": "(.)"
+    }
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 25,
+    "speaker": "CHI",
+    "source_text": "one (.) xxx .",
+    "details": {
+      "marker": "xxx",
+      "pause_marker": "(.)"
+    }
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 26,
+    "speaker": "CHI",
+    "source_text": "&-uh (.) hey don't push that one .",
+    "details": {
+      "marker": "(.)"
+    }
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"repair\",\n    \"utt_index\": 3,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"<those ones> [//] that one ?\",\n    \"details\": {\n      \"repair_marker\": \"[//]\",\n      \"replaced_material\": \"those ones\",\n      \"replacement\": \"that one\"\n    }\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utt_index\": 5,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"have a (.) xxx .\",\n    \"details\": {\n      \"marker\": \"xxx\",\n      \"pause_marker\": \"(.)\"\n    }\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utt_index\": 7,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"xxx .\",\n    \"details\": {\n      \"marker\": \"xxx\"\n    }\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utt_index\": 14,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"okay okay okay up here ?\",\n    \"details\": {\n      \"repeated_token\": \"okay\",\n      \"count\": 3\n    }\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utt_index\": 15,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"hafta sit down (.) see .\",\n    \"details\": {\n      \"marker\": \"(.)\"\n    }\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utt_index\": 25,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"one (.) xxx .\",\n    \"details\": {\n      \"marker\": \"(.)\"\n    }\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utt_index\": 25,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"one (.) xxx .\",\n    \"details\": {\n      \"marker\": \"xxx\",\n      \"pause_marker\": \"(.)\"\n    }\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utt_index\": 26,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"&-uh (.) hey don't push that one .\",\n    \"details\": {\n      \"marker\": \"(.)\"\n    }\n  }\n]"}

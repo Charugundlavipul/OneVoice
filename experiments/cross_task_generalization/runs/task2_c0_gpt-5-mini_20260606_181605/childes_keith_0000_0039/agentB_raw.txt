@@ -1,0 +1,320 @@
+[
+  {
+    "event_type": "non_speech",
+    "utterance_index": 0,
+    "speaker": "MOT",
+    "source_text": "holds out shape box object to Keith . shuts shape box lid and pushes shape box slightly toward Keith"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 2,
+    "speaker": "CHI",
+    "source_text": "<1w> attempts to put shape box object in correct hole <1w> holds shape box object , puts it down , picks back up ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 3,
+    "speaker": "CHI",
+    "source_text": "<1w> attempts to put shape box object in correct hole"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 6,
+    "speaker": "CHI",
+    "source_text": "<1w> stops and examines . <1w> rotates shape box object with both hands ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 7,
+    "speaker": "CHI",
+    "source_text": "<1w> puts object over hole in correct position . puts in part way , then more and more and finally lets go <1w> holds shape box object toward hole ."
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 10,
+    "speaker": "MOT",
+    "source_text": "yeah (.) that's right ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 11,
+    "speaker": "MOT",
+    "source_text": "<1w> gasps"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 13,
+    "speaker": "CHI",
+    "source_text": "picks up square shaped object and examines"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 16,
+    "speaker": "CHI",
+    "source_text": "moves shape box object toward shape box"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 18,
+    "speaker": "CHI",
+    "source_text": "puts shape box object on lid , moves to correct hole and attempts to put in"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 22,
+    "speaker": "CHI",
+    "source_text": "succeeds in getting object through hole"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 24,
+    "speaker": "CHI",
+    "source_text": "<aft> lets go <dur> holds object toward correct hole and puts in part way . <bef> picks up another shape box object and fingers it ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 25,
+    "speaker": "MOT",
+    "source_text": "<1w> pushes shape box toward Keith"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 19,
+    "speaker": "MOT",
+    "source_text": "uhhuh (.) square ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 29,
+    "speaker": "MOT",
+    "source_text": "<1w> reaches for shape box object in Keith's hand and takes away ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 30,
+    "speaker": "MOT",
+    "source_text": "<1w> holds object out to Keith ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 31,
+    "speaker": "MOT",
+    "source_text": "<1w> touches end of object and traces circumference"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 32,
+    "speaker": "CHI",
+    "source_text": "<bef> touches end of object"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 32,
+    "speaker": "CHI",
+    "source_text": "nods"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 34,
+    "speaker": "CHI",
+    "source_text": "holds shape box object on lid , banging a little"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 34,
+    "speaker": "CHI",
+    "source_text": "nods"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 38,
+    "speaker": "CHI",
+    "source_text": "rubs object on lid and holds there"
+  },
+  {
+    "event_type": "repetition",
+    "utterance_index": 3,
+    "speaker": "CHI",
+    "source_text": "right ?"
+  },
+  {
+    "event_type": "repetition",
+    "utterance_index": 35,
+    "speaker": "CHI",
+    "source_text": "circle ."
+  },
+  {
+    "event_type": "repetition",
+    "utterance_index": 36,
+    "speaker": "CHI",
+    "source_text": "circle ."
+  },
+  {
+    "event_type": "overlap",
+    "utterance_index": 28,
+    "speaker": "MOT",
+    "source_text": "what is [!] that ?"
+  }
+]
+
+[JSON_REPAIRED]
+{
+  "events": [
+    {
+      "event_type": "non_speech",
+      "utterance_index": 0,
+      "speaker": "MOT",
+      "source_text": "holds out shape box object to Keith . shuts shape box lid and pushes shape box slightly toward Keith"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 2,
+      "speaker": "CHI",
+      "source_text": "<1w> attempts to put shape box object in correct hole <1w> holds shape box object , puts it down , picks back up ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 3,
+      "speaker": "CHI",
+      "source_text": "<1w> attempts to put shape box object in correct hole"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 6,
+      "speaker": "CHI",
+      "source_text": "<1w> stops and examines . <1w> rotates shape box object with both hands ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 7,
+      "speaker": "CHI",
+      "source_text": "<1w> puts object over hole in correct position . puts in part way , then more and more and finally lets go <1w> holds shape box object toward hole ."
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 10,
+      "speaker": "MOT",
+      "source_text": "yeah (.) that's right ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 11,
+      "speaker": "MOT",
+      "source_text": "<1w> gasps"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 13,
+      "speaker": "CHI",
+      "source_text": "picks up square shaped object and examines"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 16,
+      "speaker": "CHI",
+      "source_text": "moves shape box object toward shape box"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 18,
+      "speaker": "CHI",
+      "source_text": "puts shape box object on lid , moves to correct hole and attempts to put in"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 22,
+      "speaker": "CHI",
+      "source_text": "succeeds in getting object through hole"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 24,
+      "speaker": "CHI",
+      "source_text": "<aft> lets go <dur> holds object toward correct hole and puts in part way . <bef> picks up another shape box object and fingers it ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 25,
+      "speaker": "MOT",
+      "source_text": "<1w> pushes shape box toward Keith"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 19,
+      "speaker": "MOT",
+      "source_text": "uhhuh (.) square ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 29,
+      "speaker": "MOT",
+      "source_text": "<1w> reaches for shape box object in Keith's hand and takes away ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 30,
+      "speaker": "MOT",
+      "source_text": "<1w> holds object out to Keith ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 31,
+      "speaker": "MOT",
+      "source_text": "<1w> touches end of object and traces circumference"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 32,
+      "speaker": "CHI",
+      "source_text": "<bef> touches end of object"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 32,
+      "speaker": "CHI",
+      "source_text": "nods"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 34,
+      "speaker": "CHI",
+      "source_text": "holds shape box object on lid , banging a little"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 34,
+      "speaker": "CHI",
+      "source_text": "nods"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 38,
+      "speaker": "CHI",
+      "source_text": "rubs object on lid and holds there"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 3,
+      "speaker": "CHI",
+      "source_text": "right ?"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 35,
+      "speaker": "CHI",
+      "source_text": "circle ."
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 36,
+      "speaker": "CHI",
+      "source_text": "circle ."
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 28,
+      "speaker": "MOT",
+      "source_text": "what is [!] that ?"
+    }
+  ]
+}

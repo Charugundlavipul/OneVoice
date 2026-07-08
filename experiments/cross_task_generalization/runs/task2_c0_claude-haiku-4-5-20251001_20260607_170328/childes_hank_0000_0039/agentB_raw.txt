@@ -1,0 +1,83 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "pause",
+      "utterance_index": 0,
+      "speaker": "MOT",
+      "source_text": "uhuh (.) the other way !",
+      "description": "Pause marked by (.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 1,
+      "speaker": "CHI",
+      "source_text": "&-uh !",
+      "description": "Non-speech vocalization marked by &-uh"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 2,
+      "speaker": "MOT",
+      "source_text": "no (.) this [!] way .",
+      "description": "Pause marked by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 9,
+      "speaker": "MOT",
+      "source_text": "good [!] (.) Hank !",
+      "description": "Pause marked by (.)"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 20,
+      "speaker": "MOT",
+      "source_text": "look (.) look (.) look !",
+      "description": "Repetition of 'look' three times with pauses"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 20,
+      "speaker": "MOT",
+      "source_text": "look (.) look (.) look !",
+      "description": "Pauses marked by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 25,
+      "speaker": "MOT",
+      "source_text": "like this (.) baby .",
+      "description": "Pause marked by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 28,
+      "speaker": "MOT",
+      "source_text": "okay (.) try it !",
+      "description": "Pause marked by (.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 31,
+      "speaker": "CHI",
+      "source_text": "&-uh .",
+      "description": "Non-speech vocalization marked by &-uh"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 36,
+      "speaker": "CHI",
+      "source_text": "&-uh ?",
+      "description": "Non-speech vocalization marked by &-uh"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 22,
+      "speaker": "CHI",
+      "source_text": "&-uh !",
+      "description": "Non-speech vocalization marked by &-uh"
+    }
+  ]
+}
+```

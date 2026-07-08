@@ -1,0 +1,11 @@
+```json
+{
+  "events": [
+    {"event_type": "repair", "pred_speaker_id": "MOT", "utt_index": 5},
+    {"event_type": "repair", "pred_speaker_id": "MOT", "utt_index": 12},
+    {"event_type": "repair", "pred_speaker_id": "MOT", "utt_index": 18},
+    {"event_type": "overlap", "pred_speaker_id": "CHI", "utt_index": 13},
+    {"event_type": "overlap", "pred_speaker_id": "MOT", "utt_index": 14}
+  ]
+}
+```

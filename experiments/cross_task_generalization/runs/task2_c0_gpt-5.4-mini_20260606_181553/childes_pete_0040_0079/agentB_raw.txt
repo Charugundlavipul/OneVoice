@@ -1,0 +1,75 @@
+[
+  {
+    "event_type": "repair",
+    "utterance_cue": 3,
+    "speaker_cue": "MOT",
+    "source_text": "xxx isn't it ?",
+    "details": "garbled/unclear speech token 'xxx' indicating self-repair or unintelligible segment"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 4,
+    "speaker_cue": "MOT",
+    "source_text": "boink@o .",
+    "details": "paralinguistic/non-lexical sound token '@o'"
+  },
+  {
+    "event_type": "repair",
+    "utterance_cue": 9,
+    "speaker_cue": "MOT",
+    "source_text": "xxx a ladder .",
+    "details": "garbled/unclear speech token 'xxx' indicating unintelligible speech"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 10,
+    "speaker_cue": "MOT",
+    "source_text": "whee .",
+    "details": "non-lexical vocalization"
+  },
+  {
+    "event_type": "repair",
+    "utterance_cue": 18,
+    "speaker_cue": "MOT",
+    "source_text": "xxx .",
+    "details": "unintelligible segment"
+  },
+  {
+    "event_type": "repair",
+    "utterance_cue": 19,
+    "speaker_cue": "MOT",
+    "source_text": "that's xxx .",
+    "details": "contains unintelligible token 'xxx'"
+  },
+  {
+    "event_type": "repair",
+    "utterance_cue": 21,
+    "speaker_cue": "MOT",
+    "source_text": "xxx .",
+    "details": "unintelligible segment"
+  },
+  {
+    "event_type": "repair",
+    "utterance_cue": 23,
+    "speaker_cue": "MOT",
+    "source_text": "xxx in there .",
+    "details": "contains unintelligible token 'xxx'"
+  },
+  {
+    "event_type": "repair",
+    "utterance_cue": 29,
+    "speaker_cue": "MOT",
+    "source_text": "xxx .",
+    "details": "unintelligible segment"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 37,
+    "speaker_cue": "MOT",
+    "source_text": "hum .",
+    "details": "vocalization/non-lexical sound"
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"repair\",\n    \"utterance_cue\": 3,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"xxx isn't it ?\",\n    \"details\": \"garbled/unclear speech token 'xxx' indicating self-repair or unintelligible segment\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 4,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"boink@o .\",\n    \"details\": \"paralinguistic/non-lexical sound token '@o'\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utterance_cue\": 9,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"xxx a ladder .\",\n    \"details\": \"garbled/unclear speech token 'xxx' indicating unintelligible speech\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 10,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"whee .\",\n    \"details\": \"non-lexical vocalization\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utterance_cue\": 18,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"xxx .\",\n    \"details\": \"unintelligible segment\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utterance_cue\": 19,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"that's xxx .\",\n    \"details\": \"contains unintelligible token 'xxx'\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utterance_cue\": 21,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"xxx .\",\n    \"details\": \"unintelligible segment\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utterance_cue\": 23,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"xxx in there .\",\n    \"details\": \"contains unintelligible token 'xxx'\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utterance_cue\": 29,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"xxx .\",\n    \"details\": \"unintelligible segment\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 37,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"hum .\",\n    \"details\": \"vocalization/non-lexical sound\"\n  }\n]"}

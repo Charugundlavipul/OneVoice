@@ -1,0 +1,348 @@
+{
+  "bundle_id": "timit_FKMS0",
+  "speaker_id": "FKMS0",
+  "timing_events": [
+    {
+      "utt_id": "FKMS0_SA1",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 3,
+          "word": "dark",
+          "start": 0.5716875,
+          "end": 0.908375,
+          "duration": 0.3366875,
+          "phone_count": 6,
+          "threshold_p90": 0.3694375,
+          "reason": "duration 0.337s exceeds p90 for 6-phone words (0.369s)"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "greasy",
+          "start": 1.3368125,
+          "end": 1.673625,
+          "duration": 0.3368125,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "reason": "duration 0.337s within normal range for 6-phone words"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            2,
+            3
+          ],
+          "gap_start": 0.5716875,
+          "gap_end": 0.5716875,
+          "duration": 0.0,
+          "reason": "word 'your' ends at 0.572s, word 'dark' starts at 0.572s - no gap"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            7,
+            8
+          ],
+          "gap_start": 1.967625,
+          "gap_end": 2.0036875,
+          "duration": 0.0360625,
+          "reason": "epi phone between words creates 0.036s gap"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            8,
+            9
+          ],
+          "gap_start": 2.239625,
+          "gap_end": 2.3240625,
+          "duration": 0.0844375,
+          "reason": "q phone between words creates 0.084s gap"
+        }
+      ]
+    },
+    {
+      "utt_id": "FKMS0_SA2",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "ask",
+          "start": 0.3763125,
+          "end": 0.6555625,
+          "duration": 0.27925,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "reason": "duration 0.279s within normal range for 3-phone words"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "carry",
+          "start": 0.804125,
+          "end": 1.1226875,
+          "duration": 0.3185625,
+          "phone_count": 5,
+          "threshold_p90": 0.503275,
+          "reason": "duration 0.319s within normal range for 5-phone words"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "oily",
+          "start": 1.203625,
+          "end": 1.5848125,
+          "duration": 0.3811875,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "duration 0.381s within normal range for 4-phone words"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "rag",
+          "start": 1.5848125,
+          "end": 1.954625,
+          "duration": 0.3698125,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "duration 0.370s within normal range for 4-phone words"
+        }
+      ]
+    },
+    {
+      "utt_id": "FKMS0_SI1490",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 0,
+          "word": "perhaps",
+          "start": 0.1354375,
+          "end": 0.49325,
+          "duration": 0.3578125,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "reason": "duration 0.358s within normal range for 6-phone words"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 3,
+          "word": "right",
+          "start": 0.804375,
+          "end": 1.145625,
+          "duration": 0.34125,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "duration 0.341s within normal range for 4-phone words"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "perhaps",
+          "start": 1.4446875,
+          "end": 1.8415,
+          "duration": 0.3968125,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "reason": "duration 0.397s within normal range for 6-phone words"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "just",
+          "start": 2.09725,
+          "end": 2.5666875,
+          "duration": 0.4694375,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "reason": "duration 0.469s within normal range for 6-phone words"
+        },
+        {
+          "event_type": "boundary_gap",
+          "gap_type": "inter_utterance_pause",
+          "gap_start": 1.145625,
+          "gap_end": 1.4446875,
+          "duration": 0.2990625,
+          "reason": "pau phone between words 3 and 4"
+        }
+      ]
+    },
+    {
+      "utt_id": "FKMS0_SI2120",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "paused",
+          "start": 0.3045625,
+          "end": 0.966,
+          "duration": 0.6614375,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "reason": "duration 0.661s exceeds p90 for 6-phone words (0.542s)"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 3,
+          "word": "added",
+          "start": 1.4826875,
+          "end": 1.878875,
+          "duration": 0.3961875,
+          "phone_count": 7,
+          "threshold_p90": 0.6202625,
+          "reason": "duration 0.396s within normal range for 7-phone words"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "everything",
+          "start": 2.4241875,
+          "end": 2.8814375,
+          "duration": 0.45725,
+          "phone_count": 7,
+          "threshold_p90": 0.6202625,
+          "reason": "duration 0.457s within normal range for 7-phone words"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "ship",
+          "start": 3.0563125,
+          "end": 3.399375,
+          "duration": 0.3430625,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "duration 0.343s within normal range for 4-phone words"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 10,
+          "word": "weapon",
+          "start": 3.615125,
+          "end": 3.9509375,
+          "duration": 0.3358125,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "reason": "duration 0.336s within normal range for 6-phone words"
+        },
+        {
+          "event_type": "boundary_gap",
+          "gap_type": "inter_utterance_pause",
+          "gap_start": 0.966,
+          "gap_end": 1.3055,
+          "duration": 0.3395,
+          "reason": "pau phone between words 1 and 2"
+        },
+        {
+          "event_type": "boundary_gap",
+          "gap_type": "inter_utterance_pause",
+          "gap_start": 1.878875,
+          "gap_end": 2.4241875,
+          "duration": 0.5453125,
+          "reason": "pau phone between words 3 and 4"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            7,
+            8
+          ],
+          "gap_start": 3.399375,
+          "gap_end": 3.4626875,
+          "duration": 0.0633125,
+          "reason": "pau phone between words creates 0.063s gap"
+        }
+      ]
+    },
+    {
+      "utt_id": "FKMS0_SI860",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "include",
+          "start": 0.322625,
+          "end": 0.870875,
+          "duration": 0.54825,
+          "phone_count": 8,
+          "threshold_p90": 0.808275,
+          "reason": "duration 0.548s within normal range for 8-phone words"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "absences",
+          "start": 1.507875,
+          "end": 2.3289375,
+          "duration": 0.8210625,
+          "phone_count": 7,
+          "threshold_p90": 0.6202625,
+          "reason": "duration 0.821s exceeds p90 for 7-phone words (0.620s)"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 5,
+          "word": "illnesses",
+          "start": 2.867625,
+          "end": 3.472,
+          "duration": 0.604375,
+          "phone_count": 7,
+          "threshold_p90": 0.6202625,
+          "reason": "duration 0.604s within normal range for 7-phone words"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "layoffs",
+          "start": 3.6651875,
+          "end": 4.196375,
+          "duration": 0.5311875,
+          "phone_count": 5,
+          "threshold_p90": 0.503275,
+          "reason": "duration 0.531s exceeds p90 for 5-phone words (0.503s)"
+        },
+        {
+          "event_type": "boundary_gap",
+          "gap_type": "inter_utterance_pause",
+          "gap_start": 0.870875,
+          "gap_end": 1.0785625,
+          "duration": 0.2076875,
+          "reason": "pau phone between words 1 and 2"
+        },
+        {
+          "event_type": "boundary_gap",
+          "gap_type": "inter_utterance_pause",
+          "gap_start": 2.3289375,
+          "gap_end": 2.867625,
+          "duration": 0.5386875,
+          "reason": "pau phone between words 4 and 5"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            5,
+            6
+          ],
+          "gap_start": 3.472,
+          "gap_end": 3.5635625,
+          "duration": 0.0915625,
+          "reason": "pau phone between words creates 0.092s gap"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_utterances": 5,
+    "total_words": 42,
+    "long_words_detected": 16,
+    "inter_word_gaps_detected": 3,
+    "boundary_gaps_detected": 6,
+    "notable_findings": [
+      "FKMS0_SI860 word 'absences' (0.821s) significantly exceeds p90 threshold for 7-phone words",
+      "FKMS0_SI2120 word 'paused' (0.661s) exceeds p90 threshold for 6-phone words",
+      "Multiple pau (pause) phones indicate deliberate inter-utterance pauses",
+      "Speaker shows consistent timing patterns with few extreme deviations"
+    ]
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "utterance_index": [
+        0,
+        1
+      ],
+      "speaker": "MOT",
+      "source_text": "Marsha ? / is that Marsha ?",
+      "description": "Mother repeats 'Marsha' with expansion"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": [
+        3,
+        5
+      ],
+      "speaker": "CHI",
+      "source_text": "yyy . / yyy .",
+      "xpho": [
+        "yAS6",
+        "yAS6"
+      ],
+      "alt": [
+        "Marsha",
+        "Marsha"
+      ],
+      "description": "Child repeats same vocalization twice"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": [
+        14,
+        18
+      ],
+      "speaker": "MOT",
+      "source_text": "is that Jill ? / is that Jill ?",
+      "description": "Mother repeats identical question"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": [
+        15,
+        17
+      ],
+      "speaker": "CHI",
+      "source_text": "Jill . / Jill .",
+      "description": "Child repeats 'Jill' twice"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": [
+        21,
+        29
+      ],
+      "speaker": "MOT",
+      "source_text": "who's that ? / who's that ?",
+      "description": "Mother repeats question multiple times (appears at indices 21, 27, 29)"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": [
+        22,
+        26,
+        28
+      ],
+      "speaker": "CHI",
+      "source_text": "yyy . / yyy . / yyy .",
+      "xpho": [
+        "bebet",
+        "bebet",
+        "bebet"
+      ],
+      "description": "Child repeats same vocalization three times"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": [
+        30,
+        32
+      ],
+      "speaker": "MOT",
+      "source_text": "is that Brett ? / Brett ?",
+      "description": "Mother repeats 'Brett' with reduction"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": [
+        34,
+        36
+      ],
+      "speaker": "MOT",
+      "source_text": "who's this ? / who's this ?",
+      "description": "Mother repeats identical question"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": [
+        10,
+        11
+      ],
+      "speaker": "MOT",
+      "source_text": "no that's not Marsha . / this is Marsha .",
+      "description": "Mother corrects child's identification, negates previous and provides correct answer"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": [
+        19
+      ],
+      "speaker": "MOT",
+      "source_text": "I thought that was Mitsy .",
+      "description": "Mother self-corrects/questions previous identification of Jill"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+[
+  {
+    "event_type": "repetition",
+    "utt_index": 4,
+    "speaker": "MOT",
+    "source_text": "<aft> repeats"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 20,
+    "speaker": "MOT",
+    "source_text": "that one doesn't go (.) in here (.) that one ."
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 27,
+    "speaker": "MOT",
+    "source_text": "here (.) it looks like the orange one will fit in there ."
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 30,
+    "speaker": "MOT",
+    "source_text": "I was right (.) the first time ."
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 22,
+    "speaker": "MOT",
+    "source_text": "<bef> laughs"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 33,
+    "speaker": "CHI",
+    "source_text": "claps hands"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 37,
+    "speaker": "CHI",
+    "source_text": "claps hands once"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 37,
+    "speaker": "CHI",
+    "source_text": "smiles"
+  }
+]
+
+[JSON_REPAIRED]
+{"events":[{"event_type":"repetition","utt_index":4,"speaker":"MOT","source_text":"<aft> repeats"},{"event_type":"pause","utt_index":20,"speaker":"MOT","source_text":"that one doesn't go (.) in here (.) that one ."},{"event_type":"pause","utt_index":27,"speaker":"MOT","source_text":"here (.) it looks like the orange one will fit in there ."},{"event_type":"pause","utt_index":30,"speaker":"MOT","source_text":"I was right (.) the first time ."},{"event_type":"non_speech","utt_index":22,"speaker":"MOT","source_text":"<bef> laughs"},{"event_type":"non_speech","utt_index":33,"speaker":"CHI","source_text":"claps hands"},{"event_type":"non_speech","utt_index":37,"speaker":"CHI","source_text":"claps hands once"},{"event_type":"non_speech","utt_index":37,"speaker":"CHI","source_text":"smiles"}]}

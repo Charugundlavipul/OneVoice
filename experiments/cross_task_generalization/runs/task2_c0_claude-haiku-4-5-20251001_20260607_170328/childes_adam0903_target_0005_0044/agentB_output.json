@@ -1,0 +1,91 @@
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "utt_index": [
+        0,
+        1
+      ],
+      "speaker": "CHI",
+      "source_text": "&=amused:noise . / &=amused:noise ."
+    },
+    {
+      "event_type": "overlap",
+      "utt_index": 4,
+      "speaker": "CHI",
+      "marker": "+<",
+      "source_text": "+< &=laughs ."
+    },
+    {
+      "event_type": "repair",
+      "utt_index": 5,
+      "speaker": "MOT",
+      "source_text": "num [/] num [/] num [/] num [/] num ."
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 8,
+      "speaker": "MOT",
+      "source_text": "okay, so (.) let's get this face of yours all (.) cleaned up ."
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": [
+        18,
+        19
+      ],
+      "speaker": "MOT",
+      "source_text": "o:h, there we go . / there we go ."
+    },
+    {
+      "event_type": "repair",
+      "utt_index": 25,
+      "speaker": "MOT",
+      "source_text": "+< there we go <there we go> [/] there we go [/] there we go ."
+    },
+    {
+      "event_type": "overlap",
+      "utt_index": 25,
+      "speaker": "MOT",
+      "marker": "+<",
+      "source_text": "+< there we go <there we go> [/] there we go [/] there we go ."
+    },
+    {
+      "event_type": "repair",
+      "utt_index": 27,
+      "speaker": "MOT",
+      "source_text": "+< shh [/] shh [/] shh [/] shh [/] shh [/] shh [/] shh ."
+    },
+    {
+      "event_type": "overlap",
+      "utt_index": 27,
+      "speaker": "MOT",
+      "marker": "+<",
+      "source_text": "+< shh [/] shh [/] shh [/] shh [/] shh [/] shh [/] shh ."
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": [
+        30,
+        31
+      ],
+      "speaker": "MOT",
+      "source_text": "there we go . / all done ."
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": [
+        33,
+        34
+      ],
+      "speaker": "MOT",
+      "source_text": "come on . / come on ."
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 37,
+      "speaker": "MOT",
+      "source_text": "&=clears:throat"
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "bundle_id": "timit_FLKD0",
+  "speaker_id": "FLKD0",
+  "timing_events": [
+    {
+      "utt_id": "FLKD0_SA1",
+      "events": [
+        {
+          "event_type": "short_word",
+          "word_index": 2,
+          "word": "your",
+          "start": 0.6175,
+          "end": 0.673625,
+          "duration": 0.056125,
+          "phone_count": 2,
+          "threshold_p10": 0.0675,
+          "threshold_p90": 0.21967500000000006
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            7,
+            8
+          ],
+          "gap_start": 2.1875,
+          "gap_end": 2.225,
+          "duration": 0.0375,
+          "note": "epi phone between 'wash' and 'water'"
+        }
+      ]
+    },
+    {
+      "utt_id": "FLKD0_SA2",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "ask",
+          "start": 0.3075,
+          "end": 0.581875,
+          "duration": 0.274375,
+          "phone_count": 2,
+          "threshold_p10": 0.0675,
+          "threshold_p90": 0.21967500000000006
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            1,
+            2
+          ],
+          "gap_start": 0.581875,
+          "gap_end": 0.625625,
+          "duration": 0.04375,
+          "note": "epi phone between 'ask' and 'me'"
+        },
+        {
+          "event_type": "boundary_gap",
+          "word_index": 9,
+          "word": "that",
+          "gap_start": 2.532625,
+          "gap_end": 3.025,
+          "duration": 0.492375,
+          "note": "final h# silence"
+        }
+      ]
+    },
+    {
+      "utt_id": "FLKD0_SI1369",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 3,
+          "word": "behavior",
+          "start": 0.839375,
+          "end": 1.4281875,
+          "duration": 0.5888125,
+          "phone_count": 8,
+          "threshold_p10": 0.453125,
+          "threshold_p90": 0.808275
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 5,
+          "word": "defended",
+          "start": 1.586875,
+          "end": 2.090875,
+          "duration": 0.504,
+          "phone_count": 9,
+          "threshold_p10": 0.453125,
+          "threshold_p90": 0.808275
+        },
+        {
+          "event_type": "boundary_gap",
+          "word_index": 6,
+          "word": "it",
+          "gap_start": 2.248,
+          "gap_end": 2.59,
+          "duration": 0.342,
+          "note": "final h# silence"
+        }
+      ]
+    },
+    {
+      "utt_id": "FLKD0_SI739",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 2,
+          "word": "desserts",
+          "start": 0.49175,
+          "end": 1.1275,
+          "duration": 0.63575,
+          "phone_count": 7,
+          "threshold_p10": 0.36982499999999996,
+          "threshold_p90": 0.6202624999999999
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 3,
+          "word": "simple",
+          "start": 0.95625,
+          "end": 1.53,
+          "duration": 0.57375,
+          "phone_count": 5,
+          "threshold_p10": 0.267525,
+          "threshold_p90": 0.503275
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            3,
+            4
+          ],
+          "gap_start": 1.53,
+          "gap_end": 1.6814375,
+          "duration": 0.1514375,
+          "note": "pau phone between 'simple' and 'fruit'"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "nicely",
+          "start": 2.305,
+          "end": 2.8425,
+          "duration": 0.5375,
+          "phone_count": 5,
+          "threshold_p10": 0.267525,
+          "threshold_p90": 0.503275
+        }
+      ]
+    },
+    {
+      "utt_id": "FLKD0_SI894",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "ideas",
+          "start": 0.321125,
+          "end": 0.77,
+          "duration": 0.448875,
+          "phone_count": 6,
+          "threshold_p10": 0.31038125,
+          "threshold_p90": 0.5423
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "nutrition",
+          "start": 1.375,
+          "end": 1.978375,
+          "duration": 0.603375,
+          "phone_count": 9,
+          "threshold_p10": 0.453125,
+          "threshold_p90": 0.808275
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            6,
+            7
+          ],
+          "gap_start": 2.421875,
+          "gap_end": 2.3254375,
+          "duration": -0.0964375,
+          "note": "word overlap detected: 'with' ends after 'the' starts"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_utterances": 5,
+    "total_events": 17,
+    "event_counts": {
+      "long_word": 8,
+      "short_word": 1,
+      "inter_word_gap": 5,
+      "boundary_gap": 3
+    },
+    "notes": "FLKD0_SI894 contains word timing overlap between 'with' and 'the' requiring verification."
+  }
+}

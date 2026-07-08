@@ -1,0 +1,251 @@
+{
+  "bundle_id": "timit_FMAF0",
+  "speaker_id": "FMAF0",
+  "timing_events": [
+    {
+      "utt_id": "FMAF0_SA1",
+      "events": [
+        {
+          "event_type": "boundary_gap",
+          "description": "initial silence",
+          "start": 0.0,
+          "end": 0.3733125,
+          "duration": 0.3733125
+        },
+        {
+          "event_type": "inter_word_gap",
+          "word_index": 1,
+          "word": "had",
+          "start": 0.5425,
+          "end": 0.5425,
+          "duration": 0.0,
+          "note": "word overlap with previous"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "word_index": 2,
+          "word": "your",
+          "start": 0.795625,
+          "end": 0.795625,
+          "duration": 0.0,
+          "note": "word overlap with previous"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "word_index": 8,
+          "word": "water",
+          "start": 2.396875,
+          "end": 2.425,
+          "duration": 0.028125,
+          "note": "epi phone between words"
+        },
+        {
+          "event_type": "boundary_gap",
+          "description": "final silence",
+          "start": 3.1725,
+          "end": 3.375,
+          "duration": 0.2025
+        }
+      ]
+    },
+    {
+      "utt_id": "FMAF0_SA2",
+      "events": [
+        {
+          "event_type": "boundary_gap",
+          "description": "initial silence",
+          "start": 0.0,
+          "end": 0.463125,
+          "duration": 0.463125
+        },
+        {
+          "event_type": "inter_word_gap",
+          "word_index": 2,
+          "word": "me",
+          "start": 0.841875,
+          "end": 0.8775,
+          "duration": 0.035625,
+          "note": "epi phone between words"
+        },
+        {
+          "event_type": "boundary_gap",
+          "description": "final silence",
+          "start": 2.69625,
+          "end": 2.785,
+          "duration": 0.08875
+        }
+      ]
+    },
+    {
+      "utt_id": "FMAF0_SI1459",
+      "events": [
+        {
+          "event_type": "boundary_gap",
+          "description": "initial silence",
+          "start": 0.0,
+          "end": 0.308125,
+          "duration": 0.308125
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 2,
+          "word": "especially",
+          "start": 0.600625,
+          "end": 1.1325,
+          "duration": 0.531875,
+          "phone_count": 8,
+          "threshold_p90": 0.6202624999999999,
+          "note": "duration within expected range for 8-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "fabrics",
+          "start": 1.9216875,
+          "end": 2.525625,
+          "duration": 0.6039375,
+          "phone_count": 9,
+          "threshold_p90": 0.6202624999999999,
+          "note": "9-phone word, duration near p90 threshold"
+        },
+        {
+          "event_type": "boundary_gap",
+          "description": "final silence",
+          "start": 2.525625,
+          "end": 2.72,
+          "duration": 0.194375
+        }
+      ]
+    },
+    {
+      "utt_id": "FMAF0_SI2089",
+      "events": [
+        {
+          "event_type": "boundary_gap",
+          "description": "initial silence",
+          "start": 0.0,
+          "end": 0.1275,
+          "duration": 0.1275
+        },
+        {
+          "event_type": "inter_word_gap",
+          "word_index": 1,
+          "word": "he",
+          "start": 0.308875,
+          "end": 0.3581875,
+          "duration": 0.0493125,
+          "note": "q phone (glottal stop) between words"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 3,
+          "word": "did",
+          "start": 0.5435,
+          "end": 0.761875,
+          "duration": 0.218375,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125000000003,
+          "note": "4-phone word, duration within range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "again",
+          "start": 1.261125,
+          "end": 1.5625,
+          "duration": 0.301375,
+          "phone_count": 5,
+          "threshold_p90": 0.503275,
+          "note": "5-phone word, duration within range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 8,
+          "word": "she'd",
+          "start": 1.5625,
+          "end": 1.8775,
+          "duration": 0.315,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "note": "3-phone word, duration within range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 11,
+          "word": "shame",
+          "start": 2.176875,
+          "end": 2.5645,
+          "duration": 0.387625,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "note": "3-phone word, duration slightly above p90"
+        },
+        {
+          "event_type": "boundary_gap",
+          "description": "final silence",
+          "start": 2.5645,
+          "end": 2.665,
+          "duration": 0.1005
+        }
+      ]
+    },
+    {
+      "utt_id": "FMAF0_SI829",
+      "events": [
+        {
+          "event_type": "boundary_gap",
+          "description": "initial silence",
+          "start": 0.0,
+          "end": 0.14,
+          "duration": 0.14
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 2,
+          "word": "does",
+          "start": 0.46875,
+          "end": 0.99875,
+          "duration": 0.53,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "note": "3-phone word, duration significantly above p90 (0.53 vs 0.369)"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "word_index": 3,
+          "word": "stimulates",
+          "start": 0.99875,
+          "end": 1.179375,
+          "duration": 0.180625,
+          "note": "pau phone between words"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 3,
+          "word": "stimulates",
+          "start": 1.179375,
+          "end": 1.8929375,
+          "duration": 0.7135625,
+          "phone_count": 11,
+          "threshold_p90": 0.6202624999999999,
+          "note": "11-phone word, duration above p90 threshold (0.714 vs 0.620)"
+        },
+        {
+          "event_type": "boundary_gap",
+          "description": "final silence",
+          "start": 2.6945625,
+          "end": 3.175,
+          "duration": 0.4804375
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_utterances": 5,
+    "total_events": 24,
+    "long_words": 8,
+    "short_words": 0,
+    "inter_word_gaps": 4,
+    "boundary_gaps": 10
+  }
+}

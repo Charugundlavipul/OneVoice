@@ -1,0 +1,143 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "pause",
+      "utterance_index": 0,
+      "speaker": "CHI",
+      "source_text": "&~aw (.) down !",
+      "description": "Pause marked by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 2,
+      "speaker": "CHI",
+      "source_text": "ah (.) chair .",
+      "description": "Pause marked by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 4,
+      "speaker": "CHI",
+      "source_text": "yyy (.) oh !",
+      "description": "Pause marked by (.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 4,
+      "speaker": "CHI",
+      "source_text": "yyy (.) oh !",
+      "description": "Non-lexical vocalization: yyy"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 5,
+      "speaker": "CHI",
+      "source_text": "&-uh !",
+      "description": "Non-lexical vocalization: &-uh"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 6,
+      "speaker": "CHI",
+      "source_text": "&-uh bed !",
+      "description": "Non-lexical vocalization: &-uh"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 7,
+      "speaker": "CHI",
+      "source_text": "bed !",
+      "prior_utterance_index": 6,
+      "description": "Repetition of 'bed' from previous utterance"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 11,
+      "speaker": "CHI",
+      "source_text": "&-uh yyy brush ?",
+      "description": "Non-lexical vocalizations: &-uh and yyy"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 12,
+      "speaker": "CHI",
+      "source_text": "bed ?",
+      "prior_utterance_index": 11,
+      "description": "Repetition of 'bed' from utterance 6-7"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 13,
+      "speaker": "CHI",
+      "source_text": "my bed ?",
+      "prior_utterance_index": 12,
+      "description": "Expansion/repetition of 'bed' with possessive determiner"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 15,
+      "speaker": "CHI",
+      "source_text": "yyy ?",
+      "description": "Non-lexical vocalization: yyy"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 19,
+      "speaker": "CHI",
+      "source_text": "&-uh boy !",
+      "description": "Non-lexical vocalization: &-uh"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 23,
+      "speaker": "CHI",
+      "source_text": "&-uh boy !",
+      "prior_utterance_index": 19,
+      "description": "Repetition of '&-uh boy !'"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 20,
+      "speaker": "MOT",
+      "source_text": "here (.) let's set up the table .",
+      "description": "Pause marked by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 24,
+      "speaker": "MOT",
+      "source_text": "here (.) like this .",
+      "description": "Pause marked by (.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 27,
+      "speaker": "CHI",
+      "source_text": "&-uh &-uh .",
+      "description": "Non-lexical vocalizations: &-uh &-uh"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 30,
+      "speaker": "CHI",
+      "source_text": "&-eh (.) &-uh (.) ah xxx (.) doggie get in .",
+      "description": "Non-lexical vocalizations: &-eh, &-uh, ah; unintelligible: xxx"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 30,
+      "speaker": "CHI",
+      "source_text": "&-eh (.) &-uh (.) ah xxx (.) doggie get in .",
+      "description": "Multiple pauses marked by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 35,
+      "speaker": "MOT",
+      "source_text": "see (.) the hot dogs ?",
+      "description": "Pause marked by (.)"
+    }
+  ]
+}
+```

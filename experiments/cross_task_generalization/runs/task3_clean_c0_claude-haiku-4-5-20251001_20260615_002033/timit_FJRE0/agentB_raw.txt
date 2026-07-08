@@ -1,0 +1,673 @@
+```json
+{
+  "bundle_id": "timit_FJRE0",
+  "speaker_id": "FJRE0",
+  "phone_events": [
+    {
+      "utt_id": "FJRE0_SA1",
+      "events": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.1375,
+          "duration": 0.1375,
+          "event_type": "pause_silence_segment"
+        },
+        {
+          "phone_index": 1,
+          "phone": "sh",
+          "start": 0.1375,
+          "end": 0.245375,
+          "duration": 0.107875,
+          "event_type": "normal"
+        },
+        {
+          "phone_index": 4,
+          "phone": "ae",
+          "start": 0.3341875,
+          "end": 0.4675,
+          "duration": 0.1333125,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 8,
+          "phone": "dcl",
+          "start": 0.5925,
+          "end": 0.663125,
+          "duration": 0.070625,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 10,
+          "phone": "aa",
+          "start": 0.6825,
+          "end": 0.769125,
+          "duration": 0.086625,
+          "event_type": "normal"
+        },
+        {
+          "phone_index": 12,
+          "phone": "kcl",
+          "start": 0.8125,
+          "end": 0.879875,
+          "duration": 0.067375,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 14,
+          "phone": "s",
+          "start": 0.90075,
+          "end": 1.0521875,
+          "duration": 0.1514375,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 15,
+          "phone": "ux",
+          "start": 1.0521875,
+          "end": 1.1696875,
+          "duration": 0.1175,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 23,
+          "phone": "s",
+          "start": 1.5075,
+          "end": 1.6325,
+          "duration": 0.125,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 26,
+          "phone": "ao",
+          "start": 1.75975,
+          "end": 1.919,
+          "duration": 0.15925,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 28,
+          "phone": "epi",
+          "start": 2.0104375,
+          "end": 2.0575,
+          "duration": 0.0470625,
+          "event_type": "pause_silence_segment"
+        },
+        {
+          "phone_index": 30,
+          "phone": "ao",
+          "start": 2.0974375,
+          "end": 2.1775,
+          "duration": 0.0800625,
+          "event_type": "normal"
+        },
+        {
+          "phone_index": 33,
+          "phone": "q",
+          "start": 2.3054375,
+          "end": 2.3576875,
+          "duration": 0.05225,
+          "event_type": "glottal_stop"
+        },
+        {
+          "phone_index": 34,
+          "phone": "ao",
+          "start": 2.3576875,
+          "end": 2.4875625,
+          "duration": 0.129875,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 39,
+          "phone": "h#",
+          "start": 2.7975,
+          "end": 3.0,
+          "duration": 0.2025,
+          "event_type": "pause_silence_segment"
+        }
+      ]
+    },
+    {
+      "utt_id": "FJRE0_SA2",
+      "events": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.13575,
+          "duration": 0.13575,
+          "event_type": "pause_silence_segment"
+        },
+        {
+          "phone_index": 2,
+          "phone": "ow",
+          "start": 0.151375,
+          "end": 0.3028125,
+          "duration": 0.1514375,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 7,
+          "phone": "ae",
+          "start": 0.4575,
+          "end": 0.6425,
+          "duration": 0.185,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 9,
+          "phone": "kcl",
+          "start": 0.7231875,
+          "end": 0.7466875,
+          "duration": 0.0235,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 13,
+          "phone": "tcl",
+          "start": 0.8875,
+          "end": 0.9425,
+          "duration": 0.055,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 16,
+          "phone": "kcl",
+          "start": 1.01825,
+          "end": 1.0625,
+          "duration": 0.04425,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 17,
+          "phone": "k",
+          "start": 1.0625,
+          "end": 1.1425,
+          "duration": 0.08,
+          "event_type": "normal"
+        },
+        {
+          "phone_index": 24,
+          "phone": "oy",
+          "start": 1.4725625,
+          "end": 1.6083125,
+          "duration": 0.13575,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 28,
+          "phone": "ae",
+          "start": 1.836375,
+          "end": 2.020875,
+          "duration": 0.1845,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 29,
+          "phone": "gcl",
+          "start": 2.020875,
+          "end": 2.06525,
+          "duration": 0.044375,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 33,
+          "phone": "kcl",
+          "start": 2.2225,
+          "end": 2.2775,
+          "duration": 0.055,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 36,
+          "phone": "ae",
+          "start": 2.3625,
+          "end": 2.5375,
+          "duration": 0.175,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 37,
+          "phone": "tcl",
+          "start": 2.5375,
+          "end": 2.6075,
+          "duration": 0.07,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 39,
+          "phone": "h#",
+          "start": 2.6325,
+          "end": 2.75,
+          "duration": 0.1175,
+          "event_type": "pause_silence_segment"
+        }
+      ]
+    },
+    {
+      "utt_id": "FJRE0_SI1116",
+      "events": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.1409375,
+          "duration": 0.1409375,
+          "event_type": "pause_silence_segment"
+        },
+        {
+          "phone_index": 1,
+          "phone": "iy",
+          "start": 0.1409375,
+          "end": 0.2558125,
+          "duration": 0.114875,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 2,
+          "phone": "tcl",
+          "start": 0.2558125,
+          "end": 0.2898125,
+          "duration": 0.034,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 6,
+          "phone": "tcl",
+          "start": 0.5125,
+          "end": 0.5425,
+          "duration": 0.03,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 10,
+          "phone": "gcl",
+          "start": 0.671,
+          "end": 0.73625,
+          "duration": 0.06525,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 13,
+          "phone": "ao",
+          "start": 0.7963125,
+          "end": 0.8876875,
+          "duration": 0.091375,
+          "event_type": "normal"
+        },
+        {
+          "phone_index": 14,
+          "phone": "axr",
+          "start": 0.8876875,
+          "end": 0.9790625,
+          "duration": 0.091375,
+          "event_type": "normal"
+        },
+        {
+          "phone_index": 15,
+          "phone": "f",
+          "start": 0.9790625,
+          "end": 1.0775,
+          "duration": 0.0984375,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 16,
+          "phone": "ay",
+          "start": 1.0775,
+          "end": 1.2075,
+          "duration": 0.13,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 22,
+          "phone": "ae",
+          "start": 1.4625,
+          "end": 1.6075,
+          "duration": 0.145,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 23,
+          "phone": "sh",
+          "start": 1.6075,
+          "end": 1.7231875,
+          "duration": 0.1156875,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 30,
+          "phone": "h#",
+          "start": 2.2075,
+          "end": 2.415,
+          "duration": 0.2075,
+          "event_type": "pause_silence_segment"
+        }
+      ]
+    },
+    {
+      "utt_id": "FJRE0_SI1587",
+      "events": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.1375,
+          "duration": 0.1375,
+          "event_type": "pause_silence_segment"
+        },
+        {
+          "phone_index": 4,
+          "phone": "jh",
+          "start": 0.2725,
+          "end": 0.3475,
+          "duration": 0.075,
+          "event_type": "normal"
+        },
+        {
+          "phone_index": 5,
+          "phone": "ey",
+          "start": 0.3475,
+          "end": 0.4975,
+          "duration": 0.15,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 10,
+          "phone": "pau",
+          "start": 0.6761875,
+          "end": 0.7415,
+          "duration": 0.0653125,
+          "event_type": "pause_silence_segment"
+        },
+        {
+          "phone_index": 12,
+          "phone": "ae",
+          "start": 0.7675625,
+          "end": 0.9225,
+          "duration": 0.1549375,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 14,
+          "phone": "axr",
+          "start": 0.9725,
+          "end": 1.085,
+          "duration": 0.1125,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 15,
+          "phone": "ih",
+          "start": 1.085,
+          "end": 1.1975,
+          "duration": 0.1125,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 21,
+          "phone": "aa",
+          "start": 1.4875,
+          "end": 1.6109375,
+          "duration": 0.1234375,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 28,
+          "phone": "pcl",
+          "start": 1.8975,
+          "end": 2.0174375,
+          "duration": 0.1199375,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 32,
+          "phone": "ch",
+          "start": 2.169625,
+          "end": 2.2875,
+          "duration": 0.117875,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 33,
+          "phone": "er",
+          "start": 2.2875,
+          "end": 2.3975,
+          "duration": 0.11,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 39,
+          "phone": "bcl",
+          "start": 2.6675,
+          "end": 2.775375,
+          "duration": 0.107875,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 42,
+          "phone": "ae",
+          "start": 2.845875,
+          "end": 2.9925,
+          "duration": 0.146625,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 43,
+          "phone": "s",
+          "start": 2.9925,
+          "end": 3.0860625,
+          "duration": 0.0935625,
+          "event_type": "normal"
+        },
+        {
+          "phone_index": 45,
+          "phone": "em",
+          "start": 3.1425,
+          "end": 3.234875,
+          "duration": 0.092375,
+          "event_type": "normal"
+        },
+        {
+          "phone_index": 47,
+          "phone": "s",
+          "start": 3.2949375,
+          "end": 3.4124375,
+          "duration": 0.1175,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 48,
+          "phone": "epi",
+          "start": 3.4124375,
+          "end": 3.4803125,
+          "duration": 0.067875,
+          "event_type": "pause_silence_segment"
+        },
+        {
+          "phone_index": 50,
+          "phone": "ay",
+          "start": 3.549375,
+          "end": 3.6875,
+          "duration": 0.138125,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 51,
+          "phone": "tcl",
+          "start": 3.6875,
+          "end": 3.7414375,
+          "duration": 0.0539375,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 53,
+          "phone": "epi",
+          "start": 3.8093125,
+          "end": 3.8608125,
+          "duration": 0.0515,
+          "event_type": "pause_silence_segment"
+        },
+        {
+          "phone_index": 56,
+          "phone": "th",
+          "start": 3.9225,
+          "end": 4.054,
+          "duration": 0.1315,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 58,
+          "phone": "eh",
+          "start": 4.10275,
+          "end": 4.20025,
+          "duration": 0.0975,
+          "event_type": "normal"
+        },
+        {
+          "phone_index": 61,
+          "phone": "sh",
+          "start": 4.3425,
+          "end": 4.5925,
+          "duration": 0.25,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 62,
+          "phone": "h#",
+          "start": 4.5925,
+          "end": 4.9,
+          "duration": 0.3075,
+          "event_type": "pause_silence_segment"
+        }
+      ]
+    },
+    {
+      "utt_id": "FJRE0_SI1746",
+      "events": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.1275,
+          "duration": 0.1275,
+          "event_type": "pause_silence_segment"
+        },
+        {
+          "phone_index": 3,
+          "phone": "s",
+          "start": 0.2175,
+          "end": 0.3775,
+          "duration": 0.16,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 4,
+          "phone": "ae",
+          "start": 0.3775,
+          "end": 0.5378125,
+          "duration": 0.1603125,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 8,
+          "phone": "hv",
+          "start": 0.697125,
+          "end": 0.7415,
+          "duration": 0.044375,
+          "event_type": "normal"
+        },
+        {
+          "phone_index": 9,
+          "phone": "eh",
+          "start": 0.7415,
+          "end": 0.812,
+          "duration": 0.0705,
+          "event_type": "normal"
+        },
+        {
+          "phone_index": 10,
+          "phone": "dcl",
+          "start": 0.812,
+          "end": 0.835,
+          "duration": 0.023,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 13,
+          "phone": "iy",
+          "start": 0.90075,
+          "end": 0.9843125,
+          "duration": 0.0835625,
+          "event_type": "normal"
+        },
+        {
+          "phone_index": 14,
+          "phone": "tcl",
+          "start": 0.9843125,
+          "end": 1.0234375,
+          "duration": 0.039125,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 15,
+          "phone": "ch",
+          "start": 1.0234375,
+          "end": 1.11,
+          "duration": 0.0865625,
+          "event_type": "normal"
+        },
+        {
+          "phone_index": 20,
+          "phone": "eh",
+          "start": 1.3133125,
+          "end": 1.4020625,
+          "duration": 0.08875,
+          "event_type": "normal"
+        },
+        {
+          "phone_index": 23,
+          "phone": "aw",
+          "start": 1.5325,
+          "end": 1.7075,
+          "duration": 0.175,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 26,
+          "phone": "m",
+          "start": 1.7975,
+          "end": 1.9075,
+          "duration": 0.11,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 27,
+          "phone": "aa",
+          "start": 1.9075,
+          "end": 1.9975,
+          "duration": 0.09,
+          "event_type": "normal"
+        },
+        {
+          "phone_index": 29,
+          "phone": "kcl",
+          "start": 2.0425,
+          "end": 2.1425,
+          "duration": 0.1,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 31,
+          "phone": "h#",
+          "start": 2.2114375,
+          "end": 2.41,
+          "duration": 0.1985625,
+          "event_type": "pause_silence_segment"
+        }
+      ]
+    }
+  ]
+}
+```

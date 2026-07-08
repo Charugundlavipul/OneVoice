@@ -1,0 +1,341 @@
+```json
+{
+  "bundle_id": "timit_FCAU0",
+  "speaker_id": "FCAU0",
+  "timing_events": [
+    {
+      "utt_id": "FCAU0_SA1",
+      "events": [
+        {
+          "word_index": 1,
+          "word": "had",
+          "start": 0.483,
+          "end": 0.73375,
+          "duration": 0.25075,
+          "event_type": "long_word",
+          "reason": "4 phones, duration 0.251s exceeds p90 threshold 0.428s is not exceeded but word is in upper range"
+        },
+        {
+          "word_index": 2,
+          "word": "your",
+          "start": 0.698125,
+          "end": 0.8275,
+          "duration": 0.129375,
+          "event_type": "short_word",
+          "reason": "1 phone, duration 0.129s exceeds p10 threshold 0.038s"
+        },
+        {
+          "word_index": 2,
+          "word": "your",
+          "start": 0.698125,
+          "end": 0.8275,
+          "event_type": "boundary_gap",
+          "gap_duration": -0.035625,
+          "reason": "word overlap with previous word 'had' (ends at 0.73375)"
+        },
+        {
+          "word_index": 7,
+          "word": "wash",
+          "start": 2.044375,
+          "end": 2.44575,
+          "duration": 0.401375,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.401s near p90 threshold 0.369s"
+        },
+        {
+          "word_index": 8,
+          "word": "water",
+          "start": 2.48025,
+          "end": 2.739875,
+          "duration": 0.259625,
+          "event_type": "inter_word_gap",
+          "gap_duration": 0.03645,
+          "reason": "gap between 'wash' (ends 2.44575) and 'water' (starts 2.48025), includes epi phone"
+        },
+        {
+          "word_index": 10,
+          "word": "year",
+          "start": 3.0639375,
+          "end": 3.4700625,
+          "duration": 0.406125,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.406s exceeds p90 threshold 0.369s"
+        }
+      ]
+    },
+    {
+      "utt_id": "FCAU0_SA2",
+      "events": [
+        {
+          "word_index": 1,
+          "word": "ask",
+          "start": 0.3078125,
+          "end": 0.5803125,
+          "duration": 0.2725,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.273s exceeds p90 threshold 0.369s is not exceeded but in upper range"
+        },
+        {
+          "word_index": 2,
+          "word": "me",
+          "start": 0.5803125,
+          "end": 0.6344375,
+          "duration": 0.054125,
+          "event_type": "short_word",
+          "reason": "2 phones, duration 0.054s below p10 threshold 0.068s"
+        },
+        {
+          "word_index": 4,
+          "word": "carry",
+          "start": 0.7225,
+          "end": 1.0469375,
+          "duration": 0.3244375,
+          "event_type": "long_word",
+          "reason": "5 phones, duration 0.324s below p10 threshold 0.268s is not exceeded"
+        },
+        {
+          "word_index": 6,
+          "word": "oily",
+          "start": 1.1243125,
+          "end": 1.47625,
+          "duration": 0.3519375,
+          "event_type": "long_word",
+          "reason": "4 phones, duration 0.352s exceeds p90 threshold 0.428s is not exceeded but in upper range"
+        },
+        {
+          "word_index": 7,
+          "word": "rag",
+          "start": 1.47625,
+          "end": 1.8040625,
+          "duration": 0.3278125,
+          "event_type": "long_word",
+          "reason": "4 phones, duration 0.328s in upper range"
+        },
+        {
+          "word_index": 9,
+          "word": "that",
+          "start": 2.06,
+          "end": 2.5325,
+          "duration": 0.4725,
+          "event_type": "long_word",
+          "reason": "4 phones, duration 0.473s exceeds p90 threshold 0.428s"
+        }
+      ]
+    },
+    {
+      "utt_id": "FCAU0_SI1037",
+      "events": [
+        {
+          "word_index": 0,
+          "word": "the",
+          "start": 0.135,
+          "end": 0.198375,
+          "duration": 0.063375,
+          "event_type": "short_word",
+          "reason": "2 phones, duration 0.063s below p10 threshold 0.068s"
+        },
+        {
+          "word_index": 1,
+          "word": "revised",
+          "start": 0.198375,
+          "end": 0.73375,
+          "duration": 0.535375,
+          "event_type": "long_word",
+          "reason": "6 phones, duration 0.535s exceeds p90 threshold 0.542s is near threshold"
+        },
+        {
+          "word_index": 2,
+          "word": "procedure",
+          "start": 0.73375,
+          "end": 1.23775,
+          "duration": 0.504,
+          "event_type": "long_word",
+          "reason": "8 phones, duration 0.504s below p90 threshold 0.808s but in upper range"
+        },
+        {
+          "word_index": 4,
+          "word": "acclaimed",
+          "start": 1.4775,
+          "end": 1.9440625,
+          "duration": 0.4665625,
+          "event_type": "long_word",
+          "reason": "8 phones, duration 0.467s below p90 threshold 0.808s"
+        },
+        {
+          "word_index": 8,
+          "word": "overdue",
+          "start": 2.45575,
+          "end": 2.929375,
+          "duration": 0.473625,
+          "event_type": "long_word",
+          "reason": "7 phones, duration 0.474s below p90 threshold 0.620s"
+        },
+        {
+          "word_index": 9,
+          "word": "reform",
+          "start": 2.929375,
+          "end": 3.5521875,
+          "duration": 0.6228125,
+          "event_type": "long_word",
+          "reason": "6 phones, duration 0.623s exceeds p90 threshold 0.542s"
+        }
+      ]
+    },
+    {
+      "utt_id": "FCAU0_SI1667",
+      "events": [
+        {
+          "word_index": 0,
+          "word": "he",
+          "start": 0.13625,
+          "end": 0.315875,
+          "duration": 0.179625,
+          "event_type": "long_word",
+          "reason": "2 phones, duration 0.180s exceeds p90 threshold 0.220s is not exceeded but in upper range"
+        },
+        {
+          "word_index": 1,
+          "word": "held",
+          "start": 0.315875,
+          "end": 0.585625,
+          "duration": 0.26975,
+          "event_type": "long_word",
+          "reason": "5 phones, duration 0.270s exceeds p10 threshold 0.268s"
+        },
+        {
+          "word_index": 3,
+          "word": "arms",
+          "start": 0.740625,
+          "end": 1.0548125,
+          "duration": 0.3141875,
+          "event_type": "long_word",
+          "reason": "5 phones, duration 0.314s exceeds p90 threshold 0.503s is not exceeded but in upper range"
+        },
+        {
+          "word_index": 4,
+          "word": "close",
+          "start": 1.0548125,
+          "end": 1.3825,
+          "duration": 0.3276875,
+          "event_type": "long_word",
+          "reason": "5 phones, duration 0.328s exceeds p90 threshold 0.503s is not exceeded but in upper range"
+        },
+        {
+          "word_index": 7,
+          "word": "sides",
+          "start": 1.714375,
+          "end": 2.0825,
+          "duration": 0.368125,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.368s below p90 threshold 0.369s but near threshold"
+        },
+        {
+          "word_index": 10,
+          "word": "himself",
+          "start": 2.4025,
+          "end": 2.8798125,
+          "duration": 0.4773125,
+          "event_type": "long_word",
+          "reason": "7 phones, duration 0.477s below p90 threshold 0.620s"
+        },
+        {
+          "word_index": 11,
+          "word": "as",
+          "start": 2.8798125,
+          "end": 3.09625,
+          "duration": 0.2164375,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.216s exceeds p90 threshold 0.369s is not exceeded but in upper range"
+        },
+        {
+          "word_index": 12,
+          "word": "small",
+          "start": 3.1406875,
+          "end": 3.3810625,
+          "duration": 0.240375,
+          "event_type": "inter_word_gap",
+          "gap_duration": 0.0444375,
+          "reason": "gap between 'as' (ends 3.09625) and 'small' (starts 3.1406875), includes epi phone"
+        },
+        {
+          "word_index": 14,
+          "word": "possible",
+          "start": 3.481625,
+          "end": 4.105,
+          "duration": 0.623375,
+          "event_type": "long_word",
+          "reason": "8 phones, duration 0.623s below p90 threshold 0.808s but in upper range"
+        }
+      ]
+    },
+    {
+      "utt_id": "FCAU0_SI2297",
+      "events": [
+        {
+          "word_index": 0,
+          "word": "one",
+          "start": 0.13,
+          "end": 0.2585,
+          "duration": 0.1285,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.129s below p10 threshold 0.135s"
+        },
+        {
+          "word_index": 2,
+          "word": "hear",
+          "start": 0.4044375,
+          "end": 0.644875,
+          "duration": 0.2404375,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.240s exceeds p90 threshold 0.369s is not exceeded but in upper range"
+        },
+        {
+          "word_index": 4,
+          "word": "very",
+          "start": 0.728625,
+          "end": 1.0704375,
+          "duration": 0.3418125,
+          "event_type": "long_word",
+          "reason": "4 phones, duration 0.342s below p90 threshold 0.428s but in upper range"
+        },
+        {
+          "word_index": 5,
+          "word": "faint",
+          "start": 1.0704375,
+          "end": 1.5275,
+          "duration": 0.4570625,
+          "event_type": "long_word",
+          "reason": "4 phones, duration 0.457s exceeds p90 threshold 0.428s"
+        },
+        {
+          "word_index": 5,
+          "word": "faint",
+          "start": 1.0704375,
+          "end": 1.5275,
+          "event_type": "inter_word_gap",
+          "gap_duration": 0.0839375,
+          "reason": "gap between 'faint' (ends 1.5275) and 'ladylike' (starts 1.6114375), pau phone"
+        },
+        {
+          "word_index": 6,
+          "word": "ladylike",
+          "start": 1.6114375,
+          "end": 2.245375,
+          "duration": 0.6339375,
+          "event_type": "long_word",
+          "reason": "8 phones, duration 0.634s below p90 threshold 0.808s but in upper range"
+        },
+        {
+          "word_index": 9,
+          "word": "relief",
+          "start": 2.71225,
+          "end": 3.3006875,
+          "duration": 0.5884375,
+          "event_type": "long_word",
+          "reason": "5 phones, duration 0.588s exceeds p90 threshold 0.503s"
+        }
+      ]
+    }
+  ]
+}
+```

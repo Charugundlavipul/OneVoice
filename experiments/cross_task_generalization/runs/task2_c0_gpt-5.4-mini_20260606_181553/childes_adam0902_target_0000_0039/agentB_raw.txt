@@ -1,0 +1,141 @@
+[
+  {
+    "event_type": "repetition",
+    "speaker_cue": "MOT",
+    "utterance_cue": [3, 4],
+    "source_text": "+, <there's your> [/] there's your rice cake . / there's your water .",
+    "notes": "Repeated frame/structure across consecutive caregiver utterances."
+  },
+  {
+    "event_type": "repetition",
+    "speaker_cue": "MOT",
+    "utterance_cue": [12, 13],
+    "source_text": "is that nice ? / is that nice ?",
+    "notes": "Exact repetition of the same utterance."
+  },
+  {
+    "event_type": "repetition",
+    "speaker_cue": "MOT",
+    "utterance_cue": [22, 23],
+    "source_text": "I don't believe it . / I don't believe it .",
+    "notes": "Exact repetition of the same utterance."
+  },
+  {
+    "event_type": "repetition",
+    "speaker_cue": "MOT",
+    "utterance_cue": [37, 38],
+    "source_text": "there we go . / there we go .",
+    "notes": "Exact repetition of the same utterance."
+  },
+  {
+    "event_type": "repair",
+    "speaker_cue": "MOT",
+    "utterance_cue": 3,
+    "source_text": "+, <there's your> [/] there's your rice cake .",
+    "notes": "Self-repair/correction indicated by reformulation marker [/] after a bracketed reparandum."
+  },
+  {
+    "event_type": "repair",
+    "speaker_cue": "MOT",
+    "utterance_cue": 15,
+    "source_text": "&=laughs, whatcha [: what are you ] doing ?",
+    "notes": "Explicit lexical repair/expansion marker [:]."
+  },
+  {
+    "event_type": "repair",
+    "speaker_cue": "MOT",
+    "utterance_cue": 17,
+    "source_text": "+< &=gasps whatcha [: what are you ] doing &=blows:raspberries .",
+    "notes": "Explicit lexical repair/expansion marker [:]."
+  },
+  {
+    "event_type": "repair",
+    "speaker_cue": "MOT",
+    "utterance_cue": 25,
+    "source_text": "I don't think drinking and blowing raspberries at the same time's gonna [: going to ] help .",
+    "notes": "Self-repair/correction indicated by [:]."
+  },
+  {
+    "event_type": "repair",
+    "speaker_cue": "MOT",
+    "utterance_cue": 27,
+    "source_text": "is that right, &=gasps ?",
+    "notes": "Interruption/disfluency marker with inserted non-speech; no explicit repair bracket, but the utterance includes a parenthetical continuation after pause-like comma."
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "MOT",
+    "utterance_cue": 2,
+    "source_text": "okay +...",
+    "notes": "Trailing ellipsis indicates pause/trailing off."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "CHI",
+    "utterance_cue": 7,
+    "source_text": "&=squeals &=babbles ."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "CHI",
+    "utterance_cue": 14,
+    "source_text": "&=blows:raspberries ."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "CHI",
+    "utterance_cue": 16,
+    "source_text": "&=blows:raspberries ."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "CHI",
+    "utterance_cue": 18,
+    "source_text": "&=blows:raspberry ."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "MOT",
+    "utterance_cue": 19,
+    "source_text": "&=gasps ."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "CHI",
+    "utterance_cue": 20,
+    "source_text": "&=blows:raspberry &=squeals ."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "CHI",
+    "utterance_cue": 24,
+    "source_text": "&=blows:raspberries ."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "CHI",
+    "utterance_cue": 26,
+    "source_text": "+< &=blows:raspberries ."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "MOT",
+    "utterance_cue": 31,
+    "source_text": "&=exaggerated:eating:sound ."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "CHI",
+    "utterance_cue": 33,
+    "source_text": "&=shouts ."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "MOT",
+    "utterance_cue": 34,
+    "source_text": "&~a &~a &~a &~m &~m ."
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": [3, 4],\n    \"source_text\": \"+, <there's your> [/] there's your rice cake . / there's your water .\",\n    \"notes\": \"Repeated frame/structure across consecutive caregiver utterances.\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": [12, 13],\n    \"source_text\": \"is that nice ? / is that nice ?\",\n    \"notes\": \"Exact repetition of the same utterance.\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": [22, 23],\n    \"source_text\": \"I don't believe it . / I don't believe it .\",\n    \"notes\": \"Exact repetition of the same utterance.\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": [37, 38],\n    \"source_text\": \"there we go . / there we go .\",\n    \"notes\": \"Exact repetition of the same utterance.\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 3,\n    \"source_text\": \"+, <there's your> [/] there's your rice cake .\",\n    \"notes\": \"Self-repair/correction indicated by reformulation marker [/] after a bracketed reparandum.\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 15,\n    \"source_text\": \"&=laughs, whatcha [: what are you ] doing ?\",\n    \"notes\": \"Explicit lexical repair/expansion marker [:].\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 17,\n    \"source_text\": \"+< &=gasps whatcha [: what are you ] doing &=blows:raspberries .\",\n    \"notes\": \"Explicit lexical repair/expansion marker [:].\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 25,\n    \"source_text\": \"I don't think drinking and blowing raspberries at the same time's gonna [: going to ] help .\",\n    \"notes\": \"Self-repair/correction indicated by [:].\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 27,\n    \"source_text\": \"is that right, &=gasps ?\",\n    \"notes\": \"Interruption/disfluency marker with inserted non-speech; no explicit repair bracket, but the utterance includes a parenthetical continuation after pause-like comma.\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 2,\n    \"source_text\": \"okay +...\",\n    \"notes\": \"Trailing ellipsis indicates pause/trailing off.\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 7,\n    \"source_text\": \"&=squeals &=babbles .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 14,\n    \"source_text\": \"&=blows:raspberries .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 16,\n    \"source_text\": \"&=blows:raspberries .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 18,\n    \"source_text\": \"&=blows:raspberry .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 19,\n    \"source_text\": \"&=gasps .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 20,\n    \"source_text\": \"&=blows:raspberry &=squeals .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 24,\n    \"source_text\": \"&=blows:raspberries .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 26,\n    \"source_text\": \"+< &=blows:raspberries .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 31,\n    \"source_text\": \"&=exaggerated:eating:sound .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 33,\n    \"source_text\": \"&=shouts .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 34,\n    \"source_text\": \"&~a &~a &~a &~m &~m .\"\n  }\n]"}

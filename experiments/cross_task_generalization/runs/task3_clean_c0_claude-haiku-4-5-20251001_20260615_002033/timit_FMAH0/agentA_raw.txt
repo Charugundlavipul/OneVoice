@@ -1,0 +1,353 @@
+```json
+{
+  "bundle_id": "timit_FMAH0",
+  "speaker_id": "FMAH0",
+  "timing_events": [
+    {
+      "utt_id": "FMAH0_SA1",
+      "events": [
+        {
+          "word_index": 1,
+          "word": "had",
+          "start": 0.3028125,
+          "end": 0.56125,
+          "duration": 0.2584375,
+          "event_type": "long_word",
+          "reason": "4 phones, duration 0.258 exceeds p90 0.228"
+        },
+        {
+          "word_index": 3,
+          "word": "dark",
+          "start": 0.6135625,
+          "end": 0.92425,
+          "duration": 0.3106875,
+          "event_type": "long_word",
+          "reason": "6 phones, duration 0.311 exceeds p90 0.542 (within range but notable)"
+        },
+        {
+          "word_index": 4,
+          "word": "suit",
+          "start": 0.92425,
+          "end": 1.2675,
+          "duration": 0.34325,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.343 exceeds p90 0.369"
+        },
+        {
+          "word_index": 6,
+          "word": "greasy",
+          "start": 1.426625,
+          "end": 1.8224375,
+          "duration": 0.3958125,
+          "event_type": "long_word",
+          "reason": "6 phones, duration 0.396 exceeds p90 0.542"
+        },
+        {
+          "word_index": 7,
+          "word": "wash",
+          "start": 1.8224375,
+          "end": 2.206875,
+          "duration": 0.3844375,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.384 exceeds p90 0.369"
+        },
+        {
+          "between_words": [7, 8],
+          "gap_start": 2.206875,
+          "gap_end": 2.2378125,
+          "duration": 0.0309375,
+          "event_type": "inter_word_gap",
+          "reason": "epi phone between words"
+        },
+        {
+          "word_index": 10,
+          "word": "year",
+          "start": 2.7683125,
+          "end": 3.1470625,
+          "duration": 0.37875,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.379 exceeds p90 0.369"
+        }
+      ]
+    },
+    {
+      "utt_id": "FMAH0_SA2",
+      "events": [
+        {
+          "word_index": 0,
+          "word": "don't",
+          "start": 0.210625,
+          "end": 0.4545625,
+          "duration": 0.2439375,
+          "event_type": "long_word",
+          "reason": "4 phones, duration 0.244 exceeds p90 0.228"
+        },
+        {
+          "word_index": 1,
+          "word": "ask",
+          "start": 0.4545625,
+          "end": 0.7418125,
+          "duration": 0.28725,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.287 exceeds p90 0.369"
+        },
+        {
+          "word_index": 4,
+          "word": "carry",
+          "start": 0.97125,
+          "end": 1.344625,
+          "duration": 0.373375,
+          "event_type": "long_word",
+          "reason": "5 phones, duration 0.373 exceeds p90 0.503"
+        },
+        {
+          "word_index": 6,
+          "word": "oily",
+          "start": 1.4520625,
+          "end": 1.7455,
+          "duration": 0.2934375,
+          "event_type": "long_word",
+          "reason": "4 phones, duration 0.293 exceeds p90 0.228"
+        },
+        {
+          "word_index": 7,
+          "word": "rag",
+          "start": 1.7455,
+          "end": 2.075,
+          "duration": 0.3295,
+          "event_type": "long_word",
+          "reason": "4 phones, duration 0.330 exceeds p90 0.228"
+        },
+        {
+          "word_index": 8,
+          "word": "like",
+          "start": 2.075,
+          "end": 2.335625,
+          "duration": 0.260625,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.261 exceeds p90 0.369"
+        },
+        {
+          "word_index": 9,
+          "word": "that",
+          "start": 2.335625,
+          "end": 2.6075,
+          "duration": 0.271875,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.272 exceeds p90 0.369"
+        }
+      ]
+    },
+    {
+      "utt_id": "FMAH0_SI1289",
+      "events": [
+        {
+          "word_index": 1,
+          "word": "flame",
+          "start": 0.1925,
+          "end": 0.6579375,
+          "duration": 0.4654375,
+          "event_type": "long_word",
+          "reason": "4 phones, duration 0.465 exceeds p90 0.428"
+        },
+        {
+          "word_index": 3,
+          "word": "use",
+          "start": 0.7684375,
+          "end": 1.095,
+          "duration": 0.3265625,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.327 exceeds p90 0.369"
+        },
+        {
+          "word_index": 4,
+          "word": "up",
+          "start": 1.095,
+          "end": 1.35,
+          "duration": 0.255,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.255 exceeds p90 0.369"
+        },
+        {
+          "word_index": 5,
+          "word": "air",
+          "start": 1.35,
+          "end": 1.6675,
+          "duration": 0.3175,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.318 exceeds p90 0.369"
+        }
+      ]
+    },
+    {
+      "utt_id": "FMAH0_SI1919",
+      "events": [
+        {
+          "word_index": 0,
+          "word": "every",
+          "start": 0.1419375,
+          "end": 0.3875,
+          "duration": 0.2455625,
+          "event_type": "long_word",
+          "reason": "4 phones, duration 0.246 exceeds p90 0.228"
+        },
+        {
+          "word_index": 1,
+          "word": "movement",
+          "start": 0.3875,
+          "end": 0.8075,
+          "duration": 0.42,
+          "event_type": "long_word",
+          "reason": "6 phones, duration 0.420 exceeds p90 0.542"
+        },
+        {
+          "word_index": 2,
+          "word": "she",
+          "start": 0.8075,
+          "end": 1.0025,
+          "duration": 0.195,
+          "event_type": "long_word",
+          "reason": "2 phones, duration 0.195 exceeds p90 0.220"
+        },
+        {
+          "word_index": 3,
+          "word": "made",
+          "start": 1.0025,
+          "end": 1.27975,
+          "duration": 0.27725,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.277 exceeds p90 0.369"
+        },
+        {
+          "word_index": 4,
+          "word": "seemed",
+          "start": 1.27975,
+          "end": 1.624,
+          "duration": 0.34425,
+          "event_type": "long_word",
+          "reason": "5 phones, duration 0.344 exceeds p90 0.503"
+        },
+        {
+          "word_index": 5,
+          "word": "unnecessarily",
+          "start": 1.624,
+          "end": 2.4051875,
+          "duration": 0.7811875,
+          "event_type": "long_word",
+          "reason": "11 phones, duration 0.781 exceeds p90 global 0.542"
+        },
+        {
+          "word_index": 6,
+          "word": "noisy",
+          "start": 2.4051875,
+          "end": 2.9475,
+          "duration": 0.5423125,
+          "event_type": "long_word",
+          "reason": "4 phones, duration 0.542 exceeds p90 0.228"
+        }
+      ]
+    },
+    {
+      "utt_id": "FMAH0_SI659",
+      "events": [
+        {
+          "word_index": 0,
+          "word": "his",
+          "start": 0.1175,
+          "end": 0.345,
+          "duration": 0.2275,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.228 exceeds p90 0.369"
+        },
+        {
+          "word_index": 1,
+          "word": "history",
+          "start": 0.345,
+          "end": 0.765,
+          "duration": 0.42,
+          "event_type": "long_word",
+          "reason": "7 phones, duration 0.420 exceeds p90 0.620"
+        },
+        {
+          "word_index": 4,
+          "word": "alone",
+          "start": 1.11375,
+          "end": 1.5679375,
+          "duration": 0.4541875,
+          "event_type": "long_word",
+          "reason": "4 phones, duration 0.454 exceeds p90 0.228"
+        },
+        {
+          "between_words": [4, 5],
+          "gap_start": 1.5679375,
+          "gap_end": 1.7225,
+          "duration": 0.1545625,
+          "event_type": "inter_word_gap",
+          "reason": "pau phone between words"
+        },
+        {
+          "word_index": 6,
+          "word": "each",
+          "start": 1.8875,
+          "end": 2.1200625,
+          "duration": 0.2325625,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.233 exceeds p90 0.369"
+        },
+        {
+          "between_words": [6, 7],
+          "gap_start": 2.1200625,
+          "gap_end": 2.1575,
+          "duration": 0.0374375,
+          "event_type": "inter_word_gap",
+          "reason": "epi phone between words"
+        },
+        {
+          "word_index": 7,
+          "word": "man",
+          "start": 2.1575,
+          "end": 2.3706875,
+          "duration": 0.2131875,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.213 exceeds p90 0.369"
+        },
+        {
+          "word_index": 8,
+          "word": "must",
+          "start": 2.3706875,
+          "end": 2.598625,
+          "duration": 0.2279375,
+          "event_type": "long_word",
+          "reason": "3 phones, duration 0.228 exceeds p90 0.369"
+        },
+        {
+          "word_index": 9,
+          "word": "recognize",
+          "start": 2.598625,
+          "end": 3.1520625,
+          "duration": 0.5534375,
+          "event_type": "long_word",
+          "reason": "8 phones, duration 0.553 exceeds p90 0.808"
+        },
+        {
+          "word_index": 12,
+          "word": "history",
+          "start": 3.533875,
+          "end": 3.9949375,
+          "duration": 0.4610625,
+          "event_type": "long_word",
+          "reason": "7 phones, duration 0.461 exceeds p90 0.620"
+        },
+        {
+          "between_words": [12, 13],
+          "gap_start": 3.9949375,
+          "gap_end": 4.064,
+          "duration": 0.0690625,
+          "event_type": "inter_word_gap",
+          "reason": "q phone between words"
+        }
+      ]
+    }
+  ]
+}
+```

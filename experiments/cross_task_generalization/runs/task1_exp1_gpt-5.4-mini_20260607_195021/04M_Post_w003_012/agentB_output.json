@@ -1,0 +1,79 @@
+{
+  "record_id": "04M_Post_w003_012",
+  "utterances": [
+    {
+      "utt": "04M-Post-003A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-004A",
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:00:00:000",
+          "end": "00:00:00:370",
+          "notes": "utterance begins with child speech after initial boundary"
+        },
+        {
+          "type": "slt_intervention",
+          "start": "00:00:00:370",
+          "end": "00:00:02:044",
+          "notes": "SLT prompt occurs before child resumes"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-005A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-006A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:10:100",
+          "end": "00:00:11:471",
+          "notes": "brief SLT intervention at end of utterance"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-007A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-008A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-009A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-010A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-011A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:08:620",
+          "end": "00:00:09:219",
+          "notes": "SLT speech overlaps/interrupts mid-utterance"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-012A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:01:260",
+          "end": "00:00:01:680",
+          "notes": "SLT starts before child production"
+        }
+      ]
+    }
+  ]
+}

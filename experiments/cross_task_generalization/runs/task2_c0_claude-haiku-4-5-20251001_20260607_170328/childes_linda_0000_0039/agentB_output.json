@@ -1,0 +1,95 @@
+{
+  "events": [
+    {
+      "event_type": "repair",
+      "utterance_index": 5,
+      "speaker": "MOT",
+      "source_text": "you want (th)em to have a [/] a hotdog ?",
+      "description": "Self-repair: 'a [/] a' - repetition with correction marker"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 4,
+      "speaker": "MOT",
+      "source_text": "there's a hotdog (.) hamburger .",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 10,
+      "speaker": "MOT",
+      "source_text": "okay (.) in the bench ?",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 12,
+      "speaker": "MOT",
+      "source_text": "<there she is> [>] !",
+      "description": "Overlap marker [>] indicates MOT's speech overlaps with following CHI utterance"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 13,
+      "speaker": "CHI",
+      "source_text": "yyy [<] .",
+      "description": "Overlap marker [<] indicates CHI's speech overlaps with preceding MOT utterance"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 15,
+      "speaker": "MOT",
+      "source_text": "okay (.) good !",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 20,
+      "speaker": "MOT",
+      "source_text": "<there it is> [>] !",
+      "description": "Overlap marker [>] indicates MOT's speech overlaps with following CHI utterance"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 21,
+      "speaker": "CHI",
+      "source_text": "yyy [<] .",
+      "description": "Overlap marker [<] indicates CHI's speech overlaps with preceding MOT utterance"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 24,
+      "speaker": "MOT",
+      "source_text": "he can sit in that chair (.) can't he ?",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 27,
+      "speaker": "MOT",
+      "source_text": "they can have a (.) picnic .",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 28,
+      "speaker": "MOT",
+      "source_text": "uhoh (.) huh ?",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 36,
+      "speaker": "CHI",
+      "source_text": "where [!] yyy do ?",
+      "description": "Repetition of 'where' with emphasis marker [!]"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 37,
+      "speaker": "CHI",
+      "source_text": "where yyy do ?",
+      "description": "Exact repetition of previous utterance (utt_index 36)"
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+```json
+{
+  "session_id": "timit_FHEW0_chunk_4_4",
+  "session_date": "",
+  "sample_rate": 16000,
+  "audio_file_path": "",
+  "audio_format": "wav",
+  "session_duration": "00:00:19:046",
+  "speakers": [
+    {
+      "speaker_id": "FHEW0",
+      "gender": "other",
+      "language": "en",
+      "native_language": "english",
+      "accent": "",
+      "age": "",
+      "name": "",
+      "age_group": "adult"
+    }
+  ],
+  "turns": [
+    {
+      "turn_index": 4,
+      "utt_id": "FHEW0_SI763",
+      "speaker_id": "FHEW0",
+      "reference_transcript": "Jars are assembled in bowl of butter mold.",
+      "phoneme_reference": "",
+      "orthographic_transcript": "Jars are assembled in bowl of butter mold.",
+      "phonetic_transcript": "h# jh aa axr z q aa axr s ih m bcl b el dcl q ix n bcl b ow l q ah v bcl b ah dx axr m ow l dcl d h#",
+      "ipa_transcript": "",
+      "raw_transcript": "Jars are assembled in bowl of butter mold.",
+      "start": "00:00:15:642",
+      "end": "00:00:19:046",
+      "word_alignments": [
+        {
+          "word": "jars",
+          "start": "00:00:15:780",
+          "end": "00:00:16:236",
+          "phonemes": [
+            {
+              "phone": "jh",
+              "start": "00:00:15:780",
+              "end": "00:00:15:820"
+            },
+            {
+              "phone": "aa",
+              "start": "00:00:15:820",
+              "end": "00:00:16:047"
+            },
+            {
+              "phone": "axr",
+              "start": "00:00:16:047",
+              "end": "00:00:16:161"
+            },
+            {
+              "phone": "z",
+              "start": "00:00:16:161",
+              "end": "00:00:16:236"
+            }
+          ]
+        },
+        {
+          "word": "are",
+          "start": "00:00:16:236",
+          "end": "00:00:16:399",
+          "phonemes": [
+            {
+              "phone": "q",
+              "start": "00:00:16:236",
+              "end": "00:00:16:319"
+            },
+            {
+              "phone": "aa",
+              "start": "00:00:16:319",
+              "end": "00:00:16:399"
+            }
+          ]
+        },
+        {
+          "word": "assembled",
+          "start": "00:00:16:399",
+          "end": "00:00:17:036",
+          "phonemes": [
+            {
+              "phone": "axr",
+              "start": "00:00:16:399",
+              "end": "00:00:16:504"
+            },
+            {
+              "phone": "s",
+              "start": "00:00:16:504",
+              "end": "00:00:16:646"
+            },
+            {
+              "phone": "ih",
+              "start": "00:00:16:646",
+              "end": "00:00:16:729"
+            },
+            {
+              "phone": "m",
+              "start": "00:00:16:729",
+              "end": "00:00:16:774"
+            },
+            {
+              "phone": "bcl",
+              "start": "00:00:16:774",
+              "end": "00:00:16:837"
+            },
+            {
+              "phone": "b",
+              "start": "00:00:16:837",
+              "end": "00:00:16:847"
+            },
+            {
+              "phone": "el",
+              "start": "00:00:16:847",
+              "end": "00:00:16:999"
+            },
+            {
+              "phone": "dcl",
+              "start": "00:00:16:999",
+              "end": "00:00:17:036"
+            }
+          ]
+        },
+        {
+          "word": "in",
+          "start": "00:00:17:036",
+          "end": "00:00:17:389",
+          "phonemes": [
+            {
+              "phone": "q",
+              "start": "00:00:17:036",
+              "end": "00:00:17:234"
+            },
+            {
+              "phone": "ix",
+              "start": "00:00:17:234",
+              "end": "00:00:17:287"
+            },
+            {
+              "phone": "n",
+              "start": "00:00:17:287",
+              "end": "00:00:17:389"
+            }
+          ]
+        },
+        {
+          "word": "bowl",
+          "start": "00:00:17:389",
+          "end": "00:00:17:746",
+          "phonemes": [
+            {
+              "phone": "bcl",
+              "start": "00:00:17:389",
+              "end": "00:00:17:468"
+            },
+            {
+              "phone": "b",
+              "start": "00:00:17:468",
+              "end": "00:00:17:476"
+            },
+            {
+              "phone": "ow",
+              "start": "00:00:17:476",
+              "end": "00:00:17:676"
+            },
+            {
+              "phone": "l",
+              "start": "00:00:17:676",
+              "end": "00:00:17:746"
+            }
+          ]
+        },
+        {
+          "word": "of",
+          "start": "00:00:17:746",
+          "end": "00:00:17:964",
+          "phonemes": [
+            {
+              "phone": "q",
+              "start": "00:00:17:746",
+              "end": "00:00:17:867"
+            },
+            {
+              "phone": "ah",
+              "start": "00:00:17:867",
+              "end": "00:00:17:919"
+            },
+            {
+              "phone": "v",
+              "start": "00:00:17:919",
+              "end": "00:00:17:964"
+            }
+          ]
+        },
+        {
+          "word": "butter",
+          "start": "00:00:17:964",
+          "end": "00:00:18:351",
+          "phonemes": [
+            {
+              "phone": "bcl",
+              "start": "00:00:17:964",
+              "end": "00:00:18:073"
+            },
+            {
+              "phone": "b",
+              "start": "00:00:18:073",
+              "end": "00:00:18:083"
+            },
+            {
+              "phone": "ah",
+              "start": "00:00:18:083",
+              "end": "00:00:18:189"
+            },
+            {
+              "phone": "dx",
+              "start": "00:00:18:189",
+              "end": "00:00:18:219"
+            },
+            {
+              "phone": "axr",
+              "start": "00:00:18:219",
+              "end": "00:00:18:351"
+            }
+          ]
+        },
+        {
+          "word": "mold",
+          "start": "00:00:18:351",
+          "end": "00:00:18:816",
+          "phonemes": [
+            {
+              "phone": "m",
+              "start": "00:00:18:351",
+              "end": "00:00:18:429"
+            },
+            {
+              "phone": "ow",
+              "start": "00:00:18:429",
+              "end": "00:00:18:626"
+            },
+            {
+              "phone": "l",
+              "start": "00:00:18:626",
+              "end": "00:00:18:724"
+            },
+            {
+              "phone": "dcl",
+              "start": "00:00:18:724",
+              "end": "00:00:18:779"
+            },
+            {
+              "phone": "d",
+              "start": "00:00:18:779",
+              "end": "00:00:18:816"
+            }
+          ]
+        }
+      ],
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "long_word",
+          "start": "00:00:00:757",
+          "end": "00:00:01:394"
+        },
+        {
+          "type": "long_word",
+          "start": "00:00:02:710",
+          "end": "00:00:03:174"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:00:178",
+          "end": "00:00:00:406"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:00:862",
+          "end": "00:00:01:004"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:01:205",
+          "end": "00:00:01:358"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:01:394",
+          "end": "00:00:01:592"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:01:834",
+          "end": "00:00:02:034"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:02:441",
+          "end": "00:00:02:548"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:02:578",
+          "end": "00:00:02:710"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:02:788",
+          "end": "00:00:02:984"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:01:132",
+          "end": "00:00:01:196"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:01:358",
+          "end": "00:00:01:394"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:01:748",
+          "end": "00:00:01:827"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:02:322",
+          "end": "00:00:02:431"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:03:082",
+          "end": "00:00:03:138"
+        },
+        {
+          "type": "pause_silence_segment",
+          "start": "00:00:00:000",
+          "end": "00:00:00:139"
+        },
+        {
+          "type": "pause_silence_segment",
+          "start": "00:00:03:174",
+          "end": "00:00:03:400"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "dataset_name": "TIMIT",
+    "dataset_split": "TEST",
+    "text_annotation_source": "TIMIT .TXT/.WRD",
+    "text_annotation_details": "Human-aligned word intervals.",
+    "text_coverage": "full",
+    "phoneme_annotation_source": "TIMIT .PHN",
+    "phoneme_annotation_details": "Human-aligned phone intervals.",
+    "phoneme_coverage": "full"
+  }
+}
+```

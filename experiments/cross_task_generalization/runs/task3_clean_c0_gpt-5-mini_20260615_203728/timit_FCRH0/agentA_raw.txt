@@ -1,0 +1,109 @@
+{
+  "bundle_id": "timit_FCRH0",
+  "speaker_id": "FCRH0",
+  "events": [
+    {
+      "utt_id": "FCRH0_SA1",
+      "word_index": null,
+      "word": null,
+      "start": 0.0,
+      "end": 0.1425,
+      "duration": 0.1425,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FCRH0_SA1",
+      "word_index": 4,
+      "word": "suit",
+      "start": 1.0704375,
+      "end": 1.5169375,
+      "duration": 0.4465,
+      "event_type": "long_word"
+    },
+    {
+      "utt_id": "FCRH0_SA1",
+      "word_index": 4,
+      "word": null,
+      "start": 1.5169375,
+      "end": 2.1475,
+      "duration": 0.6305625,
+      "event_type": "boundary_gap"
+    },
+    {
+      "utt_id": "FCRH0_SA2",
+      "word_index": 3,
+      "word": "to",
+      "start": 0.8225,
+      "end": 0.9375,
+      "duration": 0.115,
+      "event_type": "short_word"
+    },
+    {
+      "utt_id": "FCRH0_SI1088",
+      "word_index": 4,
+      "word": "applicability",
+      "start": 1.4225,
+      "end": 2.2325,
+      "duration": 0.81,
+      "event_type": "long_word"
+    },
+    {
+      "utt_id": "FCRH0_SI1718",
+      "word_index": 0,
+      "word": "do",
+      "start": 0.1225,
+      "end": 0.1823125,
+      "duration": 0.0598125,
+      "event_type": "short_word"
+    },
+    {
+      "utt_id": "FCRH0_SI1718",
+      "word_index": 7,
+      "word": "me",
+      "start": 1.2845625,
+      "end": 1.5725,
+      "duration": 0.2879375,
+      "event_type": "long_word"
+    },
+    {
+      "utt_id": "FCRH0_SI458",
+      "word_index": 0,
+      "word": "this",
+      "start": 0.1375,
+      "end": 0.2636875,
+      "duration": 0.1261875,
+      "event_type": "short_word"
+    },
+    {
+      "utt_id": "FCRH0_SI458",
+      "word_index": 4,
+      "word": "program",
+      "start": 0.5975,
+      "end": 1.2925,
+      "duration": 0.695,
+      "event_type": "long_word"
+    },
+    {
+      "utt_id": "FCRH0_SI458",
+      "word_index": 4,
+      "word": null,
+      "start": 1.2925,
+      "end": 1.5475,
+      "duration": 0.255,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FCRH0_SI458",
+      "word_index": null,
+      "word": null,
+      "start": 2.92325,
+      "end": 3.5136875,
+      "duration": 0.5904375,
+      "event_type": "boundary_gap"
+    }
+  ],
+  "notes": {
+    "word_duration_classification": "A word is labeled short_word if its duration <= the p10 threshold for its phone-count bucket (if available) or the global word p10 otherwise. A word is labeled long_word if its duration >= the p90 threshold for its phone-count bucket (if available) or the global word p90 otherwise.",
+    "gap_classification": "Gaps are computed as the interval from a word's end to the next word's start (or utterance start/end). Gaps >= global word p90 (0.542125 s) are boundary_gap; gaps >= phone p90 (0.14 s) and < global word p90 are inter_word_gap. Gaps below phone p90 are not reported."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "event_type": "pause",
+      "utterance_index": 0,
+      "speaker": "MOT",
+      "source_text": "no (.) it doesn't go in that one .",
+      "description": "Pause marked by (.) after 'no'"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 4,
+      "speaker": "MOT",
+      "source_text": "turn it sideways (.) like this .",
+      "description": "Pause marked by (.) after 'sideways'"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 5,
+      "speaker": "MOT",
+      "source_text": "like this (.) see ?",
+      "description": "Pause marked by (.) after 'this'"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 13,
+      "speaker": "MOT",
+      "source_text": "put it in !",
+      "description": "Repetition of 'put it in !' from utterance 13, repeated at utterance 16"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 16,
+      "speaker": "MOT",
+      "source_text": "put it in !",
+      "description": "Repetition of previous 'put it in !' command"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 37,
+      "speaker": "MOT",
+      "source_text": "where does that one go ?",
+      "description": "Repetition of question structure, followed by rephrased version at utterance 38"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 38,
+      "speaker": "MOT",
+      "source_text": "where does it go ?",
+      "description": "Repair/reformulation of previous question, replacing 'that one' with 'it'"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 28,
+      "speaker": "MOT",
+      "source_text": "&-uh (.) yeah !",
+      "description": "Pause marked by (.) after '&-uh'"
+    }
+  ]
+}

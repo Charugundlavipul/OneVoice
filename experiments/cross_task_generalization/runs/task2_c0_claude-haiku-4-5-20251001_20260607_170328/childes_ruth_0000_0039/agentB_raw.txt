@@ -1,0 +1,49 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "utterance_indices": [3, 4],
+      "speaker": "MOT",
+      "source_text": "where do they go ?"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_indices": [9, 10],
+      "speaker": "MOT",
+      "source_text": "see another ball ?"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 13,
+      "speaker": "MOT",
+      "source_text": "are the people +...",
+      "note": "incomplete utterance with continuation marker"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_indices": [19, 20],
+      "speaker": "MOT",
+      "source_text": "byebye !"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_indices": [22, 23],
+      "speaker": "MOT",
+      "source_text": "uhoh !"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_indices": [26, 29, 31],
+      "speaker": "MOT",
+      "source_text": "where are the people ?"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_indices": [34, 36],
+      "speaker": "MOT",
+      "source_text": "people !"
+    }
+  ]
+}
+```

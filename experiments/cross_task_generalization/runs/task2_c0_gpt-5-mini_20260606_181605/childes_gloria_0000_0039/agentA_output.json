@@ -1,0 +1,647 @@
+{
+  "window_id": "childes_gloria_0000_0039",
+  "source_file": "CHILDES/raw/childes/Eng-NA/Bates/Free20/gloria.cha",
+  "total_utterances": 40,
+  "speakers": [
+    {
+      "label": "CHI",
+      "role": "child (target)",
+      "name": "Gloria",
+      "utterance_count": 19,
+      "notes": "Target child; many vocalizations, proper names (Mommy, Gramma) and play-related acts."
+    },
+    {
+      "label": "MOT",
+      "role": "mother",
+      "name": "Mother",
+      "utterance_count": 21,
+      "notes": "Caregiver addressing child, asking questions and commenting on play/noise."
+    }
+  ],
+  "turn_counts": {
+    "CHI": 19,
+    "MOT": 21
+  },
+  "utterances": [
+    {
+      "index": 0,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "bangs two balls together . puts ball in nesting cup and then throws in dollhouse . throws another in dollhouse . takes another ball from shape box . closes shape box and tries to fit ball through holes"
+        ]
+      }
+    },
+    {
+      "index": 1,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "where's that go ?",
+      "dependent_tiers": {
+        "mor": [
+          "pro:int|where~cop|be&3S pro:rel|that v|go ?"
+        ],
+        "gra": [
+          "1|2|LINK 2|0|ROOT 3|4|LINK 4|2|ROOT 5|4|PUNCT"
+        ],
+        "par": [
+          "whispers"
+        ]
+      }
+    },
+    {
+      "index": 2,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "fits ball in hole"
+        ]
+      }
+    },
+    {
+      "index": 3,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "o:h .",
+      "dependent_tiers": {
+        "mor": [
+          "co|oh ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "<aft> covers mouth with hand"
+        ],
+        "par": [
+          "<aft> laughs"
+        ]
+      }
+    },
+    {
+      "index": 4,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "Mommy .",
+      "dependent_tiers": {
+        "mor": [
+          "n:prop|Mommy ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "<dur> fits nesting cups together <bef> opens shape box and closes it . takes nesting cups apart ."
+        ],
+        "par": [
+          "<bef> laughs and screams"
+        ]
+      }
+    },
+    {
+      "index": 5,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "what ?",
+      "dependent_tiers": {
+        "mor": [
+          "pro:int|what ?"
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "index": 6,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "yyy Mommy .",
+      "dependent_tiers": {
+        "mor": [
+          "n:prop|Mommy ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "continues fitting nesting cups together"
+        ],
+        "xpho": [
+          "<1w> y3rd6m"
+        ]
+      }
+    },
+    {
+      "index": 7,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "good (.) Mommy !",
+      "dependent_tiers": {
+        "mor": [
+          "adj|good n:prop|Mommy !"
+        ],
+        "gra": [
+          "1|2|MOD 2|0|INCROOT 3|2|PUNCT"
+        ]
+      }
+    },
+    {
+      "index": 8,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "no Mommy !",
+      "dependent_tiers": {
+        "mor": [
+          "co|no n:prop|Mommy !"
+        ],
+        "gra": [
+          "1|2|COM 2|0|INCROOT 3|2|PUNCT"
+        ]
+      }
+    },
+    {
+      "index": 9,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "I didn't do anything !",
+      "dependent_tiers": {
+        "mor": [
+          "pro:sub|I mod|do&PAST~neg|not v|do pro:indef|anything !"
+        ],
+        "gra": [
+          "1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT"
+        ],
+        "act": [
+          "<aft> takes car and people from dollhouse . puts people in car"
+        ]
+      }
+    },
+    {
+      "index": 10,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "yyy .",
+      "dependent_tiers": {
+        "act": [
+          "<dur> leans over dollhouse and looks inside <bef> puts cup in mouth ."
+        ],
+        "xpho": [
+          "&-eh"
+        ]
+      }
+    },
+    {
+      "index": 11,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "&-um where ?",
+      "dependent_tiers": {
+        "mor": [
+          "pro:rel|where ?"
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "<1w> puts another person in car ."
+        ]
+      }
+    },
+    {
+      "index": 12,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "what do you see ?",
+      "dependent_tiers": {
+        "mor": [
+          "pro:int|what mod|do pro:per|you v|see ?"
+        ],
+        "gra": [
+          "1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT"
+        ],
+        "act": [
+          "<1w> slides dollhouse closer to Gloria"
+        ]
+      }
+    },
+    {
+      "index": 13,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "reaches in dollhouse and takes person out"
+        ]
+      }
+    },
+    {
+      "index": 14,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "vroom .",
+      "dependent_tiers": {
+        "mor": [
+          "co|vroom ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "<1w> runs car over Gloria's stomach ."
+        ],
+        "exp": [
+          "<1w> car noises"
+        ]
+      }
+    },
+    {
+      "index": 15,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "neear@o .",
+      "dependent_tiers": {
+        "mor": [
+          "on|neear ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "exp": [
+          "<1w> car noises"
+        ]
+      }
+    },
+    {
+      "index": 16,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "whoops .",
+      "dependent_tiers": {
+        "mor": [
+          "co|whoops ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "<1w> reseats person in car"
+        ]
+      }
+    },
+    {
+      "index": 17,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "yyy .",
+      "dependent_tiers": {
+        "act": [
+          "holds up person to Mother"
+        ],
+        "xpho": [
+          "&-eh"
+        ]
+      }
+    },
+    {
+      "index": 18,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "here .",
+      "dependent_tiers": {
+        "mor": [
+          "adv|here ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "<1w> takes person ."
+        ]
+      }
+    },
+    {
+      "index": 19,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "okay (.) where should we put this ?",
+      "dependent_tiers": {
+        "mor": [
+          "co|okay pro:int|where mod|should pro:sub|we v|put&ZERO pro:dem|this ?"
+        ],
+        "gra": [
+          "1|5|COM 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT"
+        ],
+        "act": [
+          "<1w> holds out person then puts on hood of car"
+        ]
+      }
+    },
+    {
+      "index": 20,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "0 [=! giggles] .",
+      "dependent_tiers": {
+        "gpx": [
+          "looks at cups"
+        ],
+        "act": [
+          "picks up cup"
+        ]
+      }
+    },
+    {
+      "index": 21,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "unstacks cups"
+        ]
+      }
+    },
+    {
+      "index": 22,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "uhoh .",
+      "dependent_tiers": {
+        "mor": [
+          "co|uhoh ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "gpx": [
+          "looks at person"
+        ]
+      }
+    },
+    {
+      "index": 23,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "uhoh what ?",
+      "dependent_tiers": {
+        "mor": [
+          "co|uhoh pro:int|what ?"
+        ],
+        "gra": [
+          "1|2|COM 2|0|INCROOT 3|2|PUNCT"
+        ]
+      }
+    },
+    {
+      "index": 24,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "uhoh .",
+      "dependent_tiers": {
+        "mor": [
+          "co|uhoh ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "gpx": [
+          "glances at Mother"
+        ],
+        "act": [
+          "holds up person to Mother"
+        ]
+      }
+    },
+    {
+      "index": 25,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "fall off ?",
+      "dependent_tiers": {
+        "mor": [
+          "n|fall adv|off ?"
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|JCT 3|1|PUNCT"
+        ],
+        "par": [
+          "whispers"
+        ]
+      }
+    },
+    {
+      "index": 26,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "0 [=! groans] .",
+      "dependent_tiers": {
+        "act": [
+          "tries to fit person in car"
+        ]
+      }
+    },
+    {
+      "index": 27,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "picks up bench and shows to Gloria"
+        ]
+      }
+    },
+    {
+      "index": 28,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "gpx": [
+          "looks at Mother , at dollhouse"
+        ],
+        "act": [
+          "takes people out of car . reaches in dollhouse"
+        ]
+      }
+    },
+    {
+      "index": 29,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "you sure are makin(g) a_lot_of noise .",
+      "dependent_tiers": {
+        "mor": [
+          "pro:per|you adj|sure aux|be&PRES part|make-PRESP qn|a_lot_of n|noise ."
+        ],
+        "gra": [
+          "1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT"
+        ],
+        "act": [
+          "<aft> takes out toy"
+        ],
+        "par": [
+          "<bef> smiles . laughs"
+        ]
+      }
+    },
+    {
+      "index": 30,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "alright !",
+      "dependent_tiers": {
+        "mor": [
+          "co|alright !"
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "<bef> drops person in shape box"
+        ],
+        "xpho": [
+          "<2w> waIt"
+        ]
+      }
+    },
+    {
+      "index": 31,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "alright .",
+      "dependent_tiers": {
+        "mor": [
+          "co|alright ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "index": 32,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "yyy .",
+      "dependent_tiers": {
+        "gpx": [
+          "<aft> raises shoulders"
+        ],
+        "act": [
+          "<aft> tries to fit person in shape box . person drops in shape box"
+        ],
+        "xpho": [
+          "rA rA"
+        ]
+      }
+    },
+    {
+      "index": 33,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "gpx": [
+          "purses lips and smiles"
+        ]
+      }
+    },
+    {
+      "index": 34,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "Gramma .",
+      "dependent_tiers": {
+        "mor": [
+          "n:prop|Gramma ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "gpx": [
+          "glances at Mother , at shape box"
+        ],
+        "act": [
+          "<aft> drops in dollhouse"
+        ]
+      }
+    },
+    {
+      "index": 35,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "is that Gramma huh ?",
+      "dependent_tiers": {
+        "mor": [
+          "cop|be&3S comp|that n:prop|Gramma co|huh ?"
+        ],
+        "gra": [
+          "1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|PRED 5|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "index": 36,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "is that Gramma ?",
+      "dependent_tiers": {
+        "mor": [
+          "cop|be&3S comp|that n:prop|Gramma ?"
+        ],
+        "gra": [
+          "1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "index": 37,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "gpx": [
+          "looks at people"
+        ],
+        "act": [
+          "takes out person"
+        ]
+      }
+    },
+    {
+      "index": 38,
+      "speaker": "MOT",
+      "role": "mother",
+      "raw": "who's that ?",
+      "dependent_tiers": {
+        "mor": [
+          "pro:int|who~cop|be&3S pro:dem|that ?"
+        ],
+        "gra": [
+          "1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT"
+        ]
+      }
+    },
+    {
+      "index": 39,
+      "speaker": "CHI",
+      "role": "child (target)",
+      "raw": "yyy .",
+      "dependent_tiers": {
+        "xpho": [
+          "heS6"
+        ],
+        "alt": [
+          "Marsha"
+        ]
+      }
+    }
+  ]
+}

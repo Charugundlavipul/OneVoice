@@ -1,0 +1,9 @@
+Validating experiments\legacy\uxssd_setup\runs\exp2b_20260614_161638\06M_Post_w020_036\agentB_validation\candidate.json...
+Validation FAILED with the following errors:
+ - : Unknown key 'malformed_json_text' found. Not allowed in OneVoice schema.
+ - : Unknown key 'instruction' found. Not allowed in OneVoice schema.
+ - Missing mandatory root field: 'session_id'
+ - Missing mandatory root field: 'turns'
+ - Missing mandatory root field: 'speakers'
+ - Missing mandatory root field: 'metadata'
+ - Content Error: Document must have either a populated 'audio_file_path' or at least one turn with a populated 'raw_transcript'.

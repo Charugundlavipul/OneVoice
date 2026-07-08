@@ -1,0 +1,71 @@
+[
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "MOT",
+    "utterance_index": 19,
+    "source_text": "&=clears:throat ."
+  },
+  {
+    "event_type": "repetition",
+    "speaker_cue": "CHI",
+    "utterance_index": 20,
+    "source_text": "&~hm [/] &~hm [/] &~hm ."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "CHI",
+    "utterance_index": 21,
+    "source_text": "&=babbles ."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "MOT",
+    "utterance_index": 22,
+    "source_text": "+< &=babbles ."
+  },
+  {
+    "event_type": "overlap",
+    "speaker_cue": "MOT",
+    "utterance_index": 22,
+    "source_text": "+< &=babbles ."
+  },
+  {
+    "event_type": "repair",
+    "speaker_cue": "MOT",
+    "utterance_index": 24,
+    "source_text": "<good boy> [/] good boy ."
+  },
+  {
+    "event_type": "repetition",
+    "speaker_cue": "MOT",
+    "utterance_index": 28,
+    "source_text": "here we go ."
+  },
+  {
+    "event_type": "repair",
+    "speaker_cue": "MOT",
+    "utterance_index": 29,
+    "source_text": "there we go ."
+  },
+  {
+    "event_type": "repetition",
+    "speaker_cue": "MOT",
+    "utterance_index": 32,
+    "source_text": "Mama ."
+  },
+  {
+    "event_type": "repetition",
+    "speaker_cue": "MOT",
+    "utterance_index": 33,
+    "source_text": "Mama ."
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "MOT",
+    "utterance_index": 34,
+    "source_text": "no ?"
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 19,\n    \"source_text\": \"&=clears:throat .\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_index\": 20,\n    \"source_text\": \"&~hm [/] &~hm [/] &~hm .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_index\": 21,\n    \"source_text\": \"&=babbles .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 22,\n    \"source_text\": \"+< &=babbles .\"\n  },\n  {\n    \"event_type\": \"overlap\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 22,\n    \"source_text\": \"+< &=babbles .\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 24,\n    \"source_text\": \"<good boy> [/] good boy .\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 28,\n    \"source_text\": \"here we go .\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 29,\n    \"source_text\": \"there we go .\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 32,\n    \"source_text\": \"Mama .\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 33,\n    \"source_text\": \"Mama .\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 34,\n    \"source_text\": \"no ?\"\n  }\n]"}

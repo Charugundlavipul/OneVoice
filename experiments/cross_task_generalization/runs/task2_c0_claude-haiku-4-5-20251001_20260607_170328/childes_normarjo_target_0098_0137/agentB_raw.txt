@@ -1,0 +1,90 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "utterance_index": [15, 16],
+      "speaker": "CHI",
+      "source_text": "I want a balloon .",
+      "description": "Exact repetition of utterance"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": [18, 19],
+      "speaker": "CHI",
+      "source_text": "I'm dry .",
+      "description": "Exact repetition of utterance"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 20,
+      "speaker": "CHI",
+      "source_text": "Daddy change my [/] my blanket .",
+      "description": "Self-repair marked with [/]: 'my' is replaced with 'my'"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 10,
+      "speaker": "CHI",
+      "source_text": "where's that ?",
+      "xpho_cue": "<2w> d&et",
+      "description": "Phonological encoding issue: 'd&et' indicates unclear/distorted pronunciation"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 14,
+      "speaker": "CHI",
+      "source_text": "snack !",
+      "xpho_cue": "Echoic attempt of snap sound",
+      "description": "Non-standard vocalization: echoic imitation of sound effect"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 15,
+      "speaker": "CHI",
+      "source_text": "I want a balloon .",
+      "xpho_cue": "<3w> e <4w> b&un ,",
+      "description": "Phonological encoding issues in words 3 and 4"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 20,
+      "speaker": "CHI",
+      "source_text": "Daddy change my [/] my blanket .",
+      "xpho_cue": "<5w> beenkIn",
+      "description": "Phonological encoding issue in word 5"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 21,
+      "speaker": "CHI",
+      "source_text": "fold it .",
+      "xpho_cue": "<1w> Fol",
+      "description": "Incomplete/truncated pronunciation of word 1"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 25,
+      "speaker": "CHI",
+      "source_text": "its &~unch time .",
+      "description": "Unintelligible segment marked with &~unch"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 26,
+      "speaker": "CHI",
+      "source_text": "lunch come .",
+      "xpho_cue": "<1w> u",
+      "description": "Phonological encoding issue in word 1"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 27,
+      "speaker": "CHI",
+      "source_text": "I opened the door at lunch .",
+      "xpho_cue": "<3w> d& <6w> u",
+      "description": "Phonological encoding issues in words 3 and 6"
+    }
+  ]
+}
+```

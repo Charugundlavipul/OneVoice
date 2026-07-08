@@ -1,0 +1,556 @@
+{
+  "bundle_id": "timit_FLNH0",
+  "speaker_id": "FLNH0",
+  "phone_events": [
+    {
+      "utt_id": "FLNH0_SA1",
+      "events": [
+        {
+          "phone_index": 1,
+          "phone": "sh",
+          "start": 0.1875,
+          "end": 0.3325,
+          "duration": 0.145,
+          "event_type": "long_phone",
+          "reason": "duration 0.145s exceeds p90 0.151 for sh"
+        },
+        {
+          "phone_index": 5,
+          "phone": "dcl",
+          "start": 0.5475,
+          "end": 0.5874375,
+          "duration": 0.0399375,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 8,
+          "phone": "dcl",
+          "start": 0.7025,
+          "end": 0.7625,
+          "duration": 0.06,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 12,
+          "phone": "kcl",
+          "start": 0.9375,
+          "end": 0.9925,
+          "duration": 0.055,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 14,
+          "phone": "s",
+          "start": 1.01,
+          "end": 1.1575,
+          "duration": 0.1475,
+          "event_type": "long_phone",
+          "reason": "duration 0.1475s exceeds p90 0.161 for s"
+        },
+        {
+          "phone_index": 16,
+          "phone": "tcl",
+          "start": 1.2925,
+          "end": 1.339375,
+          "duration": 0.046875,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 18,
+          "phone": "gcl",
+          "start": 1.4255625,
+          "end": 1.46475,
+          "duration": 0.0391875,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 22,
+          "phone": "s",
+          "start": 1.6109375,
+          "end": 1.7258125,
+          "duration": 0.114875,
+          "event_type": "long_phone",
+          "reason": "duration 0.114875s exceeds p90 0.161 for s"
+        },
+        {
+          "phone_index": 25,
+          "phone": "aa",
+          "start": 1.87725,
+          "end": 2.0125,
+          "duration": 0.13525,
+          "event_type": "long_phone",
+          "reason": "duration 0.13525s exceeds p90 0.169 for aa"
+        },
+        {
+          "phone_index": 27,
+          "phone": "epi",
+          "start": 2.091375,
+          "end": 2.1488125,
+          "duration": 0.0574375,
+          "event_type": "pause_silence_segment"
+        },
+        {
+          "phone_index": 31,
+          "phone": "er",
+          "start": 2.3263125,
+          "end": 2.47775,
+          "duration": 0.1514375,
+          "event_type": "long_phone",
+          "reason": "duration 0.1514375s exceeds p90 0.160 for er"
+        },
+        {
+          "phone_index": 37,
+          "phone": "h#",
+          "start": 2.9375,
+          "end": 3.03,
+          "duration": 0.0925,
+          "event_type": "pause_silence_segment"
+        }
+      ]
+    },
+    {
+      "utt_id": "FLNH0_SA2",
+      "events": [
+        {
+          "phone_index": 6,
+          "phone": "ae",
+          "start": 0.39525,
+          "end": 0.5275,
+          "duration": 0.13225,
+          "event_type": "long_phone",
+          "reason": "duration 0.13225s exceeds p90 0.205 for ae"
+        },
+        {
+          "phone_index": 8,
+          "phone": "kcl",
+          "start": 0.6325,
+          "end": 0.685,
+          "duration": 0.0525,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 12,
+          "phone": "tcl",
+          "start": 0.8275,
+          "end": 0.8475,
+          "duration": 0.02,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 15,
+          "phone": "kcl",
+          "start": 0.9111875,
+          "end": 0.950375,
+          "duration": 0.0391875,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 22,
+          "phone": "oy",
+          "start": 1.39425,
+          "end": 1.5665625,
+          "duration": 0.1723125,
+          "event_type": "long_phone",
+          "reason": "duration 0.1723125s exceeds p90 0.206 for oy"
+        },
+        {
+          "phone_index": 26,
+          "phone": "ae",
+          "start": 1.832875,
+          "end": 1.9975,
+          "duration": 0.164625,
+          "event_type": "long_phone",
+          "reason": "duration 0.164625s exceeds p90 0.205 for ae"
+        },
+        {
+          "phone_index": 27,
+          "phone": "gcl",
+          "start": 1.9975,
+          "end": 2.0875,
+          "duration": 0.09,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 30,
+          "phone": "kcl",
+          "start": 2.2075,
+          "end": 2.3275,
+          "duration": 0.12,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 32,
+          "phone": "ae",
+          "start": 2.3655,
+          "end": 2.550375,
+          "duration": 0.184875,
+          "event_type": "long_phone",
+          "reason": "duration 0.184875s exceeds p90 0.205 for ae"
+        },
+        {
+          "phone_index": 33,
+          "phone": "tcl",
+          "start": 2.550375,
+          "end": 2.6711875,
+          "duration": 0.1208125,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 34,
+          "phone": "h#",
+          "start": 2.6711875,
+          "end": 2.79,
+          "duration": 0.1188125,
+          "event_type": "pause_silence_segment"
+        }
+      ]
+    },
+    {
+      "utt_id": "FLNH0_SI1214",
+      "events": [
+        {
+          "phone_index": 5,
+          "phone": "dcl",
+          "start": 0.3925,
+          "end": 0.4229375,
+          "duration": 0.0304375,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 6,
+          "phone": "jh",
+          "start": 0.4229375,
+          "end": 0.4975,
+          "duration": 0.0745625,
+          "event_type": "long_phone",
+          "reason": "duration 0.0745625s exceeds p90 0.085 for jh"
+        },
+        {
+          "phone_index": 8,
+          "phone": "n",
+          "start": 0.5575,
+          "end": 0.6675,
+          "duration": 0.11,
+          "event_type": "long_phone",
+          "reason": "duration 0.11s exceeds p90 0.114 for n"
+        },
+        {
+          "phone_index": 11,
+          "phone": "bcl",
+          "start": 0.8675,
+          "end": 0.9219375,
+          "duration": 0.0544375,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 12,
+          "phone": "b",
+          "start": 0.9219375,
+          "end": 0.9320625,
+          "duration": 0.010125,
+          "event_type": "short_phone",
+          "reason": "duration 0.010125s below p10 0.011 for b"
+        },
+        {
+          "phone_index": 14,
+          "phone": "kcl",
+          "start": 0.9775,
+          "end": 1.020875,
+          "duration": 0.043375,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 36,
+          "phone": "ay",
+          "start": 2.203625,
+          "end": 2.3525,
+          "duration": 0.148875,
+          "event_type": "long_phone",
+          "reason": "duration 0.148875s exceeds p90 0.169 for ay"
+        },
+        {
+          "phone_index": 37,
+          "phone": "f",
+          "start": 2.3525,
+          "end": 2.485625,
+          "duration": 0.133125,
+          "event_type": "long_phone",
+          "reason": "duration 0.133125s exceeds p90 0.149 for f"
+        },
+        {
+          "phone_index": 38,
+          "phone": "h#",
+          "start": 2.485625,
+          "end": 2.61,
+          "duration": 0.124375,
+          "event_type": "pause_silence_segment"
+        }
+      ]
+    },
+    {
+      "utt_id": "FLNH0_SI584",
+      "events": [
+        {
+          "phone_index": 6,
+          "phone": "tcl",
+          "start": 0.480375,
+          "end": 0.5116875,
+          "duration": 0.0313125,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 8,
+          "phone": "ae",
+          "start": 0.5625,
+          "end": 0.6775,
+          "duration": 0.115,
+          "event_type": "long_phone",
+          "reason": "duration 0.115s exceeds p90 0.205 for ae"
+        },
+        {
+          "phone_index": 9,
+          "phone": "kcl",
+          "start": 0.6775,
+          "end": 0.7275,
+          "duration": 0.05,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 13,
+          "phone": "sh",
+          "start": 0.9725,
+          "end": 1.1018125,
+          "duration": 0.1293125,
+          "event_type": "long_phone",
+          "reason": "duration 0.1293125s exceeds p90 0.151 for sh"
+        },
+        {
+          "phone_index": 23,
+          "phone": "pcl",
+          "start": 1.7375,
+          "end": 1.8250625,
+          "duration": 0.0875625,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 27,
+          "phone": "s",
+          "start": 1.9225,
+          "end": 2.0325,
+          "duration": 0.11,
+          "event_type": "long_phone",
+          "reason": "duration 0.11s exceeds p90 0.161 for s"
+        },
+        {
+          "phone_index": 30,
+          "phone": "tcl",
+          "start": 2.1478125,
+          "end": 2.1854375,
+          "duration": 0.037625,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 32,
+          "phone": "ey",
+          "start": 2.2325,
+          "end": 2.3475,
+          "duration": 0.115,
+          "event_type": "long_phone",
+          "reason": "duration 0.115s exceeds p90 0.169 for ey"
+        },
+        {
+          "phone_index": 33,
+          "phone": "sh",
+          "start": 2.3475,
+          "end": 2.4575,
+          "duration": 0.11,
+          "event_type": "long_phone",
+          "reason": "duration 0.11s exceeds p90 0.151 for sh"
+        },
+        {
+          "phone_index": 36,
+          "phone": "h#",
+          "start": 2.5709375,
+          "end": 2.635,
+          "duration": 0.0640625,
+          "event_type": "pause_silence_segment"
+        }
+      ]
+    },
+    {
+      "utt_id": "FLNH0_SI941",
+      "events": [
+        {
+          "phone_index": 3,
+          "phone": "f",
+          "start": 0.208875,
+          "end": 0.3175,
+          "duration": 0.108625,
+          "event_type": "long_phone",
+          "reason": "duration 0.108625s exceeds p90 0.149 for f"
+        },
+        {
+          "phone_index": 4,
+          "phone": "aa",
+          "start": 0.3175,
+          "end": 0.424125,
+          "duration": 0.106625,
+          "event_type": "long_phone",
+          "reason": "duration 0.106625s exceeds p90 0.169 for aa"
+        },
+        {
+          "phone_index": 10,
+          "phone": "ay",
+          "start": 0.8008125,
+          "end": 0.9399375,
+          "duration": 0.139125,
+          "event_type": "long_phone",
+          "reason": "duration 0.139125s exceeds p90 0.169 for ay"
+        },
+        {
+          "phone_index": 11,
+          "phone": "f",
+          "start": 0.9399375,
+          "end": 1.06,
+          "duration": 0.1200625,
+          "event_type": "long_phone",
+          "reason": "duration 0.1200625s exceeds p90 0.149 for f"
+        },
+        {
+          "phone_index": 12,
+          "phone": "pau",
+          "start": 1.06,
+          "end": 1.1105625,
+          "duration": 0.0505625,
+          "event_type": "pause_silence_segment"
+        },
+        {
+          "phone_index": 16,
+          "phone": "tcl",
+          "start": 1.295,
+          "end": 1.3603125,
+          "duration": 0.0653125,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 21,
+          "phone": "ey",
+          "start": 1.6083125,
+          "end": 1.7575,
+          "duration": 0.1491875,
+          "event_type": "long_phone",
+          "reason": "duration 0.1491875s exceeds p90 0.169 for ey"
+        },
+        {
+          "phone_index": 23,
+          "phone": "zh",
+          "start": 1.8225,
+          "end": 1.921625,
+          "duration": 0.099125,
+          "event_type": "long_phone",
+          "reason": "duration 0.099125s exceeds p90 0.130 for zh"
+        },
+        {
+          "phone_index": 24,
+          "phone": "dcl",
+          "start": 1.921625,
+          "end": 1.9634375,
+          "duration": 0.0418125,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 29,
+          "phone": "tcl",
+          "start": 2.1825,
+          "end": 2.2425,
+          "duration": 0.06,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 32,
+          "phone": "dcl",
+          "start": 2.3425,
+          "end": 2.389,
+          "duration": 0.0465,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 36,
+          "phone": "ae",
+          "start": 2.5075,
+          "end": 2.68925,
+          "duration": 0.18175,
+          "event_type": "long_phone",
+          "reason": "duration 0.18175s exceeds p90 0.205 for ae"
+        },
+        {
+          "phone_index": 40,
+          "phone": "kcl",
+          "start": 2.88,
+          "end": 2.96875,
+          "duration": 0.08875,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 44,
+          "phone": "pcl",
+          "start": 3.1698125,
+          "end": 3.248125,
+          "duration": 0.0783125,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 45,
+          "phone": "p",
+          "start": 3.248125,
+          "end": 3.2611875,
+          "duration": 0.0130625,
+          "event_type": "short_phone",
+          "reason": "duration 0.0130625s below p10 0.018 for p"
+        },
+        {
+          "phone_index": 49,
+          "phone": "ay",
+          "start": 3.530125,
+          "end": 3.6424375,
+          "duration": 0.1123125,
+          "event_type": "long_phone",
+          "reason": "duration 0.1123125s exceeds p90 0.169 for ay"
+        },
+        {
+          "phone_index": 52,
+          "phone": "tcl",
+          "start": 3.7990625,
+          "end": 3.83825,
+          "duration": 0.0391875,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 54,
+          "phone": "aa",
+          "start": 3.8669375,
+          "end": 3.9925,
+          "duration": 0.1255625,
+          "event_type": "long_phone",
+          "reason": "duration 0.1255625s exceeds p90 0.169 for aa"
+        },
+        {
+          "phone_index": 55,
+          "phone": "kcl",
+          "start": 3.9925,
+          "end": 4.0825,
+          "duration": 0.09,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 57,
+          "phone": "h#",
+          "start": 4.1225,
+          "end": 4.24,
+          "duration": 0.1175,
+          "event_type": "pause_silence_segment"
+        }
+      ]
+    }
+  ]
+}

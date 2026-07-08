@@ -1,0 +1,57 @@
+```json
+{
+  "window_id": "childes_keith_0000_0039",
+  "events": [
+    {
+      "event_type": "repetition",
+      "utt_index": [2, 3],
+      "speaker": "CHI",
+      "source_text": "right ?",
+      "note": "Child repeats identical utterance"
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": [13, 14],
+      "speaker": "CHI",
+      "source_text": "that ? / what's that ?",
+      "note": "Child repeats question with expansion"
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": [16, 18],
+      "speaker": "CHI",
+      "source_text": "square .",
+      "note": "Child repeats same word in response to mother's question"
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": [32, 34, 35, 36, 38],
+      "speaker": "CHI",
+      "source_text": "circle .",
+      "note": "Child repeats 'circle' multiple times across utterances"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 10,
+      "speaker": "MOT",
+      "source_text": "yeah (.) that's right .",
+      "note": "Pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 19,
+      "speaker": "MOT",
+      "source_text": "uhhuh (.) square .",
+      "note": "Pause marked with (.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 11,
+      "speaker": "MOT",
+      "source_text": "alright !",
+      "dependent_tier": "par",
+      "note": "Gasps during utterance"
+    }
+  ]
+}
+```

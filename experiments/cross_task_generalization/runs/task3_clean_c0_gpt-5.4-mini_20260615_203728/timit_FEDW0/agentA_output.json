@@ -1,0 +1,540 @@
+{
+  "bundle_id": "timit_FEDW0",
+  "speaker_id": "FEDW0",
+  "rules": {
+    "long_word": "duration >= word_duration_global.p90",
+    "short_word": "duration <= word_duration_global.p10",
+    "inter_word_gap": "gap between consecutive word intervals within an utterance, where gap = next.start - prev.end; boundary_gap indicates the leading/trailing silence-like gap at utterance edges"
+  },
+  "utterances": [
+    {
+      "utt_id": "FEDW0_SA1",
+      "events": [
+        {
+          "utt_id": "FEDW0_SA1",
+          "word_index": 0,
+          "word": "she",
+          "start": 0.1625,
+          "end": 0.438625,
+          "duration": 0.276125,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SA1",
+          "word_index": 1,
+          "word": "had",
+          "start": 0.438625,
+          "end": 0.8275,
+          "duration": 0.388875,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SA1",
+          "word_index": 2,
+          "word": "your",
+          "start": 0.7675,
+          "end": 0.9425,
+          "duration": 0.175,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SA1",
+          "word_index": 3,
+          "word": "dark",
+          "start": 0.9425,
+          "end": 1.3625,
+          "duration": 0.42,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SA1",
+          "word_index": 4,
+          "word": "suit",
+          "start": 1.3625,
+          "end": 1.7625,
+          "duration": 0.4,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SA1",
+          "word_index": 5,
+          "word": "in",
+          "start": 1.7625,
+          "end": 2.0025625,
+          "duration": 0.2400625,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SA1",
+          "word_index": 6,
+          "word": "greasy",
+          "start": 2.0025625,
+          "end": 2.4375,
+          "duration": 0.4349375,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SA1",
+          "word_index": 7,
+          "word": "wash",
+          "start": 2.4375,
+          "end": 2.882875,
+          "duration": 0.445375,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SA1",
+          "word_index": 8,
+          "word": "water",
+          "start": 2.9350625,
+          "end": 3.2625,
+          "duration": 0.3274375,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SA1",
+          "word_index": 9,
+          "word": "all",
+          "start": 3.384125,
+          "end": 3.7275,
+          "duration": 0.343375,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SA1",
+          "word_index": 10,
+          "word": "year",
+          "start": 3.7275,
+          "end": 4.0316875,
+          "duration": 0.3041875,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SA1",
+          "word_index": null,
+          "word": null,
+          "start": 0.0,
+          "end": 0.1625,
+          "duration": 0.1625,
+          "event_type": "boundary_gap"
+        },
+        {
+          "utt_id": "FEDW0_SA1",
+          "word_index": null,
+          "word": null,
+          "start": 4.0316875,
+          "end": 4.236875,
+          "duration": 0.2051875,
+          "event_type": "boundary_gap"
+        }
+      ]
+    },
+    {
+      "utt_id": "FEDW0_SA2",
+      "events": [
+        {
+          "utt_id": "FEDW0_SA2",
+          "word_index": 0,
+          "word": "don't",
+          "start": 0.1325,
+          "end": 0.43075,
+          "duration": 0.29825,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SA2",
+          "word_index": 1,
+          "word": "ask",
+          "start": 0.43075,
+          "end": 0.8224375,
+          "duration": 0.3916875,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SA2",
+          "word_index": 2,
+          "word": "me",
+          "start": 0.8224375,
+          "end": 0.9425,
+          "duration": 0.1200625,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SA2",
+          "word_index": 3,
+          "word": "to",
+          "start": 0.9425,
+          "end": 1.0825,
+          "duration": 0.14,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SA2",
+          "word_index": 4,
+          "word": "carry",
+          "start": 1.0825,
+          "end": 1.5926875,
+          "duration": 0.5101875,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SA2",
+          "word_index": 5,
+          "word": "an",
+          "start": 1.5926875,
+          "end": 1.6814375,
+          "duration": 0.08875,
+          "event_type": "short_word"
+        },
+        {
+          "utt_id": "FEDW0_SA2",
+          "word_index": 6,
+          "word": "oily",
+          "start": 1.6814375,
+          "end": 2.0469375,
+          "duration": 0.3655,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SA2",
+          "word_index": 7,
+          "word": "rag",
+          "start": 2.0469375,
+          "end": 2.5275,
+          "duration": 0.4805625,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SA2",
+          "word_index": 8,
+          "word": "like",
+          "start": 2.5275,
+          "end": 2.90825,
+          "duration": 0.38075,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SA2",
+          "word_index": 9,
+          "word": "that",
+          "start": 2.90825,
+          "end": 3.3161875,
+          "duration": 0.4079375,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SA2",
+          "word_index": null,
+          "word": null,
+          "start": 0.0,
+          "end": 0.1325,
+          "duration": 0.1325,
+          "event_type": "boundary_gap"
+        },
+        {
+          "utt_id": "FEDW0_SA2",
+          "word_index": null,
+          "word": null,
+          "start": 3.3161875,
+          "end": 3.4945,
+          "duration": 0.1783125,
+          "event_type": "boundary_gap"
+        }
+      ]
+    },
+    {
+      "utt_id": "FEDW0_SI1084",
+      "events": [
+        {
+          "utt_id": "FEDW0_SI1084",
+          "word_index": 0,
+          "word": "the",
+          "start": 0.1525,
+          "end": 0.2825,
+          "duration": 0.13,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SI1084",
+          "word_index": 1,
+          "word": "theme",
+          "start": 0.2825,
+          "end": 0.8675,
+          "duration": 0.585,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SI1084",
+          "word_index": 2,
+          "word": "may",
+          "start": 0.8675,
+          "end": 1.3025,
+          "duration": 0.435,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SI1084",
+          "word_index": 3,
+          "word": "be",
+          "start": 1.3025,
+          "end": 1.4875,
+          "duration": 0.185,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SI1084",
+          "word_index": 4,
+          "word": "the",
+          "start": 1.4875,
+          "end": 1.6575,
+          "duration": 0.17,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SI1084",
+          "word_index": 5,
+          "word": "formation",
+          "start": 1.6575,
+          "end": 2.520375,
+          "duration": 0.862875,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SI1084",
+          "word_index": 6,
+          "word": "of",
+          "start": 2.520375,
+          "end": 2.8675,
+          "duration": 0.347125,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SI1084",
+          "word_index": 7,
+          "word": "a",
+          "start": 2.8675,
+          "end": 3.0325,
+          "duration": 0.165,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SI1084",
+          "word_index": 8,
+          "word": "shape",
+          "start": 3.0325,
+          "end": 3.4975,
+          "duration": 0.465,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SI1084",
+          "word_index": 9,
+          "word": "from",
+          "start": 3.4975,
+          "end": 3.7475,
+          "duration": 0.25,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SI1084",
+          "word_index": 10,
+          "word": "which",
+          "start": 3.8175,
+          "end": 4.061125,
+          "duration": 0.243625,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SI1084",
+          "word_index": 11,
+          "word": "other",
+          "start": 4.061125,
+          "end": 4.4775,
+          "duration": 0.416375,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SI1084",
+          "word_index": 12,
+          "word": "shapes",
+          "start": 4.4775,
+          "end": 4.9175,
+          "duration": 0.44,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SI1084",
+          "word_index": 13,
+          "word": "evolve",
+          "start": 4.9175,
+          "end": 5.4973125,
+          "duration": 0.5798125,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SI1084",
+          "word_index": null,
+          "word": null,
+          "start": 0.0,
+          "end": 0.1525,
+          "duration": 0.1525,
+          "event_type": "boundary_gap"
+        },
+        {
+          "utt_id": "FEDW0_SI1084",
+          "word_index": null,
+          "word": null,
+          "start": 5.4973125,
+          "end": 5.74725,
+          "duration": 0.2499375,
+          "event_type": "boundary_gap"
+        }
+      ]
+    },
+    {
+      "utt_id": "FEDW0_SI1653",
+      "events": [
+        {
+          "utt_id": "FEDW0_SI1653",
+          "word_index": 0,
+          "word": "he",
+          "start": 0.1475,
+          "end": 0.3375,
+          "duration": 0.19,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SI1653",
+          "word_index": 1,
+          "word": "spoke",
+          "start": 0.3375,
+          "end": 0.8449375,
+          "duration": 0.5074375,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SI1653",
+          "word_index": 2,
+          "word": "soothingly",
+          "start": 0.8449375,
+          "end": 1.52475,
+          "duration": 0.6798125,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SI1653",
+          "word_index": null,
+          "word": null,
+          "start": 0.0,
+          "end": 0.1475,
+          "duration": 0.1475,
+          "event_type": "boundary_gap"
+        },
+        {
+          "utt_id": "FEDW0_SI1653",
+          "word_index": null,
+          "word": null,
+          "start": 1.52475,
+          "end": 1.676875,
+          "duration": 0.152125,
+          "event_type": "boundary_gap"
+        }
+      ]
+    },
+    {
+      "utt_id": "FEDW0_SI1714",
+      "events": [
+        {
+          "utt_id": "FEDW0_SI1714",
+          "word_index": 0,
+          "word": "here's",
+          "start": 0.1425,
+          "end": 0.645,
+          "duration": 0.5025,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SI1714",
+          "word_index": 1,
+          "word": "where",
+          "start": 0.645,
+          "end": 0.879875,
+          "duration": 0.234875,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SI1714",
+          "word_index": 2,
+          "word": "luck",
+          "start": 0.879875,
+          "end": 1.44125,
+          "duration": 0.561375,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SI1714",
+          "word_index": 3,
+          "word": "would",
+          "start": 1.6475,
+          "end": 1.8720625,
+          "duration": 0.2245625,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SI1714",
+          "word_index": 4,
+          "word": "normally",
+          "start": 1.8720625,
+          "end": 2.4225,
+          "duration": 0.5504375,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SI1714",
+          "word_index": 5,
+          "word": "step",
+          "start": 2.4225,
+          "end": 2.85,
+          "duration": 0.4275,
+          "event_type": "long_word"
+        },
+        {
+          "utt_id": "FEDW0_SI1714",
+          "word_index": 6,
+          "word": "in",
+          "start": 2.85,
+          "end": 3.1304375,
+          "duration": 0.2804375,
+          "event_type": "inter_word_gap"
+        },
+        {
+          "utt_id": "FEDW0_SI1714",
+          "word_index": null,
+          "word": null,
+          "start": 0.0,
+          "end": 0.1425,
+          "duration": 0.1425,
+          "event_type": "boundary_gap"
+        },
+        {
+          "utt_id": "FEDW0_SI1714",
+          "word_index": null,
+          "word": null,
+          "start": 1.44125,
+          "end": 1.6475,
+          "duration": 0.20625,
+          "event_type": "boundary_gap"
+        },
+        {
+          "utt_id": "FEDW0_SI1714",
+          "word_index": null,
+          "word": null,
+          "start": 3.1304375,
+          "end": 3.308875,
+          "duration": 0.1784375,
+          "event_type": "boundary_gap"
+        }
+      ]
+    }
+  ]
+}

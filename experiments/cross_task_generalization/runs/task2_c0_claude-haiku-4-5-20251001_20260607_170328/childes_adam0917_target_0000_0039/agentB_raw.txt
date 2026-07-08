@@ -1,0 +1,112 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "utterance_indices": [0, 1],
+      "speaker": "MOT",
+      "source_text": "good morning . / good morning [=! singing] ."
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 2,
+      "speaker": "MOT",
+      "source_text": "<good morning> [/] good morning and how are you today [=! singing] ?",
+      "repair_type": "self-repair"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_indices": [2, 3],
+      "speaker": "MOT",
+      "source_text": "<good morning> [/] good morning and how are you today [=! singing] ? / <good morning> [/] good morning and how are you today [=! singing] ?"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_indices": [17, 18],
+      "speaker": "MOT",
+      "source_text": "oh where're you going ? / where're you going ?"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_indices": [19, 20],
+      "speaker": "MOT",
+      "source_text": "ooh there you go . / there you go ."
+    },
+    {
+      "event_type": "repetition",
+      "utterance_indices": [22, 23],
+      "speaker": "MOT",
+      "source_text": "come on . / come on ."
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 26,
+      "speaker": "MOT",
+      "source_text": "oh, okay so what are we gonna [: going to ] do today ?",
+      "repair_type": "contraction_expansion"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 27,
+      "speaker": "MOT",
+      "source_text": "what are we gonna [: going to ] do ?",
+      "repair_type": "contraction_expansion"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 29,
+      "speaker": "MOT",
+      "source_text": "oh cough [/] cough .",
+      "repair_type": "self-repair"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_indices": [35, 36],
+      "speaker": "MOT",
+      "source_text": "hello . / hello ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 4,
+      "speaker": "CHI",
+      "source_text": "&=laughs ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 5,
+      "speaker": "MOT",
+      "source_text": "&=laughs ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 10,
+      "speaker": "CHI",
+      "source_text": "&=coo ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 15,
+      "speaker": "CHI",
+      "source_text": "&=babble ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 28,
+      "speaker": "CHI",
+      "source_text": "&=coughs ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 32,
+      "speaker": "CHI",
+      "source_text": "&=babble ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 34,
+      "speaker": "CHI",
+      "source_text": "&=babble ."
+    }
+  ]
+}
+```

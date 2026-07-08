@@ -1,0 +1,85 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task 3 TIMIT timing and phone-linking final output",
+  "type": "object",
+  "required": ["bundle_id", "utterance_summaries", "events", "unlinked_events"],
+  "additionalProperties": false,
+  "properties": {
+    "bundle_id": {"type": "string"},
+    "utterance_summaries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "utt_id",
+          "long_word_count",
+          "short_word_count",
+          "inter_word_gap_count",
+          "boundary_gap_count",
+          "long_phone_count",
+          "short_phone_count",
+          "closure_count",
+          "pause_silence_count",
+          "glottal_stop_count",
+          "total_event_count"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "utt_id": {"type": "string"},
+          "long_word_count": {"type": "integer", "minimum": 0},
+          "short_word_count": {"type": "integer", "minimum": 0},
+          "inter_word_gap_count": {"type": "integer", "minimum": 0},
+          "boundary_gap_count": {"type": "integer", "minimum": 0},
+          "long_phone_count": {"type": "integer", "minimum": 0},
+          "short_phone_count": {"type": "integer", "minimum": 0},
+          "closure_count": {"type": "integer", "minimum": 0},
+          "pause_silence_count": {"type": "integer", "minimum": 0},
+          "glottal_stop_count": {"type": "integer", "minimum": 0},
+          "total_event_count": {"type": "integer", "minimum": 0}
+        }
+      }
+    },
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["utt_id", "event_type", "start", "end"],
+        "additionalProperties": true,
+        "properties": {
+          "utt_id": {"type": "string"},
+          "event_type": {
+            "type": "string",
+            "enum": [
+              "long_word",
+              "short_word",
+              "inter_word_gap",
+              "boundary_gap",
+              "long_phone",
+              "short_phone",
+              "closure_segment",
+              "pause_silence_segment",
+              "glottal_stop"
+            ]
+          },
+          "word_index": {"type": ["integer", "null"]},
+          "phone_index": {"type": ["integer", "null"]},
+          "start": {"type": "number"},
+          "end": {"type": "number"}
+        }
+      }
+    },
+    "unlinked_events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["utt_id", "event_type", "reason"],
+        "additionalProperties": true,
+        "properties": {
+          "utt_id": {"type": "string"},
+          "event_type": {"type": "string"},
+          "reason": {"type": "string"}
+        }
+      }
+    }
+  }
+}

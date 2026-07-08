@@ -1,0 +1,191 @@
+{
+  "session_id": "timit_FEDW0_chunk_3_3",
+  "session_date": "",
+  "sample_rate": 16000,
+  "audio_file_path": "",
+  "audio_format": "wav",
+  "session_duration": "00:00:15:156",
+  "speakers": [
+    {
+      "speaker_id": "FEDW0",
+      "gender": "other",
+      "language": "en",
+      "native_language": "english",
+      "accent": "",
+      "age": "",
+      "name": "",
+      "age_group": "adult"
+    }
+  ],
+  "turns": [
+    {
+      "turn_index": 3,
+      "utt_id": "FEDW0_SI1653",
+      "speaker_id": "FEDW0",
+      "reference_transcript": "He spoke soothingly.",
+      "phoneme_reference": "",
+      "orthographic_transcript": "He spoke soothingly.",
+      "phonetic_transcript": "h# hh iy s pcl ow kcl k s uw dh ix ng l iy h#",
+      "ipa_transcript": "",
+      "raw_transcript": "He spoke soothingly.",
+      "start": "00:00:13:479",
+      "end": "00:00:15:156",
+      "word_alignments": [
+        {
+          "word": "he",
+          "start": "00:00:13:626",
+          "end": "00:00:13:816",
+          "phonemes": [
+            {
+              "phone": "hh",
+              "start": "00:00:13:626",
+              "end": "00:00:13:661"
+            },
+            {
+              "phone": "iy",
+              "start": "00:00:13:661",
+              "end": "00:00:13:816"
+            }
+          ]
+        },
+        {
+          "word": "spoke",
+          "start": "00:00:13:816",
+          "end": "00:00:14:324",
+          "phonemes": [
+            {
+              "phone": "s",
+              "start": "00:00:13:816",
+              "end": "00:00:13:946"
+            },
+            {
+              "phone": "pcl",
+              "start": "00:00:13:946",
+              "end": "00:00:14:031"
+            },
+            {
+              "phone": "ow",
+              "start": "00:00:14:031",
+              "end": "00:00:14:226"
+            },
+            {
+              "phone": "kcl",
+              "start": "00:00:14:226",
+              "end": "00:00:14:280"
+            },
+            {
+              "phone": "k",
+              "start": "00:00:14:280",
+              "end": "00:00:14:324"
+            }
+          ]
+        },
+        {
+          "word": "soothingly",
+          "start": "00:00:14:324",
+          "end": "00:00:15:003",
+          "phonemes": [
+            {
+              "phone": "s",
+              "start": "00:00:14:324",
+              "end": "00:00:14:476"
+            },
+            {
+              "phone": "uw",
+              "start": "00:00:14:476",
+              "end": "00:00:14:638"
+            },
+            {
+              "phone": "dh",
+              "start": "00:00:14:638",
+              "end": "00:00:14:701"
+            },
+            {
+              "phone": "ix",
+              "start": "00:00:14:701",
+              "end": "00:00:14:786"
+            },
+            {
+              "phone": "ng",
+              "start": "00:00:14:786",
+              "end": "00:00:14:839"
+            },
+            {
+              "phone": "l",
+              "start": "00:00:14:839",
+              "end": "00:00:14:907"
+            },
+            {
+              "phone": "iy",
+              "start": "00:00:14:907",
+              "end": "00:00:15:003"
+            }
+          ]
+        }
+      ],
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "short_word",
+          "start": "00:00:00:148",
+          "end": "00:00:00:338"
+        },
+        {
+          "type": "long_word",
+          "start": "00:00:00:845",
+          "end": "00:00:01:525"
+        },
+        {
+          "type": "boundary_gap",
+          "start": "00:00:00:000",
+          "end": "00:00:00:148"
+        },
+        {
+          "type": "boundary_gap",
+          "start": "00:00:01:525",
+          "end": "00:00:01:675"
+        },
+        {
+          "type": "short_phone",
+          "start": "00:00:00:148",
+          "end": "00:00:00:182"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:00:468",
+          "end": "00:00:00:552"
+        },
+        {
+          "type": "short_phone",
+          "start": "00:00:00:748",
+          "end": "00:00:00:802"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:01:308",
+          "end": "00:00:01:360"
+        },
+        {
+          "type": "pause_silence_segment",
+          "start": "00:00:00:000",
+          "end": "00:00:00:148"
+        },
+        {
+          "type": "pause_silence_segment",
+          "start": "00:00:01:525",
+          "end": "00:00:01:675"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "dataset_name": "TIMIT",
+    "dataset_split": "TEST",
+    "text_annotation_source": "TIMIT .TXT/.WRD",
+    "text_annotation_details": "Human-aligned word intervals.",
+    "text_coverage": "full",
+    "phoneme_annotation_source": "TIMIT .PHN",
+    "phoneme_annotation_details": "Human-aligned phone intervals.",
+    "phoneme_coverage": "full"
+  }
+}

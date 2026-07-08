@@ -1,0 +1,93 @@
+[
+  {
+    "event_type": "repetition",
+    "utterance_cue": 4,
+    "speaker_cue": "MOT",
+    "source_text": "the yellow one's too [!] big !",
+    "details": {
+      "repeated_element": "too [!] big",
+      "correction_context": "prompting/repair-like repetition in caregiver speech"
+    }
+  },
+  {
+    "event_type": "repair",
+    "utterance_cue": 7,
+    "speaker_cue": "MOT",
+    "source_text": "+\" too [!] big [!] ?",
+    "details": {
+      "cue": "[!]",
+      "context": "self-repair/reformulation following interrupted prompt"
+    }
+  },
+  {
+    "event_type": "repetition",
+    "utterance_cue": 8,
+    "speaker_cue": "MOT",
+    "source_text": "take the red [!] one out !",
+    "details": {
+      "repeated_element": "red [!] one",
+      "context": "repeated instructional phrase"
+    }
+  },
+  {
+    "event_type": "repetition",
+    "utterance_cue": 10,
+    "speaker_cue": "MOT",
+    "source_text": "take the red [!] one out .",
+    "details": {
+      "repeated_element": "take the red [!] one out",
+      "context": "same instruction repeated from previous turn"
+    }
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 17,
+    "speaker_cue": "CHI",
+    "source_text": "%xpho:\t<1w> deh",
+    "details": {
+      "type": "phonological/non-lexical vocalization"
+    }
+  },
+  {
+    "event_type": "pause",
+    "utterance_cue": 20,
+    "speaker_cue": "CHI",
+    "source_text": "%xpho:\t<1w> &-eh",
+    "details": {
+      "cue": "<1w>",
+      "interpretation": "brief pause before/within vocalization context"
+    }
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 31,
+    "speaker_cue": "CHI",
+    "source_text": "%xpho:\t<1w> nai_nai",
+    "details": {
+      "type": "non-lexical/phonological event"
+    }
+  },
+  {
+    "event_type": "pause",
+    "utterance_cue": 32,
+    "speaker_cue": "MOT",
+    "source_text": "uhhuh (.) bed going [?] to bed .",
+    "details": {
+      "cue": "(.)",
+      "context": "short pause inside caregiver utterance"
+    }
+  },
+  {
+    "event_type": "overlap",
+    "utterance_cue": 37,
+    "speaker_cue": "CHI",
+    "source_text": "no .",
+    "details": {
+      "cue": "%par:\t<bef> sighs",
+      "context": "paralinguistic event occurring adjacent to overlapping turn sequence"
+    }
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_cue\": 4,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"the yellow one's too [!] big !\",\n    \"details\": {\n      \"repeated_element\": \"too [!] big\",\n      \"correction_context\": \"prompting/repair-like repetition in caregiver speech\"\n    }\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utterance_cue\": 7,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"+\\\" too [!] big [!] ?\",\n    \"details\": {\n      \"cue\": \"[!]\",\n      \"context\": \"self-repair/reformulation following interrupted prompt\"\n    }\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_cue\": 8,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"take the red [!] one out !\",\n    \"details\": {\n      \"repeated_element\": \"red [!] one\",\n      \"context\": \"repeated instructional phrase\"\n    }\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_cue\": 10,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"take the red [!] one out .\",\n    \"details\": {\n      \"repeated_element\": \"take the red [!] one out\",\n      \"context\": \"same instruction repeated from previous turn\"\n    }\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 17,\n    \"speaker_cue\": \"CHI\",\n    \"source_text\": \"%xpho:\\t<1w> deh\",\n    \"details\": {\n      \"type\": \"phonological/non-lexical vocalization\"\n    }\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utterance_cue\": 20,\n    \"speaker_cue\": \"CHI\",\n    \"source_text\": \"%xpho:\\t<1w> &-eh\",\n    \"details\": {\n      \"cue\": \"<1w>\",\n      \"interpretation\": \"brief pause before/within vocalization context\"\n    }\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 31,\n    \"speaker_cue\": \"CHI\",\n    \"source_text\": \"%xpho:\\t<1w> nai_nai\",\n    \"details\": {\n      \"type\": \"non-lexical/phonological event\"\n    }\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utterance_cue\": 32,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"uhhuh (.) bed going [?] to bed .\",\n    \"details\": {\n      \"cue\": \"(.)\",\n      \"context\": \"short pause inside caregiver utterance\"\n    }\n  },\n  {\n    \"event_type\": \"overlap\",\n    \"utterance_cue\": 37,\n    \"speaker_cue\": \"CHI\",\n    \"source_text\": \"no .\",\n    \"details\": {\n      \"cue\": \"%par:\\t<bef> sighs\",\n      \"context\": \"paralinguistic event occurring adjacent to overlapping turn sequence\"\n    }\n  }\n]"}

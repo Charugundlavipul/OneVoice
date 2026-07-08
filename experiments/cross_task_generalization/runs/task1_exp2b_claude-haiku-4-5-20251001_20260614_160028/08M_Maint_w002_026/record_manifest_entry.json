@@ -1,0 +1,220 @@
+{
+  "record_id": "08M_Maint_w002_026",
+  "cohort": "mispronunciation_heavy",
+  "dataset": "uxssd",
+  "mode": "experiment2_onevoice_pipeline_low_event",
+  "input_policy": {
+    "use_onevoice_schema": true,
+    "validator_in_loop": true,
+    "validator_command": "python validate_onevoice.py <generated_onevoice_record.json> --mode full",
+    "max_repair_rounds_per_agent": 3
+  },
+  "bundle_duration_s": 126.77799999999999,
+  "expected_proxy": {
+    "mispronunciation_events": 8,
+    "behavioral_events": 7,
+    "note": "small-scale bundle selection (5-10 behavioral, 5-10 mispronunciation)"
+  },
+  "utterances": [
+    {
+      "utt": "08M-Maint-002A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 6.037,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-002A.json"
+    },
+    {
+      "utt": "08M-Maint-003A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 4.83,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-003A.json"
+    },
+    {
+      "utt": "08M-Maint-004A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 3.019,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-004A.json"
+    },
+    {
+      "utt": "08M-Maint-005A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 6.037,
+      "mispronunciation_proxy_events": 2,
+      "behavioral_event_proxy_events": 2,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-005A.json"
+    },
+    {
+      "utt": "08M-Maint-006A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 5.433,
+      "mispronunciation_proxy_events": 1,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-006A.json"
+    },
+    {
+      "utt": "08M-Maint-007A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 5.433,
+      "mispronunciation_proxy_events": 1,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-007A.json"
+    },
+    {
+      "utt": "08M-Maint-008A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 6.641,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-008A.json"
+    },
+    {
+      "utt": "08M-Maint-009A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 6.037,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-009A.json"
+    },
+    {
+      "utt": "08M-Maint-010A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 7.848,
+      "mispronunciation_proxy_events": 2,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-010A.json"
+    },
+    {
+      "utt": "08M-Maint-011A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 4.83,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-011A.json"
+    },
+    {
+      "utt": "08M-Maint-012A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 6.037,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-012A.json"
+    },
+    {
+      "utt": "08M-Maint-013A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 6.037,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-013A.json"
+    },
+    {
+      "utt": "08M-Maint-014A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 4.83,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-014A.json"
+    },
+    {
+      "utt": "08M-Maint-015A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 5.433,
+      "mispronunciation_proxy_events": 1,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-015A.json"
+    },
+    {
+      "utt": "08M-Maint-016A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 5.433,
+      "mispronunciation_proxy_events": 1,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-016A.json"
+    },
+    {
+      "utt": "08M-Maint-017A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 1.811,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-017A.json"
+    },
+    {
+      "utt": "08M-Maint-018A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 5.433,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-018A.json"
+    },
+    {
+      "utt": "08M-Maint-019A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 4.226,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-019A.json"
+    },
+    {
+      "utt": "08M-Maint-020A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 4.226,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-020A.json"
+    },
+    {
+      "utt": "08M-Maint-021A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 4.83,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-021A.json"
+    },
+    {
+      "utt": "08M-Maint-022A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 4.226,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-022A.json"
+    },
+    {
+      "utt": "08M-Maint-023A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 3.622,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-023A.json"
+    },
+    {
+      "utt": "08M-Maint-024A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 4.83,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 0,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-024A.json"
+    },
+    {
+      "utt": "08M-Maint-025A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 5.433,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 3,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-025A.json"
+    },
+    {
+      "utt": "08M-Maint-026A",
+      "speaker_id": "08M_CHILD",
+      "duration_s": 4.226,
+      "mispronunciation_proxy_events": 0,
+      "behavioral_event_proxy_events": 2,
+      "onevoice_json": "ultrasuite/output/uxssd/08M/08M-Maint-026A.json"
+    }
+  ]
+}

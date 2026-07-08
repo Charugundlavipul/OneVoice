@@ -1,0 +1,287 @@
+```json
+{
+  "bundle_id": "timit_FAKS0",
+  "speaker_id": "FAKS0",
+  "timing_events": [
+    {
+      "utt_id": "FAKS0_SA1",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "greasy",
+          "start": 1.9925,
+          "end": 2.4105,
+          "duration": 0.418,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "reason": "6-phone word duration 0.418s within normal range but notable length"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "wash",
+          "start": 2.4105,
+          "end": 2.8199375,
+          "duration": 0.4094375,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "reason": "3-phone word exceeds p90 threshold (0.409 > 0.369)"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [7, 8],
+          "gap_start": 2.8199375,
+          "gap_end": 2.8515,
+          "duration": 0.0315625,
+          "reason": "epi phone between 'wash' and 'water'"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [8, 9],
+          "gap_start": 3.1895625,
+          "gap_end": 3.273625,
+          "duration": 0.0840625,
+          "reason": "q phone (glottal stop) between 'water' and 'all'"
+        }
+      ]
+    },
+    {
+      "utt_id": "FAKS0_SA2",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "carry",
+          "start": 1.5425,
+          "end": 1.953,
+          "duration": 0.4105,
+          "phone_count": 5,
+          "threshold_p90": 0.503275,
+          "reason": "5-phone word duration 0.411s within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "oily",
+          "start": 2.0718125,
+          "end": 2.4425,
+          "duration": 0.3706875,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "reason": "3-phone word slightly exceeds p90 threshold (0.371 > 0.369)"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "rag",
+          "start": 2.4425,
+          "end": 2.803125,
+          "duration": 0.360625,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "4-phone word within normal range"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [1, 2],
+          "gap_start": 1.249375,
+          "gap_end": 1.325,
+          "duration": 0.075625,
+          "reason": "epi phone between 'ask' and 'me'"
+        }
+      ]
+    },
+    {
+      "utt_id": "FAKS0_SI1573",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "captain",
+          "start": 0.7675625,
+          "end": 1.2600625,
+          "duration": 0.4925,
+          "phone_count": 7,
+          "threshold_p90": 0.6202625,
+          "reason": "7-phone word within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 5,
+          "word": "haggard",
+          "start": 1.87725,
+          "end": 2.388125,
+          "duration": 0.510875,
+          "phone_count": 7,
+          "threshold_p90": 0.6202625,
+          "reason": "7-phone word within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 8,
+          "word": "beautiful",
+          "start": 2.721875,
+          "end": 3.1925,
+          "duration": 0.470625,
+          "phone_count": 8,
+          "threshold_p90": 0.808275,
+          "reason": "8-phone word within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 9,
+          "word": "boots",
+          "start": 3.1925,
+          "end": 3.63125,
+          "duration": 0.43875,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "reason": "6-phone word within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 11,
+          "word": "worn",
+          "start": 3.8036875,
+          "end": 4.175,
+          "duration": 0.3713125,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "4-phone word within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 13,
+          "word": "shabby",
+          "start": 4.3125,
+          "end": 4.8041875,
+          "duration": 0.4916875,
+          "phone_count": 5,
+          "threshold_p90": 0.503275,
+          "reason": "5-phone word within normal range"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [9, 10],
+          "gap_start": 3.63125,
+          "gap_end": 3.67,
+          "duration": 0.03875,
+          "reason": "epi phone between 'boots' and 'were'"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [12, 13],
+          "gap_start": 4.285,
+          "gap_end": 4.3125,
+          "duration": 0.0275,
+          "reason": "epi phone between 'and' and 'shabby'"
+        }
+      ]
+    },
+    {
+      "utt_id": "FAKS0_SI2203",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "reasons",
+          "start": 0.66575,
+          "end": 1.315,
+          "duration": 0.64925,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "reason": "6-phone word exceeds p90 threshold (0.649 > 0.542)"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "dive",
+          "start": 1.7225,
+          "end": 2.0925,
+          "duration": 0.37,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "4-phone word within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 5,
+          "word": "seemed",
+          "start": 2.0925,
+          "end": 2.523125,
+          "duration": 0.430625,
+          "phone_count": 5,
+          "threshold_p90": 0.503275,
+          "reason": "5-phone word within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "foolish",
+          "start": 2.523125,
+          "end": 3.0925,
+          "duration": 0.569375,
+          "phone_count": 5,
+          "threshold_p90": 0.503275,
+          "reason": "5-phone word exceeds p90 threshold (0.569 > 0.503)"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [6, 7],
+          "gap_start": 3.0925,
+          "gap_end": 3.1203125,
+          "duration": 0.0278125,
+          "reason": "epi phone between 'foolish' and 'now'"
+        }
+      ]
+    },
+    {
+      "utt_id": "FAKS0_SI943",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 0,
+          "word": "production",
+          "start": 0.71875,
+          "end": 1.2819375,
+          "duration": 0.5631875,
+          "phone_count": 10,
+          "threshold_p90": null,
+          "reason": "10-phone word (no p90 threshold available, exceeds global p90 of 0.542)"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "below",
+          "start": 2.103125,
+          "end": 2.5056875,
+          "duration": 0.4025625,
+          "phone_count": 5,
+          "threshold_p90": 0.503275,
+          "reason": "5-phone word within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 5,
+          "word": "expectations",
+          "start": 2.5056875,
+          "end": 3.60875,
+          "duration": 1.1030625,
+          "phone_count": 14,
+          "threshold_p90": null,
+          "reason": "14-phone word (no p90 threshold available, significantly exceeds global p90)"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_utterances": 5,
+    "total_events": 31,
+    "long_word_events": 23,
+    "inter_word_gap_events": 8,
+    "short_word_events": 0,
+    "boundary_gap_events": 0
+  }
+}
+```

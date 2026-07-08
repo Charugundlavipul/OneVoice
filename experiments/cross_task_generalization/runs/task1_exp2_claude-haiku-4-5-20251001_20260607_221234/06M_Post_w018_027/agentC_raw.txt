@@ -1,0 +1,305 @@
+```json
+{
+  "session_id": "06M_Post_w018_027",
+  "session_date": "2018-11-06",
+  "sample_rate": 22050,
+  "audio_file_path": "",
+  "audio_format": "wav",
+  "session_duration": "00:02:26:099",
+  "speakers": [
+    {
+      "speaker_id": "06M_CHILD",
+      "gender": "male",
+      "language": "en",
+      "age_group": "child",
+      "age": 5.92
+    }
+  ],
+  "turns": [
+    {
+      "turn_index": 0,
+      "utt_id": "06M-Post-018A",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "scissors fishing lighthouse zebra",
+      "orthographic_transcript": "SCISSORS FISHING LIGHTHOUSE ZEBRA",
+      "phonetic_transcript": "[sil] s I z @ r [sil] z [sil] f I S I N [sil] 5 aI t h aU [sil] s [sil] z E b r @ [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "SCISSORS FISHING LIGHTHOUSE ZEBRA",
+      "start": "00:00:00:000",
+      "end": "00:00:30:790",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "ɪ",
+          "observed_phone": "I",
+          "start": "00:00:00:100",
+          "end": "00:00:00:250"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "other_speaker_activity",
+          "start": "00:00:00:000",
+          "end": "00:00:00:100"
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "utt_id": "06M-Post-019A",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "kitchen sausage tiger rabbit",
+      "orthographic_transcript": "KITCHEN SAUSAGE TIGER RABBIT",
+      "phonetic_transcript": "[sil] k I tS [sil] I n [sil] s O s I dZ [sil] t ae g [sil] @ r [sil] r a b I t [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "KITCHEN SAUSAGE TIGER RABBIT",
+      "start": "00:00:30:790",
+      "end": "00:01:10:635",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "deletion",
+          "target_phone": "ə",
+          "observed_phone": "",
+          "start": "00:00:31:200",
+          "end": "00:00:31:350"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:00:30:790",
+          "end": "00:00:30:900"
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "utt_id": "06M-Post-020A",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "kitchen sausage tiger rabbit",
+      "orthographic_transcript": "KITCHEN SAUSAGE TIGER RABBIT",
+      "phonetic_transcript": "[sil] k I [sil] tS I n s O s I dZ [sil] t ae g @ r [sil] r a b I t [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "KITCHEN SAUSAGE TIGER RABBIT",
+      "start": "00:01:10:635",
+      "end": "00:01:26:935",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "deletion",
+          "target_phone": "ə",
+          "observed_phone": "",
+          "start": "00:01:11:100",
+          "end": "00:01:11:250"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:01:10:635",
+          "end": "00:01:10:750"
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "utt_id": "06M-Post-021A",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "book boy",
+      "orthographic_transcript": "BOOK BOY",
+      "phonetic_transcript": "[sil] b [sil] u k [sil] b OI [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "BOOK BOY",
+      "start": "00:01:26:935",
+      "end": "00:01:34:180",
+      "word_alignments": [],
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:01:26:935",
+          "end": "00:01:27:050"
+        }
+      ]
+    },
+    {
+      "turn_index": 4,
+      "utt_id": "06M-Post-022E",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "swallow",
+      "orthographic_transcript": "",
+      "phonetic_transcript": "",
+      "ipa_transcript": "",
+      "raw_transcript": "",
+      "start": "00:01:34:180",
+      "end": "00:01:39:010",
+      "word_alignments": [],
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "other_speaker_activity",
+          "start": "00:01:34:180",
+          "end": "00:01:39:010"
+        }
+      ]
+    },
+    {
+      "turn_index": 5,
+      "utt_id": "06M-Post-023A",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "tore keep thicker kitten",
+      "orthographic_transcript": "TORE KEEP THICKER KITTEN",
+      "phonetic_transcript": "[sil] t @U r [sil] k i p [sil] T I k @ r [sil] k I t n= [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "TORE KEEP THICKER KITTEN",
+      "start": "00:01:39:010",
+      "end": "00:01:48:669",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "ə",
+          "observed_phone": "@",
+          "start": "00:01:39:200",
+          "end": "00:01:39:350"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:01:39:010",
+          "end": "00:01:39:120"
+        }
+      ]
+    },
+    {
+      "turn_index": 6,
+      "utt_id": "06M-Post-024A",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "core cone peaking table",
+      "orthographic_transcript": "CORE CONE PEAKING TABLE",
+      "phonetic_transcript": "[sil] k @U [sil] r [sil] k @U n [sil] p [sil] i k [sil] I N [sil] t eI b @ 5 [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "CORE CONE PEAKING TABLE",
+      "start": "00:01:48:669",
+      "end": "00:01:58:328",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "ŋ",
+          "observed_phone": "N",
+          "start": "00:01:49:500",
+          "end": "00:01:49:650"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:01:48:669",
+          "end": "00:01:48:780"
+        }
+      ]
+    },
+    {
+      "turn_index": 7,
+      "utt_id": "06M-Post-025A",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "cable butterfly coop kitkat",
+      "orthographic_transcript": "CABLE BUTTERFLY COOP KITKAT",
+      "phonetic_transcript": "[sil] k eI b @ 5 [sil] b V t @ r f 5 ae [sil] k u p [sil] k I t k a t [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "CABLE BUTTERFLY COOP KITKAT",
+      "start": "00:01:58:328",
+      "end": "00:02:07:384",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "ə",
+          "observed_phone": "@",
+          "start": "00:01:58:600",
+          "end": "00:01:58:750"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:01:58:328",
+          "end": "00:01:58:440"
+        }
+      ]
+    },
+    {
+      "turn_index": 8,
+      "utt_id": "06M-Post-026A",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "coot packer toot tie",
+      "orthographic_transcript": "COOT PACKER TOOT TIE",
+      "phonetic_transcript": "[sil] k u t [sil] p a k @ [sil] r [sil] t [sil] u t [sil] t ae [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "COOT PACKER TOOT TIE",
+      "start": "00:02:07:384",
+      "end": "00:02:17:043",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "deletion",
+          "target_phone": "ə",
+          "observed_phone": "",
+          "start": "00:02:08:100",
+          "end": "00:02:08:250"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:02:07:384",
+          "end": "00:02:07:500"
+        }
+      ]
+    },
+    {
+      "turn_index": 9,
+      "utt_id": "06M-Post-027A",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "kai came hockey tactic",
+      "orthographic_transcript": "KAI CAME HOCKEY TACTIC",
+      "phonetic_transcript": "[sil] k [sil] ae [sil] k eI m [sil] h O k i [sil] t a k t I k [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "KAI CAME HOCKEY TACTIC",
+      "start": "00:02:17:043",
+      "end": "00:02:26:099",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "deletion",
+          "target_phone": "aɪ",
+          "observed_phone": "",
+          "start": "00:02:17:200",
+          "end": "00:02:17:350"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:02:17:043",
+          "end": "00:02:17:160"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "dataset_name": "uxssd",
+    "dataset_split": "",
+    "text_annotation_source": "human",
+    "text_annotation_details": "manual transcription",
+    "text_coverage": "full",
+    "phoneme_annotation_source": "machine",
+    "phoneme_annotation_details": "Kaldi forced alignment (PF-STAR recipe)",
+    "phoneme_coverage": "full"
+  }
+}
+```

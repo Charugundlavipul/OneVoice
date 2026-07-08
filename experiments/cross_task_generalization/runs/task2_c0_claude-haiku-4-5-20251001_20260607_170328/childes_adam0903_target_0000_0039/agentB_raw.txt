@@ -1,0 +1,55 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "utterance_index": 10,
+      "speaker": "MOT",
+      "source_text": "num [/] num [/] num [/] num [/] num .",
+      "description": "Five repetitions of 'num' marked with [/]"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 13,
+      "speaker": "MOT",
+      "source_text": "okay, so (.) let's get this face of yours all (.) cleaned up .",
+      "description": "Two pauses marked with (.)"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 9,
+      "speaker": "CHI",
+      "source_text": "+< &=laughs .",
+      "description": "Overlap marker +< indicates child laughs while mother is speaking"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 30,
+      "speaker": "MOT",
+      "source_text": "+< there we go <there we go> [/] there we go [/] there we go .",
+      "description": "Three repetitions of 'there we go' marked with [/]"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 30,
+      "speaker": "MOT",
+      "source_text": "+< there we go <there we go> [/] there we go [/] there we go .",
+      "description": "Overlap marker +< indicates mother speaks while child is squealing"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 32,
+      "speaker": "MOT",
+      "source_text": "+< shh [/] shh [/] shh [/] shh [/] shh [/] shh [/] shh .",
+      "description": "Seven repetitions of 'shh' marked with [/]"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 32,
+      "speaker": "MOT",
+      "source_text": "+< shh [/] shh [/] shh [/] shh [/] shh [/] shh [/] shh .",
+      "description": "Overlap marker +< indicates mother speaks while child is squealing"
+    }
+  ]
+}
+```

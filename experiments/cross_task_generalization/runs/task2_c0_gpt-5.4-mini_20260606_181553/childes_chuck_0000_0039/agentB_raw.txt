@@ -1,0 +1,186 @@
+[
+  {
+    "event_type": "repair",
+    "speaker_cue": "MOT",
+    "utterance_cue": 6,
+    "source_text": "let me [//] <can I> [/] can I get one out ?",
+    "details": {
+      "repair_marker": "[//]",
+      "repetition_marker": "[/]",
+      "self_repair": true
+    }
+  },
+  {
+    "event_type": "repetition",
+    "speaker_cue": "MOT",
+    "utterance_cue": 6,
+    "source_text": "let me [//] <can I> [/] can I get one out ?",
+    "details": {
+      "repeated_fragment": "can I"
+    }
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "CHI",
+    "utterance_cue": 10,
+    "source_text": "okay .",
+    "details": {
+      "pause_mention": "(.)",
+      "source_context": "I'm gonna get [?] the square one (.) okay !"
+    }
+  },
+  {
+    "event_type": "overlap",
+    "speaker_cue": "CHI",
+    "utterance_cue": 15,
+    "source_text": "yyy [>] !",
+    "details": {
+      "overlap_marker": "[>]"
+    }
+  },
+  {
+    "event_type": "overlap",
+    "speaker_cue": "CHI",
+    "utterance_cue": 16,
+    "source_text": "yyy [>] !",
+    "details": {
+      "overlap_marker": "[>]"
+    }
+  },
+  {
+    "event_type": "repetition",
+    "speaker_cue": "MOT",
+    "utterance_cue": 17,
+    "source_text": "<that was a good boy> [<] !",
+    "details": {
+      "overlap_or_repetition_marker": "[<]",
+      "repeated_fragment": "that was a good boy"
+    }
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "MOT",
+    "utterance_cue": 18,
+    "source_text": "yeah (.) neat !",
+    "details": {
+      "pause_marker": "(.)"
+    }
+  },
+  {
+    "event_type": "overlap",
+    "speaker_cue": "MOT",
+    "utterance_cue": 20,
+    "source_text": "balls [!] go right through there (.) so neat !",
+    "details": {
+      "overlap_marker": "[!]",
+      "imitative_tier": "$IMIT"
+    }
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "MOT",
+    "utterance_cue": 20,
+    "source_text": "balls [!] go right through there (.) so neat !",
+    "details": {
+      "pause_marker": "(.)"
+    }
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "CHI",
+    "utterance_cue": 22,
+    "source_text": "ball yyy .",
+    "details": {
+      "source_context": "ball yyy .",
+      "act_context": "<aft> shuts lid . puts object in hand and holds over correct hole , then puts down on wrong hole"
+    }
+  },
+  {
+    "event_type": "overlap",
+    "speaker_cue": "CHI",
+    "utterance_cue": 22,
+    "source_text": "ball yyy .",
+    "details": {
+      "overlap_marker": "yyy",
+      "xpho": "bA 6+6"
+    }
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "MOT",
+    "utterance_cue": 23,
+    "source_text": "uhhu:h .",
+    "details": {
+      "tier": "par",
+      "value": "spoken softly"
+    }
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "CHI",
+    "utterance_cue": 25,
+    "source_text": "yyy .",
+    "details": {
+      "tier": "par",
+      "value": "frustrated tone"
+    }
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "MOT",
+    "utterance_cue": 26,
+    "source_text": "that just doesn't go there (.) does it ?",
+    "details": {
+      "pause_marker": "(.)"
+    }
+  },
+  {
+    "event_type": "repair",
+    "speaker_cue": "MOT",
+    "utterance_cue": 27,
+    "source_text": "try another one .",
+    "details": {
+      "repair_context": "response to incorrect placement; repeated instruction"
+    }
+  },
+  {
+    "event_type": "repair",
+    "speaker_cue": "MOT",
+    "utterance_cue": 29,
+    "source_text": "try another one .",
+    "details": {
+      "repair_context": "repeat of corrective prompt"
+    }
+  },
+  {
+    "event_type": "overlap",
+    "speaker_cue": "CHI",
+    "utterance_cue": 30,
+    "source_text": "uhuh [>] .",
+    "details": {
+      "overlap_marker": "[>]"
+    }
+  },
+  {
+    "event_type": "overlap",
+    "speaker_cue": "MOT",
+    "utterance_cue": 31,
+    "source_text": "oops [<] .",
+    "details": {
+      "overlap_marker": "[<]"
+    }
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "CHI",
+    "utterance_cue": 39,
+    "source_text": "yyy !",
+    "details": {
+      "tier": "par",
+      "value": "strange noise"
+    }
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 6,\n    \"source_text\": \"let me [//] <can I> [/] can I get one out ?\",\n    \"details\": {\n      \"repair_marker\": \"[//]\",\n      \"repetition_marker\": \"[/]\",\n      \"self_repair\": true\n    }\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 6,\n    \"source_text\": \"let me [//] <can I> [/] can I get one out ?\",\n    \"details\": {\n      \"repeated_fragment\": \"can I\"\n    }\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 10,\n    \"source_text\": \"okay .\",\n    \"details\": {\n      \"pause_mention\": \"(.)\",\n      \"source_context\": \"I'm gonna get [?] the square one (.) okay !\"\n    }\n  },\n  {\n    \"event_type\": \"overlap\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 15,\n    \"source_text\": \"yyy [>] !\",\n    \"details\": {\n      \"overlap_marker\": \"[>]\"\n    }\n  },\n  {\n    \"event_type\": \"overlap\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 16,\n    \"source_text\": \"yyy [>] !\",\n    \"details\": {\n      \"overlap_marker\": \"[>]\"\n    }\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 17,\n    \"source_text\": \"<that was a good boy> [<] !\",\n    \"details\": {\n      \"overlap_or_repetition_marker\": \"[<]\",\n      \"repeated_fragment\": \"that was a good boy\"\n    }\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 18,\n    \"source_text\": \"yeah (.) neat !\",\n    \"details\": {\n      \"pause_marker\": \"(.)\"\n    }\n  },\n  {\n    \"event_type\": \"overlap\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 20,\n    \"source_text\": \"balls [!] go right through there (.) so neat !\",\n    \"details\": {\n      \"overlap_marker\": \"[!]\",\n      \"imitative_tier\": \"$IMIT\"\n    }\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 20,\n    \"source_text\": \"balls [!] go right through there (.) so neat !\",\n    \"details\": {\n      \"pause_marker\": \"(.)\"\n    }\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 22,\n    \"source_text\": \"ball yyy .\",\n    \"details\": {\n      \"source_context\": \"ball yyy .\",\n      \"act_context\": \"<aft> shuts lid . puts object in hand and holds over correct hole , then puts down on wrong hole\"\n    }\n  },\n  {\n    \"event_type\": \"overlap\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 22,\n    \"source_text\": \"ball yyy .\",\n    \"details\": {\n      \"overlap_marker\": \"yyy\",\n      \"xpho\": \"bA 6+6\"\n    }\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 23,\n    \"source_text\": \"uhhu:h .\",\n    \"details\": {\n      \"tier\": \"par\",\n      \"value\": \"spoken softly\"\n    }\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 25,\n    \"source_text\": \"yyy .\",\n    \"details\": {\n      \"tier\": \"par\",\n      \"value\": \"frustrated tone\"\n    }\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 26,\n    \"source_text\": \"that just doesn't go there (.) does it ?\",\n    \"details\": {\n      \"pause_marker\": \"(.)\"\n    }\n  },\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 27,\n    \"source_text\": \"try another one .\",\n    \"details\": {\n      \"repair_context\": \"response to incorrect placement; repeated instruction\"\n    }\n  },\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 29,\n    \"source_text\": \"try another one .\",\n    \"details\": {\n      \"repair_context\": \"repeat of corrective prompt\"\n    }\n  },\n  {\n    \"event_type\": \"overlap\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 30,\n    \"source_text\": \"uhuh [>] .\",\n    \"details\": {\n      \"overlap_marker\": \"[>]\"\n    }\n  },\n  {\n    \"event_type\": \"overlap\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 31,\n    \"source_text\": \"oops [<] .\",\n    \"details\": {\n      \"overlap_marker\": \"[<]\"\n    }\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 39,\n    \"source_text\": \"yyy !\",\n    \"details\": {\n      \"tier\": \"par\",\n      \"value\": \"strange noise\"\n    }\n  }\n]"}

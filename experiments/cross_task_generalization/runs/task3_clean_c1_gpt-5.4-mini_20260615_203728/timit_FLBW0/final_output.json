@@ -1,0 +1,343 @@
+{
+  "bundle_id": "timit_FLBW0",
+  "utterance_summaries": [
+    {
+      "utt_id": "FLBW0_SA1",
+      "long_word_count": 0,
+      "short_word_count": 1,
+      "inter_word_gap_count": 2,
+      "boundary_gap_count": 0,
+      "long_phone_count": 0,
+      "short_phone_count": 0,
+      "closure_count": 0,
+      "pause_silence_count": 2,
+      "glottal_stop_count": 0,
+      "total_event_count": 5
+    },
+    {
+      "utt_id": "FLBW0_SA2",
+      "long_word_count": 0,
+      "short_word_count": 2,
+      "inter_word_gap_count": 0,
+      "boundary_gap_count": 0,
+      "long_phone_count": 0,
+      "short_phone_count": 0,
+      "closure_count": 0,
+      "pause_silence_count": 2,
+      "glottal_stop_count": 0,
+      "total_event_count": 4
+    },
+    {
+      "utt_id": "FLBW0_SI1219",
+      "long_word_count": 5,
+      "short_word_count": 2,
+      "inter_word_gap_count": 0,
+      "boundary_gap_count": 0,
+      "long_phone_count": 0,
+      "short_phone_count": 0,
+      "closure_count": 0,
+      "pause_silence_count": 2,
+      "glottal_stop_count": 1,
+      "total_event_count": 10
+    },
+    {
+      "utt_id": "FLBW0_SI1849",
+      "long_word_count": 2,
+      "short_word_count": 0,
+      "inter_word_gap_count": 0,
+      "boundary_gap_count": 0,
+      "long_phone_count": 0,
+      "short_phone_count": 0,
+      "closure_count": 0,
+      "pause_silence_count": 2,
+      "glottal_stop_count": 0,
+      "total_event_count": 4
+    },
+    {
+      "utt_id": "FLBW0_SI2253",
+      "long_word_count": 2,
+      "short_word_count": 2,
+      "inter_word_gap_count": 0,
+      "boundary_gap_count": 0,
+      "long_phone_count": 0,
+      "short_phone_count": 0,
+      "closure_count": 0,
+      "pause_silence_count": 2,
+      "glottal_stop_count": 0,
+      "total_event_count": 6
+    }
+  ],
+  "events": [
+    {
+      "utt_id": "FLBW0_SA1",
+      "event_type": "pause_silence_segment",
+      "start": 0.0,
+      "end": 0.1225,
+      "phone_index": 0
+    },
+    {
+      "utt_id": "FLBW0_SA1",
+      "event_type": "short_word",
+      "start": 0.550875,
+      "end": 0.6475,
+      "word_index": 2
+    },
+    {
+      "utt_id": "FLBW0_SA1",
+      "event_type": "inter_word_gap",
+      "start": 2.22975,
+      "end": 2.2663125,
+      "word_index": 7
+    },
+    {
+      "utt_id": "FLBW0_SA1",
+      "event_type": "inter_word_gap",
+      "start": 2.504625,
+      "end": 2.60125,
+      "word_index": 8
+    },
+    {
+      "utt_id": "FLBW0_SA1",
+      "event_type": "pause_silence_segment",
+      "start": 3.0625,
+      "end": 3.56,
+      "phone_index": 40
+    },
+    {
+      "utt_id": "FLBW0_SA2",
+      "event_type": "pause_silence_segment",
+      "start": 0.0,
+      "end": 0.1275,
+      "phone_index": 0
+    },
+    {
+      "utt_id": "FLBW0_SA2",
+      "event_type": "short_word",
+      "start": 1.3325,
+      "end": 1.6375,
+      "word_index": 6
+    },
+    {
+      "utt_id": "FLBW0_SA2",
+      "event_type": "short_word",
+      "start": 2.1925,
+      "end": 2.5175,
+      "word_index": 9
+    },
+    {
+      "utt_id": "FLBW0_SA2",
+      "event_type": "pause_silence_segment",
+      "start": 2.5175,
+      "end": 2.955,
+      "phone_index": 33
+    },
+    {
+      "utt_id": "FLBW0_SI1219",
+      "event_type": "pause_silence_segment",
+      "start": 0.0,
+      "end": 0.1175,
+      "phone_index": 0
+    },
+    {
+      "utt_id": "FLBW0_SI1219",
+      "event_type": "long_word",
+      "start": 0.1175,
+      "end": 0.624,
+      "word_index": 0
+    },
+    {
+      "utt_id": "FLBW0_SI1219",
+      "event_type": "long_word",
+      "start": 0.624,
+      "end": 1.1175,
+      "word_index": 1
+    },
+    {
+      "utt_id": "FLBW0_SI1219",
+      "event_type": "long_word",
+      "start": 1.6526875,
+      "end": 2.2925,
+      "word_index": 4
+    },
+    {
+      "utt_id": "FLBW0_SI1219",
+      "event_type": "long_word",
+      "start": 2.2925,
+      "end": 2.6975,
+      "word_index": 5
+    },
+    {
+      "utt_id": "FLBW0_SI1219",
+      "event_type": "short_word",
+      "start": 2.6975,
+      "end": 2.7725,
+      "word_index": 6
+    },
+    {
+      "utt_id": "FLBW0_SI1219",
+      "event_type": "long_word",
+      "start": 3.0225,
+      "end": 3.558375,
+      "word_index": 8
+    },
+    {
+      "utt_id": "FLBW0_SI1219",
+      "event_type": "glottal_stop",
+      "start": 3.558375,
+      "end": 3.6445,
+      "phone_index": 52
+    },
+    {
+      "utt_id": "FLBW0_SI1219",
+      "event_type": "short_word",
+      "start": 3.6445,
+      "end": 3.7045625,
+      "word_index": 9
+    },
+    {
+      "utt_id": "FLBW0_SI1219",
+      "event_type": "pause_silence_segment",
+      "start": 4.2475,
+      "end": 4.355,
+      "phone_index": 62
+    },
+    {
+      "utt_id": "FLBW0_SI1849",
+      "event_type": "pause_silence_segment",
+      "start": 0.0,
+      "end": 0.1225,
+      "phone_index": 0
+    },
+    {
+      "utt_id": "FLBW0_SI1849",
+      "event_type": "long_word",
+      "start": 0.2475,
+      "end": 0.7225,
+      "word_index": 1
+    },
+    {
+      "utt_id": "FLBW0_SI1849",
+      "event_type": "long_word",
+      "start": 1.8725,
+      "end": 2.3811875,
+      "word_index": 7
+    },
+    {
+      "utt_id": "FLBW0_SI1849",
+      "event_type": "pause_silence_segment",
+      "start": 2.3811875,
+      "end": 2.6,
+      "phone_index": 37
+    },
+    {
+      "utt_id": "FLBW0_SI2253",
+      "event_type": "pause_silence_segment",
+      "start": 0.0,
+      "end": 0.127875,
+      "phone_index": 0
+    },
+    {
+      "utt_id": "FLBW0_SI2253",
+      "event_type": "long_word",
+      "start": 0.127875,
+      "end": 0.4225,
+      "word_index": 0
+    },
+    {
+      "utt_id": "FLBW0_SI2253",
+      "event_type": "short_word",
+      "start": 0.4225,
+      "end": 0.6225,
+      "word_index": 1
+    },
+    {
+      "utt_id": "FLBW0_SI2253",
+      "event_type": "short_word",
+      "start": 0.6225,
+      "end": 0.7910625,
+      "word_index": 2
+    },
+    {
+      "utt_id": "FLBW0_SI2253",
+      "event_type": "long_word",
+      "start": 1.2558125,
+      "end": 1.6025,
+      "word_index": 5
+    },
+    {
+      "utt_id": "FLBW0_SI2253",
+      "event_type": "pause_silence_segment",
+      "start": 1.6025,
+      "end": 1.855,
+      "phone_index": 20
+    }
+  ],
+  "unlinked_events": [
+    {
+      "utt_id": "FLBW0_SA1",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 0
+    },
+    {
+      "utt_id": "FLBW0_SA1",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 40
+    },
+    {
+      "utt_id": "FLBW0_SA2",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 0
+    },
+    {
+      "utt_id": "FLBW0_SA2",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 33
+    },
+    {
+      "utt_id": "FLBW0_SI1219",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 0
+    },
+    {
+      "utt_id": "FLBW0_SI1219",
+      "event_type": "glottal_stop",
+      "reason": "no_parent_word",
+      "phone_index": 52
+    },
+    {
+      "utt_id": "FLBW0_SI1219",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 62
+    },
+    {
+      "utt_id": "FLBW0_SI1849",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 0
+    },
+    {
+      "utt_id": "FLBW0_SI1849",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 37
+    },
+    {
+      "utt_id": "FLBW0_SI2253",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 0
+    },
+    {
+      "utt_id": "FLBW0_SI2253",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 20
+    }
+  ]
+}

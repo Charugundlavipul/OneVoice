@@ -1,0 +1,96 @@
+{
+  "window_id": "childes_paula_0040_0079",
+  "events": [
+    {
+      "event_type": "repetition",
+      "utterance_index": [
+        11,
+        13
+      ],
+      "speaker": "CHI",
+      "source_text": [
+        "yyy that .",
+        "yyy that ."
+      ],
+      "description": "Child repeats 'yyy that' across two consecutive utterances"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": [
+        19
+      ],
+      "speaker": "CHI",
+      "source_text": "no (.) no (.) no .",
+      "description": "Child repeats 'no' three times within single utterance"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": [
+        7
+      ],
+      "speaker": "MOT",
+      "source_text": "you put that together (.) yes !",
+      "description": "Pause marked with (.) between 'together' and 'yes'"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": [
+        19
+      ],
+      "speaker": "CHI",
+      "source_text": "no (.) no (.) no .",
+      "description": "Pauses marked with (.) between repeated 'no' utterances"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": [
+        18
+      ],
+      "speaker": "MOT",
+      "source_text": "that .",
+      "prior_utterance_index": 17,
+      "prior_speaker": "CHI",
+      "description": "Mother repeats child's utterance 'that' - possible confirmation/repair"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": [
+        1
+      ],
+      "speaker": "CHI",
+      "source_text": "uhuh .",
+      "non_speech_cue": "shakes head no",
+      "description": "Non-verbal gesture contradicts verbal affirmation"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": [
+        8
+      ],
+      "speaker": "CHI",
+      "source_text": "&=laughs .",
+      "non_speech_cue": "claps two stacks of cups",
+      "description": "Laughter with concurrent action"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": [
+        30
+      ],
+      "speaker": "CHI",
+      "source_text": "0 .",
+      "non_speech_cue": "shakes head yes",
+      "description": "Non-verbal affirmation without speech"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": [
+        38
+      ],
+      "speaker": "CHI",
+      "source_text": "0 .",
+      "non_speech_cue": "shakes head yes",
+      "description": "Non-verbal affirmation without speech"
+    }
+  ]
+}

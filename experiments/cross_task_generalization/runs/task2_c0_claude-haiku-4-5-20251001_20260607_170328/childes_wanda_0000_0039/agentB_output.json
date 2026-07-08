@@ -1,0 +1,68 @@
+{
+  "events": [
+    {
+      "event_type": "pause",
+      "utterance_index": 0,
+      "speaker": "MOT",
+      "source_text": "try this (.) watch .",
+      "description": "Pause marked by (.) between 'this' and 'watch'"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 2,
+      "speaker": "CHI",
+      "source_text": "0 [=! babbles] .",
+      "description": "Babbling vocalization"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 3,
+      "speaker": "MOT",
+      "source_text": "xxx .",
+      "description": "Unintelligible speech"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 4,
+      "speaker": "CHI",
+      "source_text": "0 [=! sighs] .",
+      "description": "Sighing vocalization"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 37,
+      "speaker": "MOT",
+      "source_text": "put the ball in .",
+      "related_utterance_index": 39,
+      "description": "Exact repetition of 'put the ball in' at utterances 37 and 39"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 27,
+      "speaker": "CHI",
+      "source_text": "yyy yyy go ?",
+      "description": "Unintelligible syllables 'yyy yyy' followed by intelligible 'go'"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 28,
+      "speaker": "MOT",
+      "source_text": "see (.) look_it !",
+      "description": "Pause marked by (.) between 'see' and 'look_it'"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 31,
+      "speaker": "CHI",
+      "source_text": "&-uh &-uh .",
+      "description": "Filled pauses or hesitation markers"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 33,
+      "speaker": "CHI",
+      "source_text": "yyy the ball ?",
+      "description": "Unintelligible syllable 'yyy' followed by intelligible phrase; alternative transcription provided as 'where's the ball'"
+    }
+  ]
+}

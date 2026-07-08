@@ -1,0 +1,149 @@
+[
+  {
+    "event_type": "repetition",
+    "utterance_cue": [8, 9],
+    "speaker_cue": "MOT",
+    "source_text": "oh where're you going ? / where're you going ?"
+  },
+  {
+    "event_type": "repetition",
+    "utterance_cue": [10, 11],
+    "speaker_cue": "MOT",
+    "source_text": "ooh there you go . / there you go ."
+  },
+  {
+    "event_type": "repetition",
+    "utterance_cue": [13, 14],
+    "speaker_cue": "MOT",
+    "source_text": "come on . / come on ."
+  },
+  {
+    "event_type": "repetition",
+    "utterance_cue": [26, 27],
+    "speaker_cue": "MOT",
+    "source_text": "hello . / hello ."
+  },
+  {
+    "event_type": "repetition",
+    "utterance_cue": [30, 31],
+    "speaker_cue": "MOT",
+    "source_text": "ooh . / ooh ."
+  },
+  {
+    "event_type": "repetition",
+    "utterance_cue": [33, 34],
+    "speaker_cue": "MOT",
+    "source_text": "yeah . / yeah ."
+  },
+  {
+    "event_type": "pause",
+    "utterance_cue": 17,
+    "speaker_cue": "MOT",
+    "source_text": "oh, okay so what are we gonna [: going to ] do today ?"
+  },
+  {
+    "event_type": "repair",
+    "utterance_cue": 17,
+    "speaker_cue": "MOT",
+    "source_text": "what are we gonna [: going to ] do today ?"
+  },
+  {
+    "event_type": "repetition",
+    "utterance_cue": [20, 20],
+    "speaker_cue": "MOT",
+    "source_text": "oh cough [/] cough ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 1,
+    "speaker_cue": "CHI",
+    "source_text": "&=coo ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 2,
+    "speaker_cue": "MOT",
+    "source_text": "&~u: ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 4,
+    "speaker_cue": "CHI",
+    "source_text": "&~a: ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 6,
+    "speaker_cue": "CHI",
+    "source_text": "&=babble ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 15,
+    "speaker_cue": "MOT",
+    "source_text": "oh &~abababababa ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 16,
+    "speaker_cue": "MOT",
+    "source_text": "&~aba ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 19,
+    "speaker_cue": "CHI",
+    "source_text": "&=coughs ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 21,
+    "speaker_cue": "CHI",
+    "source_text": "&=babble &~abu ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 22,
+    "speaker_cue": "MOT",
+    "source_text": "&~abu: ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 23,
+    "speaker_cue": "CHI",
+    "source_text": "&=babble ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 25,
+    "speaker_cue": "CHI",
+    "source_text": "&=babble ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 35,
+    "speaker_cue": "MOT",
+    "source_text": "&~m &~m &~m: [=! singing] ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 36,
+    "speaker_cue": "MOT",
+    "source_text": "&~la &~la &~la [=! singing] ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 37,
+    "speaker_cue": "MOT",
+    "source_text": "&~la &~la &~la &~la [=! singing] ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 38,
+    "speaker_cue": "MOT",
+    "source_text": "&~a !"
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_cue\": [8, 9],\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"oh where're you going ? / where're you going ?\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_cue\": [10, 11],\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"ooh there you go . / there you go .\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_cue\": [13, 14],\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"come on . / come on .\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_cue\": [26, 27],\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"hello . / hello .\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_cue\": [30, 31],\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"ooh . / ooh .\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_cue\": [33, 34],\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"yeah . / yeah .\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utterance_cue\": 17,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"oh, okay so what are we gonna [: going to ] do today ?\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utterance_cue\": 17,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"what are we gonna [: going to ] do today ?\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_cue\": [20, 20],\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"oh cough [/] cough .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 1,\n    \"speaker_cue\": \"CHI\",\n    \"source_text\": \"&=coo .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 2,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"&~u: .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 4,\n    \"speaker_cue\": \"CHI\",\n    \"source_text\": \"&~a: .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 6,\n    \"speaker_cue\": \"CHI\",\n    \"source_text\": \"&=babble .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 15,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"oh &~abababababa .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 16,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"&~aba .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 19,\n    \"speaker_cue\": \"CHI\",\n    \"source_text\": \"&=coughs .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 21,\n    \"speaker_cue\": \"CHI\",\n    \"source_text\": \"&=babble &~abu .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 22,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"&~abu: .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 23,\n    \"speaker_cue\": \"CHI\",\n    \"source_text\": \"&=babble .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 25,\n    \"speaker_cue\": \"CHI\",\n    \"source_text\": \"&=babble .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 35,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"&~m &~m &~m: [=! singing] .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 36,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"&~la &~la &~la [=! singing] .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 37,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"&~la &~la &~la &~la [=! singing] .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 38,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"&~a !\"\n  }\n]"}

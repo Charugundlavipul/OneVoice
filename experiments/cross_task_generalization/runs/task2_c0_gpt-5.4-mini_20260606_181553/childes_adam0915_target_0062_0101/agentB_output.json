@@ -1,0 +1,160 @@
+{
+  "window_id": "childes_adam0915_target_0062_0101",
+  "events": [
+    {
+      "event_type": "non_speech",
+      "utt_index": 0,
+      "speaker": "FAT",
+      "source_text": "&=laughs ."
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": 1,
+      "speaker": "MOT",
+      "source_text": "+< &=laughs .",
+      "note": "interactional continuation/copy marker with non-speech laugh"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 1,
+      "speaker": "MOT",
+      "source_text": "+< &=laughs ."
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 6,
+      "speaker": "MOT",
+      "source_text": "&~m [/] &~m .",
+      "note": "fragmented vocalization"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 10,
+      "speaker": "FAT",
+      "source_text": "don't know, you had it a second ago . [+ NAC]",
+      "note": "filled pause/hesitation marker not explicit in CHAT, but transcript includes conversational pause-like continuation; no separate pause marker detected"
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": 13,
+      "speaker": "MOT",
+      "source_text": "+< here it is .",
+      "note": "repetition/echo of prior utterance"
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": 14,
+      "speaker": "MOT",
+      "source_text": "here it is ."
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": 15,
+      "speaker": "MOT",
+      "source_text": "here it is ."
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 16,
+      "speaker": "FAT",
+      "source_text": "&=gasp ."
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 17,
+      "speaker": "MOT",
+      "source_text": "&~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [=! singing] ."
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 18,
+      "speaker": "CHI",
+      "source_text": "&=gasp ."
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 19,
+      "speaker": "MOT",
+      "source_text": "&=gasp &~chookoochoo ."
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": 20,
+      "speaker": "MOT",
+      "source_text": "oh [/] oh [/] oh oh no !",
+      "note": "self-repair/repetition sequence"
+    },
+    {
+      "event_type": "repair",
+      "utt_index": 20,
+      "speaker": "MOT",
+      "source_text": "oh [/] oh [/] oh oh no !",
+      "note": "restarted/edited sequence within utterance"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 26,
+      "speaker": "MOT",
+      "source_text": "do you know where the shampoo is, is it in +/. [+ NAC]",
+      "note": "trailing interruption/unfinished utterance marker"
+    },
+    {
+      "event_type": "repair",
+      "utt_index": 26,
+      "speaker": "MOT",
+      "source_text": "do you know where the shampoo is, is it in +/. [+ NAC]",
+      "note": "self-repair/restart with cut-off"
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": 27,
+      "speaker": "FAT",
+      "source_text": "it's in the box . [+ NAC]",
+      "note": "answer repeats/continues location claim from prior question"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 30,
+      "speaker": "FAT",
+      "source_text": "xxx ."
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 32,
+      "speaker": "FAT",
+      "source_text": "xxx ."
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": 33,
+      "speaker": "MOT",
+      "source_text": "+< &~emga .",
+      "note": "overlapping/continued vocalization marker"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 33,
+      "speaker": "MOT",
+      "source_text": "+< &~emga ."
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 37,
+      "speaker": "MOT",
+      "source_text": "hm . [+ NAC]"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 38,
+      "speaker": "MOT",
+      "source_text": "will you open that please . [+ NAC]",
+      "note": "no explicit non-speech content except discourse marker 'please' not encoded as non_speech; retained only if needed for NAC context"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 39,
+      "speaker": "MOT",
+      "source_text": "&=laughs look at that face !"
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+[
+  {
+    "event_type": "non_speech",
+    "utterance_index": 2,
+    "speaker": "MOT",
+    "source_text": "0 [=! makes soft car noises] ."
+  },
+  {
+    "event_type": "overlap",
+    "utterance_index": 5,
+    "speaker": "CHI",
+    "source_text": "&-uh (.) chicken ?"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 5,
+    "speaker": "CHI",
+    "source_text": "(.)"
+  },
+  {
+    "event_type": "overlap",
+    "utterance_index": 9,
+    "speaker": "CHI",
+    "source_text": "&-uh dog (.) yyy !"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 9,
+    "speaker": "CHI",
+    "source_text": "(.)"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 14,
+    "speaker": "MOT",
+    "source_text": "yeah (.) it's a chicken but it's a rooster [!] ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 14,
+    "speaker": "MOT",
+    "source_text": "[!]"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 16,
+    "speaker": "MOT",
+    "source_text": "rooster (.) yeah ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 19,
+    "speaker": "CHI",
+    "source_text": "0 [=! gasps] ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 20,
+    "speaker": "MOT",
+    "source_text": "who's that [!] ?"
+  },
+  {
+    "event_type": "overlap",
+    "utterance_index": 23,
+    "speaker": "CHI",
+    "source_text": "&-uh doggie ."
+  },
+  {
+    "event_type": "repair",
+    "utterance_index": 34,
+    "speaker": "MOT",
+    "source_text": "<here's> [/] here's a chair ."
+  },
+  {
+    "event_type": "overlap",
+    "utterance_index": 34,
+    "speaker": "MOT",
+    "source_text": "<here's> [/] here's a chair ."
+  },
+  {
+    "event_type": "repetition",
+    "utterance_index": 34,
+    "speaker": "MOT",
+    "source_text": "<here's> [/] here's a chair ."
+  },
+  {
+    "event_type": "repair",
+    "utterance_index": 36,
+    "speaker": "MOT",
+    "source_text": "<sit him> [/] sit him down ."
+  },
+  {
+    "event_type": "overlap",
+    "utterance_index": 36,
+    "speaker": "MOT",
+    "source_text": "<sit him> [/] sit him down ."
+  },
+  {
+    "event_type": "repetition",
+    "utterance_index": 36,
+    "speaker": "MOT",
+    "source_text": "<sit him> [/] sit him down ."
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 39,
+    "speaker": "MOT",
+    "source_text": "here's some chairs (.) too ."
+  },
+  {
+    "event_type": "repetition",
+    "utterance_index": 39,
+    "speaker": "MOT",
+    "source_text": "<aft> takes out another chair and puts down . repeats"
+  }
+]
+
+[JSON_REPAIRED]
+{
+  "events": [
+    {
+      "event_type": "non_speech",
+      "utterance_index": 2,
+      "speaker": "MOT",
+      "source_text": "0 [=! makes soft car noises] ."
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 5,
+      "speaker": "CHI",
+      "source_text": "&-uh (.) chicken ?"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 5,
+      "speaker": "CHI",
+      "source_text": "(.)"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 9,
+      "speaker": "CHI",
+      "source_text": "&-uh dog (.) yyy !"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 9,
+      "speaker": "CHI",
+      "source_text": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 14,
+      "speaker": "MOT",
+      "source_text": "yeah (.) it's a chicken but it's a rooster [!] ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 14,
+      "speaker": "MOT",
+      "source_text": "[!]"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 16,
+      "speaker": "MOT",
+      "source_text": "rooster (.) yeah ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 19,
+      "speaker": "CHI",
+      "source_text": "0 [=! gasps] ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 20,
+      "speaker": "MOT",
+      "source_text": "who's that [!] ?"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 23,
+      "speaker": "CHI",
+      "source_text": "&-uh doggie ."
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 34,
+      "speaker": "MOT",
+      "source_text": "<here's> [/] here's a chair ."
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 34,
+      "speaker": "MOT",
+      "source_text": "<here's> [/] here's a chair ."
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 34,
+      "speaker": "MOT",
+      "source_text": "<here's> [/] here's a chair ."
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 36,
+      "speaker": "MOT",
+      "source_text": "<sit him> [/] sit him down ."
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 36,
+      "speaker": "MOT",
+      "source_text": "<sit him> [/] sit him down ."
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 36,
+      "speaker": "MOT",
+      "source_text": "<sit him> [/] sit him down ."
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 39,
+      "speaker": "MOT",
+      "source_text": "here's some chairs (.) too ."
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 39,
+      "speaker": "MOT",
+      "source_text": "<aft> takes out another chair and puts down . repeats"
+    }
+  ]
+}

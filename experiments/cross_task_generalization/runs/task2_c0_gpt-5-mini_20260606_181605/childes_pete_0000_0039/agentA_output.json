@@ -1,0 +1,681 @@
+{
+  "window_id": "childes_pete_0000_0039",
+  "source_file": "CHILDES/raw/childes/Eng-NA/Bates/Free20/pete.cha",
+  "total_utterances": 40,
+  "speakers": [
+    {
+      "id": "MOT",
+      "label": "Mother",
+      "role": "caregiver / adult",
+      "turn_count": 28,
+      "utterance_indices": [
+        0,
+        2,
+        3,
+        5,
+        7,
+        9,
+        11,
+        12,
+        13,
+        14,
+        16,
+        18,
+        19,
+        20,
+        22,
+        24,
+        26,
+        27,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "id": "CHI",
+      "label": "Child (Pete)",
+      "role": "child / target child",
+      "turn_count": 12,
+      "utterance_indices": [
+        1,
+        4,
+        6,
+        8,
+        10,
+        15,
+        17,
+        21,
+        23,
+        25,
+        28,
+        39
+      ]
+    }
+  ],
+  "turn_counts": {
+    "MOT": 28,
+    "CHI": 12
+  },
+  "utterances": [
+    {
+      "utt_index": 0,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "coming back from his house .",
+      "dependent_tiers": {
+        "mor": [
+          "part|come-PRESP adv|back prep|from det:poss|his n|house ."
+        ],
+        "gra": [
+          "1|0|ROOT 2|1|JCT 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT"
+        ],
+        "act": [
+          "<bef> puts person in bed"
+        ]
+      }
+    },
+    {
+      "utt_index": 1,
+      "speaker_id": "CHI",
+      "speaker_label": "Child (Pete)",
+      "role": "child / target child",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "puts people and bed in dollhouse via door . puts person in bed that Mother set up"
+        ]
+      }
+    },
+    {
+      "utt_index": 2,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "here's another bed .",
+      "dependent_tiers": {
+        "mor": [
+          "pro:exist|here~cop|be&3S qn|another n|bed ."
+        ],
+        "gra": [
+          "1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 3,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "here's bunk beds .",
+      "dependent_tiers": {
+        "mor": [
+          "pro:exist|here~cop|be&3S n|bunk n|bed-PL ."
+        ],
+        "gra": [
+          "1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT"
+        ],
+        "act": [
+          "<aft> fits two beds together"
+        ]
+      }
+    },
+    {
+      "utt_index": 4,
+      "speaker_id": "CHI",
+      "speaker_label": "Child (Pete)",
+      "role": "child / target child",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "picks up nesting cups and examines"
+        ]
+      }
+    },
+    {
+      "utt_index": 5,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "oh look bunk beds .",
+      "dependent_tiers": {
+        "mor": [
+          "co|oh n|look n|bunk n|bed-PL ."
+        ],
+        "gra": [
+          "1|4|COM 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT"
+        ],
+        "act": [
+          "puts beds down and puts person on them"
+        ]
+      }
+    },
+    {
+      "utt_index": 6,
+      "speaker_id": "CHI",
+      "speaker_label": "Child (Pete)",
+      "role": "child / target child",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "touches shape box lid"
+        ]
+      }
+    },
+    {
+      "utt_index": 7,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "what can you do with those ?",
+      "dependent_tiers": {
+        "mor": [
+          "pro:int|what mod|can pro:per|you v|do prep|with pro:dem|those ?"
+        ],
+        "gra": [
+          "1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT"
+        ],
+        "act": [
+          "<aft> moves dollhouse and nesting cups away and shape box closer to Pete"
+        ]
+      }
+    },
+    {
+      "utt_index": 8,
+      "speaker_id": "CHI",
+      "speaker_label": "Child (Pete)",
+      "role": "child / target child",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "sticks arm in shape box and takes out two balls"
+        ]
+      }
+    },
+    {
+      "utt_index": 9,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "ya wan(t) (t)a take more out ?",
+      "dependent_tiers": {
+        "mor": [
+          "pro:per|you v|want inf|to v|take adv|more adv|out ?"
+        ],
+        "gra": [
+          "1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|4|JCT 7|2|PUNCT"
+        ],
+        "act": [
+          "reaches in shape box and takes out objects"
+        ]
+      }
+    },
+    {
+      "utt_index": 10,
+      "speaker_id": "CHI",
+      "speaker_label": "Child (Pete)",
+      "role": "child / target child",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "knocks balls together"
+        ]
+      }
+    },
+    {
+      "utt_index": 11,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "now (.) can you put (th)em back in ?",
+      "dependent_tiers": {
+        "mor": [
+          "adv:tem|now mod|can pro:per|you v|put&ZERO pro:obj|them adj|back adv|in ?"
+        ],
+        "gra": [
+          "1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|JCT 8|4|PUNCT"
+        ],
+        "gpx": [
+          "<1w> points to lid"
+        ],
+        "act": [
+          "<bef> closes lid ."
+        ]
+      }
+    },
+    {
+      "utt_index": 12,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "look .",
+      "dependent_tiers": {
+        "mor": [
+          "co|look ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "<aft> drops it in <1w> picks up shape box object ."
+        ]
+      }
+    },
+    {
+      "utt_index": 13,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "and here .",
+      "dependent_tiers": {
+        "mor": [
+          "coord|and adv|here ."
+        ],
+        "gra": [
+          "1|2|LINK 2|0|INCROOT 3|2|PUNCT"
+        ],
+        "act": [
+          "<1w> drops it in <1w> picks up shape box object ."
+        ]
+      }
+    },
+    {
+      "utt_index": 14,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "zip@o .",
+      "dependent_tiers": {
+        "mor": [
+          "on|zip ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 15,
+      "speaker_id": "CHI",
+      "speaker_label": "Child (Pete)",
+      "role": "child / target child",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "holds ball out to shape box lid"
+        ]
+      }
+    },
+    {
+      "utt_index": 16,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "that's right .",
+      "dependent_tiers": {
+        "mor": [
+          "pro:dem|that~cop|be&3S co|right ."
+        ],
+        "gra": [
+          "1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 17,
+      "speaker_id": "CHI",
+      "speaker_label": "Child (Pete)",
+      "role": "child / target child",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "knocks balls together"
+        ]
+      }
+    },
+    {
+      "utt_index": 18,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "can you put it in ?",
+      "dependent_tiers": {
+        "mor": [
+          "mod|can pro:per|you v|put&ZERO pro:per|it adv|in ?"
+        ],
+        "gra": [
+          "1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 19,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "can you put this one in ?",
+      "dependent_tiers": {
+        "mor": [
+          "mod|can pro:per|you v|put&ZERO det:dem|this pro:indef|one adv|in ?"
+        ],
+        "gra": [
+          "1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT"
+        ],
+        "act": [
+          "<1w> holds shape box object out to Pete"
+        ]
+      }
+    },
+    {
+      "utt_index": 20,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "hum ?",
+      "dependent_tiers": {
+        "mor": [
+          "n|hum ?"
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 21,
+      "speaker_id": "CHI",
+      "speaker_label": "Child (Pete)",
+      "role": "child / target child",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "takes object from Mother"
+        ]
+      }
+    },
+    {
+      "utt_index": 22,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "that hole .",
+      "dependent_tiers": {
+        "mor": [
+          "det:dem|that n|hole ."
+        ],
+        "gra": [
+          "1|2|DET 2|0|INCROOT 3|2|PUNCT"
+        ],
+        "gpx": [
+          "points to hole and taps"
+        ]
+      }
+    },
+    {
+      "utt_index": 23,
+      "speaker_id": "CHI",
+      "speaker_label": "Child (Pete)",
+      "role": "child / target child",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "tries wrong hole"
+        ]
+      }
+    },
+    {
+      "utt_index": 24,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "that one .",
+      "dependent_tiers": {
+        "mor": [
+          "det:dem|that pro:indef|one ."
+        ],
+        "gra": [
+          "1|2|DET 2|0|INCROOT 3|2|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 25,
+      "speaker_id": "CHI",
+      "speaker_label": "Child (Pete)",
+      "role": "child / target child",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "holds object over correct hole"
+        ]
+      }
+    },
+    {
+      "utt_index": 26,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "that's right .",
+      "dependent_tiers": {
+        "mor": [
+          "pro:dem|that~cop|be&3S co|right ."
+        ],
+        "gra": [
+          "1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 27,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "<give me your arm> [?] .",
+      "dependent_tiers": {
+        "mor": [
+          "v|give pro:obj|me det:poss|your n|arm ."
+        ],
+        "gra": [
+          "1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|1|PUNCT"
+        ],
+        "act": [
+          "<1w> tries to hold Pete's arm to help him put object in"
+        ]
+      }
+    },
+    {
+      "utt_index": 28,
+      "speaker_id": "CHI",
+      "speaker_label": "Child (Pete)",
+      "role": "child / target child",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "pulls arm away"
+        ]
+      }
+    },
+    {
+      "utt_index": 29,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "give me your arm .",
+      "dependent_tiers": {
+        "mor": [
+          "v|give pro:obj|me det:poss|your n|arm ."
+        ],
+        "gra": [
+          "1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|1|PUNCT"
+        ],
+        "act": [
+          "picks up another object with the same shape"
+        ]
+      }
+    },
+    {
+      "utt_index": 30,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "look .",
+      "dependent_tiers": {
+        "mor": [
+          "co|look ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 31,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "see this one .",
+      "dependent_tiers": {
+        "mor": [
+          "v|see det:dem|this pro:indef|one ."
+        ],
+        "gra": [
+          "1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 32,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "look .",
+      "dependent_tiers": {
+        "mor": [
+          "co|look ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "<1w> drops object in shape box ."
+        ]
+      }
+    },
+    {
+      "utt_index": 33,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "here's a round one .",
+      "dependent_tiers": {
+        "mor": [
+          "pro:exist|here~cop|be&3S det:art|a adj|round pro:indef|one ."
+        ],
+        "gra": [
+          "1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT"
+        ],
+        "act": [
+          "<1w> shows object to Pete ."
+        ]
+      }
+    },
+    {
+      "utt_index": 34,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "round one goes in the round hole .",
+      "dependent_tiers": {
+        "mor": [
+          "adj|round pro:indef|one v|go-3S adv|in det:art|the adj|round n|hole ."
+        ],
+        "gra": [
+          "1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT"
+        ],
+        "act": [
+          "<1w> drops object in shape box"
+        ]
+      }
+    },
+    {
+      "utt_index": 35,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "look .",
+      "dependent_tiers": {
+        "mor": [
+          "co|look ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 36,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "can you put the two balls in ?",
+      "dependent_tiers": {
+        "mor": [
+          "mod|can pro:per|you v|put&ZERO det:art|the det:num|two n|ball-PL adv|in ?"
+        ],
+        "gra": [
+          "1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|OBJ 7|3|JCT 8|3|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 37,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "hum ?",
+      "dependent_tiers": {
+        "mor": [
+          "n|hum ?"
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 38,
+      "speaker_id": "MOT",
+      "speaker_label": "Mother",
+      "role": "caregiver / adult",
+      "raw": "can you put those two balls in ?",
+      "dependent_tiers": {
+        "mor": [
+          "mod|can pro:per|you v|put&ZERO det:dem|those det:num|two n|ball-PL adv|in ?"
+        ],
+        "gra": [
+          "1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|OBJ 7|3|JCT 8|3|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 39,
+      "speaker_id": "CHI",
+      "speaker_label": "Child (Pete)",
+      "role": "child / target child",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "knocks balls together"
+        ]
+      }
+    }
+  ]
+}

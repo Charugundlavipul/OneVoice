@@ -1,0 +1,49 @@
+{
+  "events": [
+    {
+      "event_type": "repair",
+      "utterance_index": 14,
+      "speaker": "MOT",
+      "source_text": "&~a &~ma [/] &~ma [/] &~ma [/] &~ma [/] &~ma .",
+      "description": "Self-repair with multiple repetitions of &~ma marked by [/]"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 15,
+      "speaker": "MOT",
+      "source_text": "&=gasps .",
+      "description": "Non-speech event: gasping"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 18,
+      "speaker": "MOT",
+      "source_text": "can you say that, Mama ?",
+      "related_utterance_index": 29,
+      "description": "Repetition of 'can you say that' at utterance 29"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 29,
+      "speaker": "MOT",
+      "source_text": "can you say that ?",
+      "related_utterance_index": 18,
+      "description": "Repetition of earlier 'can you say that' from utterance 18"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 38,
+      "speaker": "MOT",
+      "source_text": "&=gasps what can you see ?",
+      "description": "Non-speech event: gasping before utterance"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 39,
+      "speaker": "MOT",
+      "source_text": "what can you see ?",
+      "related_utterance_index": 38,
+      "description": "Repetition of 'what can you see' from utterance 38"
+    }
+  ]
+}

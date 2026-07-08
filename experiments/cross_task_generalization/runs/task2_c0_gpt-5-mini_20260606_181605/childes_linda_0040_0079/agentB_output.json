@@ -1,0 +1,136 @@
+{
+  "malformed_json_text": [
+    {
+      "event_type": "pause",
+      "utt_index": 2,
+      "speaker": "MOT",
+      "source": "(.)"
+    },
+    {
+      "event_type": "overlap",
+      "utt_index": 2,
+      "speaker": "MOT",
+      "source": "[>]"
+    },
+    {
+      "event_type": "overlap",
+      "utt_index": 3,
+      "speaker": "CHI",
+      "source": "[<]"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 9,
+      "speaker": "CHI",
+      "source": "(.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 13,
+      "speaker": "GPX",
+      "source": "<1w-4w> points to floor"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 13,
+      "speaker": "PAR",
+      "source": "<1w> gasps"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 14,
+      "speaker": "GPX",
+      "source": "<1w-2w> points to floor"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 15,
+      "speaker": "PAR",
+      "source": "<1w> laughs"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 16,
+      "speaker": "CHI",
+      "source": "&=laughs ."
+    },
+    {
+      "event_type": "overlap",
+      "utt_index": 19,
+      "speaker": "MOT",
+      "source": "[>]"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 19,
+      "speaker": "PAR",
+      "source": "<1w> spoken softly"
+    },
+    {
+      "event_type": "overlap",
+      "utt_index": 20,
+      "speaker": "CHI",
+      "source": "[<]"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 20,
+      "speaker": "PAR",
+      "source": "shouts"
+    },
+    {
+      "event_type": "repair",
+      "utt_index": 22,
+      "speaker": "MOT",
+      "source": "[/]"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 22,
+      "speaker": "MOT",
+      "source": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 28,
+      "speaker": "MOT",
+      "source": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 32,
+      "speaker": "CHI",
+      "source": "(.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 33,
+      "speaker": "GPX",
+      "source": "points to chair"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 35,
+      "speaker": "PAR",
+      "source": "spoken softly"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 36,
+      "speaker": "GPX",
+      "source": "points to chair"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 39,
+      "speaker": "PAR",
+      "source": "<1w> sing song"
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": 39,
+      "speaker": "MOT",
+      "source": "walk_walk_walk_walk@wp"
+    }
+  ]
+}

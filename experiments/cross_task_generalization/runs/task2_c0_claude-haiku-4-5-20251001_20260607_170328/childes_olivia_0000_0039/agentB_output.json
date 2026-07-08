@@ -1,0 +1,69 @@
+{
+  "window_id": "childes_olivia_0000_0039",
+  "events": [
+    {
+      "event_type": "pause",
+      "utterance_index": 5,
+      "speaker": "CHI",
+      "source_text": "&-uh (.) chicken ?",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 6,
+      "speaker": "MOT",
+      "source_text": "chicken ?",
+      "related_utterance_index": 5,
+      "description": "MOT repeats CHI's word 'chicken' with rising intonation"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 9,
+      "speaker": "CHI",
+      "source_text": "&-uh dog (.) yyy !",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 9,
+      "speaker": "CHI",
+      "source_text": "yyy",
+      "description": "Unintelligible vocalization"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 19,
+      "speaker": "CHI",
+      "source_text": "0 [=! gasps] .",
+      "description": "Non-speech event: gasps"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 16,
+      "speaker": "MOT",
+      "source_text": "rooster (.) yeah .",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 39,
+      "speaker": "MOT",
+      "source_text": "here's some chairs (.) too .",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 34,
+      "speaker": "MOT",
+      "source_text": "<here's> [/] here's a chair .",
+      "description": "Self-repair marked with [/]"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 36,
+      "speaker": "MOT",
+      "source_text": "<sit him> [/] sit him down .",
+      "description": "Self-repair marked with [/]"
+    }
+  ]
+}

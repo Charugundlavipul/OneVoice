@@ -1,0 +1,104 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "non_speech",
+      "utterance_index": 6,
+      "speaker": "MOT",
+      "source_text": "&~aga !",
+      "description": "Non-lexical vocalization"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 7,
+      "speaker": "MOT",
+      "source_text": "&~aga !",
+      "description": "Non-lexical vocalization"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 10,
+      "speaker": "MOT",
+      "source_text": "&~aga !",
+      "description": "Non-lexical vocalization"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 11,
+      "speaker": "MOT",
+      "source_text": "&~ga !",
+      "description": "Non-lexical vocalization"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 15,
+      "speaker": "MOT",
+      "source_text": "+< &=laughs .",
+      "description": "Overlap marker indicating simultaneous speech with FAT utterance 14"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 20,
+      "speaker": "MOT",
+      "source_text": "&~m [/] &~m .",
+      "description": "Non-lexical vocalization with self-repair"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 20,
+      "speaker": "MOT",
+      "source_text": "&~m [/] &~m .",
+      "description": "Self-repair indicated by [/]"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 30,
+      "speaker": "FAT",
+      "source_text": "&=gasp .",
+      "description": "Non-speech sound event"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 31,
+      "speaker": "MOT",
+      "source_text": "&~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [=! singing] .",
+      "description": "Multiple non-lexical vocalizations with repairs, singing activity"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 31,
+      "speaker": "MOT",
+      "source_text": "&~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m",
+      "description": "Multiple self-repairs indicated by [/]"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 32,
+      "speaker": "CHI",
+      "source_text": "&=gasp .",
+      "description": "Non-speech sound event"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 33,
+      "speaker": "MOT",
+      "source_text": "&=gasp &~chookoochoo .",
+      "description": "Non-speech sound events"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 34,
+      "speaker": "MOT",
+      "source_text": "oh [/] oh [/] oh oh no !",
+      "description": "Self-repairs indicated by [/]"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 27,
+      "speaker": "MOT",
+      "source_text": "+< here it is .",
+      "description": "Overlap marker indicating simultaneous speech with FAT utterance 26"
+    }
+  ]
+}
+```

@@ -1,0 +1,48 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "long_phone",
+      "phone_index": 17,
+      "start": 1.3425,
+      "end": 1.5375,
+      "utt_id": "FCMR0_SI1735"
+    },
+    {
+      "event_type": "long_phone",
+      "phone_index": 14,
+      "start": 1.0025,
+      "end": 1.1425,
+      "utt_id": "FCMR0_SI1735"
+    },
+    {
+      "event_type": "long_phone",
+      "phone_index": 20,
+      "start": 1.9575,
+      "end": 2.1975,
+      "utt_id": "FCMR0_SI1735"
+    },
+    {
+      "event_type": "pause_silence_segment",
+      "phone_index": 18,
+      "start": 1.5375,
+      "end": 1.8325,
+      "utt_id": "FCMR0_SI1735"
+    },
+    {
+      "event_type": "closure_segment",
+      "phone_index": 3,
+      "start": 0.297625,
+      "end": 0.3693125,
+      "utt_id": "FCMR0_SI1735"
+    },
+    {
+      "event_type": "closure_segment",
+      "phone_index": 9,
+      "start": 0.785875,
+      "end": 0.827375,
+      "utt_id": "FCMR0_SI1735"
+    }
+  ]
+}
+```

@@ -1,0 +1,85 @@
+[
+  {
+    "event_type": "pause",
+    "speaker_cue": "MOT",
+    "utterance_cue": 1,
+    "source_text": "*MOT:\t0 ."
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "MOT",
+    "utterance_cue": 5,
+    "source_text": "*MOT:\t0 ."
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "CHI",
+    "utterance_cue": 10,
+    "source_text": "*CHI:\t0 ."
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "CHI",
+    "utterance_cue": 13,
+    "source_text": "*CHI:\t0 ."
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "CHI",
+    "utterance_cue": 15,
+    "source_text": "*CHI:\t0 ."
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "CHI",
+    "utterance_cue": 18,
+    "source_text": "*CHI:\t0 ."
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "CHI",
+    "utterance_cue": 20,
+    "source_text": "*CHI:\t0 ."
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "CHI",
+    "utterance_cue": 22,
+    "source_text": "*CHI:\t0 ."
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "CHI",
+    "utterance_cue": 24,
+    "source_text": "*CHI:\t0 ."
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "MOT",
+    "utterance_cue": 28,
+    "source_text": "*MOT:\t0 ."
+  },
+  {
+    "event_type": "repetition",
+    "speaker_cue": "CHI",
+    "utterance_cue": 29,
+    "source_text": "*CHI:\tyyy !",
+    "details": "Repeated vocal form yyy with prior similar yyy tokens in surrounding turns."
+  },
+  {
+    "event_type": "repetition",
+    "speaker_cue": "CHI",
+    "utterance_cue": 30,
+    "source_text": "*CHI:\tyyy !",
+    "details": "Repeated vocal form yyy with prior similar yyy tokens in surrounding turns."
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "CHI",
+    "utterance_cue": 33,
+    "source_text": "*CHI:\tyyy ."
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 1,\n    \"source_text\": \"*MOT:\\t0 .\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 5,\n    \"source_text\": \"*MOT:\\t0 .\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 10,\n    \"source_text\": \"*CHI:\\t0 .\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 13,\n    \"source_text\": \"*CHI:\\t0 .\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 15,\n    \"source_text\": \"*CHI:\\t0 .\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 18,\n    \"source_text\": \"*CHI:\\t0 .\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 20,\n    \"source_text\": \"*CHI:\\t0 .\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 22,\n    \"source_text\": \"*CHI:\\t0 .\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 24,\n    \"source_text\": \"*CHI:\\t0 .\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 28,\n    \"source_text\": \"*MOT:\\t0 .\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 29,\n    \"source_text\": \"*CHI:\\tyyy !\",\n    \"details\": \"Repeated vocal form yyy with prior similar yyy tokens in surrounding turns.\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 30,\n    \"source_text\": \"*CHI:\\tyyy !\",\n    \"details\": \"Repeated vocal form yyy with prior similar yyy tokens in surrounding turns.\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 33,\n    \"source_text\": \"*CHI:\\tyyy .\"\n  }\n]"}

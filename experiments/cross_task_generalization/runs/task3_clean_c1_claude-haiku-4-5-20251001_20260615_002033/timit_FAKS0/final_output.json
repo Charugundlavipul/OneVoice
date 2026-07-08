@@ -1,0 +1,383 @@
+{
+  "bundle_id": "timit_FAKS0",
+  "utterance_summaries": [
+    {
+      "utt_id": "FAKS0_SA1",
+      "long_word_count": 2,
+      "short_word_count": 0,
+      "inter_word_gap_count": 2,
+      "boundary_gap_count": 0,
+      "long_phone_count": 7,
+      "short_phone_count": 0,
+      "closure_count": 0,
+      "pause_silence_count": 0,
+      "glottal_stop_count": 1,
+      "total_event_count": 12
+    },
+    {
+      "utt_id": "FAKS0_SA2",
+      "long_word_count": 1,
+      "short_word_count": 0,
+      "inter_word_gap_count": 0,
+      "boundary_gap_count": 0,
+      "long_phone_count": 4,
+      "short_phone_count": 0,
+      "closure_count": 0,
+      "pause_silence_count": 0,
+      "glottal_stop_count": 0,
+      "total_event_count": 5
+    },
+    {
+      "utt_id": "FAKS0_SI1573",
+      "long_word_count": 2,
+      "short_word_count": 0,
+      "inter_word_gap_count": 1,
+      "boundary_gap_count": 0,
+      "long_phone_count": 5,
+      "short_phone_count": 0,
+      "closure_count": 0,
+      "pause_silence_count": 0,
+      "glottal_stop_count": 0,
+      "total_event_count": 8
+    },
+    {
+      "utt_id": "FAKS0_SI2203",
+      "long_word_count": 2,
+      "short_word_count": 0,
+      "inter_word_gap_count": 1,
+      "boundary_gap_count": 0,
+      "long_phone_count": 4,
+      "short_phone_count": 0,
+      "closure_count": 0,
+      "pause_silence_count": 0,
+      "glottal_stop_count": 1,
+      "total_event_count": 8
+    },
+    {
+      "utt_id": "FAKS0_SI943",
+      "long_word_count": 2,
+      "short_word_count": 0,
+      "inter_word_gap_count": 0,
+      "boundary_gap_count": 0,
+      "long_phone_count": 4,
+      "short_phone_count": 0,
+      "closure_count": 0,
+      "pause_silence_count": 0,
+      "glottal_stop_count": 0,
+      "total_event_count": 6
+    }
+  ],
+  "events": [
+    {
+      "utt_id": "FAKS0_SA1",
+      "event_type": "long_phone",
+      "start": 0.879875,
+      "end": 1.0098125,
+      "phone_index": 4,
+      "word_index": 1
+    },
+    {
+      "utt_id": "FAKS0_SA1",
+      "event_type": "long_word",
+      "start": 1.1725,
+      "end": 1.5065,
+      "word_index": 3
+    },
+    {
+      "utt_id": "FAKS0_SA1",
+      "event_type": "long_phone",
+      "start": 1.247625,
+      "end": 1.344625,
+      "phone_index": 11,
+      "word_index": 3
+    },
+    {
+      "utt_id": "FAKS0_SA1",
+      "event_type": "long_phone",
+      "start": 1.5065,
+      "end": 1.6425,
+      "phone_index": 15,
+      "word_index": 4
+    },
+    {
+      "utt_id": "FAKS0_SA1",
+      "event_type": "long_phone",
+      "start": 1.6425,
+      "end": 1.7869375,
+      "phone_index": 16,
+      "word_index": 4
+    },
+    {
+      "utt_id": "FAKS0_SA1",
+      "event_type": "long_word",
+      "start": 1.9925,
+      "end": 2.4105,
+      "word_index": 6
+    },
+    {
+      "utt_id": "FAKS0_SA1",
+      "event_type": "long_phone",
+      "start": 2.196875,
+      "end": 2.335625,
+      "phone_index": 24,
+      "word_index": 6
+    },
+    {
+      "utt_id": "FAKS0_SA1",
+      "event_type": "long_phone",
+      "start": 2.6473125,
+      "end": 2.8199375,
+      "phone_index": 28,
+      "word_index": 7
+    },
+    {
+      "utt_id": "FAKS0_SA1",
+      "event_type": "inter_word_gap",
+      "start": 2.8199375,
+      "end": 2.8515,
+      "word_index": 8
+    },
+    {
+      "utt_id": "FAKS0_SA1",
+      "event_type": "long_phone",
+      "start": 2.9284375,
+      "end": 3.0425,
+      "phone_index": 31,
+      "word_index": 8
+    },
+    {
+      "utt_id": "FAKS0_SA1",
+      "event_type": "glottal_stop",
+      "start": 3.1895625,
+      "end": 3.273625,
+      "phone_index": 34
+    },
+    {
+      "utt_id": "FAKS0_SA1",
+      "event_type": "inter_word_gap",
+      "start": 3.1895625,
+      "end": 3.273625,
+      "word_index": 9
+    },
+    {
+      "utt_id": "FAKS0_SA2",
+      "event_type": "long_word",
+      "start": 1.5425,
+      "end": 1.953,
+      "word_index": 4
+    },
+    {
+      "utt_id": "FAKS0_SA2",
+      "event_type": "long_phone",
+      "start": 1.641875,
+      "end": 1.757125,
+      "phone_index": 14,
+      "word_index": 4
+    },
+    {
+      "utt_id": "FAKS0_SA2",
+      "event_type": "long_phone",
+      "start": 1.691875,
+      "end": 1.7881875,
+      "phone_index": 14,
+      "word_index": 4
+    },
+    {
+      "utt_id": "FAKS0_SA2",
+      "event_type": "long_phone",
+      "start": 2.2583125,
+      "end": 2.3496875,
+      "phone_index": 20,
+      "word_index": 6
+    },
+    {
+      "utt_id": "FAKS0_SA2",
+      "event_type": "long_phone",
+      "start": 2.548125,
+      "end": 2.715875,
+      "phone_index": 23,
+      "word_index": 7
+    },
+    {
+      "utt_id": "FAKS0_SI1573",
+      "event_type": "long_word",
+      "start": 1.87725,
+      "end": 2.388125,
+      "word_index": 5
+    },
+    {
+      "utt_id": "FAKS0_SI1573",
+      "event_type": "long_phone",
+      "start": 1.972375,
+      "end": 2.1435625,
+      "phone_index": 20,
+      "word_index": 5
+    },
+    {
+      "utt_id": "FAKS0_SI1573",
+      "event_type": "long_phone",
+      "start": 2.213125,
+      "end": 2.3275,
+      "phone_index": 23,
+      "word_index": 5
+    },
+    {
+      "utt_id": "FAKS0_SI1573",
+      "event_type": "long_word",
+      "start": 2.721875,
+      "end": 3.1925,
+      "word_index": 8
+    },
+    {
+      "utt_id": "FAKS0_SI1573",
+      "event_type": "long_phone",
+      "start": 2.9925,
+      "end": 3.10875,
+      "phone_index": 36,
+      "word_index": 8
+    },
+    {
+      "utt_id": "FAKS0_SI1573",
+      "event_type": "long_phone",
+      "start": 3.125625,
+      "end": 3.3025,
+      "phone_index": 31,
+      "word_index": 8
+    },
+    {
+      "utt_id": "FAKS0_SI1573",
+      "event_type": "inter_word_gap",
+      "start": 3.63125,
+      "end": 3.67,
+      "word_index": 9
+    },
+    {
+      "utt_id": "FAKS0_SI1573",
+      "event_type": "long_phone",
+      "start": 4.4318125,
+      "end": 4.6375,
+      "phone_index": 55,
+      "word_index": 13
+    },
+    {
+      "utt_id": "FAKS0_SI2203",
+      "event_type": "long_word",
+      "start": 0.66575,
+      "end": 1.315,
+      "word_index": 1
+    },
+    {
+      "utt_id": "FAKS0_SI2203",
+      "event_type": "long_phone",
+      "start": 0.7498125,
+      "end": 0.915,
+      "phone_index": 4,
+      "word_index": 1
+    },
+    {
+      "utt_id": "FAKS0_SI2203",
+      "event_type": "long_phone",
+      "start": 2.523125,
+      "end": 2.676875,
+      "phone_index": 23,
+      "word_index": 6
+    },
+    {
+      "utt_id": "FAKS0_SI2203",
+      "event_type": "long_word",
+      "start": 2.523125,
+      "end": 3.0925,
+      "word_index": 6
+    },
+    {
+      "utt_id": "FAKS0_SI2203",
+      "event_type": "long_phone",
+      "start": 2.943125,
+      "end": 3.0925,
+      "phone_index": 27,
+      "word_index": 6
+    },
+    {
+      "utt_id": "FAKS0_SI2203",
+      "event_type": "glottal_stop",
+      "start": 3.0925,
+      "end": 3.1203125,
+      "phone_index": 28
+    },
+    {
+      "utt_id": "FAKS0_SI2203",
+      "event_type": "inter_word_gap",
+      "start": 3.0925,
+      "end": 3.1203125,
+      "word_index": 6
+    },
+    {
+      "utt_id": "FAKS0_SI2203",
+      "event_type": "long_phone",
+      "start": 3.15,
+      "end": 3.38,
+      "phone_index": 30,
+      "word_index": 7
+    },
+    {
+      "utt_id": "FAKS0_SI943",
+      "event_type": "long_word",
+      "start": 0.71875,
+      "end": 1.2819375,
+      "word_index": 0
+    },
+    {
+      "utt_id": "FAKS0_SI943",
+      "event_type": "long_phone",
+      "start": 1.4425,
+      "end": 1.570625,
+      "phone_index": 13,
+      "word_index": 2
+    },
+    {
+      "utt_id": "FAKS0_SI943",
+      "event_type": "long_phone",
+      "start": 2.3075,
+      "end": 2.5056875,
+      "phone_index": 23,
+      "word_index": 4
+    },
+    {
+      "utt_id": "FAKS0_SI943",
+      "event_type": "long_word",
+      "start": 2.5056875,
+      "end": 3.60875,
+      "word_index": 5
+    },
+    {
+      "utt_id": "FAKS0_SI943",
+      "event_type": "long_phone",
+      "start": 3.116625,
+      "end": 3.24925,
+      "phone_index": 34,
+      "word_index": 5
+    },
+    {
+      "utt_id": "FAKS0_SI943",
+      "event_type": "long_phone",
+      "start": 3.4375,
+      "end": 3.60875,
+      "phone_index": 37,
+      "word_index": 5
+    }
+  ],
+  "unlinked_events": [
+    {
+      "utt_id": "FAKS0_SA1",
+      "event_type": "glottal_stop",
+      "reason": "no_parent_word",
+      "phone_index": 34
+    },
+    {
+      "utt_id": "FAKS0_SI2203",
+      "event_type": "glottal_stop",
+      "reason": "no_parent_word",
+      "phone_index": 28
+    }
+  ]
+}

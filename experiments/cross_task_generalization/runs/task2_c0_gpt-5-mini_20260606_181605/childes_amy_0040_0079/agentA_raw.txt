@@ -1,0 +1,591 @@
+{
+  "window_id": "childes_amy_0040_0079",
+  "source_file": "CHILDES/raw/childes/Eng-NA/Bates/Free20/amy.cha",
+  "speakers": [
+    {
+      "label": "MOT",
+      "role": "mother/caregiver",
+      "utterance_count": 25,
+      "turn_count": 13
+    },
+    {
+      "label": "CHI",
+      "role": "child",
+      "utterance_count": 15,
+      "turn_count": 13
+    }
+  ],
+  "totals": {
+    "total_utterances": 40,
+    "total_turns": 26
+  },
+  "utterances": [
+    {
+      "utt_index": 0,
+      "speaker": "MOT",
+      "raw": "here .",
+      "dependent_tiers": {
+        "mor": [
+          "adv|here ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "<dur> picks up man and puts in car . pushes car toward Amy slightly <1w> moves chair toward Amy slightly ."
+        ]
+      }
+    },
+    {
+      "utt_index": 1,
+      "speaker": "MOT",
+      "raw": "go for a ride ?",
+      "dependent_tiers": {
+        "mor": [
+          "v|go prep|for det:art|a n|ride ?"
+        ],
+        "gra": [
+          "1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT"
+        ],
+        "act": [
+          "<dur> picks up man and puts in car . pushes car toward Amy slightly"
+        ]
+      }
+    },
+    {
+      "utt_index": 2,
+      "speaker": "CHI",
+      "raw": "yeah .",
+      "dependent_tiers": {
+        "mor": [
+          "co|yeah ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 3,
+      "speaker": "MOT",
+      "raw": "he's gonna go for a ride with the children .",
+      "dependent_tiers": {
+        "mor": [
+          "pro:sub|he~aux|be&3S part|go&PRESP~inf|to v|go prep|for det:art|a n|ride prep|with det:art|the n|child&PL ."
+        ],
+        "gra": [
+          "1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ 9|5|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT"
+        ],
+        "act": [
+          "picks up chicken by Amy and puts in car"
+        ]
+      }
+    },
+    {
+      "utt_index": 4,
+      "speaker": "CHI",
+      "raw": "yeah .",
+      "dependent_tiers": {
+        "mor": [
+          "co|yeah ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "attempts to put man in car"
+        ]
+      }
+    },
+    {
+      "utt_index": 5,
+      "speaker": "MOT",
+      "raw": "yeah .",
+      "dependent_tiers": {
+        "mor": [
+          "co|yeah ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 6,
+      "speaker": "CHI",
+      "raw": "yeah .",
+      "dependent_tiers": {
+        "mor": [
+          "co|yeah ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "succeeds in getting man in car"
+        ],
+        "com": [
+          "spoken loudly"
+        ]
+      }
+    },
+    {
+      "utt_index": 7,
+      "speaker": "MOT",
+      "raw": "yeah .",
+      "dependent_tiers": {
+        "mor": [
+          "co|yeah ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 8,
+      "speaker": "CHI",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "examines man in hand . attempts to put man in car . knocks other man out . succeeds"
+        ]
+      }
+    },
+    {
+      "utt_index": 9,
+      "speaker": "MOT",
+      "raw": "whoops .",
+      "dependent_tiers": {
+        "mor": [
+          "co|whoops ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 10,
+      "speaker": "MOT",
+      "raw": "xxx .",
+      "dependent_tiers": {
+        "act": [
+          "picks up man , puts back in car and drives car in front of Amy"
+        ],
+        "exp": [
+          "car noises"
+        ]
+      }
+    },
+    {
+      "utt_index": 11,
+      "speaker": "MOT",
+      "raw": "0 [=! snoring noise] .",
+      "dependent_tiers": {
+        "act": [
+          "picks up chair and puts on floor . puts man in chair , tilting"
+        ]
+      }
+    },
+    {
+      "utt_index": 12,
+      "speaker": "CHI",
+      "raw": "&=laughs [>] .",
+      "dependent_tiers": {}
+    },
+    {
+      "utt_index": 13,
+      "speaker": "MOT",
+      "raw": "&=laughs [<] .",
+      "dependent_tiers": {
+        "act": [
+          "pokes Amy in stomach"
+        ]
+      }
+    },
+    {
+      "utt_index": 14,
+      "speaker": "CHI",
+      "raw": "0 [=! laughs louder] .",
+      "dependent_tiers": {
+        "act": [
+          "pushes toys on floor , knocks ladder and puts hands on toys on floor"
+        ]
+      }
+    },
+    {
+      "utt_index": 15,
+      "speaker": "MOT",
+      "raw": "uhoh .",
+      "dependent_tiers": {
+        "mor": [
+          "co|uhoh ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "<1w> rights ladder ."
+        ]
+      }
+    },
+    {
+      "utt_index": 16,
+      "speaker": "MOT",
+      "raw": "here (.) the dog's gonna go up the ladder .",
+      "dependent_tiers": {
+        "mor": [
+          "adv|here det:art|the n|dog~aux|be&3S part|go&PRESP~inf|to v|go adv|up det:art|the n|ladder ."
+        ],
+        "gra": [
+          "1|5|JCT 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT 9|10|DET 10|7|OBJ 11|5|PUNCT"
+        ],
+        "act": [
+          "<1w> picks up dog and makes him climb the ladder"
+        ]
+      }
+    },
+    {
+      "utt_index": 17,
+      "speaker": "CHI",
+      "raw": "0 [=! chuckles] .",
+      "dependent_tiers": {
+        "act": [
+          "pushes toys toward ladder and ladder falls"
+        ]
+      }
+    },
+    {
+      "utt_index": 18,
+      "speaker": "MOT",
+      "raw": "look at this .",
+      "dependent_tiers": {
+        "mor": [
+          "v|look prep|at pro:dem|this ."
+        ],
+        "gra": [
+          "1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT"
+        ],
+        "act": [
+          "rights ladder , makes dog climb it and dance on the rim"
+        ],
+        "exp": [
+          "climbing noises"
+        ]
+      }
+    },
+    {
+      "utt_index": 19,
+      "speaker": "MOT",
+      "raw": "look .",
+      "dependent_tiers": {
+        "mor": [
+          "co|look ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 20,
+      "speaker": "MOT",
+      "raw": "boom_boom_boom_boom@o .",
+      "dependent_tiers": {
+        "mor": [
+          "on|boom_boom_boom_boom ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 21,
+      "speaker": "MOT",
+      "raw": "ah !",
+      "dependent_tiers": {
+        "mor": [
+          "co|ah !"
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "<aft> takes table out of dollhouse and puts down by chair"
+        ],
+        "int": [
+          "draws out the letter h"
+        ]
+      }
+    },
+    {
+      "utt_index": 22,
+      "speaker": "CHI",
+      "raw": "0 .",
+      "dependent_tiers": {
+        "act": [
+          "picks up Mother's man and holds with other object"
+        ]
+      }
+    },
+    {
+      "utt_index": 23,
+      "speaker": "MOT",
+      "raw": "there's a table and there's some chairs .",
+      "dependent_tiers": {
+        "mor": [
+          "pro:exist|there~cop|be&3S det:art|a n|table coord|and pro:exist|there~cop|be&3S qn|some n|chair-PL ."
+        ],
+        "gra": [
+          "1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|9|QUANT 9|7|PRED 10|2|PUNCT"
+        ],
+        "act": [
+          "picks up chair by Amy and puts down by table"
+        ]
+      }
+    },
+    {
+      "utt_index": 24,
+      "speaker": "MOT",
+      "raw": "there's a little boy .",
+      "dependent_tiers": {
+        "mor": [
+          "pro:exist|there~cop|be&3S det:art|a adj|little n|boy ."
+        ],
+        "gra": [
+          "1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT"
+        ],
+        "act": [
+          "<aft> reaches in dollhouse , takes out object and puts on floor"
+        ]
+      }
+    },
+    {
+      "utt_index": 25,
+      "speaker": "CHI",
+      "raw": "ah !",
+      "dependent_tiers": {
+        "mor": [
+          "co|ah !"
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "xpho": [
+          "yet"
+        ]
+      }
+    },
+    {
+      "utt_index": 26,
+      "speaker": "CHI",
+      "raw": "yyy !",
+      "dependent_tiers": {
+        "act": [
+          "<aft> picks up man and holds . dog falls . examines objects . lets another object fall"
+        ]
+      }
+    },
+    {
+      "utt_index": 27,
+      "speaker": "MOT",
+      "raw": "shall we go eat ?",
+      "dependent_tiers": {
+        "mor": [
+          "mod|shall pro:sub|we v|go v|eat ?"
+        ],
+        "gra": [
+          "1|4|AUX 2|3|SUBJ 3|4|SRL 4|0|ROOT 5|4|PUNCT"
+        ],
+        "act": [
+          "holds dog . dances dog"
+        ]
+      }
+    },
+    {
+      "utt_index": 28,
+      "speaker": "CHI",
+      "raw": "yyy !",
+      "dependent_tiers": {
+        "act": [
+          "takes man from open hand and attempts to put in car"
+        ],
+        "xpho": [
+          "ye+yet"
+        ]
+      }
+    },
+    {
+      "utt_index": 29,
+      "speaker": "MOT",
+      "raw": "c(o)m(e) on .",
+      "dependent_tiers": {
+        "mor": [
+          "v|come adv|on ."
+        ],
+        "gra": [
+          "1|0|ROOT 2|1|JCT 3|1|PUNCT"
+        ],
+        "act": [
+          "picks up dog and brings to table"
+        ]
+      }
+    },
+    {
+      "utt_index": 30,
+      "speaker": "MOT",
+      "raw": "let's go eat .",
+      "dependent_tiers": {
+        "mor": [
+          "v|let~pro:obj|us v|go v|eat ."
+        ],
+        "gra": [
+          "1|0|ROOT 2|1|OBJ 3|4|SRL 4|1|COMP 5|1|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 31,
+      "speaker": "CHI",
+      "raw": "no !",
+      "dependent_tiers": {
+        "mor": [
+          "co|no !"
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "takes hand back and holds man and objects"
+        ]
+      }
+    },
+    {
+      "utt_index": 32,
+      "speaker": "MOT",
+      "raw": "&-uh .",
+      "dependent_tiers": {
+        "act": [
+          "<1w> puts dog in chair ."
+        ]
+      }
+    },
+    {
+      "utt_index": 33,
+      "speaker": "MOT",
+      "raw": "dog's gonna eat first .",
+      "dependent_tiers": {
+        "mor": [
+          "n|dog~aux|be&3S part|go&PRESP~inf|to v|eat adv|first ."
+        ],
+        "gra": [
+          "1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|3|PUNCT"
+        ],
+        "act": [
+          "<1w-5w> picks up boy , walks him toward table and puts him in chair"
+        ]
+      }
+    },
+    {
+      "utt_index": 34,
+      "speaker": "MOT",
+      "raw": "dog and the boy .",
+      "dependent_tiers": {
+        "mor": [
+          "n|dog coord|and det:art|the n|boy ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|PUNCT"
+        ],
+        "act": [
+          "<1w-4w> picks up boy , walks him toward table and puts him in chair"
+        ]
+      }
+    },
+    {
+      "utt_index": 35,
+      "speaker": "CHI",
+      "raw": "uh_uh_uh@o .",
+      "dependent_tiers": {
+        "mor": [
+          "on|uh_uh_uh ."
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "<aft> puts arm up , flailing"
+        ],
+        "exp": [
+          "walking noises"
+        ]
+      }
+    },
+    {
+      "utt_index": 36,
+      "speaker": "MOT",
+      "raw": "huh !",
+      "dependent_tiers": {
+        "mor": [
+          "co|huh !"
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "walks man toward chair and puts in chair"
+        ]
+      }
+    },
+    {
+      "utt_index": 37,
+      "speaker": "MOT",
+      "raw": "here comes the little girl .",
+      "dependent_tiers": {
+        "mor": [
+          "adv|here v|come-3S det:art|the adj|little n|girl ."
+        ],
+        "gra": [
+          "1|2|JCT 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT"
+        ]
+      }
+    },
+    {
+      "utt_index": 38,
+      "speaker": "CHI",
+      "raw": "girl !",
+      "dependent_tiers": {
+        "mor": [
+          "n|girl !"
+        ],
+        "gra": [
+          "1|0|INCROOT 2|1|PUNCT"
+        ],
+        "act": [
+          "<1w> brings man over to chair ."
+        ],
+        "xpho": [
+          "ge wId6l g6"
+        ]
+      }
+    },
+    {
+      "utt_index": 39,
+      "speaker": "CHI",
+      "raw": "little girl !",
+      "dependent_tiers": {
+        "mor": [
+          "adj|little n|girl !"
+        ],
+        "gra": [
+          "1|2|MOD 2|0|INCROOT 3|2|PUNCT"
+        ],
+        "act": [
+          "<1w> examines object in hand <1w> attempts to put man in chair and succeeds ."
+        ]
+      }
+    }
+  ]
+}

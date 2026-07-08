@@ -1,0 +1,249 @@
+```json
+{
+  "bundle_id": "timit_FEDW0",
+  "speaker_id": "FEDW0",
+  "timing_events": [
+    {
+      "utt_id": "FEDW0_SA1",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "had",
+          "start": 0.438625,
+          "end": 0.8275,
+          "duration": 0.388875,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "4-phone word at 0.389s, near p90 threshold"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [1, 2],
+          "gap_start": 0.7675,
+          "gap_end": 0.8275,
+          "duration": 0.06,
+          "reason": "Overlap detected: word 2 starts before word 1 ends"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [7, 8],
+          "gap_start": 2.882875,
+          "gap_end": 2.9350625,
+          "duration": 0.0521875,
+          "reason": "Small gap with epi phone"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [8, 9],
+          "gap_start": 3.2625,
+          "gap_end": 3.384125,
+          "duration": 0.121625,
+          "reason": "Gap with q phone"
+        }
+      ]
+    },
+    {
+      "utt_id": "FEDW0_SA2",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "carry",
+          "start": 1.0825,
+          "end": 1.5926875,
+          "duration": 0.5101875,
+          "phone_count": 5,
+          "threshold_p90": 0.503275,
+          "reason": "5-phone word at 0.510s, exceeds p90 threshold"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "rag",
+          "start": 2.0469375,
+          "end": 2.5275,
+          "duration": 0.4805625,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "4-phone word at 0.481s, exceeds p90 threshold"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 8,
+          "word": "like",
+          "start": 2.5275,
+          "end": 2.90825,
+          "duration": 0.38075,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "reason": "3-phone word at 0.381s, exceeds p90 threshold"
+        }
+      ]
+    },
+    {
+      "utt_id": "FEDW0_SI1084",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "theme",
+          "start": 0.2825,
+          "end": 0.8675,
+          "duration": 0.585,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "reason": "3-phone word at 0.585s, significantly exceeds p90 threshold"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 2,
+          "word": "may",
+          "start": 0.8675,
+          "end": 1.3025,
+          "duration": 0.435,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "4-phone word at 0.435s, exceeds p90 threshold"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 5,
+          "word": "formation",
+          "start": 1.6575,
+          "end": 2.520375,
+          "duration": 0.862875,
+          "phone_count": 8,
+          "threshold_p90": 0.808275,
+          "reason": "8-phone word at 0.863s, exceeds p90 threshold"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 8,
+          "word": "shape",
+          "start": 3.0325,
+          "end": 3.4975,
+          "duration": 0.465,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "reason": "3-phone word at 0.465s, exceeds p90 threshold"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 12,
+          "word": "shapes",
+          "start": 4.4775,
+          "end": 4.9175,
+          "duration": 0.44,
+          "phone_count": 5,
+          "threshold_p90": 0.503275,
+          "reason": "5-phone word at 0.440s, near p90 threshold"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 13,
+          "word": "evolve",
+          "start": 4.9175,
+          "end": 5.4973125,
+          "duration": 0.5798125,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "4-phone word at 0.580s, significantly exceeds p90 threshold"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [9, 10],
+          "gap_start": 3.7475,
+          "gap_end": 3.8175,
+          "duration": 0.07,
+          "reason": "Gap with epi phone"
+        }
+      ]
+    },
+    {
+      "utt_id": "FEDW0_SI1653",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "spoke",
+          "start": 0.3375,
+          "end": 0.8449375,
+          "duration": 0.5074375,
+          "phone_count": 5,
+          "threshold_p90": 0.503275,
+          "reason": "5-phone word at 0.507s, exceeds p90 threshold"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 2,
+          "word": "soothingly",
+          "start": 0.8449375,
+          "end": 1.52475,
+          "duration": 0.6798125,
+          "phone_count": 7,
+          "threshold_p90": 0.6202625,
+          "reason": "7-phone word at 0.680s, exceeds p90 threshold"
+        }
+      ]
+    },
+    {
+      "utt_id": "FEDW0_SI1714",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 0,
+          "word": "here's",
+          "start": 0.1425,
+          "end": 0.645,
+          "duration": 0.5025,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "4-phone word at 0.503s, exceeds p90 threshold"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 2,
+          "word": "luck",
+          "start": 0.879875,
+          "end": 1.44125,
+          "duration": 0.561375,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "4-phone word at 0.561s, significantly exceeds p90 threshold"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "normally",
+          "start": 1.8720625,
+          "end": 2.4225,
+          "duration": 0.5504375,
+          "phone_count": 7,
+          "threshold_p90": 0.6202625,
+          "reason": "7-phone word at 0.550s, near p90 threshold"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 5,
+          "word": "step",
+          "start": 2.4225,
+          "end": 2.85,
+          "duration": 0.4275,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "reason": "6-phone word at 0.428s, near p90 threshold"
+        },
+        {
+          "event_type": "boundary_gap",
+          "between_words": [2, 3],
+          "gap_start": 1.44125,
+          "gap_end": 1.6475,
+          "duration": 0.20625,
+          "reason": "Pau phone between words, significant pause"
+        }
+      ]
+    }
+  ]
+}
+```

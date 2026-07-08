@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "pred_speaker_id": "MOT",
+      "utt_index": 2
+    },
+    {
+      "event_type": "repetition",
+      "pred_speaker_id": "MOT",
+      "utt_index": 7
+    },
+    {
+      "event_type": "repetition",
+      "pred_speaker_id": "MOT",
+      "utt_index": 19
+    },
+    {
+      "event_type": "overlap",
+      "pred_speaker_id": "CHI",
+      "utt_index": 27
+    },
+    {
+      "event_type": "repetition",
+      "pred_speaker_id": "CHI",
+      "utt_index": 37
+    },
+    {
+      "event_type": "repetition",
+      "pred_speaker_id": "MOT",
+      "utt_index": 38
+    },
+    {
+      "event_type": "repair",
+      "pred_speaker_id": "MOT",
+      "utt_index": 20
+    },
+    {
+      "event_type": "repetition",
+      "pred_speaker_id": "CHI",
+      "utt_index": 36
+    }
+  ]
+}

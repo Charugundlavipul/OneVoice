@@ -1,0 +1,111 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "utterance_index": 9,
+      "speaker": "CHI",
+      "source_text": "yyy ball !",
+      "note": "Same utterance repeated at index 10"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 10,
+      "speaker": "CHI",
+      "source_text": "yyy ball !",
+      "note": "Repetition of utterance at index 9"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 8,
+      "speaker": "MOT",
+      "source_text": "oh (.) you don't like that way !",
+      "note": "Pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 16,
+      "speaker": "MOT",
+      "source_text": "oh (.) you don't wanna build (th)em ?",
+      "note": "Pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 37,
+      "speaker": "MOT",
+      "source_text": "look (.) Nan !",
+      "note": "Pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 38,
+      "speaker": "MOT",
+      "source_text": "if you put these two together (.) it makes like a square .",
+      "note": "Pause marked with (.)"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 31,
+      "speaker": "CHI",
+      "source_text": "ball .",
+      "note": "Repeated at indices 32 and 33"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 32,
+      "speaker": "CHI",
+      "source_text": "ball !",
+      "note": "Repetition of 'ball' utterance"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 33,
+      "speaker": "CHI",
+      "source_text": "ball !",
+      "note": "Repetition of 'ball' utterance"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 6,
+      "speaker": "CHI",
+      "source_text": "&-uh !",
+      "note": "Non-lexical vocalization"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 7,
+      "speaker": "CHI",
+      "source_text": "&-uh !",
+      "note": "Non-lexical vocalization"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 14,
+      "speaker": "CHI",
+      "source_text": "&-uh !",
+      "note": "Non-lexical vocalization"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 18,
+      "speaker": "CHI",
+      "source_text": "&-uh !",
+      "note": "Non-lexical vocalization"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 20,
+      "speaker": "CHI",
+      "source_text": "&-eh !",
+      "note": "Non-lexical vocalization"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 28,
+      "speaker": "CHI",
+      "source_text": "&-eh !",
+      "note": "Non-lexical vocalization"
+    }
+  ]
+}
+```

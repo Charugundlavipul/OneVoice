@@ -1,0 +1,70 @@
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "utterance_cues": [
+        1,
+        2
+      ],
+      "speaker": "MOT",
+      "source_text": [
+        "can the people go byebye in the car ?",
+        "can the people go byebye in the car ?"
+      ]
+    },
+    {
+      "event_type": "repetition",
+      "utterance_cues": [
+        4,
+        5
+      ],
+      "speaker": "MOT",
+      "source_text": [
+        "can you put the people in the car ?",
+        "can you put the people in the car ?"
+      ]
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 6,
+      "speaker": "CHI",
+      "source_text": "no (.) see !"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 15,
+      "speaker": "MOT",
+      "source_text": "oh (.) a chickie [!] !"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 19,
+      "speaker": "MOT",
+      "source_text": "chickie (.) right ."
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 34,
+      "speaker": "MOT",
+      "source_text": "oh (.) bye !"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 30,
+      "speaker": "CHI",
+      "source_text": "0 ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 35,
+      "speaker": "CHI",
+      "source_text": "0 [=! growl noise] ."
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 15,
+      "speaker": "MOT",
+      "source_text": "[!]"
+    }
+  ]
+}

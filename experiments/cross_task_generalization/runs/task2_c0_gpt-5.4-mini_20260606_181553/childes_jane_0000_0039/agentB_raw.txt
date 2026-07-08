@@ -1,0 +1,61 @@
+[
+  {
+    "event_type": "repetition",
+    "speaker_cue": "MOT",
+    "utterance_cue": 3,
+    "source_text": "*MOT:\there xxx come .",
+    "details": "The mother's utterance repeats the earlier pattern \"here ... come\" with an intervening xxx."
+  },
+  {
+    "event_type": "repetition",
+    "speaker_cue": "MOT",
+    "utterance_cue": 5,
+    "source_text": "*MOT:\tknock (.) knock (.) knock .",
+    "details": "Repeated lexical item \"knock\" marked by pauses."
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "MOT",
+    "utterance_cue": 5,
+    "source_text": "*MOT:\tknock (.) knock (.) knock .",
+    "details": "Transcript-marked pauses \"(.)\" between repeated words."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "MOT",
+    "utterance_cue": 7,
+    "source_text": "%par:\t<bef> gasps",
+    "details": "Paralinguistic non-speech event: gasps."
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "MOT",
+    "utterance_cue": 11,
+    "source_text": "*MOT:\toh (.) okay .",
+    "details": "Transcript-marked pause \"(.)\"."
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "MOT",
+    "utterance_cue": 26,
+    "source_text": "%par:\t<8w> spoken softly",
+    "details": "Prosodic/paralinguistic annotation indicating soft speech."
+  },
+  {
+    "event_type": "repetition",
+    "speaker_cue": "CHI",
+    "utterance_cue": 29,
+    "source_text": "%act:\tpicks up nesting cup stack , takes off top nesting cup and puts on floor . repeats twice . puts remaining cups in hand down . rights nesting cups on floor",
+    "details": "Action tier explicitly says the action repeats twice."
+  },
+  {
+    "event_type": "repetition",
+    "speaker_cue": "CHI",
+    "utterance_cue": 39,
+    "source_text": "%act:\tputs another object in shape box . repeats . puts hand toward lid briefly",
+    "details": "Action tier explicitly indicates repetition."
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 3,\n    \"source_text\": \"*MOT:\\there xxx come .\",\n    \"details\": \"The mother's utterance repeats the earlier pattern \\\"here ... come\\\" with an intervening xxx.\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 5,\n    \"source_text\": \"*MOT:\\tknock (.) knock (.) knock .\",\n    \"details\": \"Repeated lexical item \\\"knock\\\" marked by pauses.\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 5,\n    \"source_text\": \"*MOT:\\tknock (.) knock (.) knock .\",\n    \"details\": \"Transcript-marked pauses \\\"(.)\\\" between repeated words.\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 7,\n    \"source_text\": \"%par:\\t<bef> gasps\",\n    \"details\": \"Paralinguistic non-speech event: gasps.\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 11,\n    \"source_text\": \"*MOT:\\toh (.) okay .\",\n    \"details\": \"Transcript-marked pause \\\"(.)\\\".\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_cue\": 26,\n    \"source_text\": \"%par:\\t<8w> spoken softly\",\n    \"details\": \"Prosodic/paralinguistic annotation indicating soft speech.\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 29,\n    \"source_text\": \"%act:\\tpicks up nesting cup stack , takes off top nesting cup and puts on floor . repeats twice . puts remaining cups in hand down . rights nesting cups on floor\",\n    \"details\": \"Action tier explicitly says the action repeats twice.\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_cue\": 39,\n    \"source_text\": \"%act:\\tputs another object in shape box . repeats . puts hand toward lid briefly\",\n    \"details\": \"Action tier explicitly indicates repetition.\"\n  }\n]"}

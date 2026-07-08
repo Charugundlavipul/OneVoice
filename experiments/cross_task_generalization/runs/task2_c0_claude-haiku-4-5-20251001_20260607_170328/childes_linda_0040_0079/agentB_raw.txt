@@ -1,0 +1,90 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "utterance_index": [0, 1],
+      "speaker": "MOT",
+      "source_text": "the dog ?",
+      "note": "Exact repetition of utterance across two turns"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 22,
+      "speaker": "MOT",
+      "source_text": "now [/] now they can have a picnic (.) hm: ?",
+      "note": "Self-repair marked with [/], 'now' repeated with correction"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 2,
+      "speaker": "MOT",
+      "source_text": "is that what you wanted (.) <the dog> [>] ?",
+      "note": "Pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 9,
+      "speaker": "CHI",
+      "source_text": "yyy chair (.) yyy there is .",
+      "note": "Pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 22,
+      "speaker": "MOT",
+      "source_text": "now [/] now they can have a picnic (.) hm: ?",
+      "note": "Pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 28,
+      "speaker": "MOT",
+      "source_text": "the dog (.) huh ?",
+      "note": "Pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 32,
+      "speaker": "CHI",
+      "source_text": "in high (.) in yyy !",
+      "note": "Pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 35,
+      "speaker": "MOT",
+      "source_text": "no .",
+      "note": "Pause context in dependent tier par: spoken softly"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 37,
+      "speaker": "MOT",
+      "source_text": "okay (.) the mommy can walk out the door .",
+      "note": "Pause marked with (.)"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": [2, 3],
+      "speaker": ["MOT", "CHI"],
+      "source_text": "MOT: is that what you wanted (.) <the dog> [>] ? | CHI: uhuh [<] .",
+      "note": "Overlap markers [>] and [<] indicate simultaneous speech"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": [19, 20],
+      "speaker": ["MOT", "CHI"],
+      "source_text": "MOT: <oh I'm amazed [?]> [>] . | CHI: there [<] !",
+      "note": "Overlap markers [>] and [<] indicate simultaneous speech"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 16,
+      "speaker": "CHI",
+      "source_text": "&=laughs .",
+      "note": "Non-speech vocalization: laughing"
+    }
+  ]
+}
+```

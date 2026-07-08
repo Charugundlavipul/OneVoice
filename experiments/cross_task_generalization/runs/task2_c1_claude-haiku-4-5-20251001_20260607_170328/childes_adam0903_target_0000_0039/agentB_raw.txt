@@ -1,0 +1,12 @@
+```json
+{
+  "events": [
+    {"event_type": "repetition", "pred_speaker_id": "MOT", "utt_index": 10},
+    {"event_type": "repetition", "pred_speaker_id": "MOT", "utt_index": 32},
+    {"event_type": "repetition", "pred_speaker_id": "MOT", "utt_index": 33},
+    {"event_type": "overlap", "pred_speaker_id": "CHI", "utt_index": 9},
+    {"event_type": "overlap", "pred_speaker_id": "MOT", "utt_index": 32},
+    {"event_type": "overlap", "pred_speaker_id": "MOT", "utt_index": 33}
+  ]
+}
+```

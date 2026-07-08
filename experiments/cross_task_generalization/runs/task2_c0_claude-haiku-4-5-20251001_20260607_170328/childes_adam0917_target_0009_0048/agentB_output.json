@@ -1,0 +1,190 @@
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "utterance_indices": [
+        8,
+        9
+      ],
+      "speaker": "MOT",
+      "source_text": "oh where're you going ? / where're you going ?",
+      "note": "MOT repeats the question, dropping the initial 'oh'"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_indices": [
+        10,
+        11
+      ],
+      "speaker": "MOT",
+      "source_text": "ooh there you go . / there you go .",
+      "note": "MOT repeats the phrase, dropping the initial 'ooh'"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_indices": [
+        13,
+        14
+      ],
+      "speaker": "MOT",
+      "source_text": "come on . / come on .",
+      "note": "MOT repeats the phrase identically"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 17,
+      "speaker": "MOT",
+      "source_text": "oh, okay so what are we gonna [: going to ] do today ?",
+      "note": "Repair: 'gonna' corrected to 'going to'"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 18,
+      "speaker": "MOT",
+      "source_text": "what are we gonna [: going to ] do ?",
+      "note": "Repair: 'gonna' corrected to 'going to'"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 20,
+      "speaker": "MOT",
+      "source_text": "oh cough [/] cough .",
+      "note": "Self-repair: 'cough' repeated with [/] marker indicating error correction"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_indices": [
+        26,
+        27
+      ],
+      "speaker": "MOT",
+      "source_text": "hello . / hello .",
+      "note": "MOT repeats the word identically"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_indices": [
+        30,
+        31
+      ],
+      "speaker": "MOT",
+      "source_text": "ooh . / ooh .",
+      "note": "MOT repeats the interjection identically"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_indices": [
+        33,
+        34
+      ],
+      "speaker": "MOT",
+      "source_text": "yeah . / yeah .",
+      "note": "MOT repeats the word identically"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 1,
+      "speaker": "CHI",
+      "source_text": "&=coo .",
+      "note": "Non-speech vocalization: cooing"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 2,
+      "speaker": "MOT",
+      "source_text": "&~u: .",
+      "note": "Non-speech vocalization: prolonged vowel sound"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 4,
+      "speaker": "CHI",
+      "source_text": "&~a: .",
+      "note": "Non-speech vocalization: prolonged vowel sound"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 6,
+      "speaker": "CHI",
+      "source_text": "&=babble .",
+      "note": "Non-speech vocalization: babbling"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 15,
+      "speaker": "MOT",
+      "source_text": "oh &~abababababa .",
+      "note": "Non-speech vocalization: repeated syllables"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 16,
+      "speaker": "MOT",
+      "source_text": "&~aba .",
+      "note": "Non-speech vocalization: repeated syllables"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 19,
+      "speaker": "CHI",
+      "source_text": "&=coughs .",
+      "note": "Non-speech vocalization: coughing"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 21,
+      "speaker": "CHI",
+      "source_text": "&=babble &~abu .",
+      "note": "Non-speech vocalization: babbling and vocalization"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 22,
+      "speaker": "MOT",
+      "source_text": "&~abu: .",
+      "note": "Non-speech vocalization: prolonged syllable"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 23,
+      "speaker": "CHI",
+      "source_text": "&=babble .",
+      "note": "Non-speech vocalization: babbling and blowing raspberries"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 25,
+      "speaker": "CHI",
+      "source_text": "&=babble .",
+      "note": "Non-speech vocalization: babbling and blowing raspberries"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 35,
+      "speaker": "MOT",
+      "source_text": "&~m &~m &~m: [=! singing] .",
+      "note": "Non-speech vocalization: singing"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 36,
+      "speaker": "MOT",
+      "source_text": "&~la &~la &~la [=! singing] .",
+      "note": "Non-speech vocalization: singing"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 37,
+      "speaker": "MOT",
+      "source_text": "&~la &~la &~la &~la [=! singing] .",
+      "note": "Non-speech vocalization: singing"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 38,
+      "speaker": "MOT",
+      "source_text": "&~a !",
+      "note": "Non-speech vocalization: vowel sound"
+    }
+  ]
+}

@@ -1,0 +1,889 @@
+```json
+{
+  "session_id": "08M_Maint_w010_039",
+  "session_date": "2018-11-06",
+  "sample_rate": 22050,
+  "audio_file_path": "",
+  "audio_format": "wav",
+  "session_duration": "00:02:27:312",
+  "speakers": [
+    {
+      "speaker_id": "08M_CHILD",
+      "gender": "male",
+      "language": "en",
+      "age_group": "child",
+      "age": 7.58
+    }
+  ],
+  "turns": [
+    {
+      "turn_index": 0,
+      "utt_id": "08M-Maint-010A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "gloves queen three frog",
+      "orthographic_transcript": "GLOVES QUEEN THREE FROG",
+      "phonetic_transcript": "[sil] g 5 V v z [sil] [sil] k w i [sil] n [sil] T [sil] r i [sil] [sil] f r O g [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "GLOVES QUEEN THREE FROG",
+      "start": "00:00:00:000",
+      "end": "00:00:07:848",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "l",
+          "observed_phone": "5",
+          "start": "00:00:00:500",
+          "end": "00:00:00:650"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "ɡ",
+          "observed_phone": "g",
+          "start": "00:00:01:200",
+          "end": "00:00:01:350"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "θ",
+          "observed_phone": "T",
+          "start": "00:00:04:500",
+          "end": "00:00:04:650"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 1,
+      "utt_id": "08M-Maint-011A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "yellow strawberry spider web",
+      "orthographic_transcript": "YELLOW STRAWBERRY SPIDER WEB",
+      "phonetic_transcript": "[sil] j E 5 @U [sil] s t r O b @ [sil] r i s p ae d [sil] @ r w [sil] E b [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "YELLOW STRAWBERRY SPIDER WEB",
+      "start": "00:00:07:848",
+      "end": "00:00:12:678",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "l",
+          "observed_phone": "5",
+          "start": "00:00:08:200",
+          "end": "00:00:08:350"
+        },
+        {
+          "type": "deletion",
+          "target_phone": "ɛ",
+          "observed_phone": "",
+          "start": "00:00:09:800",
+          "end": "00:00:09:950"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 2,
+      "utt_id": "08M-Maint-012A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "sheep snake pram feather",
+      "orthographic_transcript": "SHEEP SNAKE PRAM FEATHER",
+      "phonetic_transcript": "[sil] S i p [sil] [sil] s n eI k [sil] p r a m [sil] f E [sil] D @ r [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "SHEEP SNAKE PRAM FEATHER",
+      "start": "00:00:12:678",
+      "end": "00:00:18:715",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "ʃ",
+          "observed_phone": "S",
+          "start": "00:00:13:000",
+          "end": "00:00:13:150"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "ð",
+          "observed_phone": "D",
+          "start": "00:00:17:500",
+          "end": "00:00:17:650"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 3,
+      "utt_id": "08M-Maint-013A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "tomato monkey toothbrush apple",
+      "orthographic_transcript": "TOMATO MONKEY TOOTHBRUSH APPLE",
+      "phonetic_transcript": "[sil] t @ m a t @U m V N k i [sil] t u T b r V S [sil] a p @ 5 [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "TOMATO MONKEY TOOTHBRUSH APPLE",
+      "start": "00:00:18:715",
+      "end": "00:00:24:752",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "θ",
+          "observed_phone": "T",
+          "start": "00:00:21:200",
+          "end": "00:00:21:350"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "ʃ",
+          "observed_phone": "S",
+          "start": "00:00:21:800",
+          "end": "00:00:21:950"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "l",
+          "observed_phone": "5",
+          "start": "00:00:23:500",
+          "end": "00:00:23:650"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 4,
+      "utt_id": "08M-Maint-014A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "knife van ear this",
+      "orthographic_transcript": "KNIFE VAN EAR THIS",
+      "phonetic_transcript": "[sil] n [sil] aI f [sil] [sil] v a n [sil] I@ r [sil] D I [sil] s [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "KNIFE VAN EAR THIS",
+      "start": "00:00:24:752",
+      "end": "00:00:29:582",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "deletion",
+          "target_phone": "n",
+          "observed_phone": "",
+          "start": "00:00:25:000",
+          "end": "00:00:25:150"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "ð",
+          "observed_phone": "D",
+          "start": "00:00:27:800",
+          "end": "00:00:27:950"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 5,
+      "utt_id": "08M-Maint-015A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "scissors fishing lighthouse zebra",
+      "orthographic_transcript": "SCISSORS FISHING LIGHTHOUSE ZEBRA",
+      "phonetic_transcript": "[sil] s I z @ r z [sil] f I S I N [sil] [sil] 5 aI [sil] t h aU s z E b r @ [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "SCISSORS FISHING LIGHTHOUSE ZEBRA",
+      "start": "00:00:29:582",
+      "end": "00:00:35:016",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "ʃ",
+          "observed_phone": "S",
+          "start": "00:00:31:200",
+          "end": "00:00:31:350"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "l",
+          "observed_phone": "5",
+          "start": "00:00:33:000",
+          "end": "00:00:33:150"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 6,
+      "utt_id": "08M-Maint-016A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "kitchen sausage tiger rabbit",
+      "orthographic_transcript": "KITCHEN SAUSAGE TIGER RABBIT",
+      "phonetic_transcript": "[sil] k I tS I n [sil] s O s I dZ t ae [sil] g @ r r a b I t [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "KITCHEN SAUSAGE TIGER RABBIT",
+      "start": "00:00:35:016",
+      "end": "00:00:40:450",
+      "word_alignments": [],
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 7,
+      "utt_id": "08M-Maint-017A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "book boy",
+      "orthographic_transcript": "BOOK BOY",
+      "phonetic_transcript": "[sil] b u k b OI [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "BOOK BOY",
+      "start": "00:00:40:450",
+      "end": "00:00:42:261",
+      "word_alignments": [],
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 8,
+      "utt_id": "08M-Maint-018A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "teacher toenail talc",
+      "orthographic_transcript": "TEACHER TOENAIL TALC",
+      "phonetic_transcript": "[sil] t i tS @ r [sil] t @U n [sil] eI 5 [sil] [sil] t [sil] a 5 k [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "TEACHER TOENAIL TALC",
+      "start": "00:00:42:261",
+      "end": "00:00:47:695",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "l",
+          "observed_phone": "5",
+          "start": "00:00:44:500",
+          "end": "00:00:44:650"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "l",
+          "observed_phone": "5",
+          "start": "00:00:46:200",
+          "end": "00:00:46:350"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 9,
+      "utt_id": "08M-Maint-019A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "deep dome daffodil",
+      "orthographic_transcript": "DEEP DOME DAFFODIL",
+      "phonetic_transcript": "[sil] d [sil] i p [sil] d @U m [sil] d a f @ d I [sil] 5 [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "DEEP DOME DAFFODIL",
+      "start": "00:00:47:695",
+      "end": "00:00:51:921",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "deletion",
+          "target_phone": "d",
+          "observed_phone": "",
+          "start": "00:00:48:000",
+          "end": "00:00:48:150"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "l",
+          "observed_phone": "5",
+          "start": "00:00:50:800",
+          "end": "00:00:50:950"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 10,
+      "utt_id": "08M-Maint-020A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "sandals soap zip",
+      "orthographic_transcript": "SANDALS SOAP ZIP",
+      "phonetic_transcript": "[sil] s a [sil] n d l= z [sil] s [sil] @U p [sil] z I p [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "SANDALS SOAP ZIP",
+      "start": "00:00:51:921",
+      "end": "00:00:56:147",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "deletion",
+          "target_phone": "a",
+          "observed_phone": "",
+          "start": "00:00:52:200",
+          "end": "00:00:52:350"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 11,
+      "utt_id": "08M-Maint-021A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "zombi nappy nose",
+      "orthographic_transcript": "ZOMBI NAPPY NOSE",
+      "phonetic_transcript": "[sil] z O m b i [sil] n a p i n @U z [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "ZOMBI NAPPY NOSE",
+      "start": "00:00:56:147",
+      "end": "00:01:00:977",
+      "word_alignments": [],
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 12,
+      "utt_id": "08M-Maint-022A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "hunting potato pasta",
+      "orthographic_transcript": "HUNTING POTATO PASTA",
+      "phonetic_transcript": "[sil] h V n t I N p [sil] @ t eI t @U p a [sil] s t @ [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "HUNTING POTATO PASTA",
+      "start": "00:01:00:977",
+      "end": "00:01:05:203",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "deletion",
+          "target_phone": "p",
+          "observed_phone": "",
+          "start": "00:01:02:200",
+          "end": "00:01:02:350"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 13,
+      "utt_id": "08M-Maint-023A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "medal candle pudding",
+      "orthographic_transcript": "MEDAL CANDLE PUDDING",
+      "phonetic_transcript": "[sil] m E d l= k a n d l= [sil] [sil] p u d I N [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "MEDAL CANDLE PUDDING",
+      "start": "00:01:05:203",
+      "end": "00:01:08:825",
+      "word_alignments": [],
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 14,
+      "utt_id": "08M-Maint-024A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "castle blossom daisy",
+      "orthographic_transcript": "CASTLE BLOSSOM DAISY",
+      "phonetic_transcript": "[sil] k a s [sil] l= [sil] b 5 O s m= d eI z i [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "CASTLE BLOSSOM DAISY",
+      "start": "00:01:08:825",
+      "end": "00:01:13:655",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "deletion",
+          "target_phone": "t",
+          "observed_phone": "",
+          "start": "00:01:09:200",
+          "end": "00:01:09:350"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "l",
+          "observed_phone": "5",
+          "start": "00:01:09:600",
+          "end": "00:01:09:750"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 15,
+      "utt_id": "08M-Maint-025A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "mosaic banana tuna",
+      "orthographic_transcript": "MOSAIC BANANA TUNA",
+      "phonetic_transcript": "[sil] m @U z eI I k [sil] b @ n a n @ [sil] t j u n [sil] @ [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "MOSAIC BANANA TUNA",
+      "start": "00:01:13:655",
+      "end": "00:01:19:089",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "insertion",
+          "target_phone": "",
+          "observed_phone": "j",
+          "start": "00:01:16:800",
+          "end": "00:01:16:950"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 16,
+      "utt_id": "08M-Maint-026A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "feet boat acrobat",
+      "orthographic_transcript": "FEET BOAT ACROBAT",
+      "phonetic_transcript": "[sil] f i t [sil] b [sil] @U t [sil] a k r @ [sil] b a t [sil] [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "FEET BOAT ACROBAT",
+      "start": "00:01:19:089",
+      "end": "00:01:23:315",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "deletion",
+          "target_phone": "b",
+          "observed_phone": "",
+          "start": "00:01:20:200",
+          "end": "00:01:20:350"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 17,
+      "utt_id": "08M-Maint-027A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "bead road mad",
+      "orthographic_transcript": "BEAD ROAD MAD",
+      "phonetic_transcript": "[sil] b i d [sil] r @U d [sil] m a d [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "BEAD ROAD MAD",
+      "start": "00:01:23:315",
+      "end": "00:01:28:749",
+      "word_alignments": [],
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 18,
+      "utt_id": "08M-Maint-028A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "grass octopus cheese",
+      "orthographic_transcript": "GRASS OCTOPUS CHEESE",
+      "phonetic_transcript": "[sil] g r a s [sil] O k t @ p @ s tS i z [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "GRASS OCTOPUS CHEESE",
+      "start": "00:01:28:749",
+      "end": "00:01:32:975",
+      "word_alignments": [],
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 19,
+      "utt_id": "08M-Maint-029A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "rose garden phone",
+      "orthographic_transcript": "ROSE GARDEN PHONE",
+      "phonetic_transcript": "[sil] r @U z [sil] [sil] g a r d n= [sil] f @U n [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "ROSE GARDEN PHONE",
+      "start": "00:01:32:975",
+      "end": "00:01:37:201",
+      "word_alignments": [],
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 20,
+      "utt_id": "08M-Maint-030C",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "Tina went for a swim in the deep water",
+      "orthographic_transcript": "TINA WENT FOR A SWIM IN THE DEEP WATER",
+      "phonetic_transcript": "[sil] t i n [sil] @ [sil] w [sil] E n [sil] t [sil] f O r @ s w I m [sil] I n [sil] D @ d i p [sil] w O t @ r [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "TINA WENT FOR A SWIM IN THE DEEP WATER",
+      "start": "00:01:37:201",
+      "end": "00:01:42:031",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "deletion",
+          "target_phone": "a",
+          "observed_phone": "",
+          "start": "00:01:38:200",
+          "end": "00:01:38:350"
+        },
+        {
+          "type": "deletion",
+          "target_phone": "w",
+          "observed_phone": "",
+          "start": "00:01:38:800",
+          "end": "00:01:38:950"
+        },
+        {
+          "type": "deletion",
+          "target_phone": "f",
+          "observed_phone": "",
+          "start": "00:01:39:600",
+          "end": "00:01:39:750"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "ð",
+          "observed_phone": "D",
+          "start": "00:01:40:800",
+          "end": "00:01:40:950"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 21,
+      "utt_id": "08M-Maint-031C",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "Susan's sandals were too small",
+      "orthographic_transcript": "SUSAN'S SANDALS WERE TOO SMALL",
+      "phonetic_transcript": "[sil] s u z n= z s a n d l= z w @ [sil] r t u s m O 5 [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "SUSAN'S SANDALS WERE TOO SMALL",
+      "start": "00:01:42:031",
+      "end": "00:01:46:257",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "deletion",
+          "target_phone": "w",
+          "observed_phone": "",
+          "start": "00:01:44:200",
+          "end": "00:01:44:350"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "l",
+          "observed_phone": "5",
+          "start": "00:01:45:200",
+          "end": "00:01:45:350"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 22,
+      "utt_id": "08M-Maint-032C",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "Stuart had pasta for dinner",
+      "orthographic_transcript": "STUART HAD PASTA FOR DINNER",
+      "phonetic_transcript": "s t j u @ r t [sil] h a d [sil] p a s t @ f [sil] O r d I n @ r [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "STUART HAD PASTA FOR DINNER",
+      "start": "00:01:46:257",
+      "end": "00:01:50:483",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "insertion",
+          "target_phone": "",
+          "observed_phone": "j",
+          "start": "00:01:46:600",
+          "end": "00:01:46:750"
+        },
+        {
+          "type": "deletion",
+          "target_phone": "p",
+          "observed_phone": "",
+          "start": "00:01:48:600",
+          "end": "00:01:48:750"
+        },
+        {
+          "type": "deletion",
+          "target_phone": "f",
+          "observed_phone": "",
+          "start": "00:01:49:400",
+          "end": "00:01:49:550"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 23,
+      "utt_id": "08M-Maint-033C",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "Neil has a banana every day for snack",
+      "orthographic_transcript": "NEIL HAS A BANANA EVERY DAY FOR SNACK",
+      "phonetic_transcript": "[sil] n i 5 [sil] [sil] h a z @ b @ n [sil] a n @ [sil] E v r i d eI f O r [sil] s n a k [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "NEIL HAS A BANANA EVERY DAY FOR SNACK",
+      "start": "00:01:50:483",
+      "end": "00:01:55:917",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "l",
+          "observed_phone": "5",
+          "start": "00:01:51:000",
+          "end": "00:01:51:150"
+        },
+        {
+          "type": "deletion",
+          "target_phone": "b",
+          "observed_phone": "",
+          "start": "00:01:52:600",
+          "end": "00:01:52:750"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 24,
+      "utt_id": "08M-Maint-034C",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "The boat was painted white",
+      "orthographic_transcript": "THE BOAT WAS PAINTED WHITE",
+      "phonetic_transcript": "[sil] D @ b @U t [sil] w O z p eI n [sil] t I d [sil] W aI t [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "THE BOAT WAS PAINTED WHITE",
+      "start": "00:01:55:917",
+      "end": "00:02:00:747",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "ð",
+          "observed_phone": "D",
+          "start": "00:01:56:200",
+          "end": "00:01:56:350"
+        },
+        {
+          "type": "deletion",
+          "target_phone": "p",
+          "observed_phone": "",
+          "start": "00:01:58:200",
+          "end": "00:01:58:350"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 25,
+      "utt_id": "08M-Maint-035C",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "The garden had daisies, daffodils and roses",
+      "orthographic_transcript": "THE GARDEN HAD DAFFODILS AND ROSES",
+      "phonetic_transcript": "[sil] D @ g [sil] a r d n= [sil] h a d spn [sil] [sil] d a f @ d I 5 z [sil] @ [sil] n r @U z I z [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "THE GARDEN HAD DAFFODILS AND ROSES",
+      "start": "00:02:00:747",
+      "end": "00:02:06:784",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "ð",
+          "observed_phone": "D",
+          "start": "00:02:01:000",
+          "end": "00:02:01:150"
+        },
+        {
+          "type": "deletion",
+          "target_phone": "g",
+          "observed_phone": "",
+          "start": "00:02:01:600",
+          "end": "00:02:01:750"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "l",
+          "observed_phone": "5",
+          "start": "00:02:04:200",
+          "end": "00:02:04:350"
+        },
+        {
+          "type": "deletion",
+          "target_phone": "æ",
+          "observed_phone": "",
+          "start": "00:02:04:800",
+          "end": "00:02:04:950"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "other_speaker_activity",
+          "start": "00:02:02:500",
+          "end": "00:02:03:200",
+          "notes": "pause/hesitation during sentence production"
+        }
+      ]
+    },
+    {
+      "turn_index": 26,
+      "utt_id": "08M-Maint-036A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "tore keep thicker kitten",
+      "orthographic_transcript": "TORE KEEP THICKER KITTEN",
+      "phonetic_transcript": "[sil] t @U [sil] r [sil] k i p [sil] T I k @ r [sil] [sil] k I t n= [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "TORE KEEP THICKER KITTEN",
+      "start": "00:02:06:784",
+      "end": "00:02:11:614",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "deletion",
+          "target_phone": "r",
+          "observed_phone": "",
+          "start": "00:02:07:400",
+          "end": "00:02:07:550"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "θ",
+          "observed_phone": "T",
+          "start": "00:02:08:600",
+          "end": "00:02:08:750"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 27,
+      "utt_id": "08M-Maint-037A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "core cone peaking table",
+      "orthographic_transcript": "CORE CONE PEAKING TABLE",
+      "phonetic_transcript": "[sil] k @U r [sil] k [sil] @U n [sil] [sil] p i k I N t eI b [sil] @ 5 [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "CORE CONE PEAKING TABLE",
+      "start": "00:02:11:614",
+      "end": "00:02:16:444",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "deletion",
+          "target_phone": "k",
+          "observed_phone": "",
+          "start": "00:02:12:600",
+          "end": "00:02:12:750"
+        },
+        {
+          "type": "deletion",
+          "target_phone": "b",
+          "observed_phone": "",
+          "start": "00:02:14:800",
+          "end": "00:02:14:950"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "l",
+          "observed_phone": "5",
+          "start": "00:02:15:400",
+          "end": "00:02:15:550"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "other_speaker_activity",
+          "start": "00:02:12:200",
+          "end": "00:02:13:000",
+          "notes": "pause/hesitation between words"
+        }
+      ]
+    },
+    {
+      "turn_index": 28,
+      "utt_id": "08M-Maint-038A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "cable butterfly coop kitkat",
+      "orthographic_transcript": "CABLE BUTTERFLY COOP KITKAT",
+      "phonetic_transcript": "[sil] k eI [sil] b @ 5 b [sil] V t @ r f 5 ae [sil] [sil] k u p [sil] k I t k a t [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "CABLE BUTTERFLY COOP KITKAT",
+      "start": "00:02:16:444",
+      "end": "00:02:21:878",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "deletion",
+          "target_phone": "b",
+          "observed_phone": "",
+          "start": "00:02:16:800",
+          "end": "00:02:16:950"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "l",
+          "observed_phone": "5",
+          "start": "00:02:17:200",
+          "end": "00:02:17:350"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "l",
+          "observed_phone": "5",
+          "start": "00:02:18:600",
+          "end": "00:02:18:750"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "other_speaker_activity",
+          "start": "00:02:16:600",
+          "end": "00:02:17:100",
+          "notes": "pause/hesitation at word boundary"
+        }
+      ]
+    },
+    {
+      "turn_index": 29,
+      "utt_id": "08M-Maint-039A",
+      "speaker_id": "08M_CHILD",
+      "reference_transcript": "coot packer toot tie",
+      "orthographic_transcript": "COOT PACKER TOOT TIE",
+      "phonetic_transcript": "[sil] k u t [sil] p [sil] a k @ r [sil] t u t t ae [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "COOT PACKER TOOT TIE",
+      "start": "00:02:21:878",
+      "end": "00:02:27:312",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "deletion",
+          "target_phone": "p",
+          "observed_phone": "",
+          "start": "00:02:22:600",
+          "end": "00:02:22:750"
+        },
+        {
+          "type": "deletion",
+          "target_phone": "aɪ",
+          "observed_phone": "",
+          "start": "00:02:25:400",
+          "end": "00:02:25:550"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "other_speaker_activity",
+          "start": "00:02:22:200",
+          "end": "00:02:23:000",
+          "notes": "pause/hesitation between words"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "dataset_name": "uxssd",
+    "dataset_split": "",
+    "text_annotation_source": "human",
+    "text_annotation_details": "manual transcription",
+    "text_coverage": "full",
+    "phoneme_annotation_source": "machine",
+    "phoneme_annotation_details": "Kaldi forced alignment (PF-STAR recipe)",
+    "phoneme_coverage": "full"
+  }
+}
+```

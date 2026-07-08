@@ -1,0 +1,111 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "repair",
+      "utterance_index": 17,
+      "speaker": "CHI",
+      "source_text": "<because they g(ot)> [/] <they got> [/] they got the [/] the [/] the yyy is better than Chuckie Cheese (.) .",
+      "description": "Multiple self-repairs: 'because they g(ot)' repaired to 'they got', then 'they got the' repaired multiple times before completing with 'the yyy is better than Chuckie Cheese'"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 20,
+      "speaker": "CHI",
+      "source_text": "way <b(etter)> [/] better (.) .",
+      "description": "Self-repair: 'b(etter)' repaired to 'better'"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 10,
+      "speaker": "CHI",
+      "source_text": "a xxx yyy (.) .",
+      "description": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 11,
+      "speaker": "CHI",
+      "source_text": "Chuckie Cheese show biz (.) .",
+      "description": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 12,
+      "speaker": "CHI",
+      "source_text": "whats that again (.) ?",
+      "description": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 17,
+      "speaker": "CHI",
+      "source_text": "<because they g(ot)> [/] <they got> [/] they got the [/] the [/] the yyy is better than Chuckie Cheese (.) .",
+      "description": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 18,
+      "speaker": "CHI",
+      "source_text": "its pizza (.) .",
+      "description": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 19,
+      "speaker": "CHI",
+      "source_text": "it's a lot better (.) .",
+      "description": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 20,
+      "speaker": "CHI",
+      "source_text": "way <b(etter)> [/] better (.) .",
+      "description": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 21,
+      "speaker": "CHI",
+      "source_text": "we got chocolate chips (.) .",
+      "description": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 22,
+      "speaker": "CHI",
+      "source_text": "chocolate chips butter butter sugar (.) .",
+      "description": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 32,
+      "speaker": "CHI",
+      "source_text": "missing (.) ?",
+      "description": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 4,
+      "speaker": "CHI",
+      "source_text": "0 .",
+      "description": "Non-verbal action: Shrug"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 7,
+      "speaker": "CHI",
+      "source_text": "eight seven nine seven six five zero .",
+      "description": "Action: Reaches for the phone and dials number. He vocalizes number while dialing."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 24,
+      "speaker": "HEI",
+      "source_text": "what this is ?",
+      "description": "Gesture: I point to baking soda"
+    }
+  ]
+}
+```

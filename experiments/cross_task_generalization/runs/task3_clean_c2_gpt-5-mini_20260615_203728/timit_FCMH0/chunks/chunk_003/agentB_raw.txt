@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "event_type": "pause_silence_segment",
+      "phone_index": 0,
+      "start": 0.0,
+      "end": 0.135,
+      "utt_id": "FCMH0_SI2084"
+    },
+    {
+      "event_type": "closure_segment",
+      "phone_index": 5,
+      "start": 0.3125,
+      "end": 0.355,
+      "utt_id": "FCMH0_SI2084"
+    },
+    {
+      "event_type": "short_phone",
+      "phone_index": 6,
+      "start": 0.355,
+      "end": 0.365,
+      "utt_id": "FCMH0_SI2084"
+    },
+    {
+      "event_type": "closure_segment",
+      "phone_index": 10,
+      "start": 0.5775,
+      "end": 0.635625,
+      "utt_id": "FCMH0_SI2084"
+    },
+    {
+      "event_type": "long_phone",
+      "phone_index": 13,
+      "start": 0.78325,
+      "end": 0.874625,
+      "utt_id": "FCMH0_SI2084"
+    },
+    {
+      "event_type": "long_phone",
+      "phone_index": 15,
+      "start": 0.9765,
+      "end": 1.0975,
+      "utt_id": "FCMH0_SI2084"
+    },
+    {
+      "event_type": "long_phone",
+      "phone_index": 17,
+      "start": 1.12625,
+      "end": 1.27,
+      "utt_id": "FCMH0_SI2084"
+    },
+    {
+      "event_type": "pause_silence_segment",
+      "phone_index": 19,
+      "start": 1.3375,
+      "end": 1.52,
+      "utt_id": "FCMH0_SI2084"
+    }
+  ]
+}

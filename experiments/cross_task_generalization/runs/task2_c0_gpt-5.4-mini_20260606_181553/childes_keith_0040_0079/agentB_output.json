@@ -1,0 +1,82 @@
+{
+  "malformed_json_text": [
+    {
+      "event_type": "repetition",
+      "speaker_cue": "MOT",
+      "utterance_cue": [
+        0,
+        2
+      ],
+      "source_text": [
+        "where does that [!] go ?",
+        "right there [!] ?"
+      ]
+    },
+    {
+      "event_type": "repair",
+      "speaker_cue": "MOT",
+      "utterance_cue": 3,
+      "source_text": "why don't you <put that> [//] put that in ?"
+    },
+    {
+      "event_type": "non_speech",
+      "speaker_cue": "CHI",
+      "utterance_cue": 1,
+      "source_text": "&-uh"
+    },
+    {
+      "event_type": "non_speech",
+      "speaker_cue": "CHI",
+      "utterance_cue": 17,
+      "source_text": "rrr@o !"
+    },
+    {
+      "event_type": "non_speech",
+      "speaker_cue": "CHI",
+      "utterance_cue": 22,
+      "source_text": "yyy ."
+    },
+    {
+      "event_type": "pause",
+      "speaker_cue": "MOT",
+      "utterance_cue": 25,
+      "source_text": "we can go home or (.) see +..."
+    },
+    {
+      "event_type": "repair",
+      "speaker_cue": "MOT",
+      "utterance_cue": 26,
+      "source_text": "<can you open> [/] (.) can you open the door of the house ?"
+    },
+    {
+      "event_type": "repair",
+      "speaker_cue": "MOT",
+      "utterance_cue": 27,
+      "source_text": "<go into the> [//] in the house ?"
+    },
+    {
+      "event_type": "repetition",
+      "speaker_cue": "CHI",
+      "utterance_cue": [
+        11,
+        13
+      ],
+      "source_text": [
+        "what's that ?",
+        "what's that ?"
+      ]
+    },
+    {
+      "event_type": "overlap",
+      "speaker_cue": "MOT",
+      "utterance_cue": 6,
+      "source_text": "doing that now ?"
+    },
+    {
+      "event_type": "overlap",
+      "speaker_cue": "MOT",
+      "utterance_cue": 8,
+      "source_text": "alright ."
+    }
+  ]
+}

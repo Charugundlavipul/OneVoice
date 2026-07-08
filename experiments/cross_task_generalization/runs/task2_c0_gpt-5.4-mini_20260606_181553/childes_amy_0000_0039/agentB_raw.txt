@@ -1,0 +1,58 @@
+[
+  {
+    "event_type": "repetition",
+    "speaker_cue": "MOT",
+    "utterance_cue": 4,
+    "source_text": "yeah .",
+    "details": {
+      "repeated_from": {
+        "speaker_cue": "CHI",
+        "utterance_cue": 3,
+        "source_text": "yeah ."
+      }
+    }
+  },
+  {
+    "event_type": "repair",
+    "speaker_cue": "MOT",
+    "utterance_cue": 6,
+    "source_text": "what is [!] that ?",
+    "details": {
+      "repair_marker": "[!]",
+      "context": "what's this ?"
+    }
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "MOT",
+    "utterance_cue": 29,
+    "source_text": "hoo_hoo_hoo_hoo_hoo@o !"
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "MOT",
+    "utterance_cue": 37,
+    "source_text": "boom_boom_boom_boom@o ."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "CHI",
+    "utterance_cue": 21,
+    "source_text": "yyy !",
+    "details": {
+      "xpho": "mA bI"
+    }
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "CHI",
+    "utterance_cue": 1,
+    "source_text": "yyy .",
+    "details": {
+      "xpho": "wi"
+    }
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":[{"event_type":"repetition","speaker_cue":"MOT","utterance_cue":4,"source_text":"yeah .","details":{"repeated_from":{"speaker_cue":"CHI","utterance_cue":3,"source_text":"yeah ."}}},{"event_type":"repair","speaker_cue":"MOT","utterance_cue":6,"source_text":"what is [!] that ?","details":{"repair_marker":"[!]","context":"what's this ?"}},{"event_type":"non_speech","speaker_cue":"MOT","utterance_cue":29,"source_text":"hoo_hoo_hoo_hoo_hoo@o !"},{"event_type":"non_speech","speaker_cue":"MOT","utterance_cue":37,"source_text":"boom_boom_boom_boom@o ."},{"event_type":"non_speech","speaker_cue":"CHI","utterance_cue":21,"source_text":"yyy !","details":{"xpho":"mA bI"}},{"event_type":"non_speech","speaker_cue":"CHI","utterance_cue":1,"source_text":"yyy .","details":{"xpho":"wi"}}]}

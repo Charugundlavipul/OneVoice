@@ -1,0 +1,100 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "utterance_indices": [15, 16, 17],
+      "speaker": "MOT",
+      "source_text": "where you going ?",
+      "note": "Identical utterance repeated 3 times consecutively"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 20,
+      "speaker": "MOT",
+      "source_text": "&~ga give me a <highfive> [/] highfive [/] highfive .",
+      "note": "Self-repair marked with [/]: 'highfive' repeated with corrections"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_indices": [29, 30, 31, 32, 33, 34],
+      "speaker": "CHI",
+      "source_text": "&=blows:raspberries .",
+      "note": "Same non-speech action repeated 6 times consecutively"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 0,
+      "speaker": "MOT",
+      "source_text": "&=clears:throat ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 1,
+      "speaker": "CHI",
+      "source_text": "&=various:noises ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 2,
+      "speaker": "CHI",
+      "source_text": "&=blows:raspberry &~ee:r &=strange:breathing:noise ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 3,
+      "speaker": "MOT",
+      "source_text": "&=babbles ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 6,
+      "speaker": "CHI",
+      "source_text": "&=blows:raspberries ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 7,
+      "speaker": "CHI",
+      "source_text": "&=blows:raspberries ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 21,
+      "speaker": "MOT",
+      "source_text": "whoo, yay [=! clapping] !",
+      "note": "Clapping action encoded"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 24,
+      "speaker": "MOT",
+      "source_text": "&=clears:throat ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 27,
+      "speaker": "CHI",
+      "source_text": "&~agum: &=blows:raspberries &~mu:m: ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 37,
+      "speaker": "CHI",
+      "source_text": "&=babbles ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 39,
+      "speaker": "CHI",
+      "source_text": "&=blows:raspberries ."
+    },
+    {
+      "event_type": "overlap",
+      "utterance_indices": [0, 3, 6, 9, 11, 13, 19],
+      "speaker": "CHI/MOT",
+      "note": "Multiple utterances marked with '+<' indicating overlap/simultaneous speech"
+    }
+  ]
+}
+```

@@ -1,0 +1,79 @@
+{
+  "interaction_events": [
+    {
+      "event_type": "repetition",
+      "utterance_index": [
+        1,
+        2
+      ],
+      "speaker": "MOT",
+      "source_text": "can the people go byebye in the car ?",
+      "note": "Exact repetition of utterance"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 6,
+      "speaker": "CHI",
+      "source_text": "no (.) see !",
+      "note": "Pause marked with (.)"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": [
+        4,
+        5
+      ],
+      "speaker": "MOT",
+      "source_text": "can you put the people in the car ?",
+      "note": "Exact repetition of utterance"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": [
+        9,
+        11
+      ],
+      "speaker": "MOT",
+      "source_text": "what're ya going to do ? → what're you gonna do ?",
+      "note": "Self-repair: 'ya' repaired to 'you', 'going to' repaired to 'gonna'"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 15,
+      "speaker": "MOT",
+      "source_text": "oh (.) a chickie [!] !",
+      "note": "Pause marked with (.)"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": [
+        15,
+        16
+      ],
+      "speaker": "MOT",
+      "source_text": "a chickie !",
+      "note": "Repetition of 'a chickie' from previous utterance"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 19,
+      "speaker": "MOT",
+      "source_text": "chickie (.) right .",
+      "note": "Pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 34,
+      "speaker": "MOT",
+      "source_text": "oh (.) bye !",
+      "note": "Pause marked with (.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 35,
+      "speaker": "CHI",
+      "source_text": "0 [=! growl noise]",
+      "note": "Non-speech vocalization: growl noise"
+    }
+  ]
+}

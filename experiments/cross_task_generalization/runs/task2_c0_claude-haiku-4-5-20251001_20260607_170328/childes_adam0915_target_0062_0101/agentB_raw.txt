@@ -1,0 +1,55 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "utterance_index": 6,
+      "speaker": "MOT",
+      "source_text": "&~m [/] &~m .",
+      "description": "Non-lexical vocalization repeated twice"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 13,
+      "speaker": "MOT",
+      "source_text": "+< here it is .",
+      "description": "MOT overlaps with FAT's utterance at index 12"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 14,
+      "speaker": "MOT",
+      "source_text": "here it is .",
+      "description": "Exact repetition of previous utterance"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 15,
+      "speaker": "MOT",
+      "source_text": "here it is .",
+      "description": "Third consecutive repetition of same phrase"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 17,
+      "speaker": "MOT",
+      "source_text": "&~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [=! singing] .",
+      "description": "Multiple repetitions of non-lexical vocalizations in singing context"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 20,
+      "speaker": "MOT",
+      "source_text": "oh [/] oh [/] oh oh no !",
+      "description": "Interjection 'oh' repeated three times before 'no'"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 33,
+      "speaker": "MOT",
+      "source_text": "+< &~emga .",
+      "description": "MOT overlaps with FAT's utterance at index 32"
+    }
+  ]
+}
+```

@@ -1,0 +1,64 @@
+[
+  {
+    "event_type": "pause",
+    "utt_index": 0,
+    "speaker": "MOT",
+    "source_text": "wanna (..) stack them (.) for me ?"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 0,
+    "speaker": "MOT",
+    "source_text": "wanna (..) stack them (.) for me ?"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 11,
+    "speaker": "CHI",
+    "source_text": "yyy .",
+    "note": "transcribed hesitation/filled pause with prolonged vocalization"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 16,
+    "speaker": "CHI",
+    "source_text": "&-uh !"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 21,
+    "speaker": "MOT",
+    "source_text": "one person (.) two +..."
+  },
+  {
+    "event_type": "repetition",
+    "utt_index": 22,
+    "speaker": "MOT",
+    "source_text": "where's another person ?",
+    "note": "repeated at utt_index 24: same speaker, same wording"
+  },
+  {
+    "event_type": "repetition",
+    "utt_index": 15,
+    "speaker": "MOT",
+    "source_text": "wanna put the car to bed ?",
+    "note": "similar elicitation repeated later as utt_index 32/33/35/37/39 with varying wording"
+  },
+  {
+    "event_type": "repetition",
+    "utt_index": 25,
+    "speaker": "MOT",
+    "source_text": "can you get another one ?",
+    "note": "immediate follow-up repetition in reduced form: utt_index 27 'get another one ?'"
+  },
+  {
+    "event_type": "repetition",
+    "utt_index": 32,
+    "speaker": "MOT",
+    "source_text": "wanna put somebody to bed ?",
+    "note": "repeated task sequence with paraphrased prompts"
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"pause\",\n    \"utt_index\": 0,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"wanna (..) stack them (.) for me ?\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utt_index\": 0,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"wanna (..) stack them (.) for me ?\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utt_index\": 11,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"yyy .\",\n    \"note\": \"transcribed hesitation/filled pause with prolonged vocalization\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utt_index\": 16,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"&-uh !\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utt_index\": 21,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"one person (.) two +...\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utt_index\": 22,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"where's another person ?\",\n    \"note\": \"repeated at utt_index 24: same speaker, same wording\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utt_index\": 15,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"wanna put the car to bed ?\",\n    \"note\": \"similar elicitation repeated later as utt_index 32/33/35/37/39 with varying wording\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utt_index\": 25,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"can you get another one ?\",\n    \"note\": \"immediate follow-up repetition in reduced form: utt_index 27 'get another one ?'\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utt_index\": 32,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"wanna put somebody to bed ?\",\n    \"note\": \"repeated task sequence with paraphrased prompts\"\n  }\n]"}

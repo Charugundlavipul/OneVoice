@@ -1,0 +1,26 @@
+# Cross-task generalization setup.
+# Scripts use these values as documentation; CLI flags remain the source of truth.
+models:
+  - gpt-5.4-mini
+  - gpt-5-mini
+conditions:
+  - c0
+  - c1
+  - c2
+temperature: 0
+task2_childes:
+  target_windows: 50
+  min_files: 20
+  max_files: 30
+  window_size: 40
+task3_timit:
+  target_bundles: 40
+  utterances_per_bundle: 5
+  eval_split: TEST
+  calibration_split: TRAIN
+  calibration_utterance_cap: 1200
+validator_repair:
+  max_repair_rounds: 2
+  task2_chunk_size: 10
+  task3_chunk_size: 1
+  parallel_chunks: 1

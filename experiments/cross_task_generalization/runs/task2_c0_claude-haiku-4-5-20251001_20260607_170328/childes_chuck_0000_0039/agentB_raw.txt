@@ -1,0 +1,153 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "utterance_index": 27,
+      "speaker": "MOT",
+      "source_text": "try another one .",
+      "note": "Exact repetition of utterance 0"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 29,
+      "speaker": "MOT",
+      "source_text": "try another one .",
+      "note": "Exact repetition of utterance 0 and 27"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 6,
+      "speaker": "MOT",
+      "source_text": "let me [//] <can I> [/] can I get one out ?",
+      "note": "Self-repair: 'let me' replaced with 'can I', then 'can I' repeated"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 15,
+      "speaker": "CHI",
+      "source_text": "yyy [>] !",
+      "note": "Overlap marker [>] indicates CHI speaking while MOT continues"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 16,
+      "speaker": "CHI",
+      "source_text": "yyy [>] !",
+      "note": "Overlap marker [>] indicates CHI speaking while MOT continues"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 17,
+      "speaker": "MOT",
+      "source_text": "<that was a good boy> [<] !",
+      "note": "Overlap marker [<] indicates MOT speaking while CHI continues"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 30,
+      "speaker": "CHI",
+      "source_text": "uhuh [>] .",
+      "note": "Overlap marker [>] indicates CHI speaking while MOT continues"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 31,
+      "speaker": "MOT",
+      "source_text": "oops [<] .",
+      "note": "Overlap marker [<] indicates MOT speaking while CHI continues"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 8,
+      "speaker": "MOT",
+      "source_text": "I'm gonna get [?] the square one (.) okay !",
+      "note": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 18,
+      "speaker": "MOT",
+      "source_text": "yeah (.) neat !",
+      "note": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 20,
+      "speaker": "MOT",
+      "source_text": "balls [!] go right through there (.) so neat !",
+      "note": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 26,
+      "speaker": "MOT",
+      "source_text": "that just doesn't go there (.) does it ?",
+      "note": "Pause indicated by (.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 11,
+      "speaker": "CHI",
+      "source_text": "yyy !",
+      "note": "Non-lexical vocalization with xpho: e_e"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 12,
+      "speaker": "CHI",
+      "source_text": "&-uh !",
+      "note": "Unintelligible/non-standard form"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 15,
+      "speaker": "CHI",
+      "source_text": "yyy [>] !",
+      "note": "Non-lexical vocalization with xpho: e A"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 16,
+      "speaker": "CHI",
+      "source_text": "yyy [>] !",
+      "note": "Non-lexical vocalization"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 22,
+      "speaker": "CHI",
+      "source_text": "ball yyy .",
+      "note": "Non-lexical vocalization with xpho: bA 6+6"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 25,
+      "speaker": "CHI",
+      "source_text": "yyy .",
+      "note": "Non-lexical vocalization with xpho: e_e hi e_e"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 33,
+      "speaker": "CHI",
+      "source_text": "yyy ball .",
+      "note": "Non-lexical vocalization with xpho: <1w> 6"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 35,
+      "speaker": "CHI",
+      "source_text": "yyy ball .",
+      "note": "Non-lexical vocalization with xpho: <1w> 6"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 39,
+      "speaker": "CHI",
+      "source_text": "yyy !",
+      "note": "Non-lexical vocalization with xpho: e"
+    }
+  ]
+}
+```

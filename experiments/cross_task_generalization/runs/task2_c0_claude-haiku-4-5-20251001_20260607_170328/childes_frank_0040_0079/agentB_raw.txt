@@ -1,0 +1,79 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "pause",
+      "utterance_index": 0,
+      "speaker": "MOT",
+      "source_text": "what else is in there (.) huh ?",
+      "cue": "(.))"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 2,
+      "speaker": "MOT",
+      "source_text": "and that one's (.) a rectangle .",
+      "cue": "(.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 3,
+      "speaker": "MOT",
+      "source_text": "and there's a (.) &-uh (.) I guess a cylinder .",
+      "cue": "&-uh"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 3,
+      "speaker": "MOT",
+      "source_text": "and there's a (.) &-uh (.) I guess a cylinder .",
+      "cue": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 3,
+      "speaker": "MOT",
+      "source_text": "and there's a (.) &-uh (.) I guess a cylinder .",
+      "cue": "(.)"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 5,
+      "speaker": "MOT",
+      "source_text": "there's a triangle .",
+      "related_utterance_index": 35,
+      "note": "same utterance repeated at utterance 35"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 5,
+      "speaker": "MOT",
+      "source_text": "there's a triangle .",
+      "related_utterance_index": 39,
+      "note": "same utterance repeated at utterance 39"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 15,
+      "speaker": "MOT",
+      "source_text": "0 [=! soft laugh] .",
+      "cue": "[=! soft laugh]"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 29,
+      "speaker": "CHI",
+      "source_text": "&-eh !",
+      "cue": "&-eh"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 35,
+      "speaker": "MOT",
+      "source_text": "here's a triangle .",
+      "related_utterance_index": 39,
+      "note": "same utterance repeated at utterance 39"
+    }
+  ]
+}
+```

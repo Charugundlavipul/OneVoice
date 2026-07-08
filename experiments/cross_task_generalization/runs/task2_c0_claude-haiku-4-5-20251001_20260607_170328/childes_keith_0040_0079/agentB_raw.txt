@@ -1,0 +1,55 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "repair",
+      "utterance_index": 3,
+      "speaker": "MOT",
+      "source_text": "why don't you <put that> [//] put that in ?",
+      "description": "Self-repair: MOT repeats 'put that' after initial attempt"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 19,
+      "speaker": "MOT",
+      "source_text": "can you put the little people in the car ?",
+      "description": "Repair sequence: MOT revises 'little people' to 'people' in next utterance (utt 20)"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 26,
+      "speaker": "MOT",
+      "source_text": "<can you open> [/] (.) can you open the door of the house ?",
+      "description": "Self-repair: MOT restarts 'can you open' with pause before completing"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 27,
+      "speaker": "MOT",
+      "source_text": "<go into the> [//] in the house ?",
+      "description": "Self-repair: MOT abandons 'go into the' and revises to 'in the house'"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 25,
+      "speaker": "MOT",
+      "source_text": "we can go home or (.) see +...",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 26,
+      "speaker": "MOT",
+      "source_text": "<can you open> [/] (.) can you open the door of the house ?",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 22,
+      "speaker": "CHI",
+      "source_text": "yyy .",
+      "description": "Non-lexical vocalization with car noise alternative"
+    }
+  ]
+}
+```

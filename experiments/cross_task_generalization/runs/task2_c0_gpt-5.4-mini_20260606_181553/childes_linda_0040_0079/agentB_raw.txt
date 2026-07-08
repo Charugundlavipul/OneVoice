@@ -1,0 +1,187 @@
+[
+  {
+    "event_type": "repetition",
+    "utterance_index": [0, 1],
+    "speaker_cue": "MOT",
+    "source_text": "the dog ? / the dog ?"
+  },
+  {
+    "event_type": "repetition",
+    "utterance_index": [3, 4, 5],
+    "speaker_cue": "CHI",
+    "source_text": "uhuh [<] . / where yyy ? / yyy ."
+  },
+  {
+    "event_type": "repetition",
+    "utterance_index": [6, 7],
+    "speaker_cue": "MOT/CHI",
+    "source_text": "oh another chair ? / (a)nother chair !"
+  },
+  {
+    "event_type": "repetition",
+    "utterance_index": [8, 9],
+    "speaker_cue": "MOT/CHI",
+    "source_text": "where's a chair ? / yyy chair (.) yyy there is ."
+  },
+  {
+    "event_type": "repetition",
+    "utterance_index": [10, 17, 18, 20],
+    "speaker_cue": "MOT/CHI",
+    "source_text": "there it is ! / there ! / there ! / there [<] !"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 13,
+    "speaker_cue": "MOT",
+    "source_text": "look what happened here .",
+    "cue_detail": "%par: <1w> gasps ."
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 15,
+    "speaker_cue": "MOT",
+    "source_text": "uhoh !",
+    "cue_detail": "%par: <1w> laughs"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 19,
+    "speaker_cue": "MOT",
+    "source_text": "<oh I'm amazed [?]> [>] .",
+    "cue_detail": "%par: <1w> spoken softly"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 21,
+    "speaker_cue": "MOT",
+    "source_text": "good !",
+    "cue_detail": "%int: <1w> rise and fall"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 22,
+    "speaker_cue": "MOT",
+    "source_text": "now [/] now they can have a picnic (.) hm: ?",
+    "cue_detail": "%par: <1w> spoken softly"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 35,
+    "speaker_cue": "MOT",
+    "source_text": "no .",
+    "cue_detail": "%par: spoken softly"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 39,
+    "speaker_cue": "MOT",
+    "source_text": "walk_walk_walk_walk@wp .",
+    "cue_detail": "%par: <1w> sing song"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 16,
+    "speaker_cue": "CHI",
+    "source_text": "&=laughs ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 30,
+    "speaker_cue": "MOT",
+    "source_text": "bow_wow@o ."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 37,
+    "speaker_cue": "MOT",
+    "source_text": "okay (.) the mommy can walk out the door .",
+    "cue_detail": "pause inside utterance indicated by (.)"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 13,
+    "speaker_cue": "MOT",
+    "source_text": "look what happened here .",
+    "cue_detail": "%gpx: points to floor"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 14,
+    "speaker_cue": "MOT",
+    "source_text": "what happened ?",
+    "cue_detail": "%gpx: points to floor"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 23,
+    "speaker_cue": "MOT",
+    "source_text": "now who goes in that [!] chair ?",
+    "cue_detail": "%gpx not present in utterance text but context is turn-taking prompt"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 36,
+    "speaker_cue": "CHI",
+    "source_text": "yyy this no .",
+    "cue_detail": "%gpx: points to chair"
+  },
+  {
+    "event_type": "overlap",
+    "utterance_index": 2,
+    "speaker_cue": "MOT",
+    "source_text": "is that what you wanted (.) <the dog> [>] ?",
+    "cue_detail": "[>]"
+  },
+  {
+    "event_type": "overlap",
+    "utterance_index": 20,
+    "speaker_cue": "CHI",
+    "source_text": "there [<] !",
+    "cue_detail": "[<]"
+  },
+  {
+    "event_type": "overlap",
+    "utterance_index": 38,
+    "speaker_cue": "MOT",
+    "source_text": "watch her walk out the door .",
+    "cue_detail": "following turn continues action sequence; no explicit overlap marker"
+  },
+  {
+    "event_type": "repair",
+    "utterance_index": 2,
+    "speaker_cue": "MOT",
+    "source_text": "is that what you wanted (.) <the dog> [>] ?",
+    "cue_detail": "self-repair / restart with retraced phrase"
+  },
+  {
+    "event_type": "repair",
+    "utterance_index": 6,
+    "speaker_cue": "MOT",
+    "source_text": "oh another chair ?",
+    "cue_detail": "followed by child correction/echo '(a)nother chair !'"
+  },
+  {
+    "event_type": "repair",
+    "utterance_index": 9,
+    "speaker_cue": "CHI",
+    "source_text": "yyy chair (.) yyy there is .",
+    "cue_detail": "reformulation with filled pause and restart"
+  },
+  {
+    "event_type": "repair",
+    "utterance_index": 22,
+    "speaker_cue": "MOT",
+    "source_text": "now [/] now they can have a picnic (.) hm: ?",
+    "cue_detail": "self-repair marked [/] now -> now"
+  },
+  {
+    "event_type": "repair",
+    "utterance_index": 29,
+    "speaker_cue": "MOT",
+    "source_text": "the dog can sit in the chair ?",
+    "cue_detail": "echoes previous dog reference; clarification question"
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_index\": [0, 1],\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"the dog ? / the dog ?\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_index\": [3, 4, 5],\n    \"speaker_cue\": \"CHI\",\n    \"source_text\": \"uhuh [<] . / where yyy ? / yyy .\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_index\": [6, 7],\n    \"speaker_cue\": \"MOT/CHI\",\n    \"source_text\": \"oh another chair ? / (a)nother chair !\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_index\": [8, 9],\n    \"speaker_cue\": \"MOT/CHI\",\n    \"source_text\": \"where's a chair ? / yyy chair (.) yyy there is .\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_index\": [10, 17, 18, 20],\n    \"speaker_cue\": \"MOT/CHI\",\n    \"source_text\": \"there it is ! / there ! / there ! / there [<] !\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utterance_index\": 13,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"look what happened here .\",\n    \"cue_detail\": \"%par: <1w> gasps .\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utterance_index\": 15,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"uhoh !\",\n    \"cue_detail\": \"%par: <1w> laughs\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utterance_index\": 19,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"<oh I'm amazed [?]> [>] .\",\n    \"cue_detail\": \"%par: <1w> spoken softly\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utterance_index\": 21,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"good !\",\n    \"cue_detail\": \"%int: <1w> rise and fall\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utterance_index\": 22,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"now [/] now they can have a picnic (.) hm: ?\",\n    \"cue_detail\": \"%par: <1w> spoken softly\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utterance_index\": 35,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"no .\",\n    \"cue_detail\": \"%par: spoken softly\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utterance_index\": 39,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"walk_walk_walk_walk@wp .\",\n    \"cue_detail\": \"%par: <1w> sing song\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_index\": 16,\n    \"speaker_cue\": \"CHI\",\n    \"source_text\": \"&=laughs .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_index\": 30,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"bow_wow@o .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_index\": 37,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"okay (.) the mommy can walk out the door .\",\n    \"cue_detail\": \"pause inside utterance indicated by (.)\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_index\": 13,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"look what happened here .\",\n    \"cue_detail\": \"%gpx: points to floor\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_index\": 14,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"what happened ?\",\n    \"cue_detail\": \"%gpx: points to floor\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_index\": 23,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"now who goes in that [!] chair ?\",\n    \"cue_detail\": \"%gpx not present in utterance text but context is turn-taking prompt\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_index\": 36,\n    \"speaker_cue\": \"CHI\",\n    \"source_text\": \"yyy this no .\",\n    \"cue_detail\": \"%gpx: points to chair\"\n  },\n  {\n    \"event_type\": \"overlap\",\n    \"utterance_index\": 2,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"is that what you wanted (.) <the dog> [>] ?\",\n    \"cue_detail\": \"[>]\"\n  },\n  {\n    \"event_type\": \"overlap\",\n    \"utterance_index\": 20,\n    \"speaker_cue\": \"CHI\",\n    \"source_text\": \"there [<] !\",\n    \"cue_detail\": \"[<]\"\n  },\n  {\n    \"event_type\": \"overlap\",\n    \"utterance_index\": 38,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"watch her walk out the door .\",\n    \"cue_detail\": \"following turn continues action sequence; no explicit overlap marker\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utterance_index\": 2,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"is that what you wanted (.) <the dog> [>] ?\",\n    \"cue_detail\": \"self-repair / restart with retraced phrase\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utterance_index\": 6,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"oh another chair ?\",\n    \"cue_detail\": \"followed by child correction/echo '(a)nother chair !'\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utterance_index\": 9,\n    \"speaker_cue\": \"CHI\",\n    \"source_text\": \"yyy chair (.) yyy there is .\",\n    \"cue_detail\": \"reformulation with filled pause and restart\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utterance_index\": 22,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"now [/] now they can have a picnic (.) hm: ?\",\n    \"cue_detail\": \"self-repair marked [/] now -> now\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utterance_index\": 29,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"the dog can sit in the chair ?\",\n    \"cue_detail\": \"echoes previous dog reference; clarification question\"\n  }\n]"}

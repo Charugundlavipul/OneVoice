@@ -1,0 +1,9 @@
+Validating experiments\cross_task_generalization\runs\task2_c2_gpt-5.4-mini_20260606_181601\childes_hank_0000_0039\agentA_validation_round_0\candidate.json...
+Validation FAILED with the following errors:
+ - : Unknown key 'onevoice_json' found. Not allowed in OneVoice schema.
+ - : Unknown key 'window_id' found. Not allowed in OneVoice schema.
+ - Missing mandatory root field: 'session_id'
+ - Missing mandatory root field: 'turns'
+ - Missing mandatory root field: 'speakers'
+ - Missing mandatory root field: 'metadata'
+ - Content Error: Document must have either a populated 'audio_file_path' or at least one turn with a populated 'raw_transcript'.

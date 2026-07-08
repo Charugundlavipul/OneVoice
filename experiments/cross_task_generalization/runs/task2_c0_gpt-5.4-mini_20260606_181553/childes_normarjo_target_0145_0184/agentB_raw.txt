@@ -1,0 +1,45 @@
+[
+  {
+    "event_type": "repair",
+    "speaker_cue": "CHI",
+    "utterance_index": 2,
+    "utterance_cue": "hi !",
+    "source_text": "*CHI:\thi !\n%act:\t<1w> Left the study and came back again .",
+    "details": "Possible self-repair/transition marked by action tier indicating return after leaving."
+  },
+  {
+    "event_type": "overlap",
+    "speaker_cue": "CHI",
+    "utterance_index": 12,
+    "utterance_cue": "up and down .",
+    "source_text": "*CHI:\tup and down .\n%exp:\t<1w> Concepts of up and down with the zipper were shown",
+    "details": "Transcript-encoded external event annotation; no conversational overlap marker present."
+  },
+  {
+    "event_type": "repair",
+    "speaker_cue": "CHI",
+    "utterance_index": 16,
+    "utterance_cue": "no Grover !",
+    "source_text": "*CHI:\tno Grover !",
+    "details": "Likely correction/rejection in response to prior question; encoded as reparative response."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "MOT",
+    "utterance_index": 24,
+    "utterance_cue": "where's the sun ?",
+    "source_text": "*MOT:\twhere's the sun ?\n%act:\tLooking outside window",
+    "details": "Accompanying non-speech action tier."
+  },
+  {
+    "event_type": "repetition",
+    "speaker_cue": "CHI",
+    "utterance_index": 38,
+    "utterance_cue": "and my hat fall down <and then> [//] and I'm funny .",
+    "source_text": "*CHI:\tand my hat fall down <and then> [//] and I'm funny .",
+    "details": "Contains explicit CHAT repair/repetition notation [//] with repeated conjunction phrase."
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_index\": 2,\n    \"utterance_cue\": \"hi !\",\n    \"source_text\": \"*CHI:\\thi !\\n%act:\\t<1w> Left the study and came back again .\",\n    \"details\": \"Possible self-repair/transition marked by action tier indicating return after leaving.\"\n  },\n  {\n    \"event_type\": \"overlap\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_index\": 12,\n    \"utterance_cue\": \"up and down .\",\n    \"source_text\": \"*CHI:\\tup and down .\\n%exp:\\t<1w> Concepts of up and down with the zipper were shown\",\n    \"details\": \"Transcript-encoded external event annotation; no conversational overlap marker present.\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_index\": 16,\n    \"utterance_cue\": \"no Grover !\",\n    \"source_text\": \"*CHI:\\tno Grover !\",\n    \"details\": \"Likely correction/rejection in response to prior question; encoded as reparative response.\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 24,\n    \"utterance_cue\": \"where's the sun ?\",\n    \"source_text\": \"*MOT:\\twhere's the sun ?\\n%act:\\tLooking outside window\",\n    \"details\": \"Accompanying non-speech action tier.\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_index\": 38,\n    \"utterance_cue\": \"and my hat fall down <and then> [//] and I'm funny .\",\n    \"source_text\": \"*CHI:\\tand my hat fall down <and then> [//] and I'm funny .\",\n    \"details\": \"Contains explicit CHAT repair/repetition notation [//] with repeated conjunction phrase.\"\n  }\n]"}

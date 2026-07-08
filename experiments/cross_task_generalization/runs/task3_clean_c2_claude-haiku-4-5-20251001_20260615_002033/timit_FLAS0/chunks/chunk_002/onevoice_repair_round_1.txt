@@ -1,0 +1,239 @@
+```json
+{
+  "session_id": "timit_FLAS0_chunk_2_2",
+  "session_date": "",
+  "sample_rate": 16000,
+  "audio_file_path": "",
+  "audio_format": "wav",
+  "session_duration": "00:00:07:770",
+  "speakers": [
+    {
+      "speaker_id": "FLAS0",
+      "gender": "other",
+      "language": "en",
+      "native_language": "english",
+      "accent": "",
+      "age": "",
+      "name": "",
+      "age_group": "adult"
+    }
+  ],
+  "turns": [
+    {
+      "turn_index": 2,
+      "utt_id": "FLAS0_SI1026",
+      "speaker_id": "FLAS0",
+      "reference_transcript": "Careful, don't disturb her.",
+      "phoneme_reference": "",
+      "orthographic_transcript": "Careful, don't disturb her.",
+      "phonetic_transcript": "h# k eh r f el pau d ow n q d ix s tcl t er bcl b hv er h#",
+      "ipa_transcript": "",
+      "raw_transcript": "Careful, don't disturb her.",
+      "start": "00:00:05:875",
+      "end": "00:00:07:770",
+      "word_alignments": [
+        {
+          "word_index": 0,
+          "word": "careful",
+          "start": "00:00:06:013",
+          "end": "00:00:06:410",
+          "phonemes": [
+            {
+              "phone": "k",
+              "start": "00:00:06:013",
+              "end": "00:00:06:056"
+            },
+            {
+              "phone": "eh",
+              "start": "00:00:06:056",
+              "end": "00:00:06:136"
+            },
+            {
+              "phone": "r",
+              "start": "00:00:06:136",
+              "end": "00:00:06:177"
+            },
+            {
+              "phone": "f",
+              "start": "00:00:06:177",
+              "end": "00:00:06:285"
+            },
+            {
+              "phone": "el",
+              "start": "00:00:06:285",
+              "end": "00:00:06:410"
+            }
+          ]
+        },
+        {
+          "word_index": 1,
+          "word": "don't",
+          "start": "00:00:06:614",
+          "end": "00:00:06:879",
+          "phonemes": [
+            {
+              "phone": "d",
+              "start": "00:00:06:614",
+              "end": "00:00:06:628"
+            },
+            {
+              "phone": "ow",
+              "start": "00:00:06:628",
+              "end": "00:00:06:737"
+            },
+            {
+              "phone": "n",
+              "start": "00:00:06:737",
+              "end": "00:00:06:773"
+            },
+            {
+              "phone": "q",
+              "start": "00:00:06:773",
+              "end": "00:00:06:879"
+            }
+          ]
+        },
+        {
+          "word_index": 2,
+          "word": "disturb",
+          "start": "00:00:06:879",
+          "end": "00:00:07:318",
+          "phonemes": [
+            {
+              "phone": "d",
+              "start": "00:00:06:879",
+              "end": "00:00:06:891"
+            },
+            {
+              "phone": "ix",
+              "start": "00:00:06:891",
+              "end": "00:00:06:933"
+            },
+            {
+              "phone": "s",
+              "start": "00:00:06:933",
+              "end": "00:00:07:047"
+            },
+            {
+              "phone": "tcl",
+              "start": "00:00:07:047",
+              "end": "00:00:07:071"
+            },
+            {
+              "phone": "t",
+              "start": "00:00:07:071",
+              "end": "00:00:07:105"
+            },
+            {
+              "phone": "er",
+              "start": "00:00:07:105",
+              "end": "00:00:07:256"
+            },
+            {
+              "phone": "bcl",
+              "start": "00:00:07:256",
+              "end": "00:00:07:302"
+            },
+            {
+              "phone": "b",
+              "start": "00:00:07:302",
+              "end": "00:00:07:318"
+            }
+          ]
+        },
+        {
+          "word_index": 3,
+          "word": "her",
+          "start": "00:00:07:318",
+          "end": "00:00:07:507",
+          "phonemes": [
+            {
+              "phone": "hv",
+              "start": "00:00:07:318",
+              "end": "00:00:07:366"
+            },
+            {
+              "phone": "er",
+              "start": "00:00:07:366",
+              "end": "00:00:07:507"
+            }
+          ]
+        }
+      ],
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "long_word",
+          "start": "00:00:01:004",
+          "end": "00:00:01:442"
+        },
+        {
+          "type": "inter_word_gap",
+          "start": "00:00:00:535",
+          "end": "00:00:00:739"
+        },
+        {
+          "type": "pause_silence_segment",
+          "start": "00:00:00:000",
+          "end": "00:00:00:137"
+        },
+        {
+          "type": "pause_silence_segment",
+          "start": "00:00:00:535",
+          "end": "00:00:00:739"
+        },
+        {
+          "type": "short_phone",
+          "start": "00:00:00:739",
+          "end": "00:00:00:752"
+        },
+        {
+          "type": "short_phone",
+          "start": "00:00:01:004",
+          "end": "00:00:01:016"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:01:172",
+          "end": "00:00:01:196"
+        },
+        {
+          "type": "short_phone",
+          "start": "00:00:01:196",
+          "end": "00:00:01:230"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:01:381",
+          "end": "00:00:01:427"
+        },
+        {
+          "type": "short_phone",
+          "start": "00:00:01:427",
+          "end": "00:00:01:442"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:01:491",
+          "end": "00:00:01:632"
+        },
+        {
+          "type": "pause_silence_segment",
+          "start": "00:00:01:632",
+          "end": "00:00:01:894"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "dataset_name": "TIMIT",
+    "dataset_split": "TEST",
+    "text_annotation_source": "TIMIT .TXT/.WRD",
+    "text_annotation_details": "Human-aligned word intervals.",
+    "text_coverage": "full",
+    "phoneme_annotation_source": "TIMIT .PHN",
+    "phoneme_annotation_details": "Human-aligned phone intervals.",
+    "phoneme_coverage": "full"
+  }
+}
+```

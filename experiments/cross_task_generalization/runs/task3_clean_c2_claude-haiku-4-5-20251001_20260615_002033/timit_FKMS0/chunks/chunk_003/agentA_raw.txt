@@ -1,0 +1,34 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "long_word",
+      "word_index": 1,
+      "start": 0.3045625,
+      "end": 0.966,
+      "utt_id": "FKMS0_SI2120"
+    },
+    {
+      "event_type": "long_word",
+      "word_index": 4,
+      "start": 2.4241875,
+      "end": 2.8814375,
+      "utt_id": "FKMS0_SI2120"
+    },
+    {
+      "event_type": "boundary_gap",
+      "word_index": 1,
+      "start": 0.966,
+      "end": 1.3055,
+      "utt_id": "FKMS0_SI2120"
+    },
+    {
+      "event_type": "boundary_gap",
+      "word_index": 3,
+      "start": 1.878875,
+      "end": 2.4241875,
+      "utt_id": "FKMS0_SI2120"
+    }
+  ]
+}
+```

@@ -1,0 +1,86 @@
+{
+  "record_id": "04M_Post_w003_012",
+  "utterances": [
+    {
+      "utt": "04M-Post-003A",
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:00:00:340",
+          "end": "00:00:01:570",
+          "notes": "child speech activity begins"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-004A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:01:400",
+          "end": "00:00:02:064",
+          "notes": "SLT speaker activity detected"
+        },
+        {
+          "type": "other_speaker_activity",
+          "start": "00:00:02:661",
+          "end": "00:00:03:467",
+          "notes": "non-child speaker (SPN) overlap"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-005A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-006A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:11:060",
+          "end": "00:00:11:470",
+          "notes": "SLT speaker activity at end of utterance"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-007A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-008A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-009A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-010A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-011A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:08:620",
+          "end": "00:00:09:220",
+          "notes": "SLT speaker activity detected"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-012A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:01:260",
+          "end": "00:00:02:180",
+          "notes": "SLT speaker activity at beginning"
+        }
+      ]
+    }
+  ]
+}

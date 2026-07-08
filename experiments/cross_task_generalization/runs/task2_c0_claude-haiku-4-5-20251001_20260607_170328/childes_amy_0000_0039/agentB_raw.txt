@@ -1,0 +1,83 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "utterance_index": 6,
+      "speaker": "MOT",
+      "source_text": "what is [!] that ?",
+      "note": "Repetition of utterance 5 'what's this?' with reformulation to 'what is that?'"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 12,
+      "speaker": "MOT",
+      "source_text": "it's a woof .",
+      "note": "Repetition of utterance 8 'it's a woof.'"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 13,
+      "speaker": "MOT",
+      "source_text": "what's this ?",
+      "note": "Repetition of question pattern from utterances 5 and 6"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 16,
+      "speaker": "MOT",
+      "source_text": "what's this ?",
+      "note": "Repetition of question pattern"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 31,
+      "speaker": "MOT",
+      "source_text": "what's this ?",
+      "note": "Repetition of question pattern"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 30,
+      "speaker": "MOT",
+      "source_text": "I don't know +...",
+      "note": "Incomplete utterance with pause marker '+...'"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 15,
+      "speaker": "CHI",
+      "source_text": "0 .",
+      "note": "Non-verbal response - child takes object and examines"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 33,
+      "speaker": "CHI",
+      "source_text": "0 .",
+      "note": "Non-verbal response - child manipulates objects"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 34,
+      "speaker": "MOT",
+      "source_text": "0 .",
+      "note": "Non-verbal response - mother manipulates dollhouse objects"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 35,
+      "speaker": "CHI",
+      "source_text": "0 .",
+      "note": "Non-verbal response - child manipulates chair"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 39,
+      "speaker": "MOT",
+      "source_text": "0 .",
+      "note": "Non-verbal response - mother manipulates dollhouse figures"
+    }
+  ]
+}
+```

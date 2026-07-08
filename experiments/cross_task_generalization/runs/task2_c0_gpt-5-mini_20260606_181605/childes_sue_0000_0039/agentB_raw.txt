@@ -1,0 +1,49 @@
+{
+  "events": [
+    {
+      "event_type": "pause",
+      "utterance_index": 9,
+      "speaker": "MOT",
+      "source_text": "well (.) how (a)bout if we play house then ?"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 22,
+      "speaker": "MOT",
+      "source_text": "oh (.) you're not going to do that ?"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 36,
+      "speaker": "MOT",
+      "source_text": "<(o)kay (.) why don't you get the dog out and we'll give him a ride in the car> [<] ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 18,
+      "speaker": "CHI",
+      "source_text": "0 ."
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 21,
+      "speaker": "CHI",
+      "source_text": "0 ."
+    },
+    {
+      "event_type": "overlap",
+      "utterance_indices": [
+        35,
+        36
+      ],
+      "speakers": [
+        "CHI",
+        "MOT"
+      ],
+      "source_texts": [
+        "yyy [>] !",
+        "<(o)kay (.) why don't you get the dog out and we'll give him a ride in the car> [<] ."
+      ]
+    }
+  ]
+}

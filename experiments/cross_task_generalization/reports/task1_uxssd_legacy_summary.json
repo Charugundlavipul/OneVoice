@@ -1,0 +1,203 @@
+{
+  "task": "task1_uxssd",
+  "legacy_root": "experiments/legacy/uxssd_setup",
+  "report_path": "experiments/legacy/uxssd_setup/EXPERIMENT_REPORT_FOR_PAPER.md",
+  "source": "archived legacy UXSSD report",
+  "overall_proxy": {
+    "exp1": {
+      "precision": 0.156,
+      "recall": 0.874,
+      "f1": 0.265,
+      "mae": 66.47
+    },
+    "exp2": {
+      "precision": 0.592,
+      "recall": 0.985,
+      "f1": 0.74,
+      "mae": 9.53
+    }
+  },
+  "counts": {
+    "counts_csv": "experiments/legacy/uxssd_setup/runs/event_counts_gold_exp1_exp2.csv",
+    "available": true,
+    "record_count": 15
+  },
+  "full_results": {
+    "gpt-5-mini": {
+      "exp1": {
+        "mean_event_count_precision": 0.156,
+        "mean_event_count_recall": 0.874,
+        "mean_event_count_f1": 0.265,
+        "mean_event_count_mae": 66.47,
+        "valid_rate": 1.0,
+        "rows": 15
+      },
+      "exp1b": {
+        "mean_event_count_precision": 0.933,
+        "mean_event_count_recall": 0.811,
+        "mean_event_count_f1": 0.868,
+        "mean_event_count_mae": 3.4,
+        "valid_rate": 1.0,
+        "rows": 15
+      },
+      "exp2": {
+        "mean_event_count_precision": 0.592,
+        "mean_event_count_recall": 0.985,
+        "mean_event_count_f1": 0.74,
+        "mean_event_count_mae": 9.53,
+        "valid_rate": 1.0,
+        "rows": 15
+      },
+      "exp2b": {
+        "mean_event_count_precision": 0.877,
+        "mean_event_count_recall": 0.869,
+        "mean_event_count_f1": 0.873,
+        "mean_event_count_mae": 3.47,
+        "valid_rate": 1.0,
+        "rows": 15
+      }
+    },
+    "gpt-5.4-mini": {
+      "exp1": {
+        "mean_event_count_precision": 0.264,
+        "mean_event_count_recall": 0.888,
+        "mean_event_count_f1": 0.407,
+        "mean_event_count_mae": 35.6,
+        "valid_rate": 1.0,
+        "rows": 15
+      },
+      "exp1b": {
+        "mean_event_count_precision": 0.607,
+        "mean_event_count_recall": 0.84,
+        "mean_event_count_f1": 0.705,
+        "mean_event_count_mae": 9.67,
+        "valid_rate": 1.0,
+        "rows": 15
+      },
+      "exp2": {
+        "mean_event_count_precision": 0.686,
+        "mean_event_count_recall": 0.762,
+        "mean_event_count_f1": 0.722,
+        "mean_event_count_mae": 8.07,
+        "valid_rate": 1.0,
+        "rows": 15
+      },
+      "exp2b": {
+        "mean_event_count_precision": 0.886,
+        "mean_event_count_recall": 0.714,
+        "mean_event_count_f1": 0.79,
+        "mean_event_count_mae": 5.2,
+        "valid_rate": 1.0,
+        "rows": 15
+      }
+    },
+    "claude-haiku-4-5-20251001": {
+      "exp1": {
+        "mean_event_count_precision": 0.574,
+        "mean_event_count_recall": 0.34,
+        "mean_event_count_f1": 0.427,
+        "mean_event_count_mae": 12.53,
+        "valid_rate": 1.0,
+        "rows": 15
+      },
+      "exp1b": {
+        "mean_event_count_precision": 0.656,
+        "mean_event_count_recall": 0.937,
+        "mean_event_count_f1": 0.772,
+        "mean_event_count_mae": 7.6,
+        "valid_rate": 1.0,
+        "rows": 15
+      },
+      "exp2": {
+        "mean_event_count_precision": 0.591,
+        "mean_event_count_recall": 0.942,
+        "mean_event_count_f1": 0.727,
+        "mean_event_count_mae": 9.73,
+        "valid_rate": 1.0,
+        "rows": 15
+      },
+      "exp2b": {
+        "mean_event_count_precision": 0.687,
+        "mean_event_count_recall": 0.947,
+        "mean_event_count_f1": 0.796,
+        "mean_event_count_mae": 6.67,
+        "valid_rate": 1.0,
+        "rows": 15
+      }
+    }
+  },
+  "gold": {
+    "gold_dir": "experiments/cross_task_generalization/gold/task1_uxssd",
+    "gold_files": [
+      "02M_BL1_w016_041.gold.json",
+      "02M_BL1_w040_072.gold.json",
+      "02M_Maint2_w015_039.gold.json",
+      "02M_Post_w010_044.gold.json",
+      "04M_Post_w001_009.gold.json",
+      "04M_Post_w003_012.gold.json",
+      "04M_Post_w044_063.gold.json",
+      "05M_Mid_round2_w006_016.gold.json",
+      "05M_Post_w001_010.gold.json",
+      "05M_Post_w013_023.gold.json",
+      "06M_Post_w005_012.gold.json",
+      "06M_Post_w018_027.gold.json",
+      "06M_Post_w020_036.gold.json",
+      "08M_Maint_w002_026.gold.json",
+      "08M_Maint_w010_039.gold.json"
+    ],
+    "total_records": 15,
+    "total_events": 206,
+    "mispronunciation_events": 94,
+    "behavioral_events": 112
+  },
+  "run_dirs": {
+    "exp1/claude-haiku-4-5-20251001": {
+      "legacy_src": "experiments/legacy/uxssd_setup/runs/exp1_20260607_201219",
+      "cross_task_dst": "experiments/cross_task_generalization/runs/task1_exp1_claude-haiku-4-5-20251001_20260607_201219"
+    },
+    "exp1/gpt-5-mini": {
+      "legacy_src": "experiments/legacy/uxssd_setup/runs/exp1_20260220_195028",
+      "cross_task_dst": "experiments/cross_task_generalization/runs/task1_exp1_gpt-5-mini_20260220_195028"
+    },
+    "exp1/gpt-5.4-mini": {
+      "legacy_src": "experiments/legacy/uxssd_setup/runs/exp1_20260607_195021",
+      "cross_task_dst": "experiments/cross_task_generalization/runs/task1_exp1_gpt-5.4-mini_20260607_195021"
+    },
+    "exp1b/claude-haiku-4-5-20251001": {
+      "legacy_src": "experiments/legacy/uxssd_setup/runs/exp1b_20260614_063854",
+      "cross_task_dst": "experiments/cross_task_generalization/runs/task1_exp1b_claude-haiku-4-5-20251001_20260614_063854"
+    },
+    "exp1b/gpt-5-mini": {
+      "legacy_src": "experiments/legacy/uxssd_setup/runs/exp1b_20260614_054908",
+      "cross_task_dst": "experiments/cross_task_generalization/runs/task1_exp1b_gpt-5-mini_20260614_054908"
+    },
+    "exp1b/gpt-5.4-mini": {
+      "legacy_src": "experiments/legacy/uxssd_setup/runs/exp1b_20260614_062903",
+      "cross_task_dst": "experiments/cross_task_generalization/runs/task1_exp1b_gpt-5.4-mini_20260614_062903"
+    },
+    "exp2/claude-haiku-4-5-20251001": {
+      "legacy_src": "experiments/legacy/uxssd_setup/runs/exp2_20260607_221234",
+      "cross_task_dst": "experiments/cross_task_generalization/runs/task1_exp2_claude-haiku-4-5-20251001_20260607_221234"
+    },
+    "exp2/gpt-5-mini": {
+      "legacy_src": "experiments/legacy/uxssd_setup/runs/exp2_aggregate_resume",
+      "cross_task_dst": "experiments/cross_task_generalization/runs/task1_exp2_gpt-5-mini_20260220_aggregated"
+    },
+    "exp2/gpt-5.4-mini": {
+      "legacy_src": "experiments/legacy/uxssd_setup/runs/exp2_20260607_215837",
+      "cross_task_dst": "experiments/cross_task_generalization/runs/task1_exp2_gpt-5.4-mini_20260607_215837"
+    },
+    "exp2b/claude-haiku-4-5-20251001": {
+      "legacy_src": "experiments/legacy/uxssd_setup/runs/exp2b_20260614_160028",
+      "cross_task_dst": "experiments/cross_task_generalization/runs/task1_exp2b_claude-haiku-4-5-20251001_20260614_160028"
+    },
+    "exp2b/gpt-5-mini": {
+      "legacy_src": "experiments/legacy/uxssd_setup/runs/exp2b_20260614_160027",
+      "cross_task_dst": "experiments/cross_task_generalization/runs/task1_exp2b_gpt-5-mini_20260614_160027"
+    },
+    "exp2b/gpt-5.4-mini": {
+      "legacy_src": "experiments/legacy/uxssd_setup/runs/exp2b_20260614_161638",
+      "cross_task_dst": "experiments/cross_task_generalization/runs/task1_exp2b_gpt-5.4-mini_20260614_161638"
+    }
+  }
+}

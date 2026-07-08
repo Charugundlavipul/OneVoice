@@ -1,0 +1,67 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "utt_index": [7, 8],
+      "speaker": "MOT",
+      "source_text": "look . / look ."
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": [14, 16],
+      "speaker": "MOT",
+      "source_text": "yellow (.) red ! / yellow (.) red !"
+    },
+    {
+      "event_type": "repair",
+      "utt_index": 12,
+      "speaker": "MOT",
+      "source_text": "<then the yellow one> [/] then the yellow one .",
+      "repair_marker": "[/]"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 14,
+      "speaker": "MOT",
+      "source_text": "yellow (.) red !",
+      "pause_marker": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 16,
+      "speaker": "MOT",
+      "source_text": "yellow (.) red !",
+      "pause_marker": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 23,
+      "speaker": "MOT",
+      "source_text": "Kent (.) would you like to play with this now ?",
+      "pause_marker": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 31,
+      "speaker": "MOT",
+      "source_text": "oh (.) where does the orange one go ?",
+      "pause_marker": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 32,
+      "speaker": "MOT",
+      "source_text": "I think it goes (.) right (.) there !",
+      "pause_markers": ["(.)", "(.)"]
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 37,
+      "speaker": "MOT",
+      "source_text": "Kent (.) would you like to play with the house ?",
+      "pause_marker": "(.)"
+    }
+  ]
+}
+```

@@ -1,0 +1,311 @@
+```json
+{
+  "session_id": "timit_FCMR0_chunk_4_4",
+  "session_date": "",
+  "sample_rate": 16000,
+  "audio_file_path": "",
+  "audio_format": "wav",
+  "session_duration": "00:00:15:437",
+  "speakers": [
+    {
+      "speaker_id": "FCMR0",
+      "gender": "other",
+      "language": "en",
+      "native_language": "english",
+      "accent": "",
+      "age": "",
+      "name": "",
+      "age_group": "adult"
+    }
+  ],
+  "turns": [
+    {
+      "turn_index": 4,
+      "utt_id": "FCMR0_SI475",
+      "speaker_id": "FCMR0",
+      "reference_transcript": "They will take a wedding trip later.",
+      "phoneme_reference": "",
+      "orthographic_transcript": "They will take a wedding trip later.",
+      "phonetic_transcript": "h# dh ey w el tcl t ey kcl k ax w eh dx iy ng tcl t r ih pcl p l ey tcl t axr h#",
+      "ipa_transcript": "",
+      "raw_transcript": "They will take a wedding trip later.",
+      "start": "00:00:13:504",
+      "end": "00:00:15:437",
+      "word_alignments": [
+        {
+          "word": "they",
+          "start": "00:00:13:632",
+          "end": "00:00:13:747",
+          "phonemes": [
+            {
+              "phone": "dh",
+              "start": "00:00:13:632",
+              "end": "00:00:13:672"
+            },
+            {
+              "phone": "ey",
+              "start": "00:00:13:672",
+              "end": "00:00:13:747"
+            }
+          ]
+        },
+        {
+          "word": "will",
+          "start": "00:00:13:747",
+          "end": "00:00:13:867",
+          "phonemes": [
+            {
+              "phone": "w",
+              "start": "00:00:13:747",
+              "end": "00:00:13:818"
+            },
+            {
+              "phone": "el",
+              "start": "00:00:13:818",
+              "end": "00:00:13:867"
+            }
+          ]
+        },
+        {
+          "word": "take",
+          "start": "00:00:13:867",
+          "end": "00:00:14:160",
+          "phonemes": [
+            {
+              "phone": "tcl",
+              "start": "00:00:13:867",
+              "end": "00:00:13:912"
+            },
+            {
+              "phone": "t",
+              "start": "00:00:13:912",
+              "end": "00:00:13:997"
+            },
+            {
+              "phone": "ey",
+              "start": "00:00:13:997",
+              "end": "00:00:14:082"
+            },
+            {
+              "phone": "kcl",
+              "start": "00:00:14:082",
+              "end": "00:00:14:115"
+            },
+            {
+              "phone": "k",
+              "start": "00:00:14:115",
+              "end": "00:00:14:160"
+            }
+          ]
+        },
+        {
+          "word": "a",
+          "start": "00:00:14:160",
+          "end": "00:00:14:212",
+          "phonemes": [
+            {
+              "phone": "ax",
+              "start": "00:00:14:160",
+              "end": "00:00:14:212"
+            }
+          ]
+        },
+        {
+          "word": "wedding",
+          "start": "00:00:14:212",
+          "end": "00:00:14:577",
+          "phonemes": [
+            {
+              "phone": "w",
+              "start": "00:00:14:212",
+              "end": "00:00:14:319"
+            },
+            {
+              "phone": "eh",
+              "start": "00:00:14:319",
+              "end": "00:00:14:409"
+            },
+            {
+              "phone": "dx",
+              "start": "00:00:14:409",
+              "end": "00:00:14:448"
+            },
+            {
+              "phone": "iy",
+              "start": "00:00:14:448",
+              "end": "00:00:14:502"
+            },
+            {
+              "phone": "ng",
+              "start": "00:00:14:502",
+              "end": "00:00:14:577"
+            }
+          ]
+        },
+        {
+          "word": "trip",
+          "start": "00:00:14:577",
+          "end": "00:00:14:948",
+          "phonemes": [
+            {
+              "phone": "tcl",
+              "start": "00:00:14:577",
+              "end": "00:00:14:637"
+            },
+            {
+              "phone": "t",
+              "start": "00:00:14:637",
+              "end": "00:00:14:722"
+            },
+            {
+              "phone": "r",
+              "start": "00:00:14:722",
+              "end": "00:00:14:740"
+            },
+            {
+              "phone": "ih",
+              "start": "00:00:14:740",
+              "end": "00:00:14:777"
+            },
+            {
+              "phone": "pcl",
+              "start": "00:00:14:777",
+              "end": "00:00:14:862"
+            },
+            {
+              "phone": "p",
+              "start": "00:00:14:862",
+              "end": "00:00:14:948"
+            }
+          ]
+        },
+        {
+          "word": "later",
+          "start": "00:00:14:948",
+          "end": "00:00:15:317",
+          "phonemes": [
+            {
+              "phone": "l",
+              "start": "00:00:14:948",
+              "end": "00:00:15:008"
+            },
+            {
+              "phone": "ey",
+              "start": "00:00:15:008",
+              "end": "00:00:15:128"
+            },
+            {
+              "phone": "tcl",
+              "start": "00:00:15:128",
+              "end": "00:00:15:161"
+            },
+            {
+              "phone": "t",
+              "start": "00:00:15:161",
+              "end": "00:00:15:187"
+            },
+            {
+              "phone": "axr",
+              "start": "00:00:15:187",
+              "end": "00:00:15:317"
+            }
+          ]
+        }
+      ],
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "long_word",
+          "start": "00:00:00:362",
+          "end": "00:00:00:655"
+        },
+        {
+          "type": "long_word",
+          "start": "00:00:00:708",
+          "end": "00:00:01:073"
+        },
+        {
+          "type": "long_word",
+          "start": "00:00:01:073",
+          "end": "00:00:01:444"
+        },
+        {
+          "type": "long_word",
+          "start": "00:00:01:444",
+          "end": "00:00:01:812"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:00:000",
+          "end": "00:00:00:128"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:00:708",
+          "end": "00:00:00:815"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:01:504",
+          "end": "00:00:01:624"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:01:682",
+          "end": "00:00:01:812"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:01:812",
+          "end": "00:00:01:930"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:00:362",
+          "end": "00:00:00:408"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:00:578",
+          "end": "00:00:00:611"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:01:073",
+          "end": "00:00:01:133"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:01:272",
+          "end": "00:00:01:358"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:01:624",
+          "end": "00:00:01:656"
+        },
+        {
+          "type": "pause_silence_segment",
+          "start": "00:00:00:000",
+          "end": "00:00:00:128"
+        },
+        {
+          "type": "pause_silence_segment",
+          "start": "00:00:01:812",
+          "end": "00:00:01:930"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "dataset_name": "TIMIT",
+    "dataset_split": "TEST",
+    "text_annotation_source": "TIMIT .TXT/.WRD",
+    "text_annotation_details": "Human-aligned word intervals.",
+    "text_coverage": "full",
+    "phoneme_annotation_source": "TIMIT .PHN",
+    "phoneme_annotation_details": "Human-aligned phone intervals.",
+    "phoneme_coverage": "full"
+  }
+}
+```

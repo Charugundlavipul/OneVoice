@@ -1,0 +1,393 @@
+{
+  "window_id": "childes_kent_0040_0079",
+  "source_file": "CHILDES/raw/childes/Eng-NA/Bates/Free20/kent.cha",
+  "speakers": [
+    {
+      "label": "CHI",
+      "role": "child (Kent)",
+      "utterance_count": 18,
+      "turn_count": 16
+    },
+    {
+      "label": "MOT",
+      "role": "mother (adult)",
+      "utterance_count": 22,
+      "turn_count": 16
+    }
+  ],
+  "total_utterances": 40,
+  "total_turns": 32,
+  "utterances": [
+    {
+      "index": 0,
+      "speaker": "CHI",
+      "text": "three !",
+      "dependent_tiers": {
+        "mor": ["det:num|three !"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "act": ["claps hands one time"],
+        "xpho": ["D6ri"]
+      }
+    },
+    {
+      "index": 1,
+      "speaker": "MOT",
+      "text": "0 .",
+      "dependent_tiers": {
+        "act": ["puts nesting cup in stack . takes out and holds . pulls nesting cups on floor closer to self . takes hand away"]
+      }
+    },
+    {
+      "index": 2,
+      "speaker": "CHI",
+      "text": "yyy ?",
+      "dependent_tiers": {
+        "act": ["picks up Mother's nesting cup and puts in stack"],
+        "xpho": ["tu+i+oU+wi"]
+      }
+    },
+    {
+      "index": 3,
+      "speaker": "MOT",
+      "text": "good !",
+      "dependent_tiers": {
+        "mor": ["adj|good !"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "act": ["puts nesting cup on top of stack"],
+        "par": ["spoken loudly"]
+      }
+    },
+    {
+      "index": 4,
+      "speaker": "CHI",
+      "text": "yyy .",
+      "dependent_tiers": {
+        "act": ["picks up nesting cup . hand knocks one cup to floor"],
+        "par": ["whispers"],
+        "xpho": ["tu+i"]
+      }
+    },
+    {
+      "index": 5,
+      "speaker": "MOT",
+      "text": "0 .",
+      "dependent_tiers": {
+        "act": ["retrieves nesting cup and puts down by stack"]
+      }
+    },
+    {
+      "index": 6,
+      "speaker": "CHI",
+      "text": "yyy ?",
+      "dependent_tiers": {
+        "act": ["<aft> brings arm back and holds cup <dur> puts on top of stack . holds other arm toward stack . <bef> examines and fingers nesting cup . dumps small cup on lap ."],
+        "xpho": ["du e wA wAn"]
+      }
+    },
+    {
+      "index": 7,
+      "speaker": "MOT",
+      "text": "look .",
+      "dependent_tiers": {
+        "mor": ["co|look ."],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "act": ["<1w> puts arm out toward Kent's hand ."]
+      }
+    },
+    {
+      "index": 8,
+      "speaker": "MOT",
+      "text": "look .",
+      "dependent_tiers": {
+        "mor": ["co|look ."],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "act": ["<1w> takes small cup out of stack ."]
+      }
+    },
+    {
+      "index": 9,
+      "speaker": "MOT",
+      "text": "look at it !",
+      "dependent_tiers": {
+        "mor": ["v|look prep|at pro:per|it !"],
+        "gra": ["1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT"],
+        "act": ["<1w> holds above stack"]
+      }
+    },
+    {
+      "index": 10,
+      "speaker": "CHI",
+      "text": "0 .",
+      "dependent_tiers": {
+        "act": ["puts nesting cup on top and presses in"]
+      }
+    },
+    {
+      "index": 11,
+      "speaker": "MOT",
+      "text": "good .",
+      "dependent_tiers": {
+        "mor": ["adj|good ."],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"]
+      }
+    },
+    {
+      "index": 12,
+      "speaker": "MOT",
+      "text": "<then the yellow one> [/] then the yellow one .",
+      "dependent_tiers": {
+        "mor": ["adv:tem|then det:art|the n|yellow pro:indef|one ."],
+        "gra": ["1|4|JCT 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT"],
+        "gpx": ["points to yellow nesting cup"]
+      }
+    },
+    {
+      "index": 13,
+      "speaker": "CHI",
+      "text": "0 .",
+      "dependent_tiers": {
+        "act": ["picks up yellow nesting cup"],
+        "gpx": ["eyes follow Mother's hand to yellow nesting cup"]
+      }
+    },
+    {
+      "index": 14,
+      "speaker": "MOT",
+      "text": "yellow (.) red !",
+      "dependent_tiers": {
+        "mor": ["n|yellow n|red !"],
+        "gra": ["1|2|MOD 2|0|INCROOT 3|2|PUNCT"],
+        "act": ["lifts up hand holding nesting cup"]
+      }
+    },
+    {
+      "index": 15,
+      "speaker": "CHI",
+      "text": "0 .",
+      "dependent_tiers": {
+        "act": ["puts yellow cup in stack"]
+      }
+    },
+    {
+      "index": 16,
+      "speaker": "MOT",
+      "text": "yellow (.) red !",
+      "dependent_tiers": {
+        "mor": ["n|yellow n|red !"],
+        "gra": ["1|2|MOD 2|0|INCROOT 3|2|PUNCT"],
+        "act": ["puts red nesting cup on stack"],
+        "par": ["spoken loudly"]
+      }
+    },
+    {
+      "index": 17,
+      "speaker": "MOT",
+      "text": "hey !",
+      "dependent_tiers": {
+        "mor": ["co|hey !"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "par": ["spoken loudly"]
+      }
+    },
+    {
+      "index": 18,
+      "speaker": "CHI",
+      "text": "0 .",
+      "dependent_tiers": {
+        "act": ["claps two times . picks up stack"]
+      }
+    },
+    {
+      "index": 19,
+      "speaker": "MOT",
+      "text": "would you like to play with this ?",
+      "dependent_tiers": {
+        "mor": ["mod|will&COND pro:per|you v|like inf|to v|play prep|with pro:dem|this ?"],
+        "gra": ["1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|6|POBJ 8|3|PUNCT"],
+        "act": ["reaches in dollhouse , takes out handful of toys and puts on floor"]
+      }
+    },
+    {
+      "index": 20,
+      "speaker": "CHI",
+      "text": "0 .",
+      "dependent_tiers": {
+        "act": ["bottom nesting cup falls out . lowers stack"]
+      }
+    },
+    {
+      "index": 21,
+      "speaker": "MOT",
+      "text": "Kent ?",
+      "dependent_tiers": {
+        "mor": ["n:prop|Kent ?"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "act": ["takes more toys out of dollhouse and puts on floor"]
+      }
+    },
+    {
+      "index": 22,
+      "speaker": "CHI",
+      "text": "0 .",
+      "dependent_tiers": {
+        "act": ["lifts stack up again and holds with one hand . picks up another nesting cup with other hand . drops . retrieves dropped cup"]
+      }
+    },
+    {
+      "index": 23,
+      "speaker": "MOT",
+      "text": "Kent (.) would you like to play with this now ?",
+      "dependent_tiers": {
+        "mor": ["n:prop|Kent mod|will&COND pro:per|you v|like inf|to v|play prep|with pro:dem|this adv:tem|now ?"],
+        "gra": ["1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|SUBJ 9|7|POBJ 10|4|PUNCT"],
+        "act": ["continues taking toys out of dollhouse"]
+      }
+    },
+    {
+      "index": 24,
+      "speaker": "CHI",
+      "text": "0 .",
+      "dependent_tiers": {
+        "act": ["examines nesting cup briefly then puts down . holds nesting cup stack with both hands . divides stack in two"]
+      }
+    },
+    {
+      "index": 25,
+      "speaker": "MOT",
+      "text": "would you like to play with the house ?",
+      "dependent_tiers": {
+        "mor": ["mod|will&COND pro:per|you v|like inf|to v|play prep|with det:art|the n|house ?"],
+        "gra": ["1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ 9|3|PUNCT"],
+        "act": ["<aft> pushes some toys through door"]
+      }
+    },
+    {
+      "index": 26,
+      "speaker": "CHI",
+      "text": "yyy ?",
+      "dependent_tiers": {
+        "act": ["<aft> puts one half in new stack on floor <dur> holds other half with both hands and divides in two again . <bef> puts one half of nesting cups in cups on floor ."],
+        "xpho": ["oU+wi+oU"]
+      }
+    },
+    {
+      "index": 27,
+      "speaker": "CHI",
+      "text": "yyy ?",
+      "dependent_tiers": {
+        "act": ["<aft> divides again"],
+        "xpho": ["deI"]
+      }
+    },
+    {
+      "index": 28,
+      "speaker": "MOT",
+      "text": "0 .",
+      "dependent_tiers": {
+        "gpx": ["eyebrow flash toward nesting cup stack"]
+      }
+    },
+    {
+      "index": 29,
+      "speaker": "CHI",
+      "text": "yyy !",
+      "dependent_tiers": {
+        "xpho": ["<1w> dA+dA+i"]
+      }
+    },
+    {
+      "index": 30,
+      "speaker": "CHI",
+      "text": "yyy !",
+      "dependent_tiers": {
+        "act": ["<aft> holds nesting cup out toward stack"],
+        "xpho": ["<1w> dA+deI"]
+      }
+    },
+    {
+      "index": 31,
+      "speaker": "MOT",
+      "text": "oh (.) where does the orange one go ?",
+      "dependent_tiers": {
+        "mor": ["co|oh pro:int|where mod|do&3S det:art|the n|orange det:num|one v|go ?"],
+        "gra": ["1|7|COM 2|5|JCT 3|5|AUX 4|5|DET 5|7|PRED 6|7|SUBJ 7|0|ROOT 8|7|PUNCT"]
+      }
+    },
+    {
+      "index": 32,
+      "speaker": "MOT",
+      "text": "I think it goes (.) right (.) there !",
+      "dependent_tiers": {
+        "mor": ["pro:sub|I v|think pro:per|it v|go-3S adv|right n|there !"],
+        "gra": ["1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|JCT 6|4|JCT 7|2|PUNCT"],
+        "act": ["<6w> holds cup up <5w> picks up nesting cup ."]
+      }
+    },
+    {
+      "index": 33,
+      "speaker": "CHI",
+      "text": "yyy .",
+      "dependent_tiers": {
+        "act": ["puts nesting cup in stack"],
+        "xpho": ["deI"]
+      }
+    },
+    {
+      "index": 34,
+      "speaker": "MOT",
+      "text": "hey !",
+      "dependent_tiers": {
+        "mor": ["co|hey !"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "act": ["puts nesting cups back on"]
+      }
+    },
+    {
+      "index": 35,
+      "speaker": "CHI",
+      "text": "hey !",
+      "dependent_tiers": {
+        "mor": ["co|hey !"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"]
+      }
+    },
+    {
+      "index": 36,
+      "speaker": "MOT",
+      "text": "good !",
+      "dependent_tiers": {
+        "mor": ["adj|good !"],
+        "gra": ["1|0|INCROOT 2|1|PUNCT"],
+        "act": ["<1w> pats nesting cup stack two times ."]
+      }
+    },
+    {
+      "index": 37,
+      "speaker": "MOT",
+      "text": "Kent (.) would you like to play with the house ?",
+      "dependent_tiers": {
+        "mor": ["n:prop|Kent mod|will&COND pro:per|you v|like inf|to v|play prep|with det:art|the n|house ?"],
+        "gra": ["1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET 9|7|POBJ 10|4|PUNCT"],
+        "act": ["<1w> rummages in toys . picks up table and puts in dollhouse"]
+      }
+    },
+    {
+      "index": 38,
+      "speaker": "CHI",
+      "text": "yyy .",
+      "dependent_tiers": {
+        "act": ["<aft> holds nesting cups in both hands"],
+        "xpho": ["kwA+kwA"]
+      }
+    },
+    {
+      "index": 39,
+      "speaker": "MOT",
+      "text": "here's a table .",
+      "dependent_tiers": {
+        "mor": ["pro:exist|here~cop|be&3S det:art|a n|table ."],
+        "gra": ["1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT"]
+      }
+    }
+  ]
+}

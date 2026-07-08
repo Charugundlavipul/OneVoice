@@ -1,0 +1,2850 @@
+{
+  "bundle_id": "timit_FGWR0",
+  "speaker_id": "FGWR0",
+  "thresholds": {
+    "sample_rate": 16000,
+    "calibration_split": "TRAIN",
+    "word_duration_global": {
+      "p10": 0.0875,
+      "p90": 0.542125
+    },
+    "phone_duration_global": {
+      "p10": 0.027499999999999997,
+      "p90": 0.14
+    },
+    "word_duration_by_phone_count": {
+      "1": {
+        "p10": 0.0376125,
+        "p90": 0.14636875000000005,
+        "n": 540
+      },
+      "2": {
+        "p10": 0.0675,
+        "p90": 0.21967500000000006,
+        "n": 2479
+      },
+      "3": {
+        "p10": 0.1350625,
+        "p90": 0.3694375,
+        "n": 2326
+      },
+      "4": {
+        "p10": 0.2088125,
+        "p90": 0.42753125000000003,
+        "n": 1566
+      },
+      "5": {
+        "p10": 0.267525,
+        "p90": 0.503275,
+        "n": 1032
+      },
+      "6": {
+        "p10": 0.31038125,
+        "p90": 0.5423,
+        "n": 854
+      },
+      "7": {
+        "p10": 0.36982499999999996,
+        "p90": 0.6202624999999999,
+        "n": 494
+      },
+      "8": {
+        "p10": 0.453125,
+        "p90": 0.808275,
+        "n": 1063
+      }
+    },
+    "phone_duration_by_label": {
+      "aa": {
+        "p10": 0.076825,
+        "p90": 0.16879375000000002,
+        "n": 834
+      },
+      "ae": {
+        "p10": 0.0970625,
+        "p90": 0.205125,
+        "n": 1051
+      },
+      "ah": {
+        "p10": 0.05096874999999999,
+        "p90": 0.12003125,
+        "n": 576
+      },
+      "ao": {
+        "p10": 0.0745625,
+        "p90": 0.17353125,
+        "n": 716
+      },
+      "aw": {
+        "p10": 0.09806250000000001,
+        "p90": 0.20833125000000005,
+        "n": 194
+      },
+      "ax": {
+        "p10": 0.028062500000000004,
+        "p90": 0.07,
+        "n": 917
+      },
+      "ax-h": {
+        "p10": 0.0179875,
+        "p90": 0.05037499999999999,
+        "n": 108
+      },
+      "axr": {
+        "p10": 0.045,
+        "p90": 0.1200125,
+        "n": 869
+      },
+      "ay": {
+        "p10": 0.0793625,
+        "p90": 0.21443750000000003,
+        "n": 629
+      },
+      "b": {
+        "p10": 0.010537500000000002,
+        "p90": 0.028700000000000003,
+        "n": 539
+      },
+      "bcl": {
+        "p10": 0.0350375,
+        "p90": 0.0934875,
+        "n": 464
+      },
+      "ch": {
+        "p10": 0.05752500000000001,
+        "p90": 0.120125,
+        "n": 212
+      },
+      "d": {
+        "p10": 0.011875,
+        "p90": 0.039125,
+        "n": 946
+      },
+      "dcl": {
+        "p10": 0.024375,
+        "p90": 0.0875,
+        "n": 1274
+      },
+      "dh": {
+        "p10": 0.01625,
+        "p90": 0.0645625,
+        "n": 721
+      },
+      "dx": {
+        "p10": 0.020000000000000004,
+        "p90": 0.03897500000000001,
+        "n": 693
+      },
+      "eh": {
+        "p10": 0.0566875,
+        "p90": 0.1305625,
+        "n": 991
+      },
+      "el": {
+        "p10": 0.05153125000000001,
+        "p90": 0.12281250000000003,
+        "n": 258
+      },
+      "em": {
+        "p10": 0.051125,
+        "p90": 0.1256875,
+        "n": 31
+      },
+      "en": {
+        "p10": 0.0446875,
+        "p90": 0.11386250000000002,
+        "n": 189
+      },
+      "epi": {
+        "p10": 0.023975000000000003,
+        "p90": 0.06,
+        "n": 387
+      },
+      "er": {
+        "p10": 0.073125,
+        "p90": 0.16025,
+        "n": 563
+      },
+      "ey": {
+        "p10": 0.07911874999999999,
+        "p90": 0.16927499999999998,
+        "n": 564
+      },
+      "f": {
+        "p10": 0.05559375,
+        "p90": 0.14881250000000001,
+        "n": 566
+      },
+      "g": {
+        "p10": 0.015125,
+        "p90": 0.04925,
+        "n": 521
+      },
+      "gcl": {
+        "p10": 0.0263125,
+        "p90": 0.07221875,
+        "n": 566
+      },
+      "h#": {
+        "p10": 0.1125,
+        "p90": 0.3025,
+        "n": 2400
+      },
+      "hh": {
+        "p10": 0.03125,
+        "p90": 0.10375,
+        "n": 241
+      },
+      "hv": {
+        "p10": 0.0394,
+        "p90": 0.1,
+        "n": 280
+      },
+      "ih": {
+        "p10": 0.04646875,
+        "p90": 0.109375,
+        "n": 1256
+      },
+      "ix": {
+        "p10": 0.02925,
+        "p90": 0.073125,
+        "n": 2257
+      },
+      "iy": {
+        "p10": 0.05148124999999999,
+        "p90": 0.12697499999999998,
+        "n": 1808
+      },
+      "jh": {
+        "p10": 0.0325,
+        "p90": 0.08520000000000005,
+        "n": 297
+      },
+      "k": {
+        "p10": 0.019875,
+        "p90": 0.0885625,
+        "n": 1261
+      },
+      "kcl": {
+        "p10": 0.0338125,
+        "p90": 0.093125,
+        "n": 1522
+      },
+      "l": {
+        "p10": 0.0353875,
+        "p90": 0.08628749999999999,
+        "n": 1533
+      },
+      "m": {
+        "p10": 0.02871875,
+        "p90": 0.09159375,
+        "n": 1006
+      },
+      "n": {
+        "p10": 0.029875,
+        "p90": 0.08192500000000001,
+        "n": 1872
+      },
+      "ng": {
+        "p10": 0.035,
+        "p90": 0.08875,
+        "n": 342
+      },
+      "nx": {
+        "p10": 0.0194125,
+        "p90": 0.036449999999999996,
+        "n": 249
+      },
+      "ow": {
+        "p10": 0.080375,
+        "p90": 0.17635625000000002,
+        "n": 542
+      },
+      "oy": {
+        "p10": 0.11185625,
+        "p90": 0.2063625,
+        "n": 192
+      },
+      "p": {
+        "p10": 0.0180625,
+        "p90": 0.073125,
+        "n": 692
+      },
+      "pau": {
+        "p10": 0.070025,
+        "p90": 0.36481250000000015,
+        "n": 249
+      },
+      "pcl": {
+        "p10": 0.04,
+        "p90": 0.0936875,
+        "n": 696
+      },
+      "q": {
+        "p10": 0.029150000000000002,
+        "p90": 0.10443750000000002,
+        "n": 973
+      },
+      "r": {
+        "p10": 0.031525000000000004,
+        "p90": 0.09100624999999997,
+        "n": 1668
+      },
+      "s": {
+        "p10": 0.07,
+        "p90": 0.16077500000000003,
+        "n": 1979
+      },
+      "sh": {
+        "p10": 0.08125,
+        "p90": 0.15119375000000002,
+        "n": 590
+      },
+      "t": {
+        "p10": 0.0199,
+        "p90": 0.083125,
+        "n": 1103
+      },
+      "tcl": {
+        "p10": 0.02399375,
+        "p90": 0.09038125000000001,
+        "n": 1690
+      },
+      "th": {
+        "p10": 0.04775,
+        "p90": 0.145,
+        "n": 199
+      },
+      "uh": {
+        "p10": 0.0403125,
+        "p90": 0.104,
+        "n": 141
+      },
+      "uw": {
+        "p10": 0.0569375,
+        "p90": 0.166625,
+        "n": 186
+      },
+      "ux": {
+        "p10": 0.045,
+        "p90": 0.17915625000000002,
+        "n": 448
+      },
+      "v": {
+        "p10": 0.035,
+        "p90": 0.08875,
+        "n": 521
+      },
+      "w": {
+        "p10": 0.026637499999999998,
+        "p90": 0.11133750000000002,
+        "n": 833
+      },
+      "y": {
+        "p10": 0.0290625,
+        "p90": 0.1175,
+        "n": 436
+      },
+      "z": {
+        "p10": 0.0525,
+        "p90": 0.12495,
+        "n": 935
+      },
+      "zh": {
+        "p10": 0.051125,
+        "p90": 0.13042499999999996,
+        "n": 37
+      }
+    }
+  },
+  "utterances": [
+    {
+      "utt_id": "FGWR0_SA1",
+      "speaker_id": "FGWR0",
+      "transcript": "She had your dark suit in greasy wash water all year.",
+      "duration": 3.2448125,
+      "txt_path": "TIMIT/TEST/DR7/FGWR0/SA1.TXT",
+      "wrd_path": "TIMIT/TEST/DR7/FGWR0/SA1.WRD",
+      "phn_path": "TIMIT/TEST/DR7/FGWR0/SA1.PHN",
+      "word_intervals": [
+        {
+          "word_index": 0,
+          "word": "she",
+          "start": 0.13875,
+          "end": 0.32375,
+          "duration": 0.185,
+          "phone_indices": [
+            1,
+            2
+          ]
+        },
+        {
+          "word_index": 1,
+          "word": "had",
+          "start": 0.32375,
+          "end": 0.551875,
+          "duration": 0.228125,
+          "phone_indices": [
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "word_index": 2,
+          "word": "your",
+          "start": 0.551875,
+          "end": 0.6225,
+          "duration": 0.070625,
+          "phone_indices": [
+            7,
+            8
+          ]
+        },
+        {
+          "word_index": 3,
+          "word": "dark",
+          "start": 0.6225,
+          "end": 0.921625,
+          "duration": 0.299125,
+          "phone_indices": [
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "word_index": 4,
+          "word": "suit",
+          "start": 0.921625,
+          "end": 1.2889375,
+          "duration": 0.3673125,
+          "phone_indices": [
+            15,
+            16,
+            17,
+            18
+          ]
+        },
+        {
+          "word_index": 5,
+          "word": "in",
+          "start": 1.2889375,
+          "end": 1.46075,
+          "duration": 0.1718125,
+          "phone_indices": [
+            19,
+            20,
+            21
+          ]
+        },
+        {
+          "word_index": 6,
+          "word": "greasy",
+          "start": 1.46075,
+          "end": 1.8250625,
+          "duration": 0.3643125,
+          "phone_indices": [
+            22,
+            23,
+            24,
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "word_index": 7,
+          "word": "wash",
+          "start": 1.8250625,
+          "end": 2.164375,
+          "duration": 0.3393125,
+          "phone_indices": [
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "word_index": 8,
+          "word": "water",
+          "start": 2.2,
+          "end": 2.483,
+          "duration": 0.283,
+          "phone_indices": [
+            32,
+            33,
+            34,
+            35
+          ]
+        },
+        {
+          "word_index": 9,
+          "word": "all",
+          "start": 2.566875,
+          "end": 2.7306875,
+          "duration": 0.1638125,
+          "phone_indices": [
+            37,
+            38
+          ]
+        },
+        {
+          "word_index": 10,
+          "word": "year",
+          "start": 2.7306875,
+          "end": 3.0625,
+          "duration": 0.3318125,
+          "phone_indices": [
+            39,
+            40,
+            41
+          ]
+        }
+      ],
+      "phone_intervals": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.13875,
+          "duration": 0.13875,
+          "word_index": null
+        },
+        {
+          "phone_index": 1,
+          "phone": "sh",
+          "start": 0.13875,
+          "end": 0.2675,
+          "duration": 0.12875,
+          "word_index": 0
+        },
+        {
+          "phone_index": 2,
+          "phone": "iy",
+          "start": 0.2675,
+          "end": 0.32375,
+          "duration": 0.05625,
+          "word_index": 0
+        },
+        {
+          "phone_index": 3,
+          "phone": "hv",
+          "start": 0.32375,
+          "end": 0.3994375,
+          "duration": 0.0756875,
+          "word_index": 1
+        },
+        {
+          "phone_index": 4,
+          "phone": "ae",
+          "start": 0.3994375,
+          "end": 0.47775,
+          "duration": 0.0783125,
+          "word_index": 1
+        },
+        {
+          "phone_index": 5,
+          "phone": "dcl",
+          "start": 0.47775,
+          "end": 0.52625,
+          "duration": 0.0485,
+          "word_index": 1
+        },
+        {
+          "phone_index": 6,
+          "phone": "d",
+          "start": 0.52625,
+          "end": 0.551875,
+          "duration": 0.025625,
+          "word_index": 1
+        },
+        {
+          "phone_index": 7,
+          "phone": "y",
+          "start": 0.551875,
+          "end": 0.575375,
+          "duration": 0.0235,
+          "word_index": 2
+        },
+        {
+          "phone_index": 8,
+          "phone": "axr",
+          "start": 0.575375,
+          "end": 0.6225,
+          "duration": 0.047125,
+          "word_index": 2
+        },
+        {
+          "phone_index": 9,
+          "phone": "dcl",
+          "start": 0.6225,
+          "end": 0.68,
+          "duration": 0.0575,
+          "word_index": 3
+        },
+        {
+          "phone_index": 10,
+          "phone": "d",
+          "start": 0.68,
+          "end": 0.6975,
+          "duration": 0.0175,
+          "word_index": 3
+        },
+        {
+          "phone_index": 11,
+          "phone": "aa",
+          "start": 0.6975,
+          "end": 0.784125,
+          "duration": 0.086625,
+          "word_index": 3
+        },
+        {
+          "phone_index": 12,
+          "phone": "r",
+          "start": 0.784125,
+          "end": 0.8325,
+          "duration": 0.048375,
+          "word_index": 3
+        },
+        {
+          "phone_index": 13,
+          "phone": "kcl",
+          "start": 0.8325,
+          "end": 0.903125,
+          "duration": 0.070625,
+          "word_index": 3
+        },
+        {
+          "phone_index": 14,
+          "phone": "k",
+          "start": 0.903125,
+          "end": 0.921625,
+          "duration": 0.0185,
+          "word_index": 3
+        },
+        {
+          "phone_index": 15,
+          "phone": "s",
+          "start": 0.921625,
+          "end": 1.07,
+          "duration": 0.148375,
+          "word_index": 4
+        },
+        {
+          "phone_index": 16,
+          "phone": "ux",
+          "start": 1.07,
+          "end": 1.2225,
+          "duration": 0.1525,
+          "word_index": 4
+        },
+        {
+          "phone_index": 17,
+          "phone": "tcl",
+          "start": 1.2225,
+          "end": 1.26625,
+          "duration": 0.04375,
+          "word_index": 4
+        },
+        {
+          "phone_index": 18,
+          "phone": "t",
+          "start": 1.26625,
+          "end": 1.2889375,
+          "duration": 0.0226875,
+          "word_index": 4
+        },
+        {
+          "phone_index": 19,
+          "phone": "q",
+          "start": 1.2889375,
+          "end": 1.3624375,
+          "duration": 0.0735,
+          "word_index": 5
+        },
+        {
+          "phone_index": 20,
+          "phone": "ix",
+          "start": 1.3624375,
+          "end": 1.3990625,
+          "duration": 0.036625,
+          "word_index": 5
+        },
+        {
+          "phone_index": 21,
+          "phone": "ng",
+          "start": 1.3990625,
+          "end": 1.46075,
+          "duration": 0.0616875,
+          "word_index": 5
+        },
+        {
+          "phone_index": 22,
+          "phone": "gcl",
+          "start": 1.46075,
+          "end": 1.50125,
+          "duration": 0.0405,
+          "word_index": 6
+        },
+        {
+          "phone_index": 23,
+          "phone": "g",
+          "start": 1.50125,
+          "end": 1.53875,
+          "duration": 0.0375,
+          "word_index": 6
+        },
+        {
+          "phone_index": 24,
+          "phone": "r",
+          "start": 1.53875,
+          "end": 1.57475,
+          "duration": 0.036,
+          "word_index": 6
+        },
+        {
+          "phone_index": 25,
+          "phone": "iy",
+          "start": 1.57475,
+          "end": 1.639625,
+          "duration": 0.064875,
+          "word_index": 6
+        },
+        {
+          "phone_index": 26,
+          "phone": "s",
+          "start": 1.639625,
+          "end": 1.75875,
+          "duration": 0.119125,
+          "word_index": 6
+        },
+        {
+          "phone_index": 27,
+          "phone": "iy",
+          "start": 1.75875,
+          "end": 1.8250625,
+          "duration": 0.0663125,
+          "word_index": 6
+        },
+        {
+          "phone_index": 28,
+          "phone": "w",
+          "start": 1.8250625,
+          "end": 1.9164375,
+          "duration": 0.091375,
+          "word_index": 7
+        },
+        {
+          "phone_index": 29,
+          "phone": "aa",
+          "start": 1.9164375,
+          "end": 2.0260625,
+          "duration": 0.109625,
+          "word_index": 7
+        },
+        {
+          "phone_index": 30,
+          "phone": "sh",
+          "start": 2.0260625,
+          "end": 2.164375,
+          "duration": 0.1383125,
+          "word_index": 7
+        },
+        {
+          "phone_index": 31,
+          "phone": "epi",
+          "start": 2.164375,
+          "end": 2.2,
+          "duration": 0.035625,
+          "word_index": null
+        },
+        {
+          "phone_index": 32,
+          "phone": "w",
+          "start": 2.2,
+          "end": 2.2425,
+          "duration": 0.0425,
+          "word_index": 8
+        },
+        {
+          "phone_index": 33,
+          "phone": "aa",
+          "start": 2.2425,
+          "end": 2.3275,
+          "duration": 0.085,
+          "word_index": 8
+        },
+        {
+          "phone_index": 34,
+          "phone": "dx",
+          "start": 2.3275,
+          "end": 2.3525,
+          "duration": 0.025,
+          "word_index": 8
+        },
+        {
+          "phone_index": 35,
+          "phone": "axr",
+          "start": 2.3525,
+          "end": 2.483,
+          "duration": 0.1305,
+          "word_index": 8
+        },
+        {
+          "phone_index": 36,
+          "phone": "q",
+          "start": 2.483,
+          "end": 2.566875,
+          "duration": 0.083875,
+          "word_index": null
+        },
+        {
+          "phone_index": 37,
+          "phone": "aa",
+          "start": 2.566875,
+          "end": 2.6785,
+          "duration": 0.111625,
+          "word_index": 9
+        },
+        {
+          "phone_index": 38,
+          "phone": "l",
+          "start": 2.6785,
+          "end": 2.7306875,
+          "duration": 0.0521875,
+          "word_index": 9
+        },
+        {
+          "phone_index": 39,
+          "phone": "y",
+          "start": 2.7306875,
+          "end": 2.8465625,
+          "duration": 0.115875,
+          "word_index": 10
+        },
+        {
+          "phone_index": 40,
+          "phone": "ih",
+          "start": 2.8465625,
+          "end": 2.928,
+          "duration": 0.0814375,
+          "word_index": 10
+        },
+        {
+          "phone_index": 41,
+          "phone": "axr",
+          "start": 2.928,
+          "end": 3.0625,
+          "duration": 0.1345,
+          "word_index": 10
+        },
+        {
+          "phone_index": 42,
+          "phone": "h#",
+          "start": 3.0625,
+          "end": 3.24,
+          "duration": 0.1775,
+          "word_index": null
+        }
+      ]
+    },
+    {
+      "utt_id": "FGWR0_SA2",
+      "speaker_id": "FGWR0",
+      "transcript": "Don't ask me to carry an oily rag like that.",
+      "duration": 2.6368125,
+      "txt_path": "TIMIT/TEST/DR7/FGWR0/SA2.TXT",
+      "wrd_path": "TIMIT/TEST/DR7/FGWR0/SA2.WRD",
+      "phn_path": "TIMIT/TEST/DR7/FGWR0/SA2.PHN",
+      "word_intervals": [
+        {
+          "word_index": 0,
+          "word": "don't",
+          "start": 0.14375,
+          "end": 0.329125,
+          "duration": 0.185375,
+          "phone_indices": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "word_index": 1,
+          "word": "ask",
+          "start": 0.329125,
+          "end": 0.533125,
+          "duration": 0.204,
+          "phone_indices": [
+            5,
+            6
+          ]
+        },
+        {
+          "word_index": 2,
+          "word": "me",
+          "start": 0.5725,
+          "end": 0.6525,
+          "duration": 0.08,
+          "phone_indices": [
+            8,
+            9
+          ]
+        },
+        {
+          "word_index": 3,
+          "word": "to",
+          "start": 0.6525,
+          "end": 0.7325,
+          "duration": 0.08,
+          "phone_indices": [
+            10,
+            11
+          ]
+        },
+        {
+          "word_index": 4,
+          "word": "carry",
+          "start": 0.7325,
+          "end": 1.0809375,
+          "duration": 0.3484375,
+          "phone_indices": [
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        },
+        {
+          "word_index": 5,
+          "word": "an",
+          "start": 1.0809375,
+          "end": 1.142625,
+          "duration": 0.0616875,
+          "phone_indices": [
+            17,
+            18
+          ]
+        },
+        {
+          "word_index": 6,
+          "word": "oily",
+          "start": 1.142625,
+          "end": 1.4908125,
+          "duration": 0.3481875,
+          "phone_indices": [
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "word_index": 7,
+          "word": "rag",
+          "start": 1.4908125,
+          "end": 1.8376875,
+          "duration": 0.346875,
+          "phone_indices": [
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "word_index": 8,
+          "word": "like",
+          "start": 1.8376875,
+          "end": 2.0495625,
+          "duration": 0.211875,
+          "phone_indices": [
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "word_index": 9,
+          "word": "that",
+          "start": 2.0495625,
+          "end": 2.5169375,
+          "duration": 0.467375,
+          "phone_indices": [
+            31,
+            32,
+            33,
+            34
+          ]
+        }
+      ],
+      "phone_intervals": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.14375,
+          "duration": 0.14375,
+          "word_index": null
+        },
+        {
+          "phone_index": 1,
+          "phone": "d",
+          "start": 0.14375,
+          "end": 0.160625,
+          "duration": 0.016875,
+          "word_index": 0
+        },
+        {
+          "phone_index": 2,
+          "phone": "ow",
+          "start": 0.160625,
+          "end": 0.2718125,
+          "duration": 0.1111875,
+          "word_index": 0
+        },
+        {
+          "phone_index": 3,
+          "phone": "n",
+          "start": 0.2718125,
+          "end": 0.295875,
+          "duration": 0.0240625,
+          "word_index": 0
+        },
+        {
+          "phone_index": 4,
+          "phone": "q",
+          "start": 0.295875,
+          "end": 0.329125,
+          "duration": 0.03325,
+          "word_index": 0
+        },
+        {
+          "phone_index": 5,
+          "phone": "ae",
+          "start": 0.329125,
+          "end": 0.45125,
+          "duration": 0.122125,
+          "word_index": 1
+        },
+        {
+          "phone_index": 6,
+          "phone": "s",
+          "start": 0.45125,
+          "end": 0.533125,
+          "duration": 0.081875,
+          "word_index": 1
+        },
+        {
+          "phone_index": 7,
+          "phone": "epi",
+          "start": 0.533125,
+          "end": 0.5725,
+          "duration": 0.039375,
+          "word_index": null
+        },
+        {
+          "phone_index": 8,
+          "phone": "m",
+          "start": 0.5725,
+          "end": 0.5959375,
+          "duration": 0.0234375,
+          "word_index": 2
+        },
+        {
+          "phone_index": 9,
+          "phone": "iy",
+          "start": 0.5959375,
+          "end": 0.6525,
+          "duration": 0.0565625,
+          "word_index": 2
+        },
+        {
+          "phone_index": 10,
+          "phone": "dx",
+          "start": 0.6525,
+          "end": 0.6811875,
+          "duration": 0.0286875,
+          "word_index": 3
+        },
+        {
+          "phone_index": 11,
+          "phone": "ix",
+          "start": 0.6811875,
+          "end": 0.7325,
+          "duration": 0.0513125,
+          "word_index": 3
+        },
+        {
+          "phone_index": 12,
+          "phone": "kcl",
+          "start": 0.7325,
+          "end": 0.7825,
+          "duration": 0.05,
+          "word_index": 4
+        },
+        {
+          "phone_index": 13,
+          "phone": "k",
+          "start": 0.7825,
+          "end": 0.875,
+          "duration": 0.0925,
+          "word_index": 4
+        },
+        {
+          "phone_index": 14,
+          "phone": "eh",
+          "start": 0.875,
+          "end": 0.92425,
+          "duration": 0.04925,
+          "word_index": 4
+        },
+        {
+          "phone_index": 15,
+          "phone": "r",
+          "start": 0.92425,
+          "end": 1.0078125,
+          "duration": 0.0835625,
+          "word_index": 4
+        },
+        {
+          "phone_index": 16,
+          "phone": "iy",
+          "start": 1.0078125,
+          "end": 1.0809375,
+          "duration": 0.073125,
+          "word_index": 4
+        },
+        {
+          "phone_index": 17,
+          "phone": "ix",
+          "start": 1.0809375,
+          "end": 1.1125,
+          "duration": 0.0315625,
+          "word_index": 5
+        },
+        {
+          "phone_index": 18,
+          "phone": "n",
+          "start": 1.1125,
+          "end": 1.142625,
+          "duration": 0.030125,
+          "word_index": 5
+        },
+        {
+          "phone_index": 19,
+          "phone": "q",
+          "start": 1.142625,
+          "end": 1.2255,
+          "duration": 0.082875,
+          "word_index": 6
+        },
+        {
+          "phone_index": 20,
+          "phone": "oy",
+          "start": 1.2255,
+          "end": 1.3550625,
+          "duration": 0.1295625,
+          "word_index": 6
+        },
+        {
+          "phone_index": 21,
+          "phone": "l",
+          "start": 1.3550625,
+          "end": 1.41775,
+          "duration": 0.0626875,
+          "word_index": 6
+        },
+        {
+          "phone_index": 22,
+          "phone": "iy",
+          "start": 1.41775,
+          "end": 1.4908125,
+          "duration": 0.0730625,
+          "word_index": 6
+        },
+        {
+          "phone_index": 23,
+          "phone": "r",
+          "start": 1.4908125,
+          "end": 1.5848125,
+          "duration": 0.094,
+          "word_index": 7
+        },
+        {
+          "phone_index": 24,
+          "phone": "ae",
+          "start": 1.5848125,
+          "end": 1.7675,
+          "duration": 0.1826875,
+          "word_index": 7
+        },
+        {
+          "phone_index": 25,
+          "phone": "gcl",
+          "start": 1.7675,
+          "end": 1.82125,
+          "duration": 0.05375,
+          "word_index": 7
+        },
+        {
+          "phone_index": 26,
+          "phone": "g",
+          "start": 1.82125,
+          "end": 1.8376875,
+          "duration": 0.0164375,
+          "word_index": 7
+        },
+        {
+          "phone_index": 27,
+          "phone": "l",
+          "start": 1.8376875,
+          "end": 1.8903125,
+          "duration": 0.052625,
+          "word_index": 8
+        },
+        {
+          "phone_index": 28,
+          "phone": "ay",
+          "start": 1.8903125,
+          "end": 1.972875,
+          "duration": 0.0825625,
+          "word_index": 8
+        },
+        {
+          "phone_index": 29,
+          "phone": "kcl",
+          "start": 1.972875,
+          "end": 1.988125,
+          "duration": 0.01525,
+          "word_index": 8
+        },
+        {
+          "phone_index": 30,
+          "phone": "k",
+          "start": 1.988125,
+          "end": 2.0495625,
+          "duration": 0.0614375,
+          "word_index": 8
+        },
+        {
+          "phone_index": 31,
+          "phone": "dh",
+          "start": 2.0495625,
+          "end": 2.106875,
+          "duration": 0.0573125,
+          "word_index": 9
+        },
+        {
+          "phone_index": 32,
+          "phone": "ae",
+          "start": 2.106875,
+          "end": 2.3325,
+          "duration": 0.225625,
+          "word_index": 9
+        },
+        {
+          "phone_index": 33,
+          "phone": "tcl",
+          "start": 2.3325,
+          "end": 2.436875,
+          "duration": 0.104375,
+          "word_index": 9
+        },
+        {
+          "phone_index": 34,
+          "phone": "t",
+          "start": 2.436875,
+          "end": 2.5169375,
+          "duration": 0.0800625,
+          "word_index": 9
+        },
+        {
+          "phone_index": 35,
+          "phone": "h#",
+          "start": 2.5169375,
+          "end": 2.63,
+          "duration": 0.1130625,
+          "word_index": null
+        }
+      ]
+    },
+    {
+      "utt_id": "FGWR0_SI1578",
+      "speaker_id": "FGWR0",
+      "transcript": "Oval face without an expression in the world.",
+      "duration": 2.841625,
+      "txt_path": "TIMIT/TEST/DR7/FGWR0/SI1578.TXT",
+      "wrd_path": "TIMIT/TEST/DR7/FGWR0/SI1578.WRD",
+      "phn_path": "TIMIT/TEST/DR7/FGWR0/SI1578.PHN",
+      "word_intervals": [
+        {
+          "word_index": 0,
+          "word": "oval",
+          "start": 0.0996875,
+          "end": 0.4229375,
+          "duration": 0.32325,
+          "phone_indices": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "word_index": 1,
+          "word": "face",
+          "start": 0.4229375,
+          "end": 0.9734375,
+          "duration": 0.5505,
+          "phone_indices": [
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "word_index": 2,
+          "word": "without",
+          "start": 1.0379375,
+          "end": 1.3025,
+          "duration": 0.2645625,
+          "phone_indices": [
+            9,
+            10,
+            11,
+            12,
+            13
+          ]
+        },
+        {
+          "word_index": 3,
+          "word": "an",
+          "start": 1.3025,
+          "end": 1.416125,
+          "duration": 0.113625,
+          "phone_indices": [
+            14,
+            15
+          ]
+        },
+        {
+          "word_index": 4,
+          "word": "expression",
+          "start": 1.416125,
+          "end": 2.0365,
+          "duration": 0.620375,
+          "phone_indices": [
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "word_index": 5,
+          "word": "in",
+          "start": 2.0365,
+          "end": 2.1425,
+          "duration": 0.106,
+          "phone_indices": [
+            27,
+            28
+          ]
+        },
+        {
+          "word_index": 6,
+          "word": "the",
+          "start": 2.1425,
+          "end": 2.1905625,
+          "duration": 0.0480625,
+          "phone_indices": [
+            29,
+            30
+          ]
+        },
+        {
+          "word_index": 7,
+          "word": "world",
+          "start": 2.1905625,
+          "end": 2.6893125,
+          "duration": 0.49875,
+          "phone_indices": [
+            31,
+            32,
+            33,
+            34,
+            35
+          ]
+        }
+      ],
+      "phone_intervals": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.0996875,
+          "duration": 0.0996875,
+          "word_index": null
+        },
+        {
+          "phone_index": 1,
+          "phone": "q",
+          "start": 0.0996875,
+          "end": 0.1733125,
+          "duration": 0.073625,
+          "word_index": 0
+        },
+        {
+          "phone_index": 2,
+          "phone": "ow",
+          "start": 0.1733125,
+          "end": 0.27675,
+          "duration": 0.1034375,
+          "word_index": 0
+        },
+        {
+          "phone_index": 3,
+          "phone": "v",
+          "start": 0.27675,
+          "end": 0.3555,
+          "duration": 0.07875,
+          "word_index": 0
+        },
+        {
+          "phone_index": 4,
+          "phone": "el",
+          "start": 0.3555,
+          "end": 0.4229375,
+          "duration": 0.0674375,
+          "word_index": 0
+        },
+        {
+          "phone_index": 5,
+          "phone": "f",
+          "start": 0.4229375,
+          "end": 0.583125,
+          "duration": 0.1601875,
+          "word_index": 1
+        },
+        {
+          "phone_index": 6,
+          "phone": "ey",
+          "start": 0.583125,
+          "end": 0.785625,
+          "duration": 0.2025,
+          "word_index": 1
+        },
+        {
+          "phone_index": 7,
+          "phone": "s",
+          "start": 0.785625,
+          "end": 0.9734375,
+          "duration": 0.1878125,
+          "word_index": 1
+        },
+        {
+          "phone_index": 8,
+          "phone": "pau",
+          "start": 0.9734375,
+          "end": 1.0379375,
+          "duration": 0.0645,
+          "word_index": null
+        },
+        {
+          "phone_index": 9,
+          "phone": "w",
+          "start": 1.0379375,
+          "end": 1.08875,
+          "duration": 0.0508125,
+          "word_index": 2
+        },
+        {
+          "phone_index": 10,
+          "phone": "ax",
+          "start": 1.08875,
+          "end": 1.128,
+          "duration": 0.03925,
+          "word_index": 2
+        },
+        {
+          "phone_index": 11,
+          "phone": "th",
+          "start": 1.128,
+          "end": 1.185,
+          "duration": 0.057,
+          "word_index": 2
+        },
+        {
+          "phone_index": 12,
+          "phone": "aw",
+          "start": 1.185,
+          "end": 1.2775,
+          "duration": 0.0925,
+          "word_index": 2
+        },
+        {
+          "phone_index": 13,
+          "phone": "dx",
+          "start": 1.2775,
+          "end": 1.3025,
+          "duration": 0.025,
+          "word_index": 2
+        },
+        {
+          "phone_index": 14,
+          "phone": "ax",
+          "start": 1.3025,
+          "end": 1.35325,
+          "duration": 0.05075,
+          "word_index": 3
+        },
+        {
+          "phone_index": 15,
+          "phone": "n",
+          "start": 1.35325,
+          "end": 1.416125,
+          "duration": 0.062875,
+          "word_index": 3
+        },
+        {
+          "phone_index": 16,
+          "phone": "ix",
+          "start": 1.416125,
+          "end": 1.4775,
+          "duration": 0.061375,
+          "word_index": 4
+        },
+        {
+          "phone_index": 17,
+          "phone": "kcl",
+          "start": 1.4775,
+          "end": 1.51,
+          "duration": 0.0325,
+          "word_index": 4
+        },
+        {
+          "phone_index": 18,
+          "phone": "k",
+          "start": 1.51,
+          "end": 1.5221875,
+          "duration": 0.0121875,
+          "word_index": 4
+        },
+        {
+          "phone_index": 19,
+          "phone": "s",
+          "start": 1.5221875,
+          "end": 1.6291875,
+          "duration": 0.107,
+          "word_index": 4
+        },
+        {
+          "phone_index": 20,
+          "phone": "pcl",
+          "start": 1.6291875,
+          "end": 1.70625,
+          "duration": 0.0770625,
+          "word_index": 4
+        },
+        {
+          "phone_index": 21,
+          "phone": "p",
+          "start": 1.70625,
+          "end": 1.719375,
+          "duration": 0.013125,
+          "word_index": 4
+        },
+        {
+          "phone_index": 22,
+          "phone": "r",
+          "start": 1.719375,
+          "end": 1.75375,
+          "duration": 0.034375,
+          "word_index": 4
+        },
+        {
+          "phone_index": 23,
+          "phone": "eh",
+          "start": 1.75375,
+          "end": 1.8171875,
+          "duration": 0.0634375,
+          "word_index": 4
+        },
+        {
+          "phone_index": 24,
+          "phone": "sh",
+          "start": 1.8171875,
+          "end": 1.935625,
+          "duration": 0.1184375,
+          "word_index": 4
+        },
+        {
+          "phone_index": 25,
+          "phone": "ix",
+          "start": 1.935625,
+          "end": 1.9765,
+          "duration": 0.040875,
+          "word_index": 4
+        },
+        {
+          "phone_index": 26,
+          "phone": "n",
+          "start": 1.9765,
+          "end": 2.0365,
+          "duration": 0.06,
+          "word_index": 4
+        },
+        {
+          "phone_index": 27,
+          "phone": "ix",
+          "start": 2.0365,
+          "end": 2.0875,
+          "duration": 0.051,
+          "word_index": 5
+        },
+        {
+          "phone_index": 28,
+          "phone": "n",
+          "start": 2.0875,
+          "end": 2.1425,
+          "duration": 0.055,
+          "word_index": 5
+        },
+        {
+          "phone_index": 29,
+          "phone": "dh",
+          "start": 2.1425,
+          "end": 2.15925,
+          "duration": 0.01675,
+          "word_index": 6
+        },
+        {
+          "phone_index": 30,
+          "phone": "ax",
+          "start": 2.15925,
+          "end": 2.1905625,
+          "duration": 0.0313125,
+          "word_index": 6
+        },
+        {
+          "phone_index": 31,
+          "phone": "w",
+          "start": 2.1905625,
+          "end": 2.30025,
+          "duration": 0.1096875,
+          "word_index": 7
+        },
+        {
+          "phone_index": 32,
+          "phone": "er",
+          "start": 2.30025,
+          "end": 2.4144375,
+          "duration": 0.1141875,
+          "word_index": 7
+        },
+        {
+          "phone_index": 33,
+          "phone": "l",
+          "start": 2.4144375,
+          "end": 2.5758125,
+          "duration": 0.161375,
+          "word_index": 7
+        },
+        {
+          "phone_index": 34,
+          "phone": "dcl",
+          "start": 2.5758125,
+          "end": 2.611,
+          "duration": 0.0351875,
+          "word_index": 7
+        },
+        {
+          "phone_index": 35,
+          "phone": "d",
+          "start": 2.611,
+          "end": 2.6893125,
+          "duration": 0.0783125,
+          "word_index": 7
+        },
+        {
+          "phone_index": 36,
+          "phone": "h#",
+          "start": 2.6893125,
+          "end": 2.835,
+          "duration": 0.1456875,
+          "word_index": null
+        }
+      ]
+    },
+    {
+      "utt_id": "FGWR0_SI2208",
+      "speaker_id": "FGWR0",
+      "transcript": "Yes, because you didn't run off to use that new toothbrush.",
+      "duration": 3.257625,
+      "txt_path": "TIMIT/TEST/DR7/FGWR0/SI2208.TXT",
+      "wrd_path": "TIMIT/TEST/DR7/FGWR0/SI2208.WRD",
+      "phn_path": "TIMIT/TEST/DR7/FGWR0/SI2208.PHN",
+      "word_intervals": [
+        {
+          "word_index": 0,
+          "word": "yes",
+          "start": 0.1345,
+          "end": 0.524375,
+          "duration": 0.389875,
+          "phone_indices": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "word_index": 1,
+          "word": "because",
+          "start": 0.60875,
+          "end": 0.8499375,
+          "duration": 0.2411875,
+          "phone_indices": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "word_index": 2,
+          "word": "you",
+          "start": 0.7910625,
+          "end": 0.8975,
+          "duration": 0.1064375,
+          "phone_indices": [
+            11
+          ]
+        },
+        {
+          "word_index": 3,
+          "word": "didn't",
+          "start": 0.8975,
+          "end": 1.22,
+          "duration": 0.3225,
+          "phone_indices": [
+            12,
+            13,
+            14,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "word_index": 4,
+          "word": "run",
+          "start": 1.22,
+          "end": 1.3725,
+          "duration": 0.1525,
+          "phone_indices": [
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "word_index": 5,
+          "word": "off",
+          "start": 1.3725,
+          "end": 1.597625,
+          "duration": 0.225125,
+          "phone_indices": [
+            21,
+            22
+          ]
+        },
+        {
+          "word_index": 6,
+          "word": "to",
+          "start": 1.597625,
+          "end": 1.718,
+          "duration": 0.120375,
+          "phone_indices": [
+            23,
+            24,
+            25
+          ]
+        },
+        {
+          "word_index": 7,
+          "word": "use",
+          "start": 1.718,
+          "end": 2.0138125,
+          "duration": 0.2958125,
+          "phone_indices": [
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "word_index": 8,
+          "word": "that",
+          "start": 2.0138125,
+          "end": 2.248125,
+          "duration": 0.2343125,
+          "phone_indices": [
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "word_index": 9,
+          "word": "new",
+          "start": 2.248125,
+          "end": 2.4255,
+          "duration": 0.177375,
+          "phone_indices": [
+            32,
+            33
+          ]
+        },
+        {
+          "word_index": 10,
+          "word": "toothbrush",
+          "start": 2.4255,
+          "end": 3.12,
+          "duration": 0.6945,
+          "phone_indices": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ]
+        }
+      ],
+      "phone_intervals": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.1345,
+          "duration": 0.1345,
+          "word_index": null
+        },
+        {
+          "phone_index": 1,
+          "phone": "y",
+          "start": 0.1345,
+          "end": 0.232375,
+          "duration": 0.097875,
+          "word_index": 0
+        },
+        {
+          "phone_index": 2,
+          "phone": "eh",
+          "start": 0.232375,
+          "end": 0.389,
+          "duration": 0.156625,
+          "word_index": 0
+        },
+        {
+          "phone_index": 3,
+          "phone": "s",
+          "start": 0.389,
+          "end": 0.524375,
+          "duration": 0.135375,
+          "word_index": 0
+        },
+        {
+          "phone_index": 4,
+          "phone": "pau",
+          "start": 0.524375,
+          "end": 0.60875,
+          "duration": 0.084375,
+          "word_index": null
+        },
+        {
+          "phone_index": 5,
+          "phone": "b",
+          "start": 0.60875,
+          "end": 0.626625,
+          "duration": 0.017875,
+          "word_index": 1
+        },
+        {
+          "phone_index": 6,
+          "phone": "ix",
+          "start": 0.626625,
+          "end": 0.645,
+          "duration": 0.018375,
+          "word_index": 1
+        },
+        {
+          "phone_index": 7,
+          "phone": "kcl",
+          "start": 0.645,
+          "end": 0.673125,
+          "duration": 0.028125,
+          "word_index": 1
+        },
+        {
+          "phone_index": 8,
+          "phone": "k",
+          "start": 0.673125,
+          "end": 0.724375,
+          "duration": 0.05125,
+          "word_index": 1
+        },
+        {
+          "phone_index": 9,
+          "phone": "ah",
+          "start": 0.724375,
+          "end": 0.7910625,
+          "duration": 0.0666875,
+          "word_index": 1
+        },
+        {
+          "phone_index": 10,
+          "phone": "zh",
+          "start": 0.7910625,
+          "end": 0.8499375,
+          "duration": 0.058875,
+          "word_index": 1
+        },
+        {
+          "phone_index": 11,
+          "phone": "ix",
+          "start": 0.8499375,
+          "end": 0.8975,
+          "duration": 0.0475625,
+          "word_index": 2
+        },
+        {
+          "phone_index": 12,
+          "phone": "dcl",
+          "start": 0.8975,
+          "end": 0.959375,
+          "duration": 0.061875,
+          "word_index": 3
+        },
+        {
+          "phone_index": 13,
+          "phone": "d",
+          "start": 0.959375,
+          "end": 0.981875,
+          "duration": 0.0225,
+          "word_index": 3
+        },
+        {
+          "phone_index": 14,
+          "phone": "ih",
+          "start": 0.981875,
+          "end": 1.0380625,
+          "duration": 0.0561875,
+          "word_index": 3
+        },
+        {
+          "phone_index": 15,
+          "phone": "dx",
+          "start": 1.0380625,
+          "end": 1.0783125,
+          "duration": 0.04025,
+          "word_index": 3
+        },
+        {
+          "phone_index": 16,
+          "phone": "en",
+          "start": 1.0783125,
+          "end": 1.133125,
+          "duration": 0.0548125,
+          "word_index": 3
+        },
+        {
+          "phone_index": 17,
+          "phone": "q",
+          "start": 1.133125,
+          "end": 1.22,
+          "duration": 0.086875,
+          "word_index": 3
+        },
+        {
+          "phone_index": 18,
+          "phone": "r",
+          "start": 1.22,
+          "end": 1.2715,
+          "duration": 0.0515,
+          "word_index": 4
+        },
+        {
+          "phone_index": 19,
+          "phone": "ah",
+          "start": 1.2715,
+          "end": 1.3375,
+          "duration": 0.066,
+          "word_index": 4
+        },
+        {
+          "phone_index": 20,
+          "phone": "n",
+          "start": 1.3375,
+          "end": 1.3725,
+          "duration": 0.035,
+          "word_index": 4
+        },
+        {
+          "phone_index": 21,
+          "phone": "aa",
+          "start": 1.3725,
+          "end": 1.5116875,
+          "duration": 0.1391875,
+          "word_index": 5
+        },
+        {
+          "phone_index": 22,
+          "phone": "f",
+          "start": 1.5116875,
+          "end": 1.597625,
+          "duration": 0.0859375,
+          "word_index": 5
+        },
+        {
+          "phone_index": 23,
+          "phone": "tcl",
+          "start": 1.597625,
+          "end": 1.6268125,
+          "duration": 0.0291875,
+          "word_index": 6
+        },
+        {
+          "phone_index": 24,
+          "phone": "t",
+          "start": 1.6268125,
+          "end": 1.6761875,
+          "duration": 0.049375,
+          "word_index": 6
+        },
+        {
+          "phone_index": 25,
+          "phone": "ix",
+          "start": 1.6761875,
+          "end": 1.718,
+          "duration": 0.0418125,
+          "word_index": 6
+        },
+        {
+          "phone_index": 26,
+          "phone": "y",
+          "start": 1.718,
+          "end": 1.785875,
+          "duration": 0.067875,
+          "word_index": 7
+        },
+        {
+          "phone_index": 27,
+          "phone": "ux",
+          "start": 1.785875,
+          "end": 1.9375,
+          "duration": 0.151625,
+          "word_index": 7
+        },
+        {
+          "phone_index": 28,
+          "phone": "z",
+          "start": 1.9375,
+          "end": 2.0138125,
+          "duration": 0.0763125,
+          "word_index": 7
+        },
+        {
+          "phone_index": 29,
+          "phone": "dh",
+          "start": 2.0138125,
+          "end": 2.090625,
+          "duration": 0.0768125,
+          "word_index": 8
+        },
+        {
+          "phone_index": 30,
+          "phone": "ae",
+          "start": 2.090625,
+          "end": 2.1691875,
+          "duration": 0.0785625,
+          "word_index": 8
+        },
+        {
+          "phone_index": 31,
+          "phone": "q",
+          "start": 2.1691875,
+          "end": 2.248125,
+          "duration": 0.0789375,
+          "word_index": 8
+        },
+        {
+          "phone_index": 32,
+          "phone": "n",
+          "start": 2.248125,
+          "end": 2.331,
+          "duration": 0.082875,
+          "word_index": 9
+        },
+        {
+          "phone_index": 33,
+          "phone": "ux",
+          "start": 2.331,
+          "end": 2.4255,
+          "duration": 0.0945,
+          "word_index": 9
+        },
+        {
+          "phone_index": 34,
+          "phone": "tcl",
+          "start": 2.4255,
+          "end": 2.48625,
+          "duration": 0.06075,
+          "word_index": 10
+        },
+        {
+          "phone_index": 35,
+          "phone": "t",
+          "start": 2.48625,
+          "end": 2.56125,
+          "duration": 0.075,
+          "word_index": 10
+        },
+        {
+          "phone_index": 36,
+          "phone": "ux",
+          "start": 2.56125,
+          "end": 2.6075,
+          "duration": 0.04625,
+          "word_index": 10
+        },
+        {
+          "phone_index": 37,
+          "phone": "th",
+          "start": 2.6075,
+          "end": 2.665,
+          "duration": 0.0575,
+          "word_index": 10
+        },
+        {
+          "phone_index": 38,
+          "phone": "bcl",
+          "start": 2.665,
+          "end": 2.75,
+          "duration": 0.085,
+          "word_index": 10
+        },
+        {
+          "phone_index": 39,
+          "phone": "b",
+          "start": 2.75,
+          "end": 2.765625,
+          "duration": 0.015625,
+          "word_index": 10
+        },
+        {
+          "phone_index": 40,
+          "phone": "r",
+          "start": 2.765625,
+          "end": 2.8120625,
+          "duration": 0.0464375,
+          "word_index": 10
+        },
+        {
+          "phone_index": 41,
+          "phone": "ah",
+          "start": 2.8120625,
+          "end": 2.905,
+          "duration": 0.0929375,
+          "word_index": 10
+        },
+        {
+          "phone_index": 42,
+          "phone": "sh",
+          "start": 2.905,
+          "end": 3.12,
+          "duration": 0.215,
+          "word_index": 10
+        },
+        {
+          "phone_index": 43,
+          "phone": "h#",
+          "start": 3.12,
+          "end": 3.255,
+          "duration": 0.135,
+          "word_index": null
+        }
+      ]
+    },
+    {
+      "utt_id": "FGWR0_SI948",
+      "speaker_id": "FGWR0",
+      "transcript": "How much will it cost to do any necessary modernizing and redecorating?",
+      "duration": 4.2048125,
+      "txt_path": "TIMIT/TEST/DR7/FGWR0/SI948.TXT",
+      "wrd_path": "TIMIT/TEST/DR7/FGWR0/SI948.WRD",
+      "phn_path": "TIMIT/TEST/DR7/FGWR0/SI948.PHN",
+      "word_intervals": [
+        {
+          "word_index": 0,
+          "word": "how",
+          "start": 0.1275,
+          "end": 0.2675,
+          "duration": 0.14,
+          "phone_indices": [
+            1,
+            2
+          ]
+        },
+        {
+          "word_index": 1,
+          "word": "much",
+          "start": 0.2675,
+          "end": 0.5745625,
+          "duration": 0.3070625,
+          "phone_indices": [
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "word_index": 2,
+          "word": "will",
+          "start": 0.5745625,
+          "end": 0.720625,
+          "duration": 0.1460625,
+          "phone_indices": [
+            7,
+            8,
+            9
+          ]
+        },
+        {
+          "word_index": 3,
+          "word": "it",
+          "start": 0.720625,
+          "end": 0.866875,
+          "duration": 0.14625,
+          "phone_indices": [
+            10,
+            11
+          ]
+        },
+        {
+          "word_index": 4,
+          "word": "cost",
+          "start": 0.866875,
+          "end": 1.2725,
+          "duration": 0.405625,
+          "phone_indices": [
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "word_index": 5,
+          "word": "to",
+          "start": 1.2725,
+          "end": 1.3498125,
+          "duration": 0.0773125,
+          "phone_indices": [
+            16,
+            17
+          ]
+        },
+        {
+          "word_index": 6,
+          "word": "do",
+          "start": 1.3498125,
+          "end": 1.480375,
+          "duration": 0.1305625,
+          "phone_indices": [
+            18,
+            19,
+            20
+          ]
+        },
+        {
+          "word_index": 7,
+          "word": "any",
+          "start": 1.5586875,
+          "end": 1.720625,
+          "duration": 0.1619375,
+          "phone_indices": [
+            22,
+            23,
+            24
+          ]
+        },
+        {
+          "word_index": 8,
+          "word": "necessary",
+          "start": 1.720625,
+          "end": 2.3425,
+          "duration": 0.621875,
+          "phone_indices": [
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "word_index": 9,
+          "word": "modernizing",
+          "start": 2.3425,
+          "end": 3.1325,
+          "duration": 0.79,
+          "phone_indices": [
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42
+          ]
+        },
+        {
+          "word_index": 10,
+          "word": "and",
+          "start": 3.1325,
+          "end": 3.284,
+          "duration": 0.1515,
+          "phone_indices": [
+            43,
+            44,
+            45
+          ]
+        },
+        {
+          "word_index": 11,
+          "word": "redecorating",
+          "start": 3.284,
+          "end": 3.9436875,
+          "duration": 0.6596875,
+          "phone_indices": [
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57
+          ]
+        }
+      ],
+      "phone_intervals": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.1275,
+          "duration": 0.1275,
+          "word_index": null
+        },
+        {
+          "phone_index": 1,
+          "phone": "hh",
+          "start": 0.1275,
+          "end": 0.1875,
+          "duration": 0.06,
+          "word_index": 0
+        },
+        {
+          "phone_index": 2,
+          "phone": "aw",
+          "start": 0.1875,
+          "end": 0.2675,
+          "duration": 0.08,
+          "word_index": 0
+        },
+        {
+          "phone_index": 3,
+          "phone": "m",
+          "start": 0.2675,
+          "end": 0.3368125,
+          "duration": 0.0693125,
+          "word_index": 1
+        },
+        {
+          "phone_index": 4,
+          "phone": "ah",
+          "start": 0.3368125,
+          "end": 0.4525,
+          "duration": 0.1156875,
+          "word_index": 1
+        },
+        {
+          "phone_index": 5,
+          "phone": "tcl",
+          "start": 0.4525,
+          "end": 0.484375,
+          "duration": 0.031875,
+          "word_index": 1
+        },
+        {
+          "phone_index": 6,
+          "phone": "ch",
+          "start": 0.484375,
+          "end": 0.5745625,
+          "duration": 0.0901875,
+          "word_index": 1
+        },
+        {
+          "phone_index": 7,
+          "phone": "w",
+          "start": 0.5745625,
+          "end": 0.63425,
+          "duration": 0.0596875,
+          "word_index": 2
+        },
+        {
+          "phone_index": 8,
+          "phone": "ax",
+          "start": 0.63425,
+          "end": 0.6725,
+          "duration": 0.03825,
+          "word_index": 2
+        },
+        {
+          "phone_index": 9,
+          "phone": "l",
+          "start": 0.6725,
+          "end": 0.720625,
+          "duration": 0.048125,
+          "word_index": 2
+        },
+        {
+          "phone_index": 10,
+          "phone": "ix",
+          "start": 0.720625,
+          "end": 0.780625,
+          "duration": 0.06,
+          "word_index": 3
+        },
+        {
+          "phone_index": 11,
+          "phone": "tcl",
+          "start": 0.780625,
+          "end": 0.866875,
+          "duration": 0.08625,
+          "word_index": 3
+        },
+        {
+          "phone_index": 12,
+          "phone": "k",
+          "start": 0.866875,
+          "end": 0.945,
+          "duration": 0.078125,
+          "word_index": 4
+        },
+        {
+          "phone_index": 13,
+          "phone": "aa",
+          "start": 0.945,
+          "end": 1.138375,
+          "duration": 0.193375,
+          "word_index": 4
+        },
+        {
+          "phone_index": 14,
+          "phone": "s",
+          "start": 1.138375,
+          "end": 1.2425,
+          "duration": 0.104125,
+          "word_index": 4
+        },
+        {
+          "phone_index": 15,
+          "phone": "tcl",
+          "start": 1.2425,
+          "end": 1.2725,
+          "duration": 0.03,
+          "word_index": 4
+        },
+        {
+          "phone_index": 16,
+          "phone": "t",
+          "start": 1.2725,
+          "end": 1.325625,
+          "duration": 0.053125,
+          "word_index": 5
+        },
+        {
+          "phone_index": 17,
+          "phone": "ix",
+          "start": 1.325625,
+          "end": 1.3498125,
+          "duration": 0.0241875,
+          "word_index": 5
+        },
+        {
+          "phone_index": 18,
+          "phone": "dcl",
+          "start": 1.3498125,
+          "end": 1.41,
+          "duration": 0.0601875,
+          "word_index": 6
+        },
+        {
+          "phone_index": 19,
+          "phone": "d",
+          "start": 1.41,
+          "end": 1.435,
+          "duration": 0.025,
+          "word_index": 6
+        },
+        {
+          "phone_index": 20,
+          "phone": "ux",
+          "start": 1.435,
+          "end": 1.480375,
+          "duration": 0.045375,
+          "word_index": 6
+        },
+        {
+          "phone_index": 21,
+          "phone": "q",
+          "start": 1.480375,
+          "end": 1.5586875,
+          "duration": 0.0783125,
+          "word_index": null
+        },
+        {
+          "phone_index": 22,
+          "phone": "eh",
+          "start": 1.5586875,
+          "end": 1.6225,
+          "duration": 0.0638125,
+          "word_index": 7
+        },
+        {
+          "phone_index": 23,
+          "phone": "nx",
+          "start": 1.6225,
+          "end": 1.6525,
+          "duration": 0.03,
+          "word_index": 7
+        },
+        {
+          "phone_index": 24,
+          "phone": "iy",
+          "start": 1.6525,
+          "end": 1.720625,
+          "duration": 0.068125,
+          "word_index": 7
+        },
+        {
+          "phone_index": 25,
+          "phone": "n",
+          "start": 1.720625,
+          "end": 1.7780625,
+          "duration": 0.0574375,
+          "word_index": 8
+        },
+        {
+          "phone_index": 26,
+          "phone": "eh",
+          "start": 1.7780625,
+          "end": 1.859,
+          "duration": 0.0809375,
+          "word_index": 8
+        },
+        {
+          "phone_index": 27,
+          "phone": "s",
+          "start": 1.859,
+          "end": 1.94775,
+          "duration": 0.08875,
+          "word_index": 8
+        },
+        {
+          "phone_index": 28,
+          "phone": "ax",
+          "start": 1.94775,
+          "end": 1.9816875,
+          "duration": 0.0339375,
+          "word_index": 8
+        },
+        {
+          "phone_index": 29,
+          "phone": "s",
+          "start": 1.9816875,
+          "end": 2.1280625,
+          "duration": 0.146375,
+          "word_index": 8
+        },
+        {
+          "phone_index": 30,
+          "phone": "eh",
+          "start": 2.1280625,
+          "end": 2.203625,
+          "duration": 0.0755625,
+          "word_index": 8
+        },
+        {
+          "phone_index": 31,
+          "phone": "r",
+          "start": 2.203625,
+          "end": 2.274125,
+          "duration": 0.0705,
+          "word_index": 8
+        },
+        {
+          "phone_index": 32,
+          "phone": "iy",
+          "start": 2.274125,
+          "end": 2.3425,
+          "duration": 0.068375,
+          "word_index": 8
+        },
+        {
+          "phone_index": 33,
+          "phone": "m",
+          "start": 2.3425,
+          "end": 2.438625,
+          "duration": 0.096125,
+          "word_index": 9
+        },
+        {
+          "phone_index": 34,
+          "phone": "aa",
+          "start": 2.438625,
+          "end": 2.5841875,
+          "duration": 0.1455625,
+          "word_index": 9
+        },
+        {
+          "phone_index": 35,
+          "phone": "dcl",
+          "start": 2.5841875,
+          "end": 2.60025,
+          "duration": 0.0160625,
+          "word_index": 9
+        },
+        {
+          "phone_index": 36,
+          "phone": "d",
+          "start": 2.60025,
+          "end": 2.6130625,
+          "duration": 0.0128125,
+          "word_index": 9
+        },
+        {
+          "phone_index": 37,
+          "phone": "er",
+          "start": 2.6130625,
+          "end": 2.685875,
+          "duration": 0.0728125,
+          "word_index": 9
+        },
+        {
+          "phone_index": 38,
+          "phone": "n",
+          "start": 2.685875,
+          "end": 2.74075,
+          "duration": 0.054875,
+          "word_index": 9
+        },
+        {
+          "phone_index": 39,
+          "phone": "ay",
+          "start": 2.74075,
+          "end": 2.943125,
+          "duration": 0.202375,
+          "word_index": 9
+        },
+        {
+          "phone_index": 40,
+          "phone": "z",
+          "start": 2.943125,
+          "end": 3.015625,
+          "duration": 0.0725,
+          "word_index": 9
+        },
+        {
+          "phone_index": 41,
+          "phone": "iy",
+          "start": 3.015625,
+          "end": 3.08725,
+          "duration": 0.071625,
+          "word_index": 9
+        },
+        {
+          "phone_index": 42,
+          "phone": "ng",
+          "start": 3.08725,
+          "end": 3.1325,
+          "duration": 0.04525,
+          "word_index": 9
+        },
+        {
+          "phone_index": 43,
+          "phone": "q",
+          "start": 3.1325,
+          "end": 3.2031875,
+          "duration": 0.0706875,
+          "word_index": 10
+        },
+        {
+          "phone_index": 44,
+          "phone": "ix",
+          "start": 3.2031875,
+          "end": 3.2325,
+          "duration": 0.0293125,
+          "word_index": 10
+        },
+        {
+          "phone_index": 45,
+          "phone": "n",
+          "start": 3.2325,
+          "end": 3.284,
+          "duration": 0.0515,
+          "word_index": 10
+        },
+        {
+          "phone_index": 46,
+          "phone": "r",
+          "start": 3.284,
+          "end": 3.3353125,
+          "duration": 0.0513125,
+          "word_index": 11
+        },
+        {
+          "phone_index": 47,
+          "phone": "ix",
+          "start": 3.3353125,
+          "end": 3.3775,
+          "duration": 0.0421875,
+          "word_index": 11
+        },
+        {
+          "phone_index": 48,
+          "phone": "dcl",
+          "start": 3.3775,
+          "end": 3.405625,
+          "duration": 0.028125,
+          "word_index": 11
+        },
+        {
+          "phone_index": 49,
+          "phone": "d",
+          "start": 3.405625,
+          "end": 3.4175,
+          "duration": 0.011875,
+          "word_index": 11
+        },
+        {
+          "phone_index": 50,
+          "phone": "ah",
+          "start": 3.4175,
+          "end": 3.5075,
+          "duration": 0.09,
+          "word_index": 11
+        },
+        {
+          "phone_index": 51,
+          "phone": "kcl",
+          "start": 3.5075,
+          "end": 3.573125,
+          "duration": 0.065625,
+          "word_index": 11
+        },
+        {
+          "phone_index": 52,
+          "phone": "k",
+          "start": 3.573125,
+          "end": 3.619375,
+          "duration": 0.04625,
+          "word_index": 11
+        },
+        {
+          "phone_index": 53,
+          "phone": "axr",
+          "start": 3.619375,
+          "end": 3.69825,
+          "duration": 0.078875,
+          "word_index": 11
+        },
+        {
+          "phone_index": 54,
+          "phone": "ey",
+          "start": 3.69825,
+          "end": 3.8075,
+          "duration": 0.10925,
+          "word_index": 11
+        },
+        {
+          "phone_index": 55,
+          "phone": "dx",
+          "start": 3.8075,
+          "end": 3.8425,
+          "duration": 0.035,
+          "word_index": 11
+        },
+        {
+          "phone_index": 56,
+          "phone": "ix",
+          "start": 3.8425,
+          "end": 3.8861875,
+          "duration": 0.0436875,
+          "word_index": 11
+        },
+        {
+          "phone_index": 57,
+          "phone": "ng",
+          "start": 3.8861875,
+          "end": 3.9436875,
+          "duration": 0.0575,
+          "word_index": 11
+        },
+        {
+          "phone_index": 58,
+          "phone": "h#",
+          "start": 3.9436875,
+          "end": 4.2,
+          "duration": 0.2563125,
+          "word_index": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "utterance_index": 22,
+      "speaker": "MOT",
+      "source_text": "one .",
+      "related_utterance_index": 21,
+      "related_speaker": "CHI",
+      "related_text": "one .",
+      "description": "Mother repeats child's utterance 'one'"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 24,
+      "speaker": "MOT",
+      "source_text": "two !",
+      "related_utterance_index": 23,
+      "related_speaker": "CHI",
+      "related_text": "three .",
+      "description": "Mother corrects child's number from 'three' to 'two'"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 25,
+      "speaker": "CHI",
+      "source_text": "three .",
+      "related_utterance_index": 24,
+      "related_speaker": "MOT",
+      "related_text": "two !",
+      "description": "Child repeats own previous utterance 'three' after mother's correction"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 26,
+      "speaker": "MOT",
+      "source_text": "three !",
+      "related_utterance_index": 25,
+      "related_speaker": "CHI",
+      "related_text": "three .",
+      "description": "Mother repeats child's utterance 'three' with emphasis"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 20,
+      "speaker": "MOT",
+      "source_text": "that one doesn't go (.) in here (.) that one .",
+      "description": "Two pauses marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 27,
+      "speaker": "MOT",
+      "source_text": "here (.) it looks like the orange one will fit in there .",
+      "description": "One pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 30,
+      "speaker": "MOT",
+      "source_text": "I was right (.) the first time .",
+      "description": "One pause marked with (.)"
+    }
+  ]
+}

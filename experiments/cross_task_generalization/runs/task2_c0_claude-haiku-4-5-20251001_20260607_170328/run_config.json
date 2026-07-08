@@ -1,0 +1,11 @@
+{
+  "manifest": "experiments\\cross_task_generalization\\manifests\\task2_childes_manifest_enhanced.jsonl",
+  "output_root": "experiments\\cross_task_generalization\\runs",
+  "condition": "c0",
+  "model": "claude-haiku-4-5-20251001",
+  "max_records": null,
+  "dry_run": false,
+  "max_output_tokens": 12000,
+  "max_repair_rounds": 2,
+  "record_count": 75
+}

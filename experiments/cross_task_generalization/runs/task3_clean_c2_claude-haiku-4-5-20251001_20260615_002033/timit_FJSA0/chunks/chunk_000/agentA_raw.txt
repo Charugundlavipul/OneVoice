@@ -1,0 +1,38 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "short_word",
+      "word_index": 2,
+      "start": 0.5043125,
+      "end": 0.6175,
+      "duration": 0.1131875,
+      "utt_id": "FJSA0_SA1"
+    },
+    {
+      "event_type": "long_word",
+      "word_index": 6,
+      "start": 1.43075,
+      "end": 1.85375,
+      "duration": 0.423,
+      "utt_id": "FJSA0_SA1"
+    },
+    {
+      "event_type": "inter_word_gap",
+      "word_index": 7,
+      "start": 2.159375,
+      "end": 2.195,
+      "duration": 0.035625,
+      "utt_id": "FJSA0_SA1"
+    },
+    {
+      "event_type": "inter_word_gap",
+      "word_index": 8,
+      "start": 2.4475,
+      "end": 2.5116875,
+      "duration": 0.0641875,
+      "utt_id": "FJSA0_SA1"
+    }
+  ]
+}
+```

@@ -1,0 +1,310 @@
+```json
+{
+  "bundle_id": "timit_FADG0",
+  "speaker_id": "FADG0",
+  "timing_events": [
+    {
+      "utt_id": "FADG0_SA1",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "suit",
+          "start": 0.975,
+          "end": 1.3368125,
+          "duration": 0.3618125,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "duration 0.362s within expected range for 4-phone word but at upper bound"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "greasy",
+          "start": 1.5038125,
+          "end": 1.8775,
+          "duration": 0.3736875,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "reason": "duration 0.374s within expected range for 6-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 10,
+          "word": "year",
+          "start": 2.7766875,
+          "end": 3.1425,
+          "duration": 0.3658125,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "reason": "duration 0.366s at p90 threshold for 3-phone word"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [7, 8],
+          "gap_start": 2.2428125,
+          "gap_end": 2.274125,
+          "duration": 0.0313125,
+          "reason": "epi phone between 'wash' and 'water'"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [8, 9],
+          "gap_start": 2.5398125,
+          "gap_end": 2.581375,
+          "duration": 0.0415625,
+          "reason": "q phone between 'water' and 'all'"
+        }
+      ]
+    },
+    {
+      "utt_id": "FADG0_SA2",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "ask",
+          "start": 0.3524375,
+          "end": 0.6625,
+          "duration": 0.3100625,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "reason": "duration 0.310s below p90 but notable for 3-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "carry",
+          "start": 0.8625,
+          "end": 1.203625,
+          "duration": 0.341125,
+          "phone_count": 5,
+          "threshold_p90": 0.503275,
+          "reason": "duration 0.341s within expected range for 5-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "rag",
+          "start": 1.639625,
+          "end": 1.9843125,
+          "duration": 0.3446875,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "duration 0.345s within expected range for 4-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 9,
+          "word": "that",
+          "start": 2.203625,
+          "end": 2.56875,
+          "duration": 0.365125,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "reason": "duration 0.365s at p90 threshold for 3-phone word"
+        }
+      ]
+    },
+    {
+      "utt_id": "FADG0_SI1279",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 0,
+          "word": "bricks",
+          "start": 0.1375,
+          "end": 0.4635,
+          "duration": 0.326,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "reason": "duration 0.326s within expected range for 6-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 3,
+          "word": "alternative",
+          "start": 0.8025,
+          "end": 1.6475,
+          "duration": 0.845,
+          "phone_count": 11,
+          "threshold_p90": null,
+          "reason": "duration 0.845s notably long for 11-phone word (no calibration data)"
+        }
+      ]
+    },
+    {
+      "utt_id": "FADG0_SI1909",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 0,
+          "word": "fat",
+          "start": 0.1425,
+          "end": 0.4595,
+          "duration": 0.317,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "reason": "duration 0.317s below p90 but notable for 3-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "showed",
+          "start": 0.4595,
+          "end": 0.9346875,
+          "duration": 0.4751875,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "duration 0.475s exceeds p90 threshold for 4-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "rolls",
+          "start": 1.4595,
+          "end": 1.8375,
+          "duration": 0.378,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "duration 0.378s within expected range for 4-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 5,
+          "word": "beneath",
+          "start": 1.8375,
+          "end": 2.2675,
+          "duration": 0.43,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "reason": "duration 0.430s within expected range for 6-phone word"
+        },
+        {
+          "event_type": "short_word",
+          "word_index": 6,
+          "word": "the",
+          "start": 2.2675,
+          "end": 2.3125,
+          "duration": 0.045,
+          "phone_count": 1,
+          "threshold_p10": 0.0376125,
+          "reason": "duration 0.045s above p10 but notably short for 1-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "shirt",
+          "start": 2.3125,
+          "end": 2.72875,
+          "duration": 0.41625,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "reason": "duration 0.416s exceeds p90 threshold for 3-phone word"
+        }
+      ]
+    },
+    {
+      "utt_id": "FADG0_SI649",
+      "events": [
+        {
+          "event_type": "short_word",
+          "word_index": 0,
+          "word": "it",
+          "start": 0.1475,
+          "end": 0.22975,
+          "duration": 0.08225,
+          "phone_count": 2,
+          "threshold_p10": 0.0675,
+          "reason": "duration 0.082s above p10 but short for 2-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "suffers",
+          "start": 0.22975,
+          "end": 0.6945,
+          "duration": 0.46475,
+          "phone_count": 5,
+          "threshold_p90": 0.503275,
+          "reason": "duration 0.465s within expected range for 5-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "lack",
+          "start": 0.9675,
+          "end": 1.2871875,
+          "duration": 0.3196875,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "duration 0.320s within expected range for 4-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "unity",
+          "start": 1.415125,
+          "end": 1.90075,
+          "duration": 0.485625,
+          "phone_count": 7,
+          "threshold_p90": 0.6202625,
+          "reason": "duration 0.486s within expected range for 7-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 8,
+          "word": "purpose",
+          "start": 2.02,
+          "end": 2.5475,
+          "duration": 0.5275,
+          "phone_count": 7,
+          "threshold_p90": 0.6202625,
+          "reason": "duration 0.528s within expected range for 7-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 10,
+          "word": "respect",
+          "start": 2.6695,
+          "end": 3.1928125,
+          "duration": 0.5233125,
+          "phone_count": 8,
+          "threshold_p90": 0.808275,
+          "reason": "duration 0.523s within expected range for 8-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 12,
+          "word": "heroic",
+          "start": 3.39125,
+          "end": 3.8951875,
+          "duration": 0.5039375,
+          "phone_count": 7,
+          "threshold_p90": 0.6202625,
+          "reason": "duration 0.504s within expected range for 7-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 13,
+          "word": "leadership",
+          "start": 3.8951875,
+          "end": 4.4875,
+          "duration": 0.5923125,
+          "phone_count": 8,
+          "threshold_p90": 0.808275,
+          "reason": "duration 0.592s within expected range for 8-phone word"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_utterances": 5,
+    "total_words": 44,
+    "long_word_events": 27,
+    "short_word_events": 2,
+    "inter_word_gap_events": 2,
+    "boundary_gap_events": 0
+  }
+}
+```

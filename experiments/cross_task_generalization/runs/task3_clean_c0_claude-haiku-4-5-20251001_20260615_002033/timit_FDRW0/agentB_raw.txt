@@ -1,0 +1,417 @@
+```json
+{
+  "bundle_id": "timit_FDRW0",
+  "speaker_id": "FDRW0",
+  "phone_events": [
+    {
+      "utterance_id": "FDRW0_SA1",
+      "events": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.14,
+          "duration": 0.14,
+          "event_type": "pause_silence_segment"
+        },
+        {
+          "phone_index": 10,
+          "phone": "aa",
+          "start": 0.7415,
+          "end": 0.9173125,
+          "duration": 0.1758125,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 24,
+          "phone": "s",
+          "start": 1.628125,
+          "end": 1.783125,
+          "duration": 0.155,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 27,
+          "phone": "aa",
+          "start": 1.989,
+          "end": 2.1461875,
+          "duration": 0.1571875,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 28,
+          "phone": "sh",
+          "start": 2.1461875,
+          "end": 2.2973125,
+          "duration": 0.151125,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 33,
+          "phone": "q",
+          "start": 2.5675,
+          "end": 2.6486875,
+          "duration": 0.0811875,
+          "event_type": "glottal_stop"
+        },
+        {
+          "phone_index": 39,
+          "phone": "h#",
+          "start": 3.1225,
+          "end": 3.255,
+          "duration": 0.1325,
+          "event_type": "pause_silence_segment"
+        }
+      ]
+    },
+    {
+      "utterance_id": "FDRW0_SA2",
+      "events": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.1375,
+          "duration": 0.1375,
+          "event_type": "pause_silence_segment"
+        },
+        {
+          "phone_index": 4,
+          "phone": "ae",
+          "start": 0.321125,
+          "end": 0.4675,
+          "duration": 0.146375,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 18,
+          "phone": "oy",
+          "start": 1.2896875,
+          "end": 1.47775,
+          "duration": 0.1880625,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 21,
+          "phone": "r",
+          "start": 1.61875,
+          "end": 1.73625,
+          "duration": 0.1175,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 22,
+          "phone": "ae",
+          "start": 1.73625,
+          "end": 1.8641875,
+          "duration": 0.1279375,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 29,
+          "phone": "ae",
+          "start": 2.211875,
+          "end": 2.3725,
+          "duration": 0.160625,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 31,
+          "phone": "h#",
+          "start": 2.4275,
+          "end": 2.54,
+          "duration": 0.1125,
+          "event_type": "pause_silence_segment"
+        }
+      ]
+    },
+    {
+      "utterance_id": "FDRW0_SI1283",
+      "events": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.13,
+          "duration": 0.13,
+          "event_type": "pause_silence_segment"
+        },
+        {
+          "phone_index": 9,
+          "phone": "sh",
+          "start": 0.5876875,
+          "end": 0.7528125,
+          "duration": 0.165125,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 20,
+          "phone": "ow",
+          "start": 1.5900625,
+          "end": 1.68925,
+          "duration": 0.0991875,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 23,
+          "phone": "kcl",
+          "start": 1.7825,
+          "end": 1.891875,
+          "duration": 0.109375,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 24,
+          "phone": "t",
+          "start": 1.891875,
+          "end": 1.97125,
+          "duration": 0.079375,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 30,
+          "phone": "q",
+          "start": 2.3410625,
+          "end": 2.4213125,
+          "duration": 0.08025,
+          "event_type": "glottal_stop"
+        },
+        {
+          "phone_index": 33,
+          "phone": "f",
+          "start": 2.5378125,
+          "end": 2.6525,
+          "duration": 0.1146875,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 34,
+          "phone": "ao",
+          "start": 2.6525,
+          "end": 2.7958125,
+          "duration": 0.1433125,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 36,
+          "phone": "aw",
+          "start": 2.8725,
+          "end": 3.0225,
+          "duration": 0.15,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 42,
+          "phone": "ey",
+          "start": 3.320625,
+          "end": 3.46175,
+          "duration": 0.141125,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 44,
+          "phone": "r",
+          "start": 3.523125,
+          "end": 3.623625,
+          "duration": 0.1005,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 45,
+          "phone": "ae",
+          "start": 3.623625,
+          "end": 3.7525,
+          "duration": 0.128875,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 55,
+          "phone": "er",
+          "start": 4.4128125,
+          "end": 4.6075,
+          "duration": 0.1946875,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 56,
+          "phone": "s",
+          "start": 4.6075,
+          "end": 4.7939375,
+          "duration": 0.1864375,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 59,
+          "phone": "h#",
+          "start": 4.9225,
+          "end": 5.02,
+          "duration": 0.0975,
+          "event_type": "pause_silence_segment"
+        }
+      ]
+    },
+    {
+      "utterance_id": "FDRW0_SI1423",
+      "events": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.14075,
+          "duration": 0.14075,
+          "event_type": "pause_silence_segment"
+        },
+        {
+          "phone_index": 2,
+          "phone": "bcl",
+          "start": 0.1778125,
+          "end": 0.268125,
+          "duration": 0.0903125,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 4,
+          "phone": "aw",
+          "start": 0.27875,
+          "end": 0.4725,
+          "duration": 0.19375,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 7,
+          "phone": "ao",
+          "start": 0.605,
+          "end": 0.835,
+          "duration": 0.23,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 13,
+          "phone": "aa",
+          "start": 1.1044375,
+          "end": 1.268875,
+          "duration": 0.1644375,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 16,
+          "phone": "pcl",
+          "start": 1.3994375,
+          "end": 1.526875,
+          "duration": 0.1274375,
+          "event_type": "closure_segment"
+        },
+        {
+          "phone_index": 22,
+          "phone": "ow",
+          "start": 1.8485625,
+          "end": 2.1933125,
+          "duration": 0.34475,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 23,
+          "phone": "h#",
+          "start": 2.1933125,
+          "end": 2.395,
+          "duration": 0.2016875,
+          "event_type": "pause_silence_segment"
+        }
+      ]
+    },
+    {
+      "utterance_id": "FDRW0_SI653",
+      "events": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.1375,
+          "duration": 0.1375,
+          "event_type": "pause_silence_segment"
+        },
+        {
+          "phone_index": 1,
+          "phone": "sh",
+          "start": 0.1375,
+          "end": 0.26625,
+          "duration": 0.12875,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 3,
+          "phone": "l",
+          "start": 0.3655,
+          "end": 0.483,
+          "duration": 0.1175,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 6,
+          "phone": "ih",
+          "start": 0.60375,
+          "end": 0.689375,
+          "duration": 0.085625,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 7,
+          "phone": "s",
+          "start": 0.689375,
+          "end": 0.8064375,
+          "duration": 0.1170625,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 12,
+          "phone": "iy",
+          "start": 1.127875,
+          "end": 1.2401875,
+          "duration": 0.1123125,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 13,
+          "phone": "ae",
+          "start": 1.2401875,
+          "end": 1.34725,
+          "duration": 0.1070625,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 20,
+          "phone": "ao",
+          "start": 1.8641875,
+          "end": 1.992125,
+          "duration": 0.1279375,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 25,
+          "phone": "aa",
+          "start": 2.266,
+          "end": 2.4438125,
+          "duration": 0.1778125,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 29,
+          "phone": "jh",
+          "start": 2.724375,
+          "end": 2.863125,
+          "duration": 0.13875,
+          "event_type": "long_phone"
+        },
+        {
+          "phone_index": 30,
+          "phone": "h#",
+          "start": 2.863125,
+          "end": 2.985,
+          "duration": 0.121875,
+          "event_type": "pause_silence_segment"
+        }
+      ]
+    }
+  ]
+}
+```

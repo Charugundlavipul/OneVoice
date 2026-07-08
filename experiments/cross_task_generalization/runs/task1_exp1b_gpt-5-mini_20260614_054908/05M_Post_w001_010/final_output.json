@@ -1,0 +1,695 @@
+{
+  "session_id": "05M_Post_w001_010",
+  "session_date": "2018-11-06",
+  "sample_rate": 22050,
+  "audio_file_path": "05M_Post_w001_010.wav",
+  "audio_format": "wav",
+  "session_duration": "00:02:21:270",
+  "speakers": [
+    {
+      "speaker_id": "05M_CHILD",
+      "gender": "male",
+      "language": "en",
+      "age_group": "child",
+      "age": 6.42
+    }
+  ],
+  "turns": [
+    {
+      "turn_index": 0,
+      "utt_id": "05M-Post-001E",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "swallow",
+      "orthographic_transcript": "",
+      "phonetic_transcript": "",
+      "ipa_transcript": "",
+      "raw_transcript": "",
+      "start": "00:00:00:000",
+      "end": "00:00:06:641",
+      "word_alignments": [],
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:05:900",
+          "end": "00:00:06:641"
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "utt_id": "05M-Post-002E",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "swallow",
+      "orthographic_transcript": "",
+      "phonetic_transcript": "",
+      "ipa_transcript": "",
+      "raw_transcript": "",
+      "start": "00:00:06:641",
+      "end": "00:00:12:074",
+      "word_alignments": [],
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "other_speaker_activity",
+          "start": "00:00:07:000",
+          "end": "00:00:07:200"
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "utt_id": "05M-Post-003A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "elephant umbrella train swing",
+      "orthographic_transcript": "ELEPHANT UMBRELLA TRAIN SWING",
+      "phonetic_transcript": "E 5 I f n= t [sil] V m [sil] b r E 5 @ [sil] t r [sil] eI n [sil] s w I [sil] N [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "ELEPHANT UMBRELLA TRAIN SWING",
+      "start": "00:00:12:074",
+      "end": "00:00:26:563",
+      "word_alignments": [
+        {
+          "word_index": 0,
+          "word": "ELEPHANT",
+          "start": "00:00:12:074",
+          "end": "00:00:13:214"
+        },
+        {
+          "word_index": 1,
+          "word": "",
+          "start": "00:00:13:214",
+          "end": "00:00:18:454"
+        },
+        {
+          "word_index": 2,
+          "word": "UMBRELLA",
+          "start": "00:00:18:454",
+          "end": "00:00:19:644"
+        },
+        {
+          "word_index": 3,
+          "word": "",
+          "start": "00:00:19:644",
+          "end": "00:00:21:714"
+        },
+        {
+          "word_index": 4,
+          "word": "TRAIN",
+          "start": "00:00:21:714",
+          "end": "00:00:22:784"
+        },
+        {
+          "word_index": 5,
+          "word": "",
+          "start": "00:00:22:784",
+          "end": "00:00:24:374"
+        },
+        {
+          "word_index": 6,
+          "word": "SWING",
+          "start": "00:00:24:374",
+          "end": "00:00:25:404"
+        },
+        {
+          "word_index": 7,
+          "word": "",
+          "start": "00:00:25:404",
+          "end": "00:00:26:563"
+        }
+      ],
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:00:26:500",
+          "end": "00:00:26:563"
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "utt_id": "05M-Post-004A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "bread duck giraffe five",
+      "orthographic_transcript": "BREAD DUCK GIRAFFE FIVE",
+      "phonetic_transcript": "[sil] b r E d [sil] d V k [sil] dZ I r a f [sil] f [sil] ae v [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "BREAD DUCK GIRAFFE FIVE",
+      "start": "00:00:26:563",
+      "end": "00:00:39:241",
+      "word_alignments": [
+        {
+          "word_index": 0,
+          "word": "",
+          "start": "00:00:26:563",
+          "end": "00:00:27:903"
+        },
+        {
+          "word_index": 1,
+          "word": "BREAD",
+          "start": "00:00:27:903",
+          "end": "00:00:28:713"
+        },
+        {
+          "word_index": 2,
+          "word": "",
+          "start": "00:00:28:713",
+          "end": "00:00:31:053"
+        },
+        {
+          "word_index": 3,
+          "word": "DUCK",
+          "start": "00:00:31:053",
+          "end": "00:00:31:613"
+        },
+        {
+          "word_index": 4,
+          "word": "",
+          "start": "00:00:31:613",
+          "end": "00:00:33:713"
+        },
+        {
+          "word_index": 5,
+          "word": "GIRAFFE",
+          "start": "00:00:33:713",
+          "end": "00:00:34:993"
+        },
+        {
+          "word_index": 6,
+          "word": "",
+          "start": "00:00:34:993",
+          "end": "00:00:36:913"
+        },
+        {
+          "word_index": 7,
+          "word": "FIVE",
+          "start": "00:00:36:913",
+          "end": "00:00:38:253"
+        },
+        {
+          "word_index": 8,
+          "word": "",
+          "start": "00:00:38:253",
+          "end": "00:00:39:241"
+        }
+      ],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "aI",
+          "observed_phone": "ae",
+          "start": "00:00:38:800",
+          "end": "00:00:39:100"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:39:150",
+          "end": "00:00:39:241"
+        }
+      ]
+    },
+    {
+      "turn_index": 4,
+      "utt_id": "05M-Post-005A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "teeth watch orange school",
+      "orthographic_transcript": "TEETH WATCH ORANGE SCHOOL",
+      "phonetic_transcript": "[sil] t i T [sil] [sil] w O tS [sil] O r I n dZ [sil] s k u 5 [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "TEETH WATCH ORANGE SCHOOL",
+      "start": "00:00:39:241",
+      "end": "00:00:53:127",
+      "word_alignments": [
+        {
+          "word_index": 0,
+          "word": "",
+          "start": "00:00:39:241",
+          "end": "00:00:40:581"
+        },
+        {
+          "word_index": 1,
+          "word": "TEETH",
+          "start": "00:00:40:581",
+          "end": "00:00:41:711"
+        },
+        {
+          "word_index": 2,
+          "word": "",
+          "start": "00:00:41:711",
+          "end": "00:00:43:661"
+        },
+        {
+          "word_index": 3,
+          "word": "WATCH",
+          "start": "00:00:43:661",
+          "end": "00:00:45:001"
+        },
+        {
+          "word_index": 4,
+          "word": "",
+          "start": "00:00:45:001",
+          "end": "00:00:46:661"
+        },
+        {
+          "word_index": 5,
+          "word": "ORANGE",
+          "start": "00:00:46:661",
+          "end": "00:00:47:991"
+        },
+        {
+          "word_index": 6,
+          "word": "",
+          "start": "00:00:47:991",
+          "end": "00:00:49:421"
+        },
+        {
+          "word_index": 7,
+          "word": "SCHOOL",
+          "start": "00:00:49:421",
+          "end": "00:00:50:501"
+        },
+        {
+          "word_index": 8,
+          "word": "",
+          "start": "00:00:50:501",
+          "end": "00:00:53:127"
+        }
+      ],
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "other_speaker_activity",
+          "start": "00:00:45:000",
+          "end": "00:00:45:300"
+        }
+      ]
+    },
+    {
+      "turn_index": 5,
+      "utt_id": "05M-Post-006A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "crab biscuits thank you helicopter",
+      "orthographic_transcript": "CRAB BISCUITS THANK YOU HELICOPTER",
+      "phonetic_transcript": "[sil] k r a b [sil] b I s [sil] k I t s [sil] T a N k [sil] j @ [sil] h E 5 I [sil] k O p [sil] t @ r [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "CRAB BISCUITS THANK YOU HELICOPTER",
+      "start": "00:00:53:127",
+      "end": "00:01:18:483",
+      "word_alignments": [
+        {
+          "word_index": 0,
+          "word": "",
+          "start": "00:00:53:127",
+          "end": "00:00:54:167"
+        },
+        {
+          "word_index": 1,
+          "word": "CRAB",
+          "start": "00:00:54:167",
+          "end": "00:00:55:117"
+        },
+        {
+          "word_index": 2,
+          "word": "",
+          "start": "00:00:55:117",
+          "end": "00:01:02:917"
+        },
+        {
+          "word_index": 3,
+          "word": "BISCUITS",
+          "start": "00:01:02:917",
+          "end": "00:01:04:987"
+        },
+        {
+          "word_index": 4,
+          "word": "",
+          "start": "00:01:04:987",
+          "end": "00:01:07:767"
+        },
+        {
+          "word_index": 5,
+          "word": "THANK",
+          "start": "00:01:07:767",
+          "end": "00:01:07:897"
+        },
+        {
+          "word_index": 6,
+          "word": "",
+          "start": "00:01:07:897",
+          "end": "00:01:08:667"
+        },
+        {
+          "word_index": 7,
+          "word": "YOU",
+          "start": "00:01:08:667",
+          "end": "00:01:09:547"
+        },
+        {
+          "word_index": 8,
+          "word": "",
+          "start": "00:01:09:547",
+          "end": "00:01:15:177"
+        },
+        {
+          "word_index": 9,
+          "word": "HELICOPTER",
+          "start": "00:01:15:177",
+          "end": "00:01:17:287"
+        },
+        {
+          "word_index": 10,
+          "word": "",
+          "start": "00:01:17:287",
+          "end": "00:01:18:483"
+        }
+      ],
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:01:18:400",
+          "end": "00:01:18:483"
+        }
+      ]
+    },
+    {
+      "turn_index": 6,
+      "utt_id": "05M-Post-007A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "elephant umbrella train swing",
+      "orthographic_transcript": "ELEPHANT UMBRELLA TRAIN SWING",
+      "phonetic_transcript": "[sil] E 5 I f n= [sil] t [sil] V m b r E 5 @ [sil] t r eI [sil] n [sil] [sil] s w [sil] I N [sil] [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "ELEPHANT UMBRELLA TRAIN SWING",
+      "start": "00:01:18:483",
+      "end": "00:01:32:972",
+      "word_alignments": [
+        {
+          "word_index": 0,
+          "word": "",
+          "start": "00:01:18:483",
+          "end": "00:01:21:593"
+        },
+        {
+          "word_index": 1,
+          "word": "ELEPHANT",
+          "start": "00:01:21:593",
+          "end": "00:01:22:983"
+        },
+        {
+          "word_index": 2,
+          "word": "",
+          "start": "00:01:22:983",
+          "end": "00:01:25:263"
+        },
+        {
+          "word_index": 3,
+          "word": "UMBRELLA",
+          "start": "00:01:25:263",
+          "end": "00:01:26:553"
+        },
+        {
+          "word_index": 4,
+          "word": "",
+          "start": "00:01:26:553",
+          "end": "00:01:27:893"
+        },
+        {
+          "word_index": 5,
+          "word": "TRAIN",
+          "start": "00:01:27:893",
+          "end": "00:01:29:013"
+        },
+        {
+          "word_index": 6,
+          "word": "",
+          "start": "00:01:29:013",
+          "end": "00:01:30:473"
+        },
+        {
+          "word_index": 7,
+          "word": "SWING",
+          "start": "00:01:30:473",
+          "end": "00:01:31:443"
+        },
+        {
+          "word_index": 8,
+          "word": "",
+          "start": "00:01:31:443",
+          "end": "00:01:32:972"
+        }
+      ],
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "other_speaker_activity",
+          "start": "00:01:25:000",
+          "end": "00:01:25:200"
+        }
+      ]
+    },
+    {
+      "turn_index": 7,
+      "utt_id": "05M-Post-008A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "bread duck giraffe five",
+      "orthographic_transcript": "BREAD DUCK GIRAFFE FIVE",
+      "phonetic_transcript": "[sil] b r E d [sil] d [sil] V k [sil] dZ I r a f [sil] f ae v [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "BREAD DUCK GIRAFFE FIVE",
+      "start": "00:01:32:972",
+      "end": "00:01:52:291",
+      "word_alignments": [
+        {
+          "word_index": 0,
+          "word": "",
+          "start": "00:01:32:972",
+          "end": "00:01:38:762"
+        },
+        {
+          "word_index": 1,
+          "word": "BREAD",
+          "start": "00:01:38:762",
+          "end": "00:01:39:482"
+        },
+        {
+          "word_index": 2,
+          "word": "",
+          "start": "00:01:39:482",
+          "end": "00:01:40:742"
+        },
+        {
+          "word_index": 3,
+          "word": "DUCK",
+          "start": "00:01:40:742",
+          "end": "00:01:41:292"
+        },
+        {
+          "word_index": 4,
+          "word": "",
+          "start": "00:01:41:292",
+          "end": "00:01:48:072"
+        },
+        {
+          "word_index": 5,
+          "word": "GIRAFFE",
+          "start": "00:01:48:072",
+          "end": "00:01:49:352"
+        },
+        {
+          "word_index": 6,
+          "word": "",
+          "start": "00:01:49:352",
+          "end": "00:01:50:422"
+        },
+        {
+          "word_index": 7,
+          "word": "FIVE",
+          "start": "00:01:50:422",
+          "end": "00:01:51:572"
+        },
+        {
+          "word_index": 8,
+          "word": "",
+          "start": "00:01:51:572",
+          "end": "00:01:52:291"
+        }
+      ],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "aI",
+          "observed_phone": "ae",
+          "start": "00:01:52:000",
+          "end": "00:01:52:200"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:01:52:200",
+          "end": "00:01:52:291"
+        }
+      ]
+    },
+    {
+      "turn_index": 8,
+      "utt_id": "05M-Post-009A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "teeth watch orange school",
+      "orthographic_transcript": "TEETH WATCH ORANGE SCHOOL",
+      "phonetic_transcript": "[sil] t i T [sil] w O [sil] tS [sil] O r [sil] I n dZ [sil] s k u 5 [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "TEETH WATCH ORANGE SCHOOL",
+      "start": "00:01:52:291",
+      "end": "00:02:05:573",
+      "word_alignments": [
+        {
+          "word_index": 0,
+          "word": "",
+          "start": "00:01:52:291",
+          "end": "00:01:53:691"
+        },
+        {
+          "word_index": 1,
+          "word": "TEETH",
+          "start": "00:01:53:691",
+          "end": "00:01:54:721"
+        },
+        {
+          "word_index": 2,
+          "word": "",
+          "start": "00:01:54:721",
+          "end": "00:01:57:431"
+        },
+        {
+          "word_index": 3,
+          "word": "WATCH",
+          "start": "00:01:57:431",
+          "end": "00:01:58:131"
+        },
+        {
+          "word_index": 4,
+          "word": "",
+          "start": "00:01:58:131",
+          "end": "00:01:59:971"
+        },
+        {
+          "word_index": 5,
+          "word": "ORANGE",
+          "start": "00:01:59:971",
+          "end": "00:02:00:641"
+        },
+        {
+          "word_index": 6,
+          "word": "",
+          "start": "00:02:00:641",
+          "end": "00:02:03:031"
+        },
+        {
+          "word_index": 7,
+          "word": "SCHOOL",
+          "start": "00:02:03:031",
+          "end": "00:02:03:841"
+        },
+        {
+          "word_index": 8,
+          "word": "",
+          "start": "00:02:03:841",
+          "end": "00:02:05:573"
+        }
+      ],
+      "mispronunciations": [],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 9,
+      "utt_id": "05M-Post-010A",
+      "speaker_id": "05M_CHILD",
+      "reference_transcript": "crab biscuits thank you helicopter",
+      "orthographic_transcript": "CRAB BISCUITS THANK YOU HELICOPTER",
+      "phonetic_transcript": "[sil] k r a b [sil] b I s k I t s [sil] T a N [sil] k j u [sil] [sil] h E 5 I k O p t @ r [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "CRAB BISCUITS THANK YOU HELICOPTER",
+      "start": "00:02:05:573",
+      "end": "00:02:21:270",
+      "word_alignments": [
+        {
+          "word_index": 0,
+          "word": "",
+          "start": "00:02:05:573",
+          "end": "00:02:06:833"
+        },
+        {
+          "word_index": 1,
+          "word": "CRAB",
+          "start": "00:02:06:833",
+          "end": "00:02:07:563"
+        },
+        {
+          "word_index": 2,
+          "word": "",
+          "start": "00:02:07:563",
+          "end": "00:02:09:323"
+        },
+        {
+          "word_index": 3,
+          "word": "BISCUITS",
+          "start": "00:02:09:323",
+          "end": "00:02:11:263"
+        },
+        {
+          "word_index": 4,
+          "word": "",
+          "start": "00:02:11:263",
+          "end": "00:02:15:003"
+        },
+        {
+          "word_index": 5,
+          "word": "THANK",
+          "start": "00:02:15:003",
+          "end": "00:02:15:683"
+        },
+        {
+          "word_index": 6,
+          "word": "YOU",
+          "start": "00:02:15:683",
+          "end": "00:02:15:843"
+        },
+        {
+          "word_index": 7,
+          "word": "",
+          "start": "00:02:15:843",
+          "end": "00:02:17:633"
+        },
+        {
+          "word_index": 8,
+          "word": "HELICOPTER",
+          "start": "00:02:17:633",
+          "end": "00:02:19:243"
+        },
+        {
+          "word_index": 9,
+          "word": "",
+          "start": "00:02:19:243",
+          "end": "00:02:21:270"
+        }
+      ],
+      "mispronunciations": [],
+      "behavioral_events": []
+    }
+  ],
+  "metadata": {
+    "dataset_name": "uxssd",
+    "dataset_split": "",
+    "text_annotation_source": "none",
+    "text_annotation_details": "",
+    "text_coverage": "none",
+    "phoneme_annotation_source": "none",
+    "phoneme_annotation_details": "",
+    "phoneme_coverage": "none"
+  }
+}

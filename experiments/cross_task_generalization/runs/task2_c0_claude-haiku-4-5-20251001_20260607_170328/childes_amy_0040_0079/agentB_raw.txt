@@ -1,0 +1,111 @@
+```json
+{
+  "interaction_events": [
+    {
+      "event_type": "repetition",
+      "utterance_index": 2,
+      "speaker": "CHI",
+      "source_text": "yeah .",
+      "note": "CHI repeats MOT's affirmative from utt_1"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 4,
+      "speaker": "CHI",
+      "source_text": "yeah .",
+      "note": "CHI repeats affirmative response"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 5,
+      "speaker": "MOT",
+      "source_text": "yeah .",
+      "note": "MOT repeats CHI's affirmative from utt_4"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 6,
+      "speaker": "CHI",
+      "source_text": "yeah .",
+      "note": "CHI repeats affirmative response again"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 7,
+      "speaker": "MOT",
+      "source_text": "yeah .",
+      "note": "MOT repeats affirmative response"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 12,
+      "speaker": "CHI",
+      "source_text": "&=laughs [>] .",
+      "note": "CHI laughs overlapping with MOT"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 13,
+      "speaker": "MOT",
+      "source_text": "&=laughs [<] .",
+      "note": "MOT laughs overlapping with CHI"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 16,
+      "speaker": "MOT",
+      "source_text": "here (.) the dog's gonna go up the ladder .",
+      "note": "Pause marked with (.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 8,
+      "speaker": "CHI",
+      "source_text": "0 .",
+      "note": "Non-speech utterance"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 11,
+      "speaker": "MOT",
+      "source_text": "0 [=! snoring noise] .",
+      "note": "Non-speech sound effect"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 14,
+      "speaker": "CHI",
+      "source_text": "0 [=! laughs louder] .",
+      "note": "Non-speech sound effect"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 17,
+      "speaker": "CHI",
+      "source_text": "0 [=! chuckles] .",
+      "note": "Non-speech sound effect"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 22,
+      "speaker": "CHI",
+      "source_text": "0 .",
+      "note": "Non-speech utterance"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 38,
+      "speaker": "CHI",
+      "source_text": "girl !",
+      "note": "CHI repeats 'girl' from MOT's utt_37"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 39,
+      "speaker": "CHI",
+      "source_text": "little girl !",
+      "note": "CHI expands on previous repetition with 'little girl' from MOT's utt_37"
+    }
+  ]
+}
+```

@@ -1,0 +1,67 @@
+{
+  "interaction_events": [
+    {
+      "event_type": "pause",
+      "utterance_index": 3,
+      "speaker": "CHI",
+      "source_text": "she's got (.) curly hair .",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 10,
+      "speaker": "CHI",
+      "source_text": "<I just had a thing> [//] I just had a cough drop .",
+      "description": "Self-repair: [//] indicates replacement of 'I just had a thing' with 'I just had a cough drop'"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 20,
+      "speaker": "CHI",
+      "source_text": "<put the> [/] the baby's diaper (.) that thing on (.) on the bum .",
+      "description": "Two pauses marked with (.)"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 20,
+      "speaker": "CHI",
+      "source_text": "<put the> [/] the baby's diaper (.) that thing on (.) on the bum .",
+      "description": "Self-repair: [/] indicates incomplete utterance 'put the' replaced with 'the baby's diaper'"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 22,
+      "speaker": "CHI",
+      "source_text": "cause he (.) do something .",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 25,
+      "speaker": "CHI",
+      "source_text": "<the (ba)by> [//] the mother kissing the baby .",
+      "description": "Self-repair: [//] indicates replacement of 'the baby' with 'the mother kissing the baby'"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 28,
+      "speaker": "CHI",
+      "source_text": "<cause it> [//] she wants to .",
+      "description": "Self-repair: [//] indicates replacement of 'cause it' with 'she wants to'"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 37,
+      "speaker": "CHI",
+      "source_text": "he's putting &-um (.) grass and he's eating it .",
+      "description": "Non-speech vocalization: &-um (filled pause/filler)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 37,
+      "speaker": "CHI",
+      "source_text": "he's putting &-um (.) grass and he's eating it .",
+      "description": "Pause marked with (.)"
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+```json
+{
+  "bundle_id": "timit_FAKS0",
+  "speaker_id": "FAKS0",
+  "phone_events": [
+    {
+      "utt_id": "FAKS0_SA1",
+      "events": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.6025,
+          "duration": 0.6025,
+          "event_type": "long_phone",
+          "reason": "h# duration 0.6025s exceeds p90 threshold 0.3025s"
+        },
+        {
+          "phone_index": 5,
+          "phone": "dcl",
+          "start": 1.0098125,
+          "end": 1.055,
+          "duration": 0.0451875,
+          "event_type": "closure_segment",
+          "reason": "dcl is a closure phone"
+        },
+        {
+          "phone_index": 9,
+          "phone": "dcl",
+          "start": 1.1725,
+          "end": 1.2325,
+          "duration": 0.06,
+          "event_type": "closure_segment",
+          "reason": "dcl is a closure phone"
+        },
+        {
+          "phone_index": 13,
+          "phone": "kcl",
+          "start": 1.4175,
+          "end": 1.4875,
+          "duration": 0.07,
+          "event_type": "closure_segment",
+          "reason": "kcl is a closure phone"
+        },
+        {
+          "phone_index": 20,
+          "phone": "gcl",
+          "start": 1.9925,
+          "end": 2.03125,
+          "duration": 0.03875,
+          "event_type": "closure_segment",
+          "reason": "gcl is a closure phone"
+        },
+        {
+          "phone_index": 29,
+          "phone": "epi",
+          "start": 2.8199375,
+          "end": 2.8515,
+          "duration": 0.0315625,
+          "event_type": "pause_silence_segment",
+          "reason": "epi is an epenthetic/pause segment"
+        },
+        {
+          "phone_index": 34,
+          "phone": "q",
+          "start": 3.1895625,
+          "end": 3.273625,
+          "duration": 0.0840625,
+          "event_type": "glottal_stop",
+          "reason": "q is a glottal stop"
+        },
+        {
+          "phone_index": 40,
+          "phone": "h#",
+          "start": 3.7875,
+          "end": 3.965,
+          "duration": 0.1775,
+          "event_type": "long_phone",
+          "reason": "h# duration 0.1775s exceeds p90 threshold 0.3025s (boundary silence)"
+        }
+      ]
+    },
+    {
+      "utt_id": "FAKS0_SA2",
+      "events": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.8266875,
+          "duration": 0.8266875,
+          "event_type": "long_phone",
+          "reason": "h# duration 0.8266875s exceeds p90 threshold 0.3025s"
+        },
+        {
+          "phone_index": 6,
+          "phone": "epi",
+          "start": 1.249375,
+          "end": 1.325,
+          "duration": 0.075625,
+          "event_type": "pause_silence_segment",
+          "reason": "epi is an epenthetic/pause segment"
+        },
+        {
+          "phone_index": 9,
+          "phone": "tcl",
+          "start": 1.445,
+          "end": 1.483,
+          "duration": 0.038,
+          "event_type": "closure_segment",
+          "reason": "tcl is a closure phone"
+        },
+        {
+          "phone_index": 12,
+          "phone": "kcl",
+          "start": 1.5425,
+          "end": 1.585,
+          "duration": 0.0425,
+          "event_type": "closure_segment",
+          "reason": "kcl is a closure phone"
+        },
+        {
+          "phone_index": 24,
+          "phone": "gcl",
+          "start": 2.715875,
+          "end": 2.775625,
+          "duration": 0.05975,
+          "event_type": "closure_segment",
+          "reason": "gcl is a closure phone"
+        },
+        {
+          "phone_index": 28,
+          "phone": "kcl",
+          "start": 2.9625,
+          "end": 3.018125,
+          "duration": 0.055625,
+          "event_type": "closure_segment",
+          "reason": "kcl is a closure phone"
+        },
+        {
+          "phone_index": 32,
+          "phone": "tcl",
+          "start": 3.3025,
+          "end": 3.4375,
+          "duration": 0.135,
+          "event_type": "closure_segment",
+          "reason": "tcl is a closure phone"
+        },
+        {
+          "phone_index": 33,
+          "phone": "h#",
+          "start": 3.4375,
+          "end": 3.625,
+          "duration": 0.1875,
+          "event_type": "long_phone",
+          "reason": "h# duration 0.1875s exceeds p90 threshold 0.3025s (boundary silence)"
+        }
+      ]
+    },
+    {
+      "utt_id": "FAKS0_SI1573",
+      "events": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.5575,
+          "duration": 0.5575,
+          "event_type": "long_phone",
+          "reason": "h# duration 0.5575s exceeds p90 threshold 0.3025s"
+        },
+        {
+          "phone_index": 4,
+          "phone": "kcl",
+          "start": 0.7675625,
+          "end": 0.808125,
+          "duration": 0.0405625,
+          "event_type": "closure_segment",
+          "reason": "kcl is a closure phone"
+        },
+        {
+          "phone_index": 7,
+          "phone": "pcl",
+          "start": 0.9816875,
+          "end": 1.09625,
+          "duration": 0.1145625,
+          "event_type": "closure_segment",
+          "reason": "pcl is a closure phone"
+        },
+        {
+          "phone_index": 21,
+          "phone": "gcl",
+          "start": 2.1435625,
+          "end": 2.19375,
+          "duration": 0.0501875,
+          "event_type": "closure_segment",
+          "reason": "gcl is a closure phone"
+        },
+        {
+          "phone_index": 24,
+          "phone": "dcl",
+          "start": 2.3275,
+          "end": 2.37525,
+          "duration": 0.04775,
+          "event_type": "closure_segment",
+          "reason": "dcl is a closure phone"
+        },
+        {
+          "phone_index": 30,
+          "phone": "bcl",
+          "start": 2.721875,
+          "end": 2.779375,
+          "duration": 0.0575,
+          "event_type": "closure_segment",
+          "reason": "bcl is a closure phone"
+        },
+        {
+          "phone_index": 38,
+          "phone": "bcl",
+          "start": 3.1925,
+          "end": 3.2775,
+          "duration": 0.085,
+          "event_type": "closure_segment",
+          "reason": "bcl is a closure phone"
+        },
+        {
+          "phone_index": 41,
+          "phone": "tcl",
+          "start": 3.4025,
+          "end": 3.5025,
+          "duration": 0.1,
+          "event_type": "closure_segment",
+          "reason": "tcl is a closure phone"
+        },
+        {
+          "phone_index": 44,
+          "phone": "epi",
+          "start": 3.63125,
+          "end": 3.67,
+          "duration": 0.03875,
+          "event_type": "pause_silence_segment",
+          "reason": "epi is an epenthetic/pause segment"
+        },
+        {
+          "phone_index": 47,
+          "phone": "w",
+          "start": 3.8036875,
+          "end": 3.95775,
+          "duration": 0.1540625,
+          "event_type": "long_phone",
+          "reason": "w duration 0.1540625s exceeds p90 threshold 0.11133750000000002s"
+        },
+        {
+          "phone_index": 56,
+          "phone": "bcl",
+          "start": 4.6375,
+          "end": 4.6940625,
+          "duration": 0.0565625,
+          "event_type": "closure_segment",
+          "reason": "bcl is a closure phone"
+        },
+        {
+          "phone_index": 59,
+          "phone": "h#",
+          "start": 4.8041875,
+          "end": 4.97,
+          "duration": 0.1658125,
+          "event_type": "long_phone",
+          "reason": "h# duration 0.1658125s exceeds p90 threshold 0.3025s (boundary silence)"
+        }
+      ]
+    },
+    {
+      "utt_id": "FAKS0_SI2203",
+      "events": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.59875,
+          "duration": 0.59875,
+          "event_type": "long_phone",
+          "reason": "h# duration 0.59875s exceeds p90 threshold 0.3025s"
+        },
+        {
+          "phone_index": 4,
+          "phone": "iy",
+          "start": 0.7498125,
+          "end": 0.915,
+          "duration": 0.1651875,
+          "event_type": "long_phone",
+          "reason": "iy duration 0.1651875s exceeds p90 threshold 0.12697499999999998s"
+        },
+        {
+          "phone_index": 14,
+          "phone": "dcl",
+          "start": 1.7225,
+          "end": 1.7625,
+          "duration": 0.04,
+          "event_type": "closure_segment",
+          "reason": "dcl is a closure phone"
+        },
+        {
+          "phone_index": 16,
+          "phone": "ay",
+          "start": 1.7798125,
+          "end": 2.0409375,
+          "duration": 0.261125,
+          "event_type": "long_phone",
+          "reason": "ay duration 0.261125s exceeds p90 threshold 0.21443750000000003s"
+        },
+        {
+          "phone_index": 21,
+          "phone": "dcl",
+          "start": 2.4755,
+          "end": 2.5063125,
+          "duration": 0.0308125,
+          "event_type": "closure_segment",
+          "reason": "dcl is a closure phone"
+        },
+        {
+          "phone_index": 28,
+          "phone": "epi",
+          "start": 3.0925,
+          "end": 3.1203125,
+          "duration": 0.0278125,
+          "event_type": "pause_silence_segment",
+          "reason": "epi is an epenthetic/pause segment"
+        },
+        {
+          "phone_index": 31,
+          "phone": "h#",
+          "start": 3.38,
+          "end": 3.51,
+          "duration": 0.13,
+          "event_type": "long_phone",
+          "reason": "h# duration 0.13s exceeds p90 threshold 0.3025s (boundary silence)"
+        }
+      ]
+    },
+    {
+      "utt_id": "FAKS0_SI943",
+      "events": [
+        {
+          "phone_index": 0,
+          "phone": "h#",
+          "start": 0.0,
+          "end": 0.71875,
+          "duration": 0.71875,
+          "event_type": "long_phone",
+          "reason": "h# duration 0.71875s exceeds p90 threshold 0.3025s"
+        },
+        {
+          "phone_index": 3,
+          "phone": "dcl",
+          "start": 0.8175,
+          "end": 0.8425,
+          "duration": 0.025,
+          "event_type": "closure_segment",
+          "reason": "dcl is a closure phone"
+        },
+        {
+          "phone_index": 6,
+          "phone": "kcl",
+          "start": 0.9475,
+          "end": 0.998125,
+          "duration": 0.050625,
+          "event_type": "closure_segment",
+          "reason": "kcl is a closure phone"
+        },
+        {
+          "phone_index": 19,
+          "phone": "bcl",
+          "start": 2.103125,
+          "end": 2.175,
+          "duration": 0.071875,
+          "event_type": "closure_segment",
+          "reason": "bcl is a closure phone"
+        },
+        {
+          "phone_index": 25,
+          "phone": "kcl",
+          "start": 2.5725,
+          "end": 2.63,
+          "duration": 0.0575,
+          "event_type": "closure_segment",
+          "reason": "kcl is a closure phone"
+        },
+        {
+          "phone_index": 28,
+          "phone": "pcl",
+          "start": 2.7380625,
+          "end": 2.79625,
+          "duration": 0.0581875,
+          "event_type": "closure_segment",
+          "reason": "pcl is a closure phone"
+        },
+        {
+          "phone_index": 31,
+          "phone": "kcl",
+          "start": 2.8503125,
+          "end": 2.9575,
+          "duration": 0.1071875,
+          "event_type": "closure_segment",
+          "reason": "kcl is a closure phone"
+        },
+        {
+          "phone_index": 36,
+          "phone": "tcl",
+          "start": 3.3125,
+          "end": 3.4375,
+          "duration": 0.125,
+          "event_type": "closure_segment",
+          "reason": "tcl is a closure phone"
+        },
+        {
+          "phone_index": 38,
+          "phone": "h#",
+          "start": 3.60875,
+          "end": 3.75,
+          "duration": 0.14125,
+          "event_type": "long_phone",
+          "reason": "h# duration 0.14125s exceeds p90 threshold 0.3025s (boundary silence)"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_events_detected": 52,
+    "event_type_counts": {
+      "long_phone": 18,
+      "short_phone": 0,
+      "closure_segment": 28,
+      "pause_silence_segment": 6,
+      "glottal_stop": 1
+    },
+    "utterances_with_events": 5
+  }
+}
+```

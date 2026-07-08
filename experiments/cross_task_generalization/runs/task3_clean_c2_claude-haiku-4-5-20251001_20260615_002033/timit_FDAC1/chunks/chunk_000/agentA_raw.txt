@@ -1,0 +1,55 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "short_word",
+      "word_index": 2,
+      "start": 0.9455625,
+      "end": 1.132375,
+      "utt_id": "FDAC1_SA1"
+    },
+    {
+      "event_type": "short_word",
+      "word_index": 5,
+      "start": 2.205,
+      "end": 2.455125,
+      "utt_id": "FDAC1_SA1"
+    },
+    {
+      "event_type": "long_word",
+      "word_index": 4,
+      "start": 1.596,
+      "end": 2.205,
+      "utt_id": "FDAC1_SA1"
+    },
+    {
+      "event_type": "long_word",
+      "word_index": 6,
+      "start": 2.455125,
+      "end": 3.0775,
+      "utt_id": "FDAC1_SA1"
+    },
+    {
+      "event_type": "long_word",
+      "word_index": 7,
+      "start": 3.0775,
+      "end": 3.689375,
+      "utt_id": "FDAC1_SA1"
+    },
+    {
+      "event_type": "inter_word_gap",
+      "word_index": 7,
+      "start": 3.689375,
+      "end": 3.845,
+      "utt_id": "FDAC1_SA1"
+    },
+    {
+      "event_type": "inter_word_gap",
+      "word_index": 8,
+      "start": 4.2428125,
+      "end": 4.3245625,
+      "utt_id": "FDAC1_SA1"
+    }
+  ]
+}
+```

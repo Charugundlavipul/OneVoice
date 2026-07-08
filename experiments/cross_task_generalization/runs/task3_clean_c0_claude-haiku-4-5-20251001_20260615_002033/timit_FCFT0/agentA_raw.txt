@@ -1,0 +1,228 @@
+```json
+{
+  "bundle_id": "timit_FCFT0",
+  "speaker_id": "FCFT0",
+  "timing_events": [
+    {
+      "utterance_id": "FCFT0_SA1",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "greasy",
+          "start_sec": 1.339375,
+          "end_sec": 1.7231875,
+          "duration_sec": 0.3838125,
+          "phone_count": 6,
+          "threshold_p90": 0.6202625,
+          "reason": "6-phone word duration 0.384s within normal range but at upper-middle"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "wash",
+          "start_sec": 1.7231875,
+          "end_sec": 2.0975,
+          "duration_sec": 0.3743125,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "reason": "3-phone word duration 0.374s exceeds p90 threshold 0.369s"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 10,
+          "word": "year",
+          "start_sec": 2.5821875,
+          "end_sec": 2.9075,
+          "duration_sec": 0.3253125,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "reason": "3-phone word duration 0.325s near upper range"
+        }
+      ]
+    },
+    {
+      "utterance_id": "FCFT0_SA2",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "carry",
+          "start_sec": 0.7125,
+          "end_sec": 1.067875,
+          "duration_sec": 0.355375,
+          "phone_count": 5,
+          "threshold_p90": 0.503275,
+          "reason": "5-phone word duration 0.355s within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "rag",
+          "start_sec": 1.4908125,
+          "end_sec": 1.8406875,
+          "duration_sec": 0.349875,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "4-phone word duration 0.350s within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 9,
+          "word": "that",
+          "start_sec": 2.107,
+          "end_sec": 2.4411875,
+          "duration_sec": 0.3341875,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "reason": "3-phone word duration 0.334s near upper range"
+        }
+      ]
+    },
+    {
+      "utterance_id": "FCFT0_SI1178",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "selections",
+          "start_sec": 0.3175,
+          "end_sec": 0.9275,
+          "duration_sec": 0.61,
+          "phone_count": 10,
+          "threshold_p90": 0.808275,
+          "reason": "10-phone word duration 0.610s within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 3,
+          "word": "themselves",
+          "start_sec": 1.0875,
+          "end_sec": 1.5900625,
+          "duration_sec": 0.5025625,
+          "phone_count": 7,
+          "threshold_p90": 0.6202625,
+          "reason": "7-phone word duration 0.503s within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "convincing",
+          "start_sec": 1.5900625,
+          "end_sec": 2.133125,
+          "duration_sec": 0.5430625,
+          "phone_count": 9,
+          "threshold_p90": 0.808275,
+          "reason": "9-phone word duration 0.543s within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 5,
+          "word": "contributions",
+          "start_sec": 2.133125,
+          "end_sec": 2.8984375,
+          "duration_sec": 0.7653125,
+          "phone_count": 13,
+          "threshold_p90": 0.808275,
+          "reason": "13-phone word duration 0.765s within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 8,
+          "word": "appraisal",
+          "start_sec": 3.25875,
+          "end_sec": 3.7275,
+          "duration_sec": 0.46875,
+          "phone_count": 7,
+          "threshold_p90": 0.6202625,
+          "reason": "7-phone word duration 0.469s within normal range"
+        }
+      ]
+    },
+    {
+      "utterance_id": "FCFT0_SI1808",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 2,
+          "word": "downstairs",
+          "start_sec": 0.459625,
+          "end_sec": 1.1305,
+          "duration_sec": 0.670875,
+          "phone_count": 9,
+          "threshold_p90": 0.808275,
+          "reason": "9-phone word duration 0.671s within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 5,
+          "word": "tray",
+          "start_sec": 1.4575,
+          "end_sec": 1.7701875,
+          "duration_sec": 0.3126875,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "4-phone word duration 0.313s within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "lavishly",
+          "start_sec": 1.7701875,
+          "end_sec": 2.39425,
+          "duration_sec": 0.6240625,
+          "phone_count": 7,
+          "threshold_p90": 0.6202625,
+          "reason": "7-phone word duration 0.624s exceeds p90 threshold 0.620s"
+        }
+      ]
+    },
+    {
+      "utterance_id": "FCFT0_SI548",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 0,
+          "word": "never",
+          "start_sec": 0.1200625,
+          "end_sec": 0.41775,
+          "duration_sec": 0.2976875,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125,
+          "reason": "4-phone word duration 0.298s within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "happier",
+          "start_sec": 0.41775,
+          "end_sec": 0.9373125,
+          "duration_sec": 0.5195625,
+          "phone_count": 6,
+          "threshold_p90": 0.5423,
+          "reason": "6-phone word duration 0.520s within normal range"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "life",
+          "start_sec": 1.2819375,
+          "end_sec": 1.7875,
+          "duration_sec": 0.5055625,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375,
+          "reason": "3-phone word duration 0.506s significantly exceeds p90 threshold 0.369s"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_utterances": 5,
+    "total_words_analyzed": 36,
+    "long_word_events": 18,
+    "short_word_events": 0,
+    "inter_word_gap_events": 0,
+    "boundary_gap_events": 0
+  }
+}
+```

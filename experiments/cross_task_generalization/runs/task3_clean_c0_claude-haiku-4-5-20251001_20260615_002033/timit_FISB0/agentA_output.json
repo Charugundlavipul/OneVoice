@@ -1,0 +1,245 @@
+{
+  "bundle_id": "timit_FISB0",
+  "speaker_id": "FISB0",
+  "timing_events": [
+    {
+      "utt_id": "FISB0_SA1",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "suit",
+          "start": 1.8599375,
+          "end": 2.3968125,
+          "duration": 0.536875,
+          "reason": "exceeds p90 (0.542125) threshold for 3-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "greasy",
+          "start": 2.6005625,
+          "end": 3.1200625,
+          "duration": 0.5195,
+          "reason": "exceeds p90 (0.5423) threshold for 6-phone word"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            7,
+            8
+          ],
+          "gap_start": 3.5414375,
+          "gap_end": 3.5705,
+          "duration": 0.0290625,
+          "reason": "epi phone between 'wash' and 'water'"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            8,
+            9
+          ],
+          "gap_start": 3.9335,
+          "gap_end": 4.0558125,
+          "duration": 0.1223125,
+          "reason": "q phone between 'water' and 'all'"
+        }
+      ]
+    },
+    {
+      "utt_id": "FISB0_SA2",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "carry",
+          "start": 0.9756875,
+          "end": 1.4405625,
+          "duration": 0.464875,
+          "reason": "exceeds p90 (0.503275) threshold for 5-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "oily",
+          "start": 1.6541875,
+          "end": 2.1191875,
+          "duration": 0.465,
+          "reason": "exceeds p90 (0.3694375) threshold for 4-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "rag",
+          "start": 2.1191875,
+          "end": 2.573125,
+          "duration": 0.4539375,
+          "reason": "exceeds p90 (0.3694375) threshold for 4-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 9,
+          "word": "that",
+          "start": 2.924125,
+          "end": 3.40125,
+          "duration": 0.477125,
+          "reason": "exceeds p90 (0.42753125) threshold for 4-phone word"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            4,
+            5
+          ],
+          "gap_start": 1.4405625,
+          "gap_end": 1.52075,
+          "duration": 0.0801875,
+          "reason": "q phone between 'carry' and 'an'"
+        }
+      ]
+    },
+    {
+      "utt_id": "FISB0_SI1579",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 0,
+          "word": "exboyfriend",
+          "start": 0.1375,
+          "end": 1.2075,
+          "duration": 1.07,
+          "reason": "exceeds p90 (0.808275) threshold for 8-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 2,
+          "word": "exhusband",
+          "start": 1.7820625,
+          "end": 2.6325,
+          "duration": 0.8504375,
+          "reason": "exceeds p90 (0.808275) threshold for 8-phone word"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            1,
+            2
+          ],
+          "gap_start": 1.653375,
+          "gap_end": 1.7820625,
+          "duration": 0.1286875,
+          "reason": "pau phone between 'meet' and 'exhusband'"
+        }
+      ]
+    },
+    {
+      "utt_id": "FISB0_SI2209",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "bullet",
+          "start": 0.246625,
+          "end": 0.7495625,
+          "duration": 0.5029375,
+          "reason": "exceeds p90 (0.503275) threshold for 6-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 3,
+          "word": "answered",
+          "start": 0.990625,
+          "end": 1.6553125,
+          "duration": 0.6646875,
+          "reason": "exceeds p90 (0.6202625) threshold for 6-phone word"
+        }
+      ]
+    },
+    {
+      "utt_id": "FISB0_SI949",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 3,
+          "word": "hard",
+          "start": 0.650125,
+          "end": 1.105,
+          "duration": 0.454875,
+          "reason": "exceeds p90 (0.42753125) threshold for 4-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 5,
+          "word": "decide",
+          "start": 1.18,
+          "end": 1.7835,
+          "duration": 0.6035,
+          "reason": "exceeds p90 (0.6202625) threshold for 6-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 10,
+          "word": "worth",
+          "start": 2.632625,
+          "end": 3.1756875,
+          "duration": 0.5430625,
+          "reason": "exceeds p90 (0.503275) threshold for 4-phone word"
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 13,
+          "word": "something",
+          "start": 3.954875,
+          "end": 4.4468125,
+          "duration": 0.4919375,
+          "reason": "exceeds p90 (0.42753125) threshold for 7-phone word"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            7,
+            8
+          ],
+          "gap_start": 2.1435625,
+          "gap_end": 2.1643125,
+          "duration": 0.02075,
+          "reason": "epi phone between 'this' and 'labor'"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            9,
+            10
+          ],
+          "gap_start": 2.605,
+          "gap_end": 2.632625,
+          "duration": 0.027625,
+          "reason": "epi phone between 'is' and 'worth'"
+        },
+        {
+          "event_type": "boundary_gap",
+          "between_words": [
+            10,
+            11
+          ],
+          "gap_start": 3.1756875,
+          "gap_end": 3.4125,
+          "duration": 0.2368125,
+          "reason": "pau phone exceeds inter-word threshold"
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [
+            13,
+            14
+          ],
+          "gap_start": 4.4468125,
+          "gap_end": 4.46725,
+          "duration": 0.0204375,
+          "reason": "epi phone between 'something' and 'for'"
+        }
+      ]
+    }
+  ]
+}

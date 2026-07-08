@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "event_type": "long_phone",
+      "phone_index": 2,
+      "start": 0.1825,
+      "end": 0.3375,
+      "utt_id": "FEDW0_SI1653"
+    },
+    {
+      "event_type": "long_phone",
+      "phone_index": 5,
+      "start": 0.5525,
+      "end": 0.7475,
+      "utt_id": "FEDW0_SI1653"
+    },
+    {
+      "event_type": "long_phone",
+      "phone_index": 8,
+      "start": 0.8449375,
+      "end": 0.9975,
+      "utt_id": "FEDW0_SI1653"
+    },
+    {
+      "event_type": "long_phone",
+      "phone_index": 9,
+      "start": 0.9975,
+      "end": 1.15925,
+      "utt_id": "FEDW0_SI1653"
+    },
+    {
+      "event_type": "closure_segment",
+      "phone_index": 4,
+      "start": 0.4675,
+      "end": 0.5525,
+      "utt_id": "FEDW0_SI1653"
+    },
+    {
+      "event_type": "closure_segment",
+      "phone_index": 6,
+      "start": 0.7475,
+      "end": 0.8015625,
+      "utt_id": "FEDW0_SI1653"
+    },
+    {
+      "event_type": "pause_silence_segment",
+      "phone_index": 0,
+      "start": 0.0,
+      "end": 0.1475,
+      "utt_id": "FEDW0_SI1653"
+    },
+    {
+      "event_type": "pause_silence_segment",
+      "phone_index": 15,
+      "start": 1.52475,
+      "end": 1.675,
+      "utt_id": "FEDW0_SI1653"
+    }
+  ]
+}

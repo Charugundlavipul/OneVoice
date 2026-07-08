@@ -1,0 +1,72 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "pause",
+      "utterance_index": 2,
+      "speaker": "MOT",
+      "source_text": "look at that (.) two beds !",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 10,
+      "speaker": "MOT",
+      "source_text": "bed .",
+      "related_utterance_index": 9,
+      "related_speaker": "CHI",
+      "description": "MOT repeats CHI's word 'bed'"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 12,
+      "speaker": "MOT",
+      "source_text": "oh .",
+      "related_utterance_index": 11,
+      "related_speaker": "CHI",
+      "description": "MOT repeats CHI's interjection 'oh'"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 16,
+      "speaker": "MOT",
+      "source_text": "0 [=! hums] .",
+      "description": "Non-speech vocalization: humming"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 23,
+      "speaker": "MOT",
+      "source_text": "ball .",
+      "related_utterance_index": 22,
+      "related_speaker": "CHI",
+      "description": "MOT repeats CHI's word 'ball'"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 24,
+      "speaker": "MOT",
+      "source_text": "ball .",
+      "related_utterance_index": 23,
+      "related_speaker": "MOT",
+      "description": "MOT repeats own word 'ball' consecutively"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 32,
+      "speaker": "MOT",
+      "source_text": "wanna put it in here ?",
+      "related_utterance_index": 33,
+      "description": "MOT reformulates question as imperative in next turn"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 33,
+      "speaker": "MOT",
+      "source_text": "put it in here .",
+      "related_utterance_index": 35,
+      "description": "MOT repeats directive with added gestural emphasis"
+    }
+  ]
+}
+```

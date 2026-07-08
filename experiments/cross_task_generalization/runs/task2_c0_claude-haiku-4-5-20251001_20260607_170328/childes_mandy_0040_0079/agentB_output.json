@@ -1,0 +1,74 @@
+{
+  "interaction_events": [
+    {
+      "event_type": "non_speech",
+      "utterance_index": 0,
+      "speaker": "CHI",
+      "source_text": "0 .",
+      "description": "Silent turn with gesture"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 1,
+      "speaker": "CHI",
+      "source_text": "yyy .",
+      "description": "Unintelligible vocalization"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 3,
+      "speaker": "CHI",
+      "source_text": "xxx .",
+      "description": "Unintelligible speech"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 8,
+      "speaker": "MOT",
+      "source_text": "oh (.) you want that ?",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 12,
+      "speaker": "CHI",
+      "source_text": "xxx .",
+      "description": "Unintelligible speech"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 14,
+      "speaker": "CHI",
+      "source_text": "&-uh !",
+      "description": "Filled pause/interjection"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 16,
+      "speaker": "CHI",
+      "source_text": "open .",
+      "description": "Repetition of MOT's question word 'open' from utterance 15"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 17,
+      "speaker": "MOT",
+      "source_text": "0 [=! soft laugh] .",
+      "description": "Non-speech event: soft laugh"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 33,
+      "speaker": "CHI",
+      "source_text": "xxx .",
+      "description": "Unintelligible speech, spoken softly"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 35,
+      "speaker": "MOT",
+      "source_text": "you_all done with that (.) too ?",
+      "description": "Pause marked with (.)"
+    }
+  ]
+}

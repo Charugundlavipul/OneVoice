@@ -1,0 +1,50 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "pause",
+      "utterance_index": 5,
+      "speaker": "MOT",
+      "source_text": "look (.) Vicki .",
+      "description": "Pause marked with (.) between 'look' and 'Vicki'"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 2,
+      "speaker": "CHI",
+      "source_text": "&-uh .",
+      "description": "Non-lexical vocalization with comment 'spoken softly'"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 16,
+      "speaker": "CHI",
+      "source_text": "yyy !",
+      "xpho": "de de de",
+      "description": "Non-lexical vocalization with phonetic transcription"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 18,
+      "speaker": "CHI",
+      "source_text": "&-um .",
+      "description": "Non-lexical vocalization with comment 'soft struggle noise'"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 20,
+      "speaker": "CHI",
+      "source_text": "0 [=! soft laugh] .",
+      "description": "Non-speech event: soft laugh"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 24,
+      "speaker": "CHI",
+      "source_text": "yyy .",
+      "xpho": "cu+u_u w6",
+      "description": "Non-lexical vocalization with phonetic transcription"
+    }
+  ]
+}
+```

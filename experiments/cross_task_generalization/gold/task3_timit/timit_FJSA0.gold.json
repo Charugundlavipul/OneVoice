@@ -1,0 +1,1337 @@
+{
+  "bundle_id": "timit_FJSA0",
+  "utterance_summaries": [
+    {
+      "utt_id": "FJSA0_SA1",
+      "long_word_count": 0,
+      "short_word_count": 0,
+      "inter_word_gap_count": 2,
+      "boundary_gap_count": 2,
+      "long_phone_count": 3,
+      "short_phone_count": 3,
+      "closure_count": 5,
+      "pause_silence_count": 3,
+      "glottal_stop_count": 2,
+      "total_event_count": 20
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "long_word_count": 0,
+      "short_word_count": 0,
+      "inter_word_gap_count": 0,
+      "boundary_gap_count": 1,
+      "long_phone_count": 1,
+      "short_phone_count": 6,
+      "closure_count": 6,
+      "pause_silence_count": 2,
+      "glottal_stop_count": 2,
+      "total_event_count": 18
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "long_word_count": 0,
+      "short_word_count": 2,
+      "inter_word_gap_count": 0,
+      "boundary_gap_count": 2,
+      "long_phone_count": 4,
+      "short_phone_count": 3,
+      "closure_count": 5,
+      "pause_silence_count": 2,
+      "glottal_stop_count": 0,
+      "total_event_count": 18
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "long_word_count": 0,
+      "short_word_count": 3,
+      "inter_word_gap_count": 1,
+      "boundary_gap_count": 2,
+      "long_phone_count": 5,
+      "short_phone_count": 6,
+      "closure_count": 12,
+      "pause_silence_count": 2,
+      "glottal_stop_count": 1,
+      "total_event_count": 32
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "long_word_count": 0,
+      "short_word_count": 1,
+      "inter_word_gap_count": 1,
+      "boundary_gap_count": 2,
+      "long_phone_count": 2,
+      "short_phone_count": 11,
+      "closure_count": 11,
+      "pause_silence_count": 3,
+      "glottal_stop_count": 4,
+      "total_event_count": 35
+    }
+  ],
+  "events": [
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "boundary_gap",
+      "start": 0.0,
+      "end": 0.14,
+      "word_index": 0,
+      "duration": 0.14
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "pause_silence_segment",
+      "start": 0.0,
+      "end": 0.14,
+      "phone_index": 0,
+      "phone": "h#",
+      "duration": 0.14
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "closure_segment",
+      "start": 0.4625,
+      "end": 0.5043125,
+      "word_index": 1,
+      "phone_index": 5,
+      "phone": "dcl",
+      "duration": 0.0418125
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "short_phone",
+      "start": 0.5043125,
+      "end": 0.5325,
+      "word_index": 1,
+      "phone_index": 6,
+      "phone": "jh",
+      "duration": 0.0281875
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "closure_segment",
+      "start": 0.6175,
+      "end": 0.6814375,
+      "word_index": 3,
+      "phone_index": 8,
+      "phone": "dcl",
+      "duration": 0.0639375
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "closure_segment",
+      "start": 0.8625,
+      "end": 0.92625,
+      "word_index": 3,
+      "phone_index": 12,
+      "phone": "kcl",
+      "duration": 0.06375
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "short_phone",
+      "start": 0.92625,
+      "end": 0.945,
+      "word_index": 3,
+      "phone_index": 13,
+      "phone": "k",
+      "duration": 0.01875
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "closure_segment",
+      "start": 1.221875,
+      "end": 1.2610625,
+      "word_index": 4,
+      "phone_index": 16,
+      "phone": "tcl",
+      "duration": 0.0391875
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "glottal_stop",
+      "start": 1.2845625,
+      "end": 1.3263125,
+      "word_index": 5,
+      "phone_index": 18,
+      "phone": "q",
+      "duration": 0.04175
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "closure_segment",
+      "start": 1.43075,
+      "end": 1.510625,
+      "word_index": 6,
+      "phone_index": 21,
+      "phone": "gcl",
+      "duration": 0.079875
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "long_phone",
+      "start": 1.43075,
+      "end": 1.510625,
+      "word_index": 6,
+      "phone_index": 21,
+      "phone": "gcl",
+      "duration": 0.079875
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "long_phone",
+      "start": 1.510625,
+      "end": 1.563125,
+      "word_index": 6,
+      "phone_index": 22,
+      "phone": "g",
+      "duration": 0.0525
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "short_phone",
+      "start": 1.563125,
+      "end": 1.594125,
+      "word_index": 6,
+      "phone_index": 23,
+      "phone": "r",
+      "duration": 0.031
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "inter_word_gap",
+      "start": 2.159375,
+      "end": 2.195,
+      "word_index": 8,
+      "duration": 0.03562500000000002
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "pause_silence_segment",
+      "start": 2.159375,
+      "end": 2.195,
+      "phone_index": 30,
+      "phone": "epi",
+      "duration": 0.035625
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "glottal_stop",
+      "start": 2.4475,
+      "end": 2.5116875,
+      "phone_index": 35,
+      "phone": "q",
+      "duration": 0.0641875
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "inter_word_gap",
+      "start": 2.4475,
+      "end": 2.5116875,
+      "word_index": 9,
+      "duration": 0.06418750000000006
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "long_phone",
+      "start": 2.90875,
+      "end": 3.028875,
+      "word_index": 10,
+      "phone_index": 40,
+      "phone": "axr",
+      "duration": 0.120125
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "pause_silence_segment",
+      "start": 3.028875,
+      "end": 3.195,
+      "phone_index": 41,
+      "phone": "h#",
+      "duration": 0.166125
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "boundary_gap",
+      "start": 3.028875,
+      "end": 3.2,
+      "word_index": 10,
+      "duration": 0.17112499999999997
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "boundary_gap",
+      "start": 0.0,
+      "end": 0.27675,
+      "word_index": 0,
+      "duration": 0.27675
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "pause_silence_segment",
+      "start": 0.0,
+      "end": 0.27675,
+      "phone_index": 0,
+      "phone": "h#",
+      "duration": 0.27675
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "short_phone",
+      "start": 0.435,
+      "end": 0.45,
+      "word_index": 0,
+      "phone_index": 3,
+      "phone": "n",
+      "duration": 0.015
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "closure_segment",
+      "start": 0.45,
+      "end": 0.505,
+      "word_index": 0,
+      "phone_index": 4,
+      "phone": "tcl",
+      "duration": 0.055
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "glottal_stop",
+      "start": 0.505,
+      "end": 0.531375,
+      "word_index": 1,
+      "phone_index": 5,
+      "phone": "q",
+      "duration": 0.026375
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "short_phone",
+      "start": 0.505,
+      "end": 0.531375,
+      "word_index": 1,
+      "phone_index": 5,
+      "phone": "q",
+      "duration": 0.026375
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "closure_segment",
+      "start": 0.7525,
+      "end": 0.77625,
+      "word_index": 1,
+      "phone_index": 8,
+      "phone": "kcl",
+      "duration": 0.02375
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "short_phone",
+      "start": 0.7525,
+      "end": 0.77625,
+      "word_index": 1,
+      "phone_index": 8,
+      "phone": "kcl",
+      "duration": 0.02375
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "short_phone",
+      "start": 0.8475,
+      "end": 0.8720625,
+      "word_index": 2,
+      "phone_index": 10,
+      "phone": "m",
+      "duration": 0.0245625
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "closure_segment",
+      "start": 1.0675,
+      "end": 1.129375,
+      "word_index": 4,
+      "phone_index": 14,
+      "phone": "kcl",
+      "duration": 0.061875
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "glottal_stop",
+      "start": 1.5378125,
+      "end": 1.5825,
+      "word_index": 6,
+      "phone_index": 22,
+      "phone": "q",
+      "duration": 0.0446875
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "closure_segment",
+      "start": 2.0825,
+      "end": 2.119375,
+      "word_index": 7,
+      "phone_index": 28,
+      "phone": "gcl",
+      "duration": 0.036875
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "closure_segment",
+      "start": 2.3175,
+      "end": 2.343125,
+      "word_index": 8,
+      "phone_index": 32,
+      "phone": "kcl",
+      "duration": 0.025625
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "short_phone",
+      "start": 2.3175,
+      "end": 2.343125,
+      "word_index": 8,
+      "phone_index": 32,
+      "phone": "kcl",
+      "duration": 0.025625
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "long_phone",
+      "start": 2.3733125,
+      "end": 2.444375,
+      "word_index": 9,
+      "phone_index": 34,
+      "phone": "dh",
+      "duration": 0.0710625
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "closure_segment",
+      "start": 2.6325,
+      "end": 2.7225,
+      "word_index": 9,
+      "phone_index": 36,
+      "phone": "tcl",
+      "duration": 0.09
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "pause_silence_segment",
+      "start": 2.7225,
+      "end": 2.79,
+      "phone_index": 37,
+      "phone": "h#",
+      "duration": 0.0675
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "short_phone",
+      "start": 2.7225,
+      "end": 2.79,
+      "phone_index": 37,
+      "phone": "h#",
+      "duration": 0.0675
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "boundary_gap",
+      "start": 0.0,
+      "end": 0.1583125,
+      "word_index": 0,
+      "duration": 0.1583125
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "pause_silence_segment",
+      "start": 0.0,
+      "end": 0.1583125,
+      "phone_index": 0,
+      "phone": "h#",
+      "duration": 0.1583125
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "short_phone",
+      "start": 0.1583125,
+      "end": 0.1795,
+      "word_index": 0,
+      "phone_index": 1,
+      "phone": "y",
+      "duration": 0.0211875
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "short_word",
+      "start": 0.1583125,
+      "end": 0.221875,
+      "word_index": 0,
+      "word": "you",
+      "duration": 0.0635625
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "short_phone",
+      "start": 0.1795,
+      "end": 0.221875,
+      "word_index": 0,
+      "phone_index": 2,
+      "phone": "ux",
+      "duration": 0.042375
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "closure_segment",
+      "start": 0.3225,
+      "end": 0.365625,
+      "word_index": 1,
+      "phone_index": 5,
+      "phone": "dcl",
+      "duration": 0.043125
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "long_phone",
+      "start": 0.365625,
+      "end": 0.41,
+      "word_index": 2,
+      "phone_index": 6,
+      "phone": "d",
+      "duration": 0.044375
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "short_word",
+      "start": 0.7754375,
+      "end": 1.001875,
+      "word_index": 4,
+      "word": "into",
+      "duration": 0.2264375
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "closure_segment",
+      "start": 0.86,
+      "end": 0.905,
+      "word_index": 4,
+      "phone_index": 14,
+      "phone": "tcl",
+      "duration": 0.045
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "long_phone",
+      "start": 1.131875,
+      "end": 1.315875,
+      "word_index": 5,
+      "phone_index": 18,
+      "phone": "ey",
+      "duration": 0.184
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "short_phone",
+      "start": 1.441875,
+      "end": 1.4875,
+      "word_index": 6,
+      "phone_index": 21,
+      "phone": "iy",
+      "duration": 0.045625
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "closure_segment",
+      "start": 1.4875,
+      "end": 1.5613125,
+      "word_index": 7,
+      "phone_index": 22,
+      "phone": "dcl",
+      "duration": 0.0738125
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "closure_segment",
+      "start": 1.6125,
+      "end": 1.670625,
+      "word_index": 7,
+      "phone_index": 25,
+      "phone": "kcl",
+      "duration": 0.058125
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "closure_segment",
+      "start": 1.9843125,
+      "end": 2.0783125,
+      "word_index": 7,
+      "phone_index": 30,
+      "phone": "dcl",
+      "duration": 0.094
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "long_phone",
+      "start": 1.9843125,
+      "end": 2.0783125,
+      "word_index": 7,
+      "phone_index": 30,
+      "phone": "dcl",
+      "duration": 0.094
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "long_phone",
+      "start": 2.0783125,
+      "end": 3.215,
+      "phone_index": 31,
+      "phone": "h#",
+      "duration": 1.1366875
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "pause_silence_segment",
+      "start": 2.0783125,
+      "end": 3.215,
+      "phone_index": 31,
+      "phone": "h#",
+      "duration": 1.1366875
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "boundary_gap",
+      "start": 2.0783125,
+      "end": 3.21925,
+      "word_index": 7,
+      "duration": 1.1409375000000002
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "boundary_gap",
+      "start": 0.0,
+      "end": 0.22875,
+      "word_index": 0,
+      "duration": 0.22875
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "pause_silence_segment",
+      "start": 0.0,
+      "end": 0.22875,
+      "phone_index": 0,
+      "phone": "h#",
+      "duration": 0.22875
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "short_word",
+      "start": 0.22875,
+      "end": 0.2819375,
+      "word_index": 0,
+      "word": "the",
+      "duration": 0.0531875
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "closure_segment",
+      "start": 0.2819375,
+      "end": 0.35125,
+      "word_index": 1,
+      "phone_index": 3,
+      "phone": "kcl",
+      "duration": 0.0693125
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "closure_segment",
+      "start": 0.6056875,
+      "end": 0.660875,
+      "word_index": 1,
+      "phone_index": 7,
+      "phone": "dcl",
+      "duration": 0.0551875
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "short_phone",
+      "start": 0.660875,
+      "end": 0.709375,
+      "word_index": 1,
+      "phone_index": 8,
+      "phone": "z",
+      "duration": 0.0485
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "closure_segment",
+      "start": 0.709375,
+      "end": 0.80875,
+      "word_index": 2,
+      "phone_index": 9,
+      "phone": "bcl",
+      "duration": 0.099375
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "long_phone",
+      "start": 0.709375,
+      "end": 0.80875,
+      "word_index": 2,
+      "phone_index": 9,
+      "phone": "bcl",
+      "duration": 0.099375
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "closure_segment",
+      "start": 0.985,
+      "end": 1.03,
+      "word_index": 2,
+      "phone_index": 13,
+      "phone": "dcl",
+      "duration": 0.045
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "closure_segment",
+      "start": 1.10125,
+      "end": 1.156625,
+      "word_index": 2,
+      "phone_index": 15,
+      "phone": "dcl",
+      "duration": 0.055375
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "closure_segment",
+      "start": 1.715,
+      "end": 1.776875,
+      "word_index": 5,
+      "phone_index": 24,
+      "phone": "bcl",
+      "duration": 0.061875
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "closure_segment",
+      "start": 2.0118125,
+      "end": 2.05125,
+      "word_index": 5,
+      "phone_index": 28,
+      "phone": "tcl",
+      "duration": 0.0394375
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "short_phone",
+      "start": 2.05125,
+      "end": 2.085,
+      "word_index": 6,
+      "phone_index": 29,
+      "phone": "s",
+      "duration": 0.03375
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "closure_segment",
+      "start": 2.1925,
+      "end": 2.2390625,
+      "word_index": 6,
+      "phone_index": 31,
+      "phone": "dcl",
+      "duration": 0.0465625
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "glottal_stop",
+      "start": 2.46475,
+      "end": 2.5116875,
+      "phone_index": 35,
+      "phone": "q",
+      "duration": 0.0469375
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "inter_word_gap",
+      "start": 2.46475,
+      "end": 2.5116875,
+      "word_index": 7,
+      "duration": 0.046937499999999854
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "short_word",
+      "start": 2.5116875,
+      "end": 2.7218125,
+      "word_index": 7,
+      "word": "into",
+      "duration": 0.210125
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "short_phone",
+      "start": 2.5456875,
+      "end": 2.575,
+      "word_index": 7,
+      "phone_index": 37,
+      "phone": "n",
+      "duration": 0.0293125
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "closure_segment",
+      "start": 2.575,
+      "end": 2.605625,
+      "word_index": 7,
+      "phone_index": 38,
+      "phone": "tcl",
+      "duration": 0.030625
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "short_phone",
+      "start": 2.669375,
+      "end": 2.7218125,
+      "word_index": 7,
+      "phone_index": 40,
+      "phone": "uw",
+      "duration": 0.0524375
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "short_phone",
+      "start": 2.7218125,
+      "end": 2.7480625,
+      "word_index": 8,
+      "phone_index": 41,
+      "phone": "ax",
+      "duration": 0.02625
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "short_word",
+      "start": 2.7218125,
+      "end": 2.7480625,
+      "word_index": 8,
+      "word": "a",
+      "duration": 0.02625
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "closure_segment",
+      "start": 2.7480625,
+      "end": 2.83375,
+      "word_index": 9,
+      "phone_index": 42,
+      "phone": "gcl",
+      "duration": 0.0856875
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "long_phone",
+      "start": 2.7480625,
+      "end": 2.83375,
+      "word_index": 9,
+      "phone_index": 42,
+      "phone": "gcl",
+      "duration": 0.0856875
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "closure_segment",
+      "start": 3.0425,
+      "end": 3.173125,
+      "word_index": 9,
+      "phone_index": 46,
+      "phone": "tcl",
+      "duration": 0.130625
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "long_phone",
+      "start": 3.0425,
+      "end": 3.173125,
+      "word_index": 9,
+      "phone_index": 46,
+      "phone": "tcl",
+      "duration": 0.130625
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "closure_segment",
+      "start": 3.3725,
+      "end": 3.436875,
+      "word_index": 10,
+      "phone_index": 50,
+      "phone": "kcl",
+      "duration": 0.064375
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "short_phone",
+      "start": 3.436875,
+      "end": 3.455,
+      "word_index": 10,
+      "phone_index": 51,
+      "phone": "k",
+      "duration": 0.018125
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "long_phone",
+      "start": 3.455,
+      "end": 3.613125,
+      "word_index": 11,
+      "phone_index": 52,
+      "phone": "f",
+      "duration": 0.158125
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "long_phone",
+      "start": 3.7425,
+      "end": 3.8225,
+      "word_index": 11,
+      "phone_index": 55,
+      "phone": "ax",
+      "duration": 0.08
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "pause_silence_segment",
+      "start": 3.8625,
+      "end": 3.99,
+      "phone_index": 57,
+      "phone": "h#",
+      "duration": 0.1275
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "boundary_gap",
+      "start": 3.8625,
+      "end": 3.993625,
+      "word_index": 11,
+      "duration": 0.13112500000000038
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "boundary_gap",
+      "start": 0.0,
+      "end": 1.0825,
+      "word_index": 0,
+      "duration": 1.0825
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "long_phone",
+      "start": 0.0,
+      "end": 1.0825,
+      "phone_index": 0,
+      "phone": "h#",
+      "duration": 1.0825
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "pause_silence_segment",
+      "start": 0.0,
+      "end": 1.0825,
+      "phone_index": 0,
+      "phone": "h#",
+      "duration": 1.0825
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "short_phone",
+      "start": 1.0825,
+      "end": 1.12125,
+      "word_index": 0,
+      "phone_index": 1,
+      "phone": "f",
+      "duration": 0.03875
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "closure_segment",
+      "start": 1.3325,
+      "end": 1.3576875,
+      "word_index": 0,
+      "phone_index": 4,
+      "phone": "dcl",
+      "duration": 0.0251875
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "glottal_stop",
+      "start": 1.386375,
+      "end": 1.4908125,
+      "word_index": 1,
+      "phone_index": 6,
+      "phone": "q",
+      "duration": 0.1044375
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "closure_segment",
+      "start": 1.605,
+      "end": 1.63625,
+      "word_index": 1,
+      "phone_index": 9,
+      "phone": "tcl",
+      "duration": 0.03125
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "closure_segment",
+      "start": 1.9075,
+      "end": 1.9975,
+      "word_index": 2,
+      "phone_index": 14,
+      "phone": "pcl",
+      "duration": 0.09
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "closure_segment",
+      "start": 2.0495625,
+      "end": 2.088125,
+      "word_index": 3,
+      "phone_index": 16,
+      "phone": "kcl",
+      "duration": 0.0385625
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "glottal_stop",
+      "start": 2.4464375,
+      "end": 2.4934375,
+      "word_index": 4,
+      "phone_index": 22,
+      "phone": "q",
+      "duration": 0.047
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "short_phone",
+      "start": 2.4934375,
+      "end": 2.577,
+      "word_index": 4,
+      "phone_index": 23,
+      "phone": "ae",
+      "duration": 0.0835625
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "short_phone",
+      "start": 2.577,
+      "end": 2.605625,
+      "word_index": 4,
+      "phone_index": 24,
+      "phone": "n",
+      "duration": 0.028625
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "glottal_stop",
+      "start": 2.605625,
+      "end": 2.6788125,
+      "word_index": 4,
+      "phone_index": 25,
+      "phone": "q",
+      "duration": 0.0731875
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "closure_segment",
+      "start": 2.9125,
+      "end": 2.9520625,
+      "word_index": 7,
+      "phone_index": 29,
+      "phone": "dcl",
+      "duration": 0.0395625
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "closure_segment",
+      "start": 3.6675,
+      "end": 3.701375,
+      "word_index": 9,
+      "phone_index": 38,
+      "phone": "tcl",
+      "duration": 0.033875
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "inter_word_gap",
+      "start": 3.730125,
+      "end": 3.792,
+      "word_index": 10,
+      "duration": 0.06187499999999968
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "pause_silence_segment",
+      "start": 3.730125,
+      "end": 3.792,
+      "phone_index": 40,
+      "phone": "pau",
+      "duration": 0.061875
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "short_phone",
+      "start": 3.730125,
+      "end": 3.792,
+      "phone_index": 40,
+      "phone": "pau",
+      "duration": 0.061875
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "closure_segment",
+      "start": 3.959875,
+      "end": 4.035625,
+      "word_index": 11,
+      "phone_index": 43,
+      "phone": "pcl",
+      "duration": 0.07575
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "short_phone",
+      "start": 4.059125,
+      "end": 4.0878125,
+      "word_index": 11,
+      "phone_index": 45,
+      "phone": "r",
+      "duration": 0.0286875
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "closure_segment",
+      "start": 4.200125,
+      "end": 4.229375,
+      "word_index": 11,
+      "phone_index": 48,
+      "phone": "kcl",
+      "duration": 0.02925
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "short_phone",
+      "start": 4.200125,
+      "end": 4.229375,
+      "word_index": 11,
+      "phone_index": 48,
+      "phone": "kcl",
+      "duration": 0.02925
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "short_phone",
+      "start": 4.29625,
+      "end": 4.314125,
+      "word_index": 11,
+      "phone_index": 50,
+      "phone": "l",
+      "duration": 0.017875
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "short_phone",
+      "start": 4.314125,
+      "end": 4.35,
+      "word_index": 11,
+      "phone_index": 51,
+      "phone": "ih",
+      "duration": 0.035875
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "glottal_stop",
+      "start": 4.424625,
+      "end": 4.4638125,
+      "word_index": 12,
+      "phone_index": 53,
+      "phone": "q",
+      "duration": 0.0391875
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "short_word",
+      "start": 4.424625,
+      "end": 4.5525,
+      "word_index": 12,
+      "word": "of",
+      "duration": 0.127875
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "short_phone",
+      "start": 4.4638125,
+      "end": 4.5125,
+      "word_index": 12,
+      "phone_index": 54,
+      "phone": "ah",
+      "duration": 0.0486875
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "closure_segment",
+      "start": 4.5525,
+      "end": 4.62375,
+      "word_index": 13,
+      "phone_index": 56,
+      "phone": "pcl",
+      "duration": 0.07125
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "short_phone",
+      "start": 4.66375,
+      "end": 4.7275,
+      "word_index": 13,
+      "phone_index": 58,
+      "phone": "ae",
+      "duration": 0.06375
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "closure_segment",
+      "start": 4.7275,
+      "end": 4.794375,
+      "word_index": 13,
+      "phone_index": 59,
+      "phone": "pcl",
+      "duration": 0.066875
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "short_phone",
+      "start": 4.85875,
+      "end": 4.889125,
+      "word_index": 13,
+      "phone_index": 61,
+      "phone": "r",
+      "duration": 0.030375
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "closure_segment",
+      "start": 4.95,
+      "end": 4.99625,
+      "word_index": 13,
+      "phone_index": 63,
+      "phone": "kcl",
+      "duration": 0.04625
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "long_phone",
+      "start": 5.1575,
+      "end": 6.205,
+      "phone_index": 66,
+      "phone": "h#",
+      "duration": 1.0475
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "pause_silence_segment",
+      "start": 5.1575,
+      "end": 6.205,
+      "phone_index": 66,
+      "phone": "h#",
+      "duration": 1.0475
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "boundary_gap",
+      "start": 5.1575,
+      "end": 6.208,
+      "word_index": 13,
+      "duration": 1.0505000000000004
+    }
+  ],
+  "unlinked_events": [
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 0
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 30
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "glottal_stop",
+      "reason": "no_parent_word",
+      "phone_index": 35
+    },
+    {
+      "utt_id": "FJSA0_SA1",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 41
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 0
+    },
+    {
+      "utt_id": "FJSA0_SA2",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 37
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 0
+    },
+    {
+      "utt_id": "FJSA0_SI1379",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 31
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 0
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "glottal_stop",
+      "reason": "no_parent_word",
+      "phone_index": 35
+    },
+    {
+      "utt_id": "FJSA0_SI2009",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 57
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 0
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 40
+    },
+    {
+      "utt_id": "FJSA0_SI749",
+      "event_type": "pause_silence_segment",
+      "reason": "no_parent_word",
+      "phone_index": 66
+    }
+  ]
+}

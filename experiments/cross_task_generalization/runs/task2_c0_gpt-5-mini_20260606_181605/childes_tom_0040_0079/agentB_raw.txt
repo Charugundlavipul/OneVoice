@@ -1,0 +1,191 @@
+[
+  {
+    "event_type": "non_speech",
+    "utt_index": 1,
+    "speaker": "MOT",
+    "source_text": "act: claps"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 1,
+    "speaker": "MOT",
+    "source_text": "gpx: smiles"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 2,
+    "speaker": "CHI",
+    "source_text": "par: <aft> laughs"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 3,
+    "speaker": "MOT",
+    "source_text": "act: claps"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 3,
+    "speaker": "MOT",
+    "source_text": "gpx: smiles"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 5,
+    "speaker": "CHI",
+    "source_text": "raw: &=laughs ."
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 6,
+    "speaker": "MOT",
+    "source_text": "act: <1w> claps ."
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 11,
+    "speaker": "CHI",
+    "source_text": "raw: &-uh !"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 12,
+    "speaker": "CHI",
+    "source_text": "raw: &-uh !"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 14,
+    "speaker": "MOT",
+    "source_text": "raw token: (.)"
+  },
+  {
+    "event_type": "overlap",
+    "utt_index": 14,
+    "speaker": "MOT",
+    "source_text": "raw token: [!]"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 15,
+    "speaker": "MOT",
+    "source_text": "par: <1w> gasps ."
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 16,
+    "speaker": "MOT",
+    "source_text": "act: <aft> claps"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 16,
+    "speaker": "MOT",
+    "source_text": "par: <1w> spoken loudly"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 17,
+    "speaker": "CHI",
+    "source_text": "par: spoken loudly"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 17,
+    "speaker": "CHI",
+    "source_text": "act: <dur> flails hands"
+  },
+  {
+    "event_type": "overlap",
+    "utt_index": 20,
+    "speaker": "MOT",
+    "source_text": "raw token: [!]"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 23,
+    "speaker": "MOT",
+    "source_text": "raw token: (.)"
+  },
+  {
+    "event_type": "repetition",
+    "utt_index": 23,
+    "speaker": "MOT",
+    "source_text": "act: repeats two more times"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 23,
+    "speaker": "MOT",
+    "source_text": "par: <1w> sing song"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 24,
+    "speaker": "MOT",
+    "source_text": "raw: rrroom@o ."
+  },
+  {
+    "event_type": "repetition",
+    "utt_index": 24,
+    "speaker": "MOT",
+    "source_text": "act: repeats two more times"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 26,
+    "speaker": "MOT",
+    "source_text": "raw token: (.)"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 27,
+    "speaker": "CHI",
+    "source_text": "act: <dur> flails hands"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 29,
+    "speaker": "CHI",
+    "source_text": "raw: la_laaaa@o . / exp: car noises"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 30,
+    "speaker": "MOT",
+    "source_text": "raw token: (.)"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 30,
+    "speaker": "MOT",
+    "source_text": "raw: brroom_room@o"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 32,
+    "speaker": "MOT",
+    "source_text": "raw: broom_broom_broom@o ."
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 34,
+    "speaker": "MOT",
+    "source_text": "raw: cock_a_doddle_doo@o !"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 34,
+    "speaker": "MOT",
+    "source_text": "com: <aft> makes chicken noises"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 1,
+    "speaker": "MOT",
+    "source_text": "mor/gra paralinguistic markers present earlier (smiles/claps) consolidated"
+  }
+]
+
+[JSON_REPAIRED]
+{"events":[{"event_type":"non_speech","utt_index":1,"speaker":"MOT","source_text":"act: claps"},{"event_type":"non_speech","utt_index":1,"speaker":"MOT","source_text":"gpx: smiles"},{"event_type":"non_speech","utt_index":2,"speaker":"CHI","source_text":"par: <aft> laughs"},{"event_type":"non_speech","utt_index":3,"speaker":"MOT","source_text":"act: claps"},{"event_type":"non_speech","utt_index":3,"speaker":"MOT","source_text":"gpx: smiles"},{"event_type":"non_speech","utt_index":5,"speaker":"CHI","source_text":"raw: &=laughs ."},{"event_type":"non_speech","utt_index":6,"speaker":"MOT","source_text":"act: <1w> claps ."},{"event_type":"non_speech","utt_index":11,"speaker":"CHI","source_text":"raw: &-uh !"},{"event_type":"non_speech","utt_index":12,"speaker":"CHI","source_text":"raw: &-uh !"},{"event_type":"pause","utt_index":14,"speaker":"MOT","source_text":"raw token: (.)"},{"event_type":"overlap","utt_index":14,"speaker":"MOT","source_text":"raw token: [!]"},{"event_type":"non_speech","utt_index":15,"speaker":"MOT","source_text":"par: <1w> gasps ."},{"event_type":"non_speech","utt_index":16,"speaker":"MOT","source_text":"act: <aft> claps"},{"event_type":"non_speech","utt_index":16,"speaker":"MOT","source_text":"par: <1w> spoken loudly"},{"event_type":"non_speech","utt_index":17,"speaker":"CHI","source_text":"par: spoken loudly"},{"event_type":"non_speech","utt_index":17,"speaker":"CHI","source_text":"act: <dur> flails hands"},{"event_type":"overlap","utt_index":20,"speaker":"MOT","source_text":"raw token: [!]"},{"event_type":"pause","utt_index":23,"speaker":"MOT","source_text":"raw token: (.)"},{"event_type":"repetition","utt_index":23,"speaker":"MOT","source_text":"act: repeats two more times"},{"event_type":"non_speech","utt_index":23,"speaker":"MOT","source_text":"par: <1w> sing song"},{"event_type":"non_speech","utt_index":24,"speaker":"MOT","source_text":"raw: rrroom@o ."},{"event_type":"repetition","utt_index":24,"speaker":"MOT","source_text":"act: repeats two more times"},{"event_type":"pause","utt_index":26,"speaker":"MOT","source_text":"raw token: (.)"},{"event_type":"non_speech","utt_index":27,"speaker":"CHI","source_text":"act: <dur> flails hands"},{"event_type":"non_speech","utt_index":29,"speaker":"CHI","source_text":"raw: la_laaaa@o . / exp: car noises"},{"event_type":"pause","utt_index":30,"speaker":"MOT","source_text":"raw token: (.)"},{"event_type":"non_speech","utt_index":30,"speaker":"MOT","source_text":"raw: brroom_room@o"},{"event_type":"non_speech","utt_index":32,"speaker":"MOT","source_text":"raw: broom_broom_broom@o ."},{"event_type":"non_speech","utt_index":34,"speaker":"MOT","source_text":"raw: cock_a_doddle_doo@o !"},{"event_type":"non_speech","utt_index":34,"speaker":"MOT","source_text":"com: <aft> makes chicken noises"},{"event_type":"non_speech","utt_index":1,"speaker":"MOT","source_text":"mor/gra paralinguistic markers present earlier (smiles/claps) consolidated"}]}

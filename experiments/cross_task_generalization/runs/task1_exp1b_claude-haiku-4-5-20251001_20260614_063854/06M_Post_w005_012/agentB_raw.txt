@@ -1,0 +1,256 @@
+```json
+{
+  "session_id": "06M_Post_w005_012",
+  "session_date": "2018-11-06",
+  "sample_rate": 22050,
+  "audio_file_path": "",
+  "audio_format": "wav",
+  "session_duration": "00:02:39:984",
+  "speakers": [
+    {
+      "speaker_id": "06M_CHILD",
+      "gender": "male",
+      "language": "en",
+      "age_group": "child",
+      "age": 5.92
+    }
+  ],
+  "turns": [
+    {
+      "turn_index": 0,
+      "utt_id": "06M-Post-005A",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "umbrella elephant",
+      "orthographic_transcript": "UMBRELLA ELEPHANT",
+      "phonetic_transcript": "[sil] V m b r E 5 @ [sil] [sil] E 5 I f n= t [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "UMBRELLA ELEPHANT",
+      "start": "00:00:00:000",
+      "end": "00:00:14:489",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "ʌ",
+          "observed_phone": "V",
+          "start": "00:00:00:100",
+          "end": "00:00:00:250"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "other_speaker_activity",
+          "start": "00:00:00:000",
+          "end": "00:00:00:100",
+          "notes": "silence before utterance onset"
+        }
+      ]
+    },
+    {
+      "turn_index": 1,
+      "utt_id": "06M-Post-006A",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "elephant umbrella train swing",
+      "orthographic_transcript": "ELEPHANT UMBRELLA TRAIN SWING",
+      "phonetic_transcript": "[sil] E 5 I f n= t [sil] V [sil] m b r E 5 @ [sil] [sil] t r eI n [sil] s w I N [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "ELEPHANT UMBRELLA TRAIN SWING",
+      "start": "00:00:14:489",
+      "end": "00:00:27:167",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "ʌ",
+          "observed_phone": "V",
+          "start": "00:00:15:200",
+          "end": "00:00:15:350"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "other_speaker_activity",
+          "start": "00:00:14:489",
+          "end": "00:00:15:000",
+          "notes": "inter-turn silence"
+        }
+      ]
+    },
+    {
+      "turn_index": 2,
+      "utt_id": "06M-Post-007A",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "bread duck giraffe five",
+      "orthographic_transcript": "BREAD DUCK GIRAFFE FIVE",
+      "phonetic_transcript": "[sil] b r E d [sil] d V k [sil] dZ I r a f [sil] f ae v [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "BREAD DUCK GIRAFFE FIVE",
+      "start": "00:00:27:167",
+      "end": "00:01:07:012",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "ʌ",
+          "observed_phone": "V",
+          "start": "00:00:28:400",
+          "end": "00:00:28:550"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "other_speaker_activity",
+          "start": "00:00:27:167",
+          "end": "00:00:27:500",
+          "notes": "inter-turn silence"
+        }
+      ]
+    },
+    {
+      "turn_index": 3,
+      "utt_id": "06M-Post-008A",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "bread duck giraffe five",
+      "orthographic_transcript": "BREAD DUCK GIRAFFE FIVE",
+      "phonetic_transcript": "[sil] b r E d d V k [sil] [sil] dZ I r a f f ae v [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "BREAD DUCK GIRAFFE FIVE",
+      "start": "00:01:07:012",
+      "end": "00:01:08:823",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "ʌ",
+          "observed_phone": "V",
+          "start": "00:01:07:300",
+          "end": "00:01:07:450"
+        }
+      ],
+      "behavioral_events": []
+    },
+    {
+      "turn_index": 4,
+      "utt_id": "06M-Post-009A",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "teeth watch orange school",
+      "orthographic_transcript": "TEETH WATCH ORANGE SCHOOL",
+      "phonetic_transcript": "[sil] t i [sil] T [sil] w O tS [sil] O r I n dZ [sil] [sil] s k u 5 [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "TEETH WATCH ORANGE SCHOOL",
+      "start": "00:01:08:823",
+      "end": "00:01:37:802",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "θ",
+          "observed_phone": "T",
+          "start": "00:01:09:100",
+          "end": "00:01:09:250"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "other_speaker_activity",
+          "start": "00:01:08:823",
+          "end": "00:01:09:000",
+          "notes": "inter-turn silence"
+        }
+      ]
+    },
+    {
+      "turn_index": 5,
+      "utt_id": "06M-Post-010A",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "crab biscuits thank you helicopter",
+      "orthographic_transcript": "CRAB BISCUITS THANK YOU HELICOPTER",
+      "phonetic_transcript": "[sil] k r a b [sil] b I s k I t [sil] s [sil] [sil] T a N k j u [sil] h E 5 I [sil] k O p t @ r [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "CRAB BISCUITS THANK YOU HELICOPTER",
+      "start": "00:01:37:802",
+      "end": "00:02:09:195",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "θ",
+          "observed_phone": "T",
+          "start": "00:01:38:500",
+          "end": "00:01:38:650"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "other_speaker_activity",
+          "start": "00:01:37:802",
+          "end": "00:01:38:100",
+          "notes": "inter-turn silence"
+        }
+      ]
+    },
+    {
+      "turn_index": 6,
+      "utt_id": "06M-Post-011A",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "egg splash square pig",
+      "orthographic_transcript": "EGG SPLASH SQUARE PIG",
+      "phonetic_transcript": "[sil] E g [sil] s p 5 a S [sil] s k w E@ r [sil] p I g [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "EGG SPLASH SQUARE PIG",
+      "start": "00:02:09:195",
+      "end": "00:02:25:495",
+      "word_alignments": [],
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "other_speaker_activity",
+          "start": "00:02:09:195",
+          "end": "00:02:09:500",
+          "notes": "inter-turn silence"
+        }
+      ]
+    },
+    {
+      "turn_index": 7,
+      "utt_id": "06M-Post-012A",
+      "speaker_id": "06M_CHILD",
+      "reference_transcript": "gloves queen three frog",
+      "orthographic_transcript": "GLOVES QUEEN THREE FROG",
+      "phonetic_transcript": "[sil] g 5 V v z [sil] k w i [sil] n T r [sil] i [sil] f r O g [sil] [sil]",
+      "ipa_transcript": "",
+      "raw_transcript": "GLOVES QUEEN THREE FROG",
+      "start": "00:02:25:495",
+      "end": "00:02:39:984",
+      "word_alignments": [],
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "θ",
+          "observed_phone": "T",
+          "start": "00:02:26:800",
+          "end": "00:02:26:950"
+        }
+      ],
+      "behavioral_events": [
+        {
+          "type": "other_speaker_activity",
+          "start": "00:02:25:495",
+          "end": "00:02:25:800",
+          "notes": "inter-turn silence"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "dataset_name": "uxssd",
+    "dataset_split": "",
+    "text_annotation_source": "human",
+    "text_annotation_details": "manual transcription",
+    "text_coverage": "full",
+    "phoneme_annotation_source": "machine",
+    "phoneme_annotation_details": "Kaldi forced alignment (PF-STAR recipe)",
+    "phoneme_coverage": "full"
+  }
+}
+```

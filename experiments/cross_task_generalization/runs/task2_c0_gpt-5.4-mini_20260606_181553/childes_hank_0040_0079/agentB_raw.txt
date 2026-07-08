@@ -1,0 +1,89 @@
+[
+  {
+    "event_type": "pause",
+    "utterance_index": 12,
+    "speaker": "CHI",
+    "source_text": "&-um more ?",
+    "cue": "&-um"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 14,
+    "speaker": "CHI",
+    "source_text": "&-uh .",
+    "cue": "&-uh"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 17,
+    "speaker": "CHI",
+    "source_text": "&-uh (.) yyy ?",
+    "cue": "(.)"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 29,
+    "speaker": "CHI",
+    "source_text": "&-uh ?",
+    "cue": "&-uh"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 31,
+    "speaker": "CHI",
+    "source_text": "&-uh ?",
+    "cue": "&-uh"
+  },
+  {
+    "event_type": "repetition",
+    "utterance_index": 37,
+    "speaker": "MOT",
+    "source_text": "where does it go ?",
+    "cue": "repetition of prior maternal utterance at utterance 36"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 2,
+    "speaker": "MOT",
+    "source_text": "wow !",
+    "cue": "co|wow"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 11,
+    "speaker": "MOT",
+    "source_text": "wow [!] !",
+    "cue": "co|wow"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 19,
+    "speaker": "MOT",
+    "source_text": "don't worry .",
+    "cue": "imperative/comforting formula"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 28,
+    "speaker": "MOT",
+    "source_text": "no (.) it won't fit there .",
+    "cue": "co|no"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 30,
+    "speaker": "MOT",
+    "source_text": "yes .",
+    "cue": "co|yes"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 39,
+    "speaker": "MOT",
+    "source_text": "no: .",
+    "cue": "co|no"
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"pause\",\n    \"utterance_index\": 12,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"&-um more ?\",\n    \"cue\": \"&-um\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utterance_index\": 14,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"&-uh .\",\n    \"cue\": \"&-uh\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utterance_index\": 17,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"&-uh (.) yyy ?\",\n    \"cue\": \"(.)\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utterance_index\": 29,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"&-uh ?\",\n    \"cue\": \"&-uh\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utterance_index\": 31,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"&-uh ?\",\n    \"cue\": \"&-uh\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_index\": 37,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"where does it go ?\",\n    \"cue\": \"repetition of prior maternal utterance at utterance 36\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_index\": 2,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"wow !\",\n    \"cue\": \"co|wow\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_index\": 11,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"wow [!] !\",\n    \"cue\": \"co|wow\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_index\": 19,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"don't worry .\",\n    \"cue\": \"imperative/comforting formula\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_index\": 28,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"no (.) it won't fit there .\",\n    \"cue\": \"co|no\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_index\": 30,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"yes .\",\n    \"cue\": \"co|yes\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_index\": 39,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"no: .\",\n    \"cue\": \"co|no\"\n  }\n]"}

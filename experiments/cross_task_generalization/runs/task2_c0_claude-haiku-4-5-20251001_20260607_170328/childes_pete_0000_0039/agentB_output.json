@@ -1,0 +1,66 @@
+{
+  "events": [
+    {
+      "event_type": "pause",
+      "utterance_index": 11,
+      "speaker": "MOT",
+      "source_text": "now (.) can you put (th)em back in ?",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 27,
+      "speaker": "MOT",
+      "source_text": "<give me your arm> [?] .",
+      "description": "Uncertain/unclear utterance marked with [?]"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 29,
+      "speaker": "MOT",
+      "source_text": "give me your arm .",
+      "prior_utterance_index": 27,
+      "description": "Repetition of 'give me your arm' from utterance 27"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 30,
+      "speaker": "MOT",
+      "source_text": "look .",
+      "prior_utterance_index": 12,
+      "description": "Repetition of 'look' (also appears at utterance 32, 35)"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 32,
+      "speaker": "MOT",
+      "source_text": "look .",
+      "prior_utterance_index": 30,
+      "description": "Repetition of 'look'"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 35,
+      "speaker": "MOT",
+      "source_text": "look .",
+      "prior_utterance_index": 32,
+      "description": "Repetition of 'look'"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 36,
+      "speaker": "MOT",
+      "source_text": "can you put the two balls in ?",
+      "prior_utterance_index": 38,
+      "description": "Similar utterance repeated with variation (the/those)"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 38,
+      "speaker": "MOT",
+      "source_text": "can you put those two balls in ?",
+      "prior_utterance_index": 36,
+      "description": "Repetition of 'can you put...balls in?' with demonstrative 'those' instead of 'the'"
+    }
+  ]
+}

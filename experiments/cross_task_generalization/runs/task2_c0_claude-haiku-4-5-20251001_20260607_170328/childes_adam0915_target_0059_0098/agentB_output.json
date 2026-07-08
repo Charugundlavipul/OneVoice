@@ -1,0 +1,67 @@
+{
+  "events": [
+    {
+      "event_type": "repetition",
+      "utterance_index": 7,
+      "speaker": "MOT",
+      "source_text": "whee: !",
+      "note": "Repetition of utterance 1"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 4,
+      "speaker": "MOT",
+      "source_text": "+< &=laughs .",
+      "note": "Overlap marker (+<) indicates simultaneous speech with FAT utterance 3"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 9,
+      "speaker": "MOT",
+      "source_text": "&~m [/] &~m .",
+      "note": "Self-repair marker [/] indicates repetition/correction of non-speech sound"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 16,
+      "speaker": "MOT",
+      "source_text": "+< here it is .",
+      "note": "Overlap marker (+<) indicates simultaneous speech with FAT utterance 15"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 17,
+      "speaker": "MOT",
+      "source_text": "here it is .",
+      "note": "Repetition of utterance 16"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 18,
+      "speaker": "MOT",
+      "source_text": "here it is .",
+      "note": "Repetition of utterance 17"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 20,
+      "speaker": "MOT",
+      "source_text": "&~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh [/] &~erh &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [/] &~m [=! singing] .",
+      "note": "Multiple self-repair markers [/] indicating repetitions of non-speech sounds"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 23,
+      "speaker": "MOT",
+      "source_text": "oh [/] oh [/] oh oh no !",
+      "note": "Self-repair markers [/] indicate repetitions of 'oh'"
+    },
+    {
+      "event_type": "overlap",
+      "utterance_index": 36,
+      "speaker": "MOT",
+      "source_text": "+< &~emga .",
+      "note": "Overlap marker (+<) indicates simultaneous speech with FAT utterance 35"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+```json
+{
+  "events": [
+    {
+      "event_type": "non_speech",
+      "utterance_index": 3,
+      "speaker": "MOT",
+      "source_text": "o:h .",
+      "description": "Elongated vowel indicating prosodic emphasis"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 7,
+      "speaker": "CHI",
+      "source_text": "good (.) Mommy !",
+      "description": "Micro-pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 19,
+      "speaker": "MOT",
+      "source_text": "okay (.) where should we put this ?",
+      "description": "Micro-pause marked with (.)"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 23,
+      "speaker": "MOT",
+      "source_text": "uhoh what ?",
+      "related_utterance": 22,
+      "description": "MOT repeats CHI's 'uhoh' from previous utterance"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 35,
+      "speaker": "MOT",
+      "source_text": "is that Gramma huh ?",
+      "related_utterance": 36,
+      "description": "MOT repeats question 'is that Gramma' with variation in next utterance"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 36,
+      "speaker": "MOT",
+      "source_text": "is that Gramma ?",
+      "related_utterance": 35,
+      "description": "MOT removes 'huh' tag question, simplifying previous utterance"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 6,
+      "speaker": "CHI",
+      "source_text": "yyy Mommy .",
+      "xpho": "y3rd6m",
+      "description": "Unintelligible vocalization with phonetic transcription"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 10,
+      "speaker": "CHI",
+      "source_text": "yyy .",
+      "xpho": "&-eh",
+      "description": "Unintelligible vocalization"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 17,
+      "speaker": "CHI",
+      "source_text": "yyy .",
+      "xpho": "&-eh",
+      "description": "Unintelligible vocalization"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 32,
+      "speaker": "CHI",
+      "source_text": "yyy .",
+      "xpho": "rA rA",
+      "description": "Unintelligible vocalization with phonetic transcription"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 39,
+      "speaker": "CHI",
+      "source_text": "yyy .",
+      "xpho": "heS6",
+      "alt": "Marsha",
+      "description": "Unintelligible vocalization with alternative transcription provided"
+    }
+  ]
+}
+```

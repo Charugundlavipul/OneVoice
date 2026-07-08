@@ -1,0 +1,252 @@
+```json
+{
+  "bundle_id": "timit_FJEM0",
+  "speaker_id": "FJEM0",
+  "timing_events": [
+    {
+      "utt_id": "FJEM0_SA1",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "greasy",
+          "start": 1.728,
+          "end": 2.1525,
+          "duration": 0.4245,
+          "phone_count": 6,
+          "threshold_p90": 0.5423
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "wash",
+          "start": 2.1525,
+          "end": 2.57,
+          "duration": 0.4175,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [7, 8],
+          "gap_start": 2.57,
+          "gap_end": 2.6275,
+          "duration": 0.0575
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [8, 9],
+          "gap_start": 2.9505625,
+          "gap_end": 3.0325625,
+          "duration": 0.082
+        }
+      ]
+    },
+    {
+      "utt_id": "FJEM0_SA2",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "ask",
+          "start": 0.4725625,
+          "end": 0.8446875,
+          "duration": 0.372125,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "carry",
+          "start": 1.0939375,
+          "end": 1.53,
+          "duration": 0.4360625,
+          "phone_count": 5,
+          "threshold_p90": 0.503275
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "oily",
+          "start": 1.5973125,
+          "end": 2.0365,
+          "duration": 0.4391875,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125000000003
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "rag",
+          "start": 2.0365,
+          "end": 2.479375,
+          "duration": 0.442875,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125000000003
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 9,
+          "word": "that",
+          "start": 2.7558125,
+          "end": 3.176125,
+          "duration": 0.4203125,
+          "phone_count": 3,
+          "threshold_p90": 0.3694375
+        }
+      ]
+    },
+    {
+      "utt_id": "FJEM0_SI1264",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 0,
+          "word": "dances",
+          "start": 0.1275,
+          "end": 0.6025,
+          "duration": 0.475,
+          "phone_count": 6,
+          "threshold_p90": 0.5423
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "alternated",
+          "start": 0.6025,
+          "end": 1.282375,
+          "duration": 0.679875,
+          "phone_count": 11,
+          "threshold_p90": null
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 5,
+          "word": "spoken",
+          "start": 2.0274375,
+          "end": 2.6451875,
+          "duration": 0.61775,
+          "phone_count": 8,
+          "threshold_p90": 0.808275
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "verses",
+          "start": 2.6451875,
+          "end": 3.277,
+          "duration": 0.6318125,
+          "phone_count": 5,
+          "threshold_p90": 0.503275
+        }
+      ]
+    },
+    {
+      "utt_id": "FJEM0_SI1894",
+      "events": [
+        {
+          "event_type": "long_word",
+          "word_index": 1,
+          "word": "father",
+          "start": 0.2575,
+          "end": 0.710125,
+          "duration": 0.452625,
+          "phone_count": 4,
+          "threshold_p90": 0.42753125000000003
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 6,
+          "word": "six",
+          "start": 1.7225,
+          "end": 2.1253125,
+          "duration": 0.4028125,
+          "phone_count": 5,
+          "threshold_p90": 0.503275
+        }
+      ]
+    },
+    {
+      "utt_id": "FJEM0_SI634",
+      "events": [
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [1, 2],
+          "gap_start": 0.588,
+          "gap_end": 0.6178125,
+          "duration": 0.0298125
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [2, 3],
+          "gap_start": 0.97125,
+          "gap_end": 1.0425,
+          "duration": 0.07125
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 4,
+          "word": "persuasively",
+          "start": 1.3674375,
+          "end": 2.4240625,
+          "duration": 1.056625,
+          "phone_count": 10,
+          "threshold_p90": null
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [4, 5],
+          "gap_start": 2.4240625,
+          "gap_end": 2.49375,
+          "duration": 0.0696875
+        },
+        {
+          "event_type": "inter_word_gap",
+          "between_words": [6, 7],
+          "gap_start": 2.865375,
+          "gap_end": 2.9236875,
+          "duration": 0.0583125
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 7,
+          "word": "embodiment",
+          "start": 2.9236875,
+          "end": 3.630375,
+          "duration": 0.7066875,
+          "phone_count": 10,
+          "threshold_p90": null
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 9,
+          "word": "meanness",
+          "start": 3.753875,
+          "end": 4.3825,
+          "duration": 0.628625,
+          "phone_count": 5,
+          "threshold_p90": 0.503275
+        },
+        {
+          "event_type": "long_word",
+          "word_index": 11,
+          "word": "slyness",
+          "start": 4.5175,
+          "end": 5.3765,
+          "duration": 0.859,
+          "phone_count": 6,
+          "threshold_p90": 0.5423
+        },
+        {
+          "event_type": "boundary_gap",
+          "position": "end",
+          "gap_start": 5.3765,
+          "gap_end": 6.085,
+          "duration": 0.7085
+        }
+      ]
+    }
+  ]
+}
+```

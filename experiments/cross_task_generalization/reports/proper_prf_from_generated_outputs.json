@@ -1,0 +1,605 @@
+{
+  "description": "Aggregate precision/recall/F1 recomputed from generated outputs by task, model, and condition. Micro PRF is computed from total TP/pred/gold; macro PRF is the average of per-record PRF.",
+  "results": [
+    {
+      "task": "task1_uxssd",
+      "model": "gpt-5-mini",
+      "condition": "exp1",
+      "source": "experiments/legacy/uxssd_setup/runs/event_counts_gpt-5-mini.csv",
+      "records": 15,
+      "micro": {
+        "tp": 180,
+        "pred": 1151,
+        "gold": 206,
+        "precision": 0.15638575152041703,
+        "recall": 0.8737864077669902,
+        "f1": 0.26529108327192336
+      },
+      "macro": {
+        "precision": 0.3172403120471785,
+        "recall": 0.8696581196581197,
+        "f1": 0.3589518492014289
+      }
+    },
+    {
+      "task": "task1_uxssd",
+      "model": "gpt-5-mini",
+      "condition": "exp1b",
+      "source": "experiments/legacy/uxssd_setup/runs/event_counts_gpt-5-mini.csv",
+      "records": 15,
+      "micro": {
+        "tp": 167,
+        "pred": 179,
+        "gold": 206,
+        "precision": 0.9329608938547486,
+        "recall": 0.8106796116504854,
+        "f1": 0.8675324675324675
+      },
+      "macro": {
+        "precision": 0.9572089947089947,
+        "recall": 0.8072024217612452,
+        "f1": 0.8578972190497667
+      }
+    },
+    {
+      "task": "task1_uxssd",
+      "model": "gpt-5-mini",
+      "condition": "exp2",
+      "source": "experiments/legacy/uxssd_setup/runs/event_counts_gpt-5-mini.csv",
+      "records": 15,
+      "micro": {
+        "tp": 203,
+        "pred": 343,
+        "gold": 206,
+        "precision": 0.5918367346938775,
+        "recall": 0.9854368932038835,
+        "f1": 0.7395264116575592
+      },
+      "macro": {
+        "precision": 0.6576591126974759,
+        "recall": 0.9866666666666667,
+        "f1": 0.765947247129515
+      }
+    },
+    {
+      "task": "task1_uxssd",
+      "model": "gpt-5-mini",
+      "condition": "exp2b",
+      "source": "experiments/legacy/uxssd_setup/runs/event_counts_gpt-5-mini.csv",
+      "records": 15,
+      "micro": {
+        "tp": 179,
+        "pred": 204,
+        "gold": 206,
+        "precision": 0.8774509803921569,
+        "recall": 0.8689320388349514,
+        "f1": 0.8731707317073171
+      },
+      "macro": {
+        "precision": 0.9249206349206349,
+        "recall": 0.8738937369819723,
+        "f1": 0.8791960701644413
+      }
+    },
+    {
+      "task": "task1_uxssd",
+      "model": "gpt-5.4-mini",
+      "condition": "exp1",
+      "source": "experiments/legacy/uxssd_setup/runs/event_counts_gpt-5.4-mini.csv",
+      "records": 15,
+      "micro": {
+        "tp": 183,
+        "pred": 694,
+        "gold": 206,
+        "precision": 0.26368876080691644,
+        "recall": 0.8883495145631068,
+        "f1": 0.4066666666666667
+      },
+      "macro": {
+        "precision": 0.43041121390263004,
+        "recall": 0.9045751633986928,
+        "f1": 0.47646134134299634
+      }
+    },
+    {
+      "task": "task1_uxssd",
+      "model": "gpt-5.4-mini",
+      "condition": "exp1b",
+      "source": "experiments/legacy/uxssd_setup/runs/event_counts_gpt-5.4-mini.csv",
+      "records": 15,
+      "micro": {
+        "tp": 173,
+        "pred": 285,
+        "gold": 206,
+        "precision": 0.6070175438596491,
+        "recall": 0.8398058252427184,
+        "f1": 0.7046843177189408
+      },
+      "macro": {
+        "precision": 0.7556017049091411,
+        "recall": 0.8431473102061338,
+        "f1": 0.7371999070242595
+      }
+    },
+    {
+      "task": "task1_uxssd",
+      "model": "gpt-5.4-mini",
+      "condition": "exp2",
+      "source": "experiments/legacy/uxssd_setup/runs/event_counts_gpt-5.4-mini.csv",
+      "records": 15,
+      "micro": {
+        "tp": 157,
+        "pred": 229,
+        "gold": 206,
+        "precision": 0.6855895196506551,
+        "recall": 0.7621359223300971,
+        "f1": 0.7218390804597702
+      },
+      "macro": {
+        "precision": 0.8454557526714389,
+        "recall": 0.7697804156627686,
+        "f1": 0.7406194688232761
+      }
+    },
+    {
+      "task": "task1_uxssd",
+      "model": "gpt-5.4-mini",
+      "condition": "exp2b",
+      "source": "experiments/legacy/uxssd_setup/runs/event_counts_gpt-5.4-mini.csv",
+      "records": 15,
+      "micro": {
+        "tp": 147,
+        "pred": 166,
+        "gold": 206,
+        "precision": 0.8855421686746988,
+        "recall": 0.7135922330097088,
+        "f1": 0.7903225806451614
+      },
+      "macro": {
+        "precision": 0.9409453044375645,
+        "recall": 0.7146077451959805,
+        "f1": 0.7785425927352836
+      }
+    },
+    {
+      "task": "task1_uxssd",
+      "model": "claude-haiku-4-5-20251001",
+      "condition": "exp1",
+      "source": "experiments/legacy/uxssd_setup/runs/event_counts_claude-haiku.csv",
+      "records": 15,
+      "micro": {
+        "tp": 70,
+        "pred": 122,
+        "gold": 206,
+        "precision": 0.5737704918032787,
+        "recall": 0.33980582524271846,
+        "f1": 0.4268292682926829
+      },
+      "macro": {
+        "precision": 0.7586700336700337,
+        "recall": 0.3551108695226342,
+        "f1": 0.3667105265712541
+      }
+    },
+    {
+      "task": "task1_uxssd",
+      "model": "claude-haiku-4-5-20251001",
+      "condition": "exp1b",
+      "source": "experiments/legacy/uxssd_setup/runs/event_counts_claude-haiku.csv",
+      "records": 15,
+      "micro": {
+        "tp": 193,
+        "pred": 294,
+        "gold": 206,
+        "precision": 0.6564625850340136,
+        "recall": 0.9368932038834952,
+        "f1": 0.7719999999999999
+      },
+      "macro": {
+        "precision": 0.7821712274653451,
+        "recall": 0.9444000933706816,
+        "f1": 0.8171311131173471
+      }
+    },
+    {
+      "task": "task1_uxssd",
+      "model": "claude-haiku-4-5-20251001",
+      "condition": "exp2",
+      "source": "experiments/legacy/uxssd_setup/runs/event_counts_claude-haiku.csv",
+      "records": 15,
+      "micro": {
+        "tp": 194,
+        "pred": 328,
+        "gold": 206,
+        "precision": 0.5914634146341463,
+        "recall": 0.941747572815534,
+        "f1": 0.7265917602996255
+      },
+      "macro": {
+        "precision": 0.7354810004810005,
+        "recall": 0.948844537815126,
+        "f1": 0.7862893910063314
+      }
+    },
+    {
+      "task": "task1_uxssd",
+      "model": "claude-haiku-4-5-20251001",
+      "condition": "exp2b",
+      "source": "experiments/legacy/uxssd_setup/runs/event_counts_claude-haiku.csv",
+      "records": 15,
+      "micro": {
+        "tp": 195,
+        "pred": 284,
+        "gold": 206,
+        "precision": 0.6866197183098591,
+        "recall": 0.9466019417475728,
+        "f1": 0.7959183673469387
+      },
+      "macro": {
+        "precision": 0.7832798866673106,
+        "recall": 0.952766106442577,
+        "f1": 0.827752276582712
+      }
+    },
+    {
+      "task": "task2_childes",
+      "model": "claude-haiku-4-5-20251001",
+      "condition": "c0",
+      "source": "experiments/cross_task_generalization/runs/task2_c0_claude-haiku-4-5-20251001_20260607_170328",
+      "records": 75,
+      "micro": {
+        "tp": 448,
+        "pred": 984,
+        "gold": 891,
+        "precision": 0.45528455284552843,
+        "recall": 0.5028058361391695,
+        "f1": 0.47786666666666666
+      },
+      "macro": {
+        "precision": 0.4715740540453037,
+        "recall": 0.5534831772983426,
+        "f1": 0.47373842899160507
+      }
+    },
+    {
+      "task": "task2_childes",
+      "model": "gpt-5-mini",
+      "condition": "c0",
+      "source": "experiments/cross_task_generalization/runs/task2_c0_gpt-5-mini_20260606_181605",
+      "records": 75,
+      "micro": {
+        "tp": 585,
+        "pred": 1571,
+        "gold": 891,
+        "precision": 0.3723742838956079,
+        "recall": 0.6565656565656566,
+        "f1": 0.4752233956133225
+      },
+      "macro": {
+        "precision": 0.3949474365431418,
+        "recall": 0.6839067604816714,
+        "f1": 0.45605858632042895
+      }
+    },
+    {
+      "task": "task2_childes",
+      "model": "gpt-5.4-mini",
+      "condition": "c0",
+      "source": "experiments/cross_task_generalization/runs/task2_c0_gpt-5.4-mini_20260606_181553",
+      "records": 75,
+      "micro": {
+        "tp": 393,
+        "pred": 1447,
+        "gold": 891,
+        "precision": 0.27159640635798205,
+        "recall": 0.44107744107744107,
+        "f1": 0.3361847733105218
+      },
+      "macro": {
+        "precision": 0.3096606080247337,
+        "recall": 0.4627438419720869,
+        "f1": 0.32408374258705047
+      }
+    },
+    {
+      "task": "task2_childes",
+      "model": "claude-haiku-4-5-20251001",
+      "condition": "c1",
+      "source": "experiments/cross_task_generalization/runs/task2_c1_claude-haiku-4-5-20251001_20260607_170328",
+      "records": 75,
+      "micro": {
+        "tp": 266,
+        "pred": 662,
+        "gold": 891,
+        "precision": 0.40181268882175225,
+        "recall": 0.29854096520763185,
+        "f1": 0.3425627817128139
+      },
+      "macro": {
+        "precision": 0.3129489280256544,
+        "recall": 0.3408139332287939,
+        "f1": 0.29820398322264025
+      }
+    },
+    {
+      "task": "task2_childes",
+      "model": "gpt-5-mini",
+      "condition": "c1",
+      "source": "experiments/cross_task_generalization/runs/task2_c1_gpt-5-mini_20260606_181608",
+      "records": 75,
+      "micro": {
+        "tp": 181,
+        "pred": 375,
+        "gold": 891,
+        "precision": 0.4826666666666667,
+        "recall": 0.2031425364758698,
+        "f1": 0.28593996840442343
+      },
+      "macro": {
+        "precision": 0.2143885373885374,
+        "recall": 0.281079125667361,
+        "f1": 0.22340396450701122
+      }
+    },
+    {
+      "task": "task2_childes",
+      "model": "gpt-5.4-mini",
+      "condition": "c1",
+      "source": "experiments/cross_task_generalization/runs/task2_c1_gpt-5.4-mini_20260606_181557",
+      "records": 75,
+      "micro": {
+        "tp": 680,
+        "pred": 1521,
+        "gold": 891,
+        "precision": 0.4470742932281394,
+        "recall": 0.7631874298540965,
+        "f1": 0.5638474295190713
+      },
+      "macro": {
+        "precision": 0.43791262721638147,
+        "recall": 0.8017291672824564,
+        "f1": 0.5310449315054417
+      }
+    },
+    {
+      "task": "task2_childes",
+      "model": "claude-haiku-4-5-20251001",
+      "condition": "c2",
+      "source": "experiments/cross_task_generalization/runs/task2_c2_claude-haiku-4-5-20251001_20260607_170328",
+      "records": 75,
+      "micro": {
+        "tp": 271,
+        "pred": 635,
+        "gold": 891,
+        "precision": 0.4267716535433071,
+        "recall": 0.3041526374859708,
+        "f1": 0.3551769331585845
+      },
+      "macro": {
+        "precision": 0.30381357531357533,
+        "recall": 0.313021428868769,
+        "f1": 0.28445285378226626
+      }
+    },
+    {
+      "task": "task2_childes",
+      "model": "gpt-5-mini",
+      "condition": "c2",
+      "source": "experiments/cross_task_generalization/runs/task2_c2_gpt-5-mini_20260606_181613",
+      "records": 75,
+      "micro": {
+        "tp": 202,
+        "pred": 440,
+        "gold": 891,
+        "precision": 0.4590909090909091,
+        "recall": 0.22671156004489337,
+        "f1": 0.3035311795642374
+      },
+      "macro": {
+        "precision": 0.20121288412170066,
+        "recall": 0.2574043850885956,
+        "f1": 0.20123354274727628
+      }
+    },
+    {
+      "task": "task2_childes",
+      "model": "gpt-5.4-mini",
+      "condition": "c2",
+      "source": "experiments/cross_task_generalization/runs/task2_c2_gpt-5.4-mini_20260606_181601",
+      "records": 75,
+      "micro": {
+        "tp": 522,
+        "pred": 1286,
+        "gold": 891,
+        "precision": 0.4059097978227061,
+        "recall": 0.5858585858585859,
+        "f1": 0.47955902618282037
+      },
+      "macro": {
+        "precision": 0.35278784653177936,
+        "recall": 0.6559538634693683,
+        "f1": 0.4212636952074698
+      }
+    },
+    {
+      "task": "task3_timit",
+      "model": "claude-haiku-4-5-20251001",
+      "condition": "c0",
+      "source": "experiments/cross_task_generalization/runs/task3_clean_c0_claude-haiku-4-5-20251001_20260615_002033",
+      "records": 40,
+      "micro": {
+        "tp": 2599,
+        "pred": 3891,
+        "gold": 4412,
+        "precision": 0.6679516833718838,
+        "recall": 0.5890752493200363,
+        "f1": 0.6260387811634349
+      },
+      "macro": {
+        "precision": 0.684548981103782,
+        "recall": 0.5901019854433301,
+        "f1": 0.6156105905668144
+      }
+    },
+    {
+      "task": "task3_timit",
+      "model": "gpt-5-mini",
+      "condition": "c0",
+      "source": "experiments/cross_task_generalization/runs/task3_clean_c0_gpt-5-mini_20260615_203728",
+      "records": 40,
+      "micro": {
+        "tp": 3528,
+        "pred": 3884,
+        "gold": 4412,
+        "precision": 0.9083419155509783,
+        "recall": 0.7996373526745241,
+        "f1": 0.8505303760848602
+      },
+      "macro": {
+        "precision": 0.9181299693389913,
+        "recall": 0.7995747068289262,
+        "f1": 0.8479849548323772
+      }
+    },
+    {
+      "task": "task3_timit",
+      "model": "gpt-5.4-mini",
+      "condition": "c0",
+      "source": "experiments/cross_task_generalization/runs/task3_clean_c0_gpt-5.4-mini_20260615_203728",
+      "records": 40,
+      "micro": {
+        "tp": 2666,
+        "pred": 4923,
+        "gold": 4412,
+        "precision": 0.5415397115579931,
+        "recall": 0.6042611060743427,
+        "f1": 0.5711837171933584
+      },
+      "macro": {
+        "precision": 0.5818866521850743,
+        "recall": 0.6019348544342122,
+        "f1": 0.5567795890591436
+      }
+    },
+    {
+      "task": "task3_timit",
+      "model": "claude-haiku-4-5-20251001",
+      "condition": "c1",
+      "source": "experiments/cross_task_generalization/runs/task3_clean_c1_claude-haiku-4-5-20251001_20260615_002033",
+      "records": 40,
+      "micro": {
+        "tp": 1900,
+        "pred": 2360,
+        "gold": 4412,
+        "precision": 0.8050847457627118,
+        "recall": 0.43064369900271987,
+        "f1": 0.5611340815121086
+      },
+      "macro": {
+        "precision": 0.810642434787466,
+        "recall": 0.4341669347967446,
+        "f1": 0.5475649636720111
+      }
+    },
+    {
+      "task": "task3_timit",
+      "model": "gpt-5-mini",
+      "condition": "c1",
+      "source": "experiments/cross_task_generalization/runs/task3_clean_c1_gpt-5-mini_20260615_203728",
+      "records": 40,
+      "micro": {
+        "tp": 3630,
+        "pred": 3712,
+        "gold": 4412,
+        "precision": 0.9779094827586207,
+        "recall": 0.8227561196736174,
+        "f1": 0.8936484490398817
+      },
+      "macro": {
+        "precision": 0.9771871087107428,
+        "recall": 0.8220541064056984,
+        "f1": 0.8915659266172896
+      }
+    },
+    {
+      "task": "task3_timit",
+      "model": "gpt-5.4-mini",
+      "condition": "c1",
+      "source": "experiments/cross_task_generalization/runs/task3_clean_c1_gpt-5.4-mini_20260615_203728",
+      "records": 40,
+      "micro": {
+        "tp": 1523,
+        "pred": 1998,
+        "gold": 4412,
+        "precision": 0.7622622622622622,
+        "recall": 0.34519492293744336,
+        "f1": 0.4751950078003121
+      },
+      "macro": {
+        "precision": 0.7916384137523325,
+        "recall": 0.3551341171270358,
+        "f1": 0.47701374303542926
+      }
+    },
+    {
+      "task": "task3_timit",
+      "model": "claude-haiku-4-5-20251001",
+      "condition": "c2",
+      "source": "experiments/cross_task_generalization/runs/task3_clean_c2_claude-haiku-4-5-20251001_20260615_002033",
+      "records": 40,
+      "micro": {
+        "tp": 2816,
+        "pred": 3710,
+        "gold": 4412,
+        "precision": 0.7590296495956873,
+        "recall": 0.6382592928377153,
+        "f1": 0.6934252647131248
+      },
+      "macro": {
+        "precision": 0.7643220824759948,
+        "recall": 0.6408952646827517,
+        "f1": 0.6922866753961769
+      }
+    },
+    {
+      "task": "task3_timit",
+      "model": "gpt-5-mini",
+      "condition": "c2",
+      "source": "experiments/cross_task_generalization/runs/task3_clean_c2_gpt-5-mini_20260615_203728",
+      "records": 40,
+      "micro": {
+        "tp": 3996,
+        "pred": 4123,
+        "gold": 4412,
+        "precision": 0.9691971865146738,
+        "recall": 0.9057116953762466,
+        "f1": 0.9363796133567663
+      },
+      "macro": {
+        "precision": 0.9689038704183306,
+        "recall": 0.9042537615934606,
+        "f1": 0.9349740382993622
+      }
+    },
+    {
+      "task": "task3_timit",
+      "model": "gpt-5.4-mini",
+      "condition": "c2",
+      "source": "experiments/cross_task_generalization/runs/task3_clean_c2_gpt-5.4-mini_20260615_203728",
+      "records": 40,
+      "micro": {
+        "tp": 2462,
+        "pred": 3985,
+        "gold": 4412,
+        "precision": 0.6178168130489335,
+        "recall": 0.5580235720761559,
+        "f1": 0.5863999047278791
+      },
+      "macro": {
+        "precision": 0.6392249704327365,
+        "recall": 0.5649297969593987,
+        "f1": 0.5878116041082492
+      }
+    }
+  ]
+}

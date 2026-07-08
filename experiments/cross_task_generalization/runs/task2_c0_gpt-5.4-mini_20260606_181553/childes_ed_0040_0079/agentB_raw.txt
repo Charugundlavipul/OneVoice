@@ -1,0 +1,96 @@
+[
+  {
+    "event_type": "repair",
+    "utterance_cue": 1,
+    "speaker_cue": "MOT",
+    "source_text": "this [!] is what we're gonna do (.) we're gonna put blocks [!] in .",
+    "details": "Self-repair / reformulation marker [!] and pause (.) in same utterance."
+  },
+  {
+    "event_type": "pause",
+    "utterance_cue": 1,
+    "speaker_cue": "MOT",
+    "source_text": "this [!] is what we're gonna do (.) we're gonna put blocks [!] in .",
+    "details": "Short pause marked (.)"
+  },
+  {
+    "event_type": "repair",
+    "utterance_cue": 4,
+    "speaker_cue": "MOT",
+    "source_text": "we're gonna try to put (th)em in the holes [!] (.) but not those (.) but let's (.) put those away and play with blocks now .",
+    "details": "Disfluency/reformulation marker [!] and multiple pauses indicating repair within the same turn."
+  },
+  {
+    "event_type": "pause",
+    "utterance_cue": 4,
+    "speaker_cue": "MOT",
+    "source_text": "we're gonna try to put (th)em in the holes [!] (.) but not those (.) but let's (.) put those away and play with blocks now .",
+    "details": "Pauses marked (.)"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_cue": 7,
+    "speaker_cue": "MOT",
+    "source_text": "hoosie@f [?] ?",
+    "details": "Unclear/foreign/non-speech-like vocalization and bracketed uncertainty [?]"
+  },
+  {
+    "event_type": "repetition",
+    "utterance_cue": 16,
+    "speaker_cue": "MOT",
+    "source_text": "Ed (.) where's the circle [!] ?",
+    "details": "Repeated asking of the same question; same content repeated after prior request."
+  },
+  {
+    "event_type": "pause",
+    "utterance_cue": 16,
+    "speaker_cue": "MOT",
+    "source_text": "Ed (.) where's the circle [!] ?",
+    "details": "Pause marked (.)"
+  },
+  {
+    "event_type": "repetition",
+    "utterance_cue": 18,
+    "speaker_cue": "MOT",
+    "source_text": "where's the circle ?",
+    "details": "Question repeated again after utterance 16."
+  },
+  {
+    "event_type": "repair",
+    "utterance_cue": 22,
+    "speaker_cue": "MOT",
+    "source_text": "can you put the <bl(ocks)> [/] blocks with the circles in that circle ?",
+    "details": "Repaired/restarted lexical material; [/] indicates self-repair."
+  },
+  {
+    "event_type": "repetition",
+    "utterance_cue": 25,
+    "speaker_cue": "MOT",
+    "source_text": "square ?",
+    "details": "Repetition/repair-check following 'that's a square.'"
+  },
+  {
+    "event_type": "repetition",
+    "utterance_cue": 26,
+    "speaker_cue": "MOT",
+    "source_text": "where's the square ?",
+    "details": "New question parallel to earlier 'where's the circle?'"
+  },
+  {
+    "event_type": "repetition",
+    "utterance_cue": 32,
+    "speaker_cue": "MOT",
+    "source_text": "circle !",
+    "details": "Repeated emphasis of target word after correction attempt."
+  },
+  {
+    "event_type": "repetition",
+    "utterance_cue": 34,
+    "speaker_cue": "MOT",
+    "source_text": "circle !",
+    "details": "Repeated again."
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"repair\",\n    \"utterance_cue\": 1,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"this [!] is what we're gonna do (.) we're gonna put blocks [!] in .\",\n    \"details\": \"Self-repair / reformulation marker [!] and pause (.) in same utterance.\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utterance_cue\": 1,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"this [!] is what we're gonna do (.) we're gonna put blocks [!] in .\",\n    \"details\": \"Short pause marked (.)\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utterance_cue\": 4,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"we're gonna try to put (th)em in the holes [!] (.) but not those (.) but let's (.) put those away and play with blocks now .\",\n    \"details\": \"Disfluency/reformulation marker [!] and multiple pauses indicating repair within the same turn.\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utterance_cue\": 4,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"we're gonna try to put (th)em in the holes [!] (.) but not those (.) but let's (.) put those away and play with blocks now .\",\n    \"details\": \"Pauses marked (.)\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_cue\": 7,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"hoosie@f [?] ?\",\n    \"details\": \"Unclear/foreign/non-speech-like vocalization and bracketed uncertainty [?]\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_cue\": 16,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"Ed (.) where's the circle [!] ?\",\n    \"details\": \"Repeated asking of the same question; same content repeated after prior request.\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utterance_cue\": 16,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"Ed (.) where's the circle [!] ?\",\n    \"details\": \"Pause marked (.)\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_cue\": 18,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"where's the circle ?\",\n    \"details\": \"Question repeated again after utterance 16.\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utterance_cue\": 22,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"can you put the <bl(ocks)> [/] blocks with the circles in that circle ?\",\n    \"details\": \"Repaired/restarted lexical material; [/] indicates self-repair.\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_cue\": 25,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"square ?\",\n    \"details\": \"Repetition/repair-check following 'that's a square.'\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_cue\": 26,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"where's the square ?\",\n    \"details\": \"New question parallel to earlier 'where's the circle?'\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_cue\": 32,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"circle !\",\n    \"details\": \"Repeated emphasis of target word after correction attempt.\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_cue\": 34,\n    \"speaker_cue\": \"MOT\",\n    \"source_text\": \"circle !\",\n    \"details\": \"Repeated again.\"\n  }\n]"}

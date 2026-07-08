@@ -1,0 +1,17 @@
+{
+  "mode": "exp1",
+  "manifest": "experiments/legacy/uxssd_setup/experiment1_agnostic_manifest.jsonl",
+  "output_root": "experiments/legacy/uxssd_setup/runs",
+  "model": "gpt-5.4-mini",
+  "temperature": 0.0,
+  "max_records": null,
+  "record_ids": [],
+  "max_file_chars": 3200,
+  "max_files_per_utt": 8,
+  "max_utterances_per_record": null,
+  "max_repair_rounds": 3,
+  "validator_path": "validate_onevoice.py",
+  "dry_run": false,
+  "run_started_utc": "2026-06-07T19:50:21Z",
+  "record_count": 15
+}

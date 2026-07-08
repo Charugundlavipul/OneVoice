@@ -1,0 +1,6 @@
+usage: run.py [-h] [--manifest MANIFEST] [--thresholds THRESHOLDS]
+              [--output-root OUTPUT_ROOT] --condition {c0,c1,c2}
+              [--model MODEL] [--max-records MAX_RECORDS] [--dry-run]
+              [--max-output-tokens MAX_OUTPUT_TOKENS]
+              [--max-repair-rounds MAX_REPAIR_ROUNDS]
+run.py: error: unrecognized arguments: --start-index 14 --run-dir experiments\cross_task_generalization\runs\task3_c0_claude-haiku-4-5-20251001_final

@@ -1,0 +1,47 @@
+[
+  {
+    "event_type": "repetition",
+    "utterance_index": 20,
+    "speaker": "CHI",
+    "source_text": "<that's> [/] that's yours ?",
+    "detail": "self-repetition indicated by CHAT markup [/] with partial repeated material."
+  },
+  {
+    "event_type": "repair",
+    "utterance_index": 20,
+    "speaker": "CHI",
+    "source_text": "<that's> [/] that's yours ?",
+    "detail": "CHAT-style repair/abandoned start followed by corrected continuation."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 2,
+    "speaker": "CHI",
+    "source_text": "%gpx:\tpoints",
+    "detail": "gesture annotation."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 3,
+    "speaker": "CLI",
+    "source_text": "%gpx:\t<1w> points to gate",
+    "detail": "gesture annotation."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 14,
+    "speaker": "CHI",
+    "source_text": "%exp:\treferring to her sweater",
+    "detail": "extralinguistic explanatory note."
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 16,
+    "speaker": "CHI",
+    "source_text": "%gpx:\tpoints to clinicians sweater",
+    "detail": "gesture annotation."
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"repetition\",\n    \"utterance_index\": 20,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"<that's> [/] that's yours ?\",\n    \"detail\": \"self-repetition indicated by CHAT markup [/] with partial repeated material.\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utterance_index\": 20,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"<that's> [/] that's yours ?\",\n    \"detail\": \"CHAT-style repair/abandoned start followed by corrected continuation.\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_index\": 2,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"%gpx:\\tpoints\",\n    \"detail\": \"gesture annotation.\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_index\": 3,\n    \"speaker\": \"CLI\",\n    \"source_text\": \"%gpx:\\t<1w> points to gate\",\n    \"detail\": \"gesture annotation.\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_index\": 14,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"%exp:\\treferring to her sweater\",\n    \"detail\": \"extralinguistic explanatory note.\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utterance_index\": 16,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"%gpx:\\tpoints to clinicians sweater\",\n    \"detail\": \"gesture annotation.\"\n  }\n]"}

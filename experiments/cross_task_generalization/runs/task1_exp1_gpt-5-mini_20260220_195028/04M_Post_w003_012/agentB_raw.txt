@@ -1,0 +1,90 @@
+{
+  "record_id": "04M_Post_w003_012",
+  "utterances": [
+    {
+      "utt": "04M-Post-003A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-004A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-005A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-006A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:11:060",
+          "end": "00:00:11:220",
+          "notes": "SLT talk (speaker_labels tier shows SLT from 11.06-11.22)"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:11:060",
+          "end": "00:00:11:210",
+          "notes": "child -> SLT turn boundary"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-007A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-008A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-009A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-010A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "04M-Post-011A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:09:220",
+          "end": "00:00:13:180",
+          "notes": "SLT speaking (speaker_labels tier shows SLT from ~9.22-13.18)"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:09:220",
+          "end": "00:00:09:370",
+          "notes": "transition to SLT (child -> SLT turn boundary)"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:13:180",
+          "end": "00:00:13:330",
+          "notes": "transition from SLT back to child (SLT -> child)"
+        }
+      ]
+    },
+    {
+      "utt": "04M-Post-012A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:01:680",
+          "end": "00:00:02:180",
+          "notes": "SLT talk (speaker_labels tier shows SLT from 1.68-2.18)"
+        },
+        {
+          "type": "speaker_transition",
+          "start": "00:00:02:180",
+          "end": "00:00:02:330",
+          "notes": "transition from SLT to child (SLT -> child turn boundary)"
+        }
+      ]
+    }
+  ]
+}

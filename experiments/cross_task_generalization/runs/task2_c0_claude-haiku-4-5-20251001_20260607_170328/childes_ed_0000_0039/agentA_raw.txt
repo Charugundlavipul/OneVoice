@@ -1,0 +1,71 @@
+```json
+{
+  "window_id": "childes_ed_0000_0039",
+  "source_file": "CHILDES/raw/childes/Eng-NA/Bates/Free20/ed.cha",
+  "speakers": [
+    {
+      "speaker_id": "CHI",
+      "role": "child",
+      "description": "Child participant (Ed)"
+    },
+    {
+      "speaker_id": "MOT",
+      "role": "mother",
+      "description": "Mother/caregiver"
+    }
+  ],
+  "speaker_turn_counts": {
+    "CHI": 11,
+    "MOT": 29
+  },
+  "utterances": [
+    {"utt_index": 0, "speaker": "CHI", "raw": "dog !", "turn_number": 1},
+    {"utt_index": 1, "speaker": "MOT", "raw": "dog ?", "turn_number": 1},
+    {"utt_index": 2, "speaker": "MOT", "raw": "uhoh .", "turn_number": 2},
+    {"utt_index": 3, "speaker": "CHI", "raw": "dog ?", "turn_number": 2},
+    {"utt_index": 4, "speaker": "MOT", "raw": "dog .", "turn_number": 3},
+    {"utt_index": 5, "speaker": "MOT", "raw": "(a)nother dog .", "turn_number": 4},
+    {"utt_index": 6, "speaker": "MOT", "raw": "two dogs .", "turn_number": 5},
+    {"utt_index": 7, "speaker": "CHI", "raw": "one !", "turn_number": 3},
+    {"utt_index": 8, "speaker": "CHI", "raw": "three !", "turn_number": 4},
+    {"utt_index": 9, "speaker": "MOT", "raw": "two more ladies !", "turn_number": 6},
+    {"utt_index": 10, "speaker": "MOT", "raw": "oh (.) here's the gramma .", "turn_number": 7},
+    {"utt_index": 11, "speaker": "CHI", "raw": "gramma ?", "turn_number": 5},
+    {"utt_index": 12, "speaker": "MOT", "raw": "two grammas .", "turn_number": 8},
+    {"utt_index": 13, "speaker": "CHI", "raw": "two ?", "turn_number": 6},
+    {"utt_index": 14, "speaker": "CHI", "raw": "grammas .", "turn_number": 7},
+    {"utt_index": 15, "speaker": "MOT", "raw": "here's some chairs +...", "turn_number": 9},
+    {"utt_index": 16, "speaker": "MOT", "raw": "well (.) I think [!] these are chairs .", "turn_number": 10},
+    {"utt_index": 17, "speaker": "CHI", "raw": "chairs ?", "turn_number": 8},
+    {"utt_index": 18, "speaker": "MOT", "raw": "are these chairs ?", "turn_number": 11},
+    {"utt_index": 19, "speaker": "MOT", "raw": "yeah !", "turn_number": 12},
+    {"utt_index": 20, "speaker": "MOT", "raw": "see chairs ?", "turn_number": 13},
+    {"utt_index": 21, "speaker": "MOT", "raw": "for these people to sit on ?", "turn_number": 14},
+    {"utt_index": 22, "speaker": "MOT", "raw": "can you put the people on the chairs ?", "turn_number": 15},
+    {"utt_index": 23, "speaker": "MOT", "raw": "there .", "turn_number": 16},
+    {"utt_index": 24, "speaker": "MOT", "raw": "can you put somebody on that chair ?", "turn_number": 17},
+    {"utt_index": 25, "speaker": "MOT", "raw": "put the lady on the chair (.) okay ?", "turn_number": 18},
+    {"utt_index": 26, "speaker": "MOT", "raw": "put a lady on the chair .", "turn_number": 19},
+    {"utt_index": 27, "speaker": "CHI", "raw": "0 .", "turn_number": 9},
+    {"utt_index": 28, "speaker": "MOT", "raw": "yeah !", "turn_number": 20},
+    {"utt_index": 29, "speaker": "MOT", "raw": "lady sits on a chair (.) huh ?", "turn_number": 21},
+    {"utt_index": 30, "speaker": "CHI", "raw": "0 .", "turn_number": 10},
+    {"utt_index": 31, "speaker": "MOT", "raw": "yeah (.) that's pretty neat [!] .", "turn_number": 22},
+    {"utt_index": 32, "speaker": "CHI", "raw": "0 .", "turn_number": 11},
+    {"utt_index": 33, "speaker": "MOT", "raw": "&-uh !", "turn_number": 23},
+    {"utt_index": 34, "speaker": "MOT", "raw": "oh (.) you wan(t) (t)a put some blocks in the box ?", "turn_number": 24},
+    {"utt_index": 35, "speaker": "MOT", "raw": "should we play with blocks ?", "turn_number": 25},
+    {"utt_index": 36, "speaker": "CHI", "raw": "blocks ?", "turn_number": 12},
+    {"utt_index": 37, "speaker": "CHI", "raw": "in ?", "turn_number": 13},
+    {"utt_index": 38, "speaker": "MOT", "raw": "no [/] no [/] no [/] no [/] no !", "turn_number": 26},
+    {"utt_index": 39, "speaker": "MOT", "raw": "no [/] no [/] no [/] no !", "turn_number": 27}
+  ],
+  "summary": {
+    "total_utterances": 40,
+    "total_speakers": 2,
+    "chi_utterances": 13,
+    "mot_utterances": 27,
+    "interaction_type": "dyadic_child_caregiver"
+  }
+}
+```

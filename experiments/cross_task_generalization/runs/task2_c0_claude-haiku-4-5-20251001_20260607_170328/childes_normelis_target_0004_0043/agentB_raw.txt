@@ -1,0 +1,76 @@
+```json
+{
+  "window_id": "childes_normelis_target_0004_0043",
+  "events": [
+    {
+      "event_type": "repair",
+      "utterance_index": 5,
+      "speaker": "CHI",
+      "source_text": "<what's that on> [/] <on the tabe> [//] <by the tabe> [//] by the window ?",
+      "repair_type": "self-initiated self-repair",
+      "original": "what's that on",
+      "intermediate_repairs": ["on the tabe", "by the tabe"],
+      "final_form": "by the window ?"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 13,
+      "speaker": "CHI",
+      "source_text": "she's got (.) curly hair .",
+      "pause_marker": "(.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 4,
+      "speaker": "CHI",
+      "source_text": "a sticker &~a:h there right ?",
+      "non_speech_event": "&~a:h",
+      "description": "non-lexical vocalization"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 20,
+      "speaker": "CHI",
+      "source_text": "<I just had a thing> [//] I just had a cough drop .",
+      "repair_type": "self-initiated self-repair",
+      "original": "I just had a thing",
+      "final_form": "I just had a cough drop ."
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 30,
+      "speaker": "CHI",
+      "source_text": "<put the> [/] the baby's diaper (.) that thing on (.) on the bum .",
+      "repair_type": "self-initiated self-repair",
+      "original": "put the",
+      "final_form": "the baby's diaper (.) that thing on (.) on the bum ."
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 30,
+      "speaker": "CHI",
+      "source_text": "<put the> [/] the baby's diaper (.) that thing on (.) on the bum .",
+      "pause_marker": "(.)",
+      "count": 2
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 35,
+      "speaker": "CHI",
+      "source_text": "<the (ba)by> [//] the mother kissing the baby .",
+      "repair_type": "self-initiated self-repair",
+      "original": "the (ba)by",
+      "final_form": "the mother kissing the baby ."
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 38,
+      "speaker": "CHI",
+      "source_text": "<cause it> [//] she wants to .",
+      "repair_type": "self-initiated self-repair",
+      "original": "cause it",
+      "final_form": "she wants to ."
+    }
+  ]
+}
+```

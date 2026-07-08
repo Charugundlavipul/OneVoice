@@ -1,0 +1,151 @@
+{
+  "record_id": "06M_Post_w018_027",
+  "utterances": [
+    {
+      "utt": "06M-Post-018A",
+      "mispronunciations": []
+    },
+    {
+      "utt": "06M-Post-019A",
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "dZ",
+          "observed_phone": "s",
+          "word_index": "SAUSAGE",
+          "phone_index": "final",
+          "start": "00:00:08:070",
+          "end": "00:00:08:190",
+          "notes": "SAUSAGE canonical final /dZ/ realized as /s/"
+        }
+      ]
+    },
+    {
+      "utt": "06M-Post-020A",
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "dZ",
+          "observed_phone": "s",
+          "word_index": "SAUSAGE",
+          "phone_index": "final",
+          "start": "00:00:06:130",
+          "end": "00:00:06:330",
+          "notes": "SAUSAGE canonical final /dZ/ realized as /s/"
+        }
+      ]
+    },
+    {
+      "utt": "06M-Post-021A",
+      "mispronunciations": []
+    },
+    {
+      "utt": "06M-Post-022E",
+      "mispronunciations": []
+    },
+    {
+      "utt": "06M-Post-023A",
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "p",
+          "observed_phone": "k",
+          "word_index": "KEEP",
+          "phone_index": "initial",
+          "start": "00:00:02:190",
+          "end": "00:00:02:630",
+          "notes": "KEEP produced with initial /k/ instead of /p/"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "k",
+          "observed_phone": "n=",
+          "word_index": "KITTEN",
+          "phone_index": "final",
+          "start": "00:00:03:940",
+          "end": "00:00:04:130",
+          "notes": "KITTEN final /n/ appears distorted/nasalized in annotation"
+        }
+      ]
+    },
+    {
+      "utt": "06M-Post-024A",
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "k",
+          "observed_phone": "p",
+          "word_index": "PEAKING",
+          "phone_index": "initial",
+          "start": "00:00:02:860",
+          "end": "00:00:03:480",
+          "notes": "PEAKING initial /k/ realized as /p/"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "b",
+          "observed_phone": "5",
+          "word_index": "TABLE",
+          "phone_index": "final",
+          "start": "00:00:03:710",
+          "end": "00:00:04:210",
+          "notes": "TABLE final consonant distorted in annotation"
+        }
+      ]
+    },
+    {
+      "utt": "06M-Post-025A",
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "l",
+          "observed_phone": "5",
+          "word_index": "BUTTERFLY",
+          "phone_index": "final",
+          "start": "00:00:01:660",
+          "end": "00:00:02:540",
+          "notes": "BUTTERFLY final liquid appears vocalized/distorted"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "g",
+          "observed_phone": "p",
+          "word_index": "COOP",
+          "phone_index": "final",
+          "start": "00:00:02:700",
+          "end": "00:00:03:190",
+          "notes": "COOP final /p/ not clearly aligned; word realized with anomalous final stop annotation"
+        }
+      ]
+    },
+    {
+      "utt": "06M-Post-026A",
+      "mispronunciations": [
+        {
+          "type": "substitution",
+          "target_phone": "p",
+          "observed_phone": "t",
+          "word_index": "PACKER",
+          "phone_index": "initial",
+          "start": "00:00:01:910",
+          "end": "00:00:02:540",
+          "notes": "PACKER initial consonant realized as /p/ in reference, but observed transcription begins with /p/ and includes anomalous /t/ in COOT; no clear word-level error beyond transcription uncertainty"
+        },
+        {
+          "type": "substitution",
+          "target_phone": "k",
+          "observed_phone": "t",
+          "word_index": "COOT",
+          "phone_index": "initial",
+          "start": "00:00:01:160",
+          "end": "00:00:01:700",
+          "notes": "COOT initial /k/ realized as /k/; overall transcription appears mostly canonical, no strong error"
+        }
+      ]
+    },
+    {
+      "utt": "06M-Post-027A",
+      "mispronunciations": []
+    }
+  ]
+}

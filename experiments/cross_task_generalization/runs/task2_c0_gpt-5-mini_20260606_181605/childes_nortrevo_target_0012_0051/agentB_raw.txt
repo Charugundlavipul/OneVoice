@@ -1,0 +1,272 @@
+[
+  {
+    "event_type": "non_speech",
+    "utt_index": 7,
+    "speaker": "CHI",
+    "source_text": "Shrug ."
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 10,
+    "speaker": "CHI",
+    "source_text": "<bef> Reaches for the phone and dials number . He vocalizes number while dialing ."
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 13,
+    "speaker": "CHI",
+    "source_text": "(.)"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 14,
+    "speaker": "CHI",
+    "source_text": "(.)"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 15,
+    "speaker": "CHI",
+    "source_text": "(.)"
+  },
+  {
+    "event_type": "repair",
+    "utt_index": 20,
+    "speaker": "CHI",
+    "source_text": "<because they g(ot)>"
+  },
+  {
+    "event_type": "overlap",
+    "utt_index": 20,
+    "speaker": "CHI",
+    "source_text": "[/]"
+  },
+  {
+    "event_type": "overlap",
+    "utt_index": 20,
+    "speaker": "CHI",
+    "source_text": "[/]"
+  },
+  {
+    "event_type": "overlap",
+    "utt_index": 20,
+    "speaker": "CHI",
+    "source_text": "[/]"
+  },
+  {
+    "event_type": "overlap",
+    "utt_index": 20,
+    "speaker": "CHI",
+    "source_text": "[/]"
+  },
+  {
+    "event_type": "repetition",
+    "utt_index": 20,
+    "speaker": "CHI",
+    "source_text": "they got the [/] the [/] the"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 20,
+    "speaker": "CHI",
+    "source_text": "(.)"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 21,
+    "speaker": "CHI",
+    "source_text": "(.)"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 22,
+    "speaker": "CHI",
+    "source_text": "(.)"
+  },
+  {
+    "event_type": "repair",
+    "utt_index": 23,
+    "speaker": "CHI",
+    "source_text": "<b(etter)>"
+  },
+  {
+    "event_type": "repetition",
+    "utt_index": 23,
+    "speaker": "CHI",
+    "source_text": "<b(etter)> [/] better"
+  },
+  {
+    "event_type": "overlap",
+    "utt_index": 23,
+    "speaker": "CHI",
+    "source_text": "[/]"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 23,
+    "speaker": "CHI",
+    "source_text": "(.)"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 24,
+    "speaker": "CHI",
+    "source_text": "(.)"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 25,
+    "speaker": "CHI",
+    "source_text": "(.)"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 27,
+    "speaker": "HEI",
+    "source_text": "I point to baking soda ."
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 35,
+    "speaker": "CHI",
+    "source_text": "(.)"
+  }
+]
+
+[JSON_REPAIRED]
+{
+  "events": [
+    {
+      "event_type": "non_speech",
+      "utt_index": 7,
+      "speaker": "CHI",
+      "source_text": "Shrug ."
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 10,
+      "speaker": "CHI",
+      "source_text": "<bef> Reaches for the phone and dials number . He vocalizes number while dialing ."
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 13,
+      "speaker": "CHI",
+      "source_text": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 14,
+      "speaker": "CHI",
+      "source_text": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 15,
+      "speaker": "CHI",
+      "source_text": "(.)"
+    },
+    {
+      "event_type": "repair",
+      "utt_index": 20,
+      "speaker": "CHI",
+      "source_text": "<because they g(ot)>"
+    },
+    {
+      "event_type": "overlap",
+      "utt_index": 20,
+      "speaker": "CHI",
+      "source_text": "[/]"
+    },
+    {
+      "event_type": "overlap",
+      "utt_index": 20,
+      "speaker": "CHI",
+      "source_text": "[/]"
+    },
+    {
+      "event_type": "overlap",
+      "utt_index": 20,
+      "speaker": "CHI",
+      "source_text": "[/]"
+    },
+    {
+      "event_type": "overlap",
+      "utt_index": 20,
+      "speaker": "CHI",
+      "source_text": "[/]"
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": 20,
+      "speaker": "CHI",
+      "source_text": "they got the [/] the [/] the"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 20,
+      "speaker": "CHI",
+      "source_text": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 21,
+      "speaker": "CHI",
+      "source_text": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 22,
+      "speaker": "CHI",
+      "source_text": "(.)"
+    },
+    {
+      "event_type": "repair",
+      "utt_index": 23,
+      "speaker": "CHI",
+      "source_text": "<b(etter)>"
+    },
+    {
+      "event_type": "repetition",
+      "utt_index": 23,
+      "speaker": "CHI",
+      "source_text": "<b(etter)> [/] better"
+    },
+    {
+      "event_type": "overlap",
+      "utt_index": 23,
+      "speaker": "CHI",
+      "source_text": "[/]"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 23,
+      "speaker": "CHI",
+      "source_text": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 24,
+      "speaker": "CHI",
+      "source_text": "(.)"
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 25,
+      "speaker": "CHI",
+      "source_text": "(.)"
+    },
+    {
+      "event_type": "non_speech",
+      "utt_index": 27,
+      "speaker": "HEI",
+      "source_text": "I point to baking soda ."
+    },
+    {
+      "event_type": "pause",
+      "utt_index": 35,
+      "speaker": "CHI",
+      "source_text": "(.)"
+    }
+  ]
+}

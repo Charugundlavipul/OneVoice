@@ -1,0 +1,81 @@
+```json
+{
+  "record_id": "05M_Post_w001_010",
+  "utterances": [
+    {
+      "utt": "05M-Post-001E",
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:00:01:050",
+          "end": "00:00:01:520",
+          "notes": "CHILD to silence transition"
+        },
+        {
+          "type": "slt_intervention",
+          "start": "00:00:02:060",
+          "end": "00:00:02:410",
+          "notes": "SLT speaker activity"
+        }
+      ]
+    },
+    {
+      "utt": "05M-Post-002E",
+      "behavioral_events": [
+        {
+          "type": "speaker_transition",
+          "start": "00:00:01:150",
+          "end": "00:00:04:330",
+          "notes": "silence to CHILD to silence to CHILD transition"
+        }
+      ]
+    },
+    {
+      "utt": "05M-Post-003A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:01:670",
+          "end": "00:00:02:210",
+          "notes": "SLT speaker activity during child utterance"
+        }
+      ]
+    },
+    {
+      "utt": "05M-Post-004A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "05M-Post-005A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "05M-Post-006A",
+      "behavioral_events": [
+        {
+          "type": "slt_intervention",
+          "start": "00:00:17:670",
+          "end": "00:00:17:670",
+          "notes": "SLT speaker activity during child utterance"
+        }
+      ]
+    },
+    {
+      "utt": "05M-Post-007A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "05M-Post-008A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "05M-Post-009A",
+      "behavioral_events": []
+    },
+    {
+      "utt": "05M-Post-010A",
+      "behavioral_events": []
+    }
+  ]
+}
+```

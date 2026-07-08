@@ -1,0 +1,152 @@
+[
+  {
+    "event_type": "repair",
+    "speaker_cue": "MOT",
+    "utterance_index": 13,
+    "utterance_cue": "are the people +...",
+    "source_text": "*MOT:\tare the people +..."
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "MOT",
+    "utterance_index": 13,
+    "utterance_cue": "are the people +...",
+    "source_text": "are the people +..."
+  },
+  {
+    "event_type": "repair",
+    "speaker_cue": "CHI",
+    "utterance_index": 2,
+    "utterance_cue": "0 .",
+    "source_text": "*CHI:\t0 ."
+  },
+  {
+    "event_type": "repair",
+    "speaker_cue": "CHI",
+    "utterance_index": 8,
+    "utterance_cue": "0 .",
+    "source_text": "*CHI:\t0 ."
+  },
+  {
+    "event_type": "repair",
+    "speaker_cue": "CHI",
+    "utterance_index": 24,
+    "utterance_cue": "0 .",
+    "source_text": "*CHI:\t0 ."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "CHI",
+    "utterance_index": 2,
+    "utterance_cue": "0 .",
+    "source_text": "0 ."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "CHI",
+    "utterance_index": 8,
+    "utterance_cue": "0 .",
+    "source_text": "0 ."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "CHI",
+    "utterance_index": 24,
+    "utterance_cue": "0 .",
+    "source_text": "0 ."
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "MOT",
+    "utterance_index": 18,
+    "utterance_cue": "people go byebye .",
+    "source_text": "<1w> spoken softly ."
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "MOT",
+    "utterance_index": 19,
+    "utterance_cue": "byebye !",
+    "source_text": "<1w> spoken in high voice"
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "MOT",
+    "utterance_index": 20,
+    "utterance_cue": "byebye !",
+    "source_text": "<1w> spoken in high voice"
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "MOT",
+    "utterance_index": 27,
+    "utterance_cue": "people ?",
+    "source_text": "spoken in high voice"
+  },
+  {
+    "event_type": "pause",
+    "speaker_cue": "MOT",
+    "utterance_index": 34,
+    "utterance_cue": "people !",
+    "source_text": "<1w> spoken softly"
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "MOT",
+    "utterance_index": 34,
+    "utterance_cue": "people !",
+    "source_text": "<1w> spoken softly"
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "MOT",
+    "utterance_index": 36,
+    "utterance_cue": "people !",
+    "source_text": "spoken softly"
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "MOT",
+    "utterance_index": 38,
+    "utterance_cue": "they're over here !",
+    "source_text": "tapping noises"
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "MOT",
+    "utterance_index": 38,
+    "utterance_cue": "they're over here !",
+    "source_text": "<1w> points"
+  },
+  {
+    "event_type": "non_speech",
+    "speaker_cue": "CHI",
+    "utterance_index": 27,
+    "utterance_cue": "people ?",
+    "source_text": "spoken in high voice"
+  },
+  {
+    "event_type": "overlap",
+    "speaker_cue": "MOT",
+    "utterance_index": 19,
+    "utterance_cue": "byebye !",
+    "source_text": "MOT: byebye ! ... %par: <1w> spoken in high voice"
+  },
+  {
+    "event_type": "overlap",
+    "speaker_cue": "MOT",
+    "utterance_index": 20,
+    "utterance_cue": "byebye !",
+    "source_text": "MOT: byebye ! ... %par: <1w> spoken in high voice"
+  },
+  {
+    "event_type": "overlap",
+    "speaker_cue": "MOT",
+    "utterance_index": 38,
+    "utterance_cue": "they're over here !",
+    "source_text": "*MOT:\tthey're over here !"
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 13,\n    \"utterance_cue\": \"are the people +...\",\n    \"source_text\": \"*MOT:\\tare the people +...\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 13,\n    \"utterance_cue\": \"are the people +...\",\n    \"source_text\": \"are the people +...\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_index\": 2,\n    \"utterance_cue\": \"0 .\",\n    \"source_text\": \"*CHI:\\t0 .\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_index\": 8,\n    \"utterance_cue\": \"0 .\",\n    \"source_text\": \"*CHI:\\t0 .\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_index\": 24,\n    \"utterance_cue\": \"0 .\",\n    \"source_text\": \"*CHI:\\t0 .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_index\": 2,\n    \"utterance_cue\": \"0 .\",\n    \"source_text\": \"0 .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_index\": 8,\n    \"utterance_cue\": \"0 .\",\n    \"source_text\": \"0 .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_index\": 24,\n    \"utterance_cue\": \"0 .\",\n    \"source_text\": \"0 .\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 18,\n    \"utterance_cue\": \"people go byebye .\",\n    \"source_text\": \"<1w> spoken softly .\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 19,\n    \"utterance_cue\": \"byebye !\",\n    \"source_text\": \"<1w> spoken in high voice\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 20,\n    \"utterance_cue\": \"byebye !\",\n    \"source_text\": \"<1w> spoken in high voice\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 27,\n    \"utterance_cue\": \"people ?\",\n    \"source_text\": \"spoken in high voice\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 34,\n    \"utterance_cue\": \"people !\",\n    \"source_text\": \"<1w> spoken softly\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 34,\n    \"utterance_cue\": \"people !\",\n    \"source_text\": \"<1w> spoken softly\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 36,\n    \"utterance_cue\": \"people !\",\n    \"source_text\": \"spoken softly\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 38,\n    \"utterance_cue\": \"they're over here !\",\n    \"source_text\": \"tapping noises\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 38,\n    \"utterance_cue\": \"they're over here !\",\n    \"source_text\": \"<1w> points\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"speaker_cue\": \"CHI\",\n    \"utterance_index\": 27,\n    \"utterance_cue\": \"people ?\",\n    \"source_text\": \"spoken in high voice\"\n  },\n  {\n    \"event_type\": \"overlap\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 19,\n    \"utterance_cue\": \"byebye !\",\n    \"source_text\": \"MOT: byebye ! ... %par: <1w> spoken in high voice\"\n  },\n  {\n    \"event_type\": \"overlap\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 20,\n    \"utterance_cue\": \"byebye !\",\n    \"source_text\": \"MOT: byebye ! ... %par: <1w> spoken in high voice\"\n  },\n  {\n    \"event_type\": \"overlap\",\n    \"speaker_cue\": \"MOT\",\n    \"utterance_index\": 38,\n    \"utterance_cue\": \"they're over here !\",\n    \"source_text\": \"*MOT:\\tthey're over here !\"\n  }\n]"}

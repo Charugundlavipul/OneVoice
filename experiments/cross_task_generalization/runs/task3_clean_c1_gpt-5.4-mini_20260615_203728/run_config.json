@@ -1,0 +1,18 @@
+{
+  "manifest": "experiments\\cross_task_generalization\\manifests\\task3_timit_manifest.jsonl",
+  "thresholds": "experiments\\cross_task_generalization\\manifests\\task3_timit_thresholds.json",
+  "output_root": "experiments\\cross_task_generalization\\runs",
+  "condition": "c1",
+  "model": "gpt-5.4-mini",
+  "max_records": null,
+  "start_index": 0,
+  "run_dir": "c:\\Users\\charu\\OneDrive\\Desktop\\transcription_project\\experiments\\cross_task_generalization\\runs\\task3_clean_c1_gpt-5.4-mini_20260615_203728",
+  "skip_existing": false,
+  "parallel_records": 3,
+  "dry_run": false,
+  "max_output_tokens": 20000,
+  "max_repair_rounds": 2,
+  "chunk_size": 1,
+  "parallel_chunks": 1,
+  "record_count": 40
+}

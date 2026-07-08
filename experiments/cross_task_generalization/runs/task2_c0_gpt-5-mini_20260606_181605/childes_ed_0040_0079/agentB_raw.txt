@@ -1,0 +1,212 @@
+[
+  {
+    "event_type": "pause",
+    "utterance_index": 1,
+    "speaker": "MOT",
+    "source_text": "this [!] is what we're gonna do (.) we're gonna put blocks [!] in ."
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 4,
+    "speaker": "MOT",
+    "source_text": "we're gonna try to put (th)em in the holes [!] (.) but not those (.) but let's (.) put those away and play with blocks now . (first (.) in this utterance)"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 4,
+    "speaker": "MOT",
+    "source_text": "we're gonna try to put (th)em in the holes [!] (.) but not those (.) but let's (.) put those away and play with blocks now . (second (.) in this utterance)"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 4,
+    "speaker": "MOT",
+    "source_text": "we're gonna try to put (th)em in the holes [!] (.) but not those (.) but let's (.) put those away and play with blocks now . (third (.) in this utterance)"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 16,
+    "speaker": "MOT",
+    "source_text": "Ed (.) where's the circle [!] ?"
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 24,
+    "speaker": "MOT",
+    "source_text": "no (.) that's a square ."
+  },
+  {
+    "event_type": "pause",
+    "utterance_index": 31,
+    "speaker": "MOT",
+    "source_text": "no (.) a circle goes in that ."
+  },
+  {
+    "event_type": "repair",
+    "utterance_index": 22,
+    "speaker": "MOT",
+    "source_text": "can you put the <bl(ocks)> [/] blocks with the circles in that circle ?"
+  },
+  {
+    "event_type": "repetition",
+    "utterance_index": 33,
+    "speaker": "CHI",
+    "source_text": "raw: \"0 .\"  / act-tier: \"attempts another hole . repeats\""
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 6,
+    "speaker": "CHI",
+    "source_text": "0 .  (act: begins to put man in shape box but Mother takes his man away . picks up chair and puts down . drives car toward the side and stops)"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 12,
+    "speaker": "CHI",
+    "source_text": "0 .  (act: takes object from Mother and puts down on floor)"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 15,
+    "speaker": "CHI",
+    "source_text": "0 .  (act: picks up wrong shape box object and holds out to Mother . puts object down)"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 23,
+    "speaker": "CHI",
+    "source_text": "0 .  (act: picks up shape box object and holds over lid . puts over wrong hole)"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 27,
+    "speaker": "CHI",
+    "source_text": "0 .  (act: puts over correct hole)"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 30,
+    "speaker": "CHI",
+    "source_text": "0 .  (act: attempts to put in hole . takes off and holds . picks up another shape box object and attempts to put in same hole)"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 33,
+    "speaker": "CHI",
+    "source_text": "0 .  (act: attempts another hole . repeats)"
+  },
+  {
+    "event_type": "non_speech",
+    "utterance_index": 36,
+    "speaker": "CHI",
+    "source_text": "0 .  (act: lifts shape box object , moves to correct hole and puts it through)"
+  }
+]
+
+[JSON_REPAIRED]
+{
+  "events": [
+    {
+      "event_type": "pause",
+      "utterance_index": 1,
+      "speaker": "MOT",
+      "source_text": "this [!] is what we're gonna do (.) we're gonna put blocks [!] in ."
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 4,
+      "speaker": "MOT",
+      "source_text": "we're gonna try to put (th)em in the holes [!] (.) but not those (.) but let's (.) put those away and play with blocks now . (first (.) in this utterance)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 4,
+      "speaker": "MOT",
+      "source_text": "we're gonna try to put (th)em in the holes [!] (.) but not those (.) but let's (.) put those away and play with blocks now . (second (.) in this utterance)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 4,
+      "speaker": "MOT",
+      "source_text": "we're gonna try to put (th)em in the holes [!] (.) but not those (.) but let's (.) put those away and play with blocks now . (third (.) in this utterance)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 16,
+      "speaker": "MOT",
+      "source_text": "Ed (.) where's the circle [!] ?"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 24,
+      "speaker": "MOT",
+      "source_text": "no (.) that's a square ."
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 31,
+      "speaker": "MOT",
+      "source_text": "no (.) a circle goes in that ."
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 22,
+      "speaker": "MOT",
+      "source_text": "can you put the <bl(ocks)> [/] blocks with the circles in that circle ?"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 33,
+      "speaker": "CHI",
+      "source_text": "raw: \"0 .\"  / act-tier: \"attempts another hole . repeats\""
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 6,
+      "speaker": "CHI",
+      "source_text": "0 .  (act: begins to put man in shape box but Mother takes his man away . picks up chair and puts down . drives car toward the side and stops)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 12,
+      "speaker": "CHI",
+      "source_text": "0 .  (act: takes object from Mother and puts down on floor)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 15,
+      "speaker": "CHI",
+      "source_text": "0 .  (act: picks up wrong shape box object and holds out to Mother . puts object down)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 23,
+      "speaker": "CHI",
+      "source_text": "0 .  (act: picks up shape box object and holds over lid . puts over wrong hole)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 27,
+      "speaker": "CHI",
+      "source_text": "0 .  (act: puts over correct hole)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 30,
+      "speaker": "CHI",
+      "source_text": "0 .  (act: attempts to put in hole . takes off and holds . picks up another shape box object and attempts to put in same hole)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 33,
+      "speaker": "CHI",
+      "source_text": "0 .  (act: attempts another hole . repeats)"
+    },
+    {
+      "event_type": "non_speech",
+      "utterance_index": 36,
+      "speaker": "CHI",
+      "source_text": "0 .  (act: lifts shape box object , moves to correct hole and puts it through)"
+    }
+  ]
+}

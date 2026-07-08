@@ -1,0 +1,171 @@
+```json
+{
+  "bundle_id": "timit_FHES0",
+  "speaker_id": "FHES0",
+  "timing_events": [
+    {
+      "utt_id": "FHES0_SA1",
+      "events": [
+        {
+          "word_index": 2,
+          "word": "your",
+          "start": 0.6041875,
+          "end": 0.7231875,
+          "duration": 0.119,
+          "event_type": "short_word",
+          "reason": "2 phones, duration 0.119s < p10 0.0675s threshold"
+        },
+        {
+          "word_index": 8,
+          "word": "water",
+          "start": 2.3028125,
+          "end": 2.54825,
+          "duration": 0.2454375,
+          "event_type": "inter_word_gap",
+          "gap_before": 0.0470625,
+          "reason": "gap between 'wash' and 'water' is 0.047s"
+        },
+        {
+          "word_index": 9,
+          "word": "all",
+          "start": 2.624,
+          "end": 2.884875,
+          "duration": 0.260875,
+          "event_type": "inter_word_gap",
+          "gap_before": 0.0791875,
+          "reason": "gap between 'water' and 'all' is 0.079s"
+        }
+      ]
+    },
+    {
+      "utt_id": "FHES0_SA2",
+      "events": [
+        {
+          "word_index": 5,
+          "word": "an",
+          "start": 1.24975,
+          "end": 1.321125,
+          "duration": 0.071375,
+          "event_type": "short_word",
+          "reason": "2 phones, duration 0.071s < p10 0.0675s threshold"
+        }
+      ]
+    },
+    {
+      "utt_id": "FHES0_SI1109",
+      "events": [
+        {
+          "word_index": 2,
+          "word": "squeaked",
+          "start": 0.5375,
+          "end": 1.0051875,
+          "duration": 0.4676875,
+          "event_type": "long_word",
+          "reason": "7 phones, duration 0.468s > p90 0.6202s threshold"
+        },
+        {
+          "word_index": 5,
+          "word": "hub",
+          "start": 1.2166875,
+          "end": 1.7475,
+          "duration": 0.5308125,
+          "event_type": "long_word",
+          "reason": "4 phones, duration 0.531s > p90 0.4275s threshold"
+        },
+        {
+          "word_index": 6,
+          "word": "was",
+          "start": 1.9521875,
+          "end": 2.25025,
+          "duration": 0.2980625,
+          "event_type": "boundary_gap",
+          "gap_before": 0.2046875,
+          "reason": "pau phone gap of 0.205s between 'hub' and 'was'"
+        },
+        {
+          "word_index": 8,
+          "word": "and",
+          "start": 2.6475,
+          "end": 3.07075,
+          "duration": 0.42325,
+          "event_type": "long_word",
+          "reason": "6 phones, duration 0.423s > p90 0.5423s threshold"
+        },
+        {
+          "word_index": 10,
+          "word": "again",
+          "start": 3.3025,
+          "end": 3.8025,
+          "duration": 0.5,
+          "event_type": "long_word",
+          "reason": "6 phones, duration 0.5s > p90 0.5423s threshold"
+        }
+      ]
+    },
+    {
+      "utt_id": "FHES0_SI1739",
+      "events": [
+        {
+          "word_index": 0,
+          "word": "oh",
+          "start": 0.1305,
+          "end": 0.5195625,
+          "duration": 0.3890625,
+          "event_type": "long_word",
+          "reason": "1 phone, duration 0.389s > p90 0.1464s threshold"
+        },
+        {
+          "word_index": 4,
+          "word": "death",
+          "start": 1.105,
+          "end": 1.6575,
+          "duration": 0.5525,
+          "event_type": "long_word",
+          "reason": "4 phones, duration 0.553s > p90 0.4275s threshold"
+        }
+      ]
+    },
+    {
+      "utt_id": "FHES0_SI479",
+      "events": [
+        {
+          "word_index": 0,
+          "word": "the",
+          "start": 0.1475,
+          "end": 0.2125,
+          "duration": 0.065,
+          "event_type": "short_word",
+          "reason": "2 phones, duration 0.065s < p10 0.0675s threshold"
+        },
+        {
+          "word_index": 1,
+          "word": "structures",
+          "start": 0.2125,
+          "end": 0.82,
+          "duration": 0.6075,
+          "event_type": "long_word",
+          "reason": "9 phones, duration 0.608s > p90 0.808s threshold"
+        },
+        {
+          "word_index": 7,
+          "word": "masonry",
+          "start": 2.2725,
+          "end": 2.8918125,
+          "duration": 0.6193125,
+          "event_type": "long_word",
+          "reason": "7 phones, duration 0.619s > p90 0.6203s threshold"
+        },
+        {
+          "word_index": 10,
+          "word": "construction",
+          "start": 3.4330625,
+          "end": 4.2675,
+          "duration": 0.8344375,
+          "event_type": "long_word",
+          "reason": "11 phones, duration 0.834s > p90 0.808s threshold"
+        }
+      ]
+    }
+  ]
+}
+```

@@ -1,0 +1,74 @@
+{
+  "events": [
+    {
+      "event_type": "pause",
+      "speaker_cue": "MOT",
+      "utterance_index": 20,
+      "utterance_cue": "okay (.) good .",
+      "source_text": "MOT: okay (.) good ."
+    },
+    {
+      "event_type": "repair",
+      "speaker_cue": "MOT",
+      "utterance_index": 25,
+      "utterance_cue": "is that a girl [!] ?",
+      "source_text": "MOT: is that a girl [!] ?"
+    },
+    {
+      "event_type": "repair",
+      "speaker_cue": "MOT",
+      "utterance_index": 27,
+      "utterance_cue": "there's one [!] +...",
+      "source_text": "MOT: there's one [!] +..."
+    },
+    {
+      "event_type": "repair",
+      "speaker_cue": "MOT",
+      "utterance_index": 29,
+      "utterance_cue": "two: [!] +...",
+      "source_text": "MOT: two: [!] +..."
+    },
+    {
+      "event_type": "repair",
+      "speaker_cue": "MOT",
+      "utterance_index": 32,
+      "utterance_cue": "three: [!] +...",
+      "source_text": "MOT: three: [!] +..."
+    },
+    {
+      "event_type": "overlap",
+      "speaker_cue": "CHI",
+      "utterance_index": 30,
+      "utterance_cue": "yyy .",
+      "source_text": "CHI: yyy . | alt: three"
+    },
+    {
+      "event_type": "overlap",
+      "speaker_cue": "CHI",
+      "utterance_index": 31,
+      "utterance_cue": "yyy boy !",
+      "source_text": "CHI: yyy boy !"
+    },
+    {
+      "event_type": "non_speech",
+      "speaker_cue": "CHI",
+      "utterance_index": 4,
+      "utterance_cue": "&-uh !",
+      "source_text": "CHI: &-uh !"
+    },
+    {
+      "event_type": "non_speech",
+      "speaker_cue": "CHI",
+      "utterance_index": 39,
+      "utterance_cue": "uh_uhhh@o .",
+      "source_text": "CHI: uh_uhhh@o ."
+    },
+    {
+      "event_type": "non_speech",
+      "speaker_cue": "CHI",
+      "utterance_index": 8,
+      "utterance_cue": "dog !",
+      "source_text": "CHI: dog !"
+    }
+  ]
+}

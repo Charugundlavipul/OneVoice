@@ -1,0 +1,32 @@
+{
+  "events": [
+    {
+      "event_type": "repair",
+      "utterance_index": 20,
+      "speaker": "CHI",
+      "source_text": "<that's> [/] that's yours ?",
+      "description": "Self-repair: CHI repeats 'that's' with correction marker [/]"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 22,
+      "speaker": "CHI",
+      "source_text": "baby .",
+      "description": "CHI repeats 'baby' from previous utterance (utt 21: 'there's the baby')"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 32,
+      "speaker": "CHI",
+      "source_text": "my babies .",
+      "description": "CHI repeats 'my babies' from previous utterance (utt 30: 'where's my babies?')"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 37,
+      "speaker": "CHI",
+      "source_text": "in my room .",
+      "description": "CHI repeats 'in my room' from previous utterance (utt 35)"
+    }
+  ]
+}

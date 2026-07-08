@@ -1,0 +1,17 @@
+{
+  "mode": "exp2b",
+  "manifest": "experiments/legacy/uxssd_setup/experiment2_onevoice_manifest.jsonl",
+  "output_root": "experiments/legacy/uxssd_setup/runs",
+  "model": "claude-haiku-4-5-20251001",
+  "temperature": 0.0,
+  "max_records": null,
+  "record_ids": [],
+  "max_file_chars": 3200,
+  "max_files_per_utt": 8,
+  "max_utterances_per_record": null,
+  "max_repair_rounds": 3,
+  "validator_path": "validate_onevoice.py",
+  "dry_run": false,
+  "run_started_utc": "2026-06-14T16:00:28Z",
+  "record_count": 15
+}

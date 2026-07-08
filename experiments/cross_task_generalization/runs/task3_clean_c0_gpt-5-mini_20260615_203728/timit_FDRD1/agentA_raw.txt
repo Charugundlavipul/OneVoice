@@ -1,0 +1,106 @@
+{
+  "bundle_id": "timit_FDRD1",
+  "speaker_id": "FDRD1",
+  "events_by_utterance": {
+    "FDRD1_SA1": [
+      {
+        "utt_id": "FDRD1_SA1",
+        "word_index": 7,
+        "word": "wash->water",
+        "start": 2.4010625,
+        "end": 2.4270625,
+        "duration": 0.026,
+        "event_type": "inter_word_gap"
+      },
+      {
+        "utt_id": "FDRD1_SA1",
+        "word_index": 8,
+        "word": "water->all",
+        "start": 2.733125,
+        "end": 2.8166875,
+        "duration": 0.0835625,
+        "event_type": "inter_word_gap"
+      }
+    ],
+    "FDRD1_SA2": [
+      {
+        "utt_id": "FDRD1_SA2",
+        "word_index": 4,
+        "word": "carry->an",
+        "start": 1.295,
+        "end": 1.342,
+        "duration": 0.047,
+        "event_type": "inter_word_gap"
+      }
+    ],
+    "FDRD1_SI1544": [
+      {
+        "utt_id": "FDRD1_SI1544",
+        "word_index": 3,
+        "word": "into",
+        "start": 0.979375,
+        "end": 1.2075,
+        "duration": 0.228125,
+        "event_type": "short_word"
+      },
+      {
+        "utt_id": "FDRD1_SI1544",
+        "word_index": 6,
+        "word": "woods",
+        "start": 1.69375,
+        "end": 1.93875,
+        "duration": 0.245,
+        "event_type": "short_word"
+      }
+    ],
+    "FDRD1_SI1566": [
+      {
+        "utt_id": "FDRD1_SI1566",
+        "word_index": 10,
+        "word": "stranded",
+        "start": 3.0210625,
+        "end": 3.470125,
+        "duration": 0.4490625,
+        "event_type": "short_word"
+      },
+      {
+        "utt_id": "FDRD1_SI1566",
+        "word_index": 6,
+        "word": "events->or",
+        "start": 2.27625,
+        "end": 2.4075,
+        "duration": 0.13125,
+        "event_type": "inter_word_gap"
+      }
+    ],
+    "FDRD1_SI2149": [
+      {
+        "utt_id": "FDRD1_SI2149",
+        "word_index": 2,
+        "word": "fine",
+        "start": 0.6005,
+        "end": 1.0730625,
+        "duration": 0.4725625,
+        "event_type": "long_word"
+      },
+      {
+        "utt_id": "FDRD1_SI2149",
+        "word_index": 4,
+        "word": "people->of",
+        "start": 2.0835,
+        "end": 2.2625,
+        "duration": 0.179,
+        "event_type": "boundary_gap"
+      },
+      {
+        "utt_id": "FDRD1_SI2149",
+        "word_index": 7,
+        "word": "dignity->he",
+        "start": 3.1325,
+        "end": 3.5829375,
+        "duration": 0.4504375,
+        "event_type": "boundary_gap"
+      }
+    ]
+  }
+}

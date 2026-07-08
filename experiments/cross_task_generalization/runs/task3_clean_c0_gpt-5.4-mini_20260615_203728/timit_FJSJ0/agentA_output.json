@@ -1,0 +1,407 @@
+{
+  "speaker_id": "FJSJ0",
+  "analysis_thresholds": {
+    "long_word_duration_seconds": 0.4,
+    "short_word_duration_seconds": 0.1,
+    "inter_word_gap_seconds": 0.02,
+    "boundary_gap_seconds": 0.1
+  },
+  "events": [
+    {
+      "utt_id": "FJSJ0_SA1",
+      "word_index": 0,
+      "word": "she",
+      "start": 0.1454375,
+      "end": 0.303375,
+      "duration": 0.1579375,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SA1",
+      "word_index": 1,
+      "word": "had",
+      "start": 0.303375,
+      "end": 0.597875,
+      "duration": 0.2945,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SA1",
+      "word_index": 2,
+      "word": "your",
+      "start": 0.54825,
+      "end": 0.6475,
+      "duration": 0.09925,
+      "event_type": "short_word"
+    },
+    {
+      "utt_id": "FJSJ0_SA1",
+      "word_index": 3,
+      "word": "dark",
+      "start": 0.6475,
+      "end": 1.0023125,
+      "duration": 0.3548125,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SA1",
+      "word_index": 4,
+      "word": "suit",
+      "start": 1.0023125,
+      "end": 1.2793125,
+      "duration": 0.277,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SA1",
+      "word_index": 5,
+      "word": "in",
+      "start": 1.2793125,
+      "end": 1.3930625,
+      "duration": 0.11375,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SA1",
+      "word_index": 6,
+      "word": "greasy",
+      "start": 1.3930625,
+      "end": 1.7049375,
+      "duration": 0.311875,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SA1",
+      "word_index": 7,
+      "word": "wash",
+      "start": 1.7049375,
+      "end": 2.0333125,
+      "duration": 0.328375,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SA1",
+      "word_index": 8,
+      "word": "water",
+      "start": 2.063375,
+      "end": 2.3289375,
+      "duration": 0.2655625,
+      "event_type": "boundary_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SA1",
+      "word_index": 9,
+      "word": "all",
+      "start": 2.3289375,
+      "end": 2.5116875,
+      "duration": 0.18275,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SA1",
+      "word_index": 10,
+      "word": "year",
+      "start": 2.5116875,
+      "end": 2.785875,
+      "duration": 0.2741875,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SA2",
+      "word_index": 0,
+      "word": "don't",
+      "start": 0.132625,
+      "end": 0.280125,
+      "duration": 0.1475,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SA2",
+      "word_index": 1,
+      "word": "ask",
+      "start": 0.280125,
+      "end": 0.4950625,
+      "duration": 0.2149375,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SA2",
+      "word_index": 2,
+      "word": "me",
+      "start": 0.533125,
+      "end": 0.650125,
+      "duration": 0.117,
+      "event_type": "boundary_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SA2",
+      "word_index": 3,
+      "word": "to",
+      "start": 0.650125,
+      "end": 0.7231875,
+      "duration": 0.0730625,
+      "event_type": "short_word"
+    },
+    {
+      "utt_id": "FJSJ0_SA2",
+      "word_index": 4,
+      "word": "carry",
+      "start": 0.7231875,
+      "end": 1.0330625,
+      "duration": 0.309875,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SA2",
+      "word_index": 5,
+      "word": "an",
+      "start": 1.0330625,
+      "end": 1.107,
+      "duration": 0.0739375,
+      "event_type": "short_word"
+    },
+    {
+      "utt_id": "FJSJ0_SA2",
+      "word_index": 6,
+      "word": "oily",
+      "start": 1.107,
+      "end": 1.40725,
+      "duration": 0.30025,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SA2",
+      "word_index": 7,
+      "word": "rag",
+      "start": 1.40725,
+      "end": 1.7416875,
+      "duration": 0.3344375,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SA2",
+      "word_index": 8,
+      "word": "like",
+      "start": 1.7416875,
+      "end": 2.0,
+      "duration": 0.2583125,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SA2",
+      "word_index": 9,
+      "word": "that",
+      "start": 2.0,
+      "end": 2.268875,
+      "duration": 0.268875,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SI1484",
+      "word_index": 0,
+      "word": "there",
+      "start": 0.138375,
+      "end": 0.2636875,
+      "duration": 0.1253125,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SI1484",
+      "word_index": 1,
+      "word": "are",
+      "start": 0.2636875,
+      "end": 0.47775,
+      "duration": 0.2140625,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SI1484",
+      "word_index": 2,
+      "word": "also",
+      "start": 0.47775,
+      "end": 0.8250625,
+      "duration": 0.3473125,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SI1484",
+      "word_index": 3,
+      "word": "honest",
+      "start": 0.8250625,
+      "end": 1.2731875,
+      "duration": 0.448125,
+      "event_type": "long_word"
+    },
+    {
+      "utt_id": "FJSJ0_SI1484",
+      "word_index": 4,
+      "word": "seekers",
+      "start": 1.2731875,
+      "end": 1.781875,
+      "duration": 0.5086875,
+      "event_type": "long_word"
+    },
+    {
+      "utt_id": "FJSJ0_SI1484",
+      "word_index": 5,
+      "word": "after",
+      "start": 1.781875,
+      "end": 2.0881875,
+      "duration": 0.3063125,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SI1484",
+      "word_index": 6,
+      "word": "truth",
+      "start": 2.0881875,
+      "end": 2.6476875,
+      "duration": 0.5595,
+      "event_type": "long_word"
+    },
+    {
+      "utt_id": "FJSJ0_SI2114",
+      "word_index": 0,
+      "word": "stake",
+      "start": 0.13325,
+      "end": 0.5173125,
+      "duration": 0.3840625,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SI2114",
+      "word_index": 1,
+      "word": "me",
+      "start": 0.5173125,
+      "end": 0.6131875,
+      "duration": 0.095875,
+      "event_type": "short_word"
+    },
+    {
+      "utt_id": "FJSJ0_SI2114",
+      "word_index": 2,
+      "word": "she",
+      "start": 0.644875,
+      "end": 0.788375,
+      "duration": 0.1435,
+      "event_type": "boundary_gap"
+    },
+    {
+      "uttid": "FJSJ0_SI2114",
+      "word_index": 3,
+      "word": "said",
+      "start": 0.788375,
+      "end": 1.0886875,
+      "duration": 0.3003125,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SI2114",
+      "word_index": 4,
+      "word": "and",
+      "start": 1.2349375,
+      "end": 1.3080625,
+      "duration": 0.073125,
+      "event_type": "boundary_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SI2114",
+      "word_index": 5,
+      "word": "let",
+      "start": 1.3080625,
+      "end": 1.437375,
+      "duration": 0.1293125,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SI2114",
+      "word_index": 6,
+      "word": "me",
+      "start": 1.437375,
+      "end": 1.5900625,
+      "duration": 0.1526875,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SI2114",
+      "word_index": 7,
+      "word": "at",
+      "start": 1.5900625,
+      "end": 1.754625,
+      "duration": 0.1645625,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SI2114",
+      "word_index": 8,
+      "word": "those",
+      "start": 1.754625,
+      "end": 1.9554375,
+      "duration": 0.2008125,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SI2114",
+      "word_index": 9,
+      "word": "dice",
+      "start": 1.9554375,
+      "end": 2.3916875,
+      "duration": 0.43625,
+      "event_type": "long_word"
+    },
+    {
+      "utt_id": "FJSJ0_SI854",
+      "word_index": 0,
+      "word": "encourage",
+      "start": 0.15225,
+      "end": 0.66975,
+      "duration": 0.5175,
+      "event_type": "long_word"
+    },
+    {
+      "utt_id": "FJSJ0_SI854",
+      "word_index": 1,
+      "word": "them",
+      "start": 0.66975,
+      "end": 0.787875,
+      "duration": 0.118125,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SI854",
+      "word_index": 2,
+      "word": "to",
+      "start": 0.787875,
+      "end": 0.9320625,
+      "duration": 0.1441875,
+      "event_type": "boundary_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SI854",
+      "word_index": 3,
+      "word": "exercise",
+      "start": 1.0339375,
+      "end": 1.58975,
+      "duration": 0.5558125,
+      "event_type": "long_word"
+    },
+    {
+      "utt_id": "FJSJ0_SI854",
+      "word_index": 4,
+      "word": "their",
+      "start": 1.58975,
+      "end": 1.733625,
+      "duration": 0.143875,
+      "event_type": "inter_word_gap"
+    },
+    {
+      "utt_id": "FJSJ0_SI854",
+      "word_index": 5,
+      "word": "benefits",
+      "start": 1.733625,
+      "end": 2.4109375,
+      "duration": 0.6773125,
+      "event_type": "long_word"
+    }
+  ]
+}

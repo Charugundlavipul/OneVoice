@@ -1,0 +1,63 @@
+```json
+{
+  "window_id": "childes_ed_0040_0079",
+  "events": [
+    {
+      "event_type": "pause",
+      "utterance_index": 1,
+      "speaker": "MOT",
+      "source_text": "this [!] is what we're gonna do (.) we're gonna put blocks [!] in .",
+      "description": "Pause marked with (.)"
+    },
+    {
+      "event_type": "pause",
+      "utterance_index": 4,
+      "speaker": "MOT",
+      "source_text": "we're gonna try to put (th)em in the holes [!] (.) but not those (.) but let's (.) put those away and play with blocks now .",
+      "description": "Multiple pauses marked with (.)"
+    },
+    {
+      "event_type": "repair",
+      "utterance_index": 22,
+      "speaker": "MOT",
+      "source_text": "can you put the <bl(ocks)> [/] blocks with the circles in that circle ?",
+      "description": "Self-repair: [/] indicates replacement of 'bl(ocks)' with 'blocks'"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 19,
+      "speaker": "CHI",
+      "source_text": "circle ?",
+      "description": "Repetition of word 'circle' from prior MOT utterance"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 20,
+      "speaker": "CHI",
+      "source_text": "circle ?",
+      "description": "Repetition of word 'circle' from prior utterance"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 25,
+      "speaker": "MOT",
+      "source_text": "square ?",
+      "description": "Repetition of word 'square' from prior MOT utterance (utt_index 24)"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 32,
+      "speaker": "MOT",
+      "source_text": "circle !",
+      "description": "Repetition of word 'circle' from prior MOT utterance"
+    },
+    {
+      "event_type": "repetition",
+      "utterance_index": 34,
+      "speaker": "MOT",
+      "source_text": "circle !",
+      "description": "Repetition of word 'circle' from prior MOT utterance (utt_index 32)"
+    }
+  ]
+}
+```

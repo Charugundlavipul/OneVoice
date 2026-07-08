@@ -1,0 +1,96 @@
+[
+  {
+    "event_type": "non_speech",
+    "utt_index": 0,
+    "speaker": "CHI",
+    "source_text": "all yyy !",
+    "cue": "yyy"
+  },
+  {
+    "event_type": "non_speech",
+    "utt_index": 6,
+    "speaker": "CHI",
+    "source_text": "yyy [>] !",
+    "cue": "yyy"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 9,
+    "speaker": "CHI",
+    "source_text": "&-uh !",
+    "cue": "&-uh"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 8,
+    "speaker": "CHI",
+    "source_text": "&-uh !",
+    "cue": "&-uh"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 11,
+    "speaker": "CHI",
+    "source_text": "&-uh !",
+    "cue": "&-uh"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 19,
+    "speaker": "CHI",
+    "source_text": "&-uh (.) me !",
+    "cue": "(.)"
+  },
+  {
+    "event_type": "pause",
+    "utt_index": 27,
+    "speaker": "CHI",
+    "source_text": "ow &-uh !",
+    "cue": "&-uh"
+  },
+  {
+    "event_type": "repetition",
+    "utt_index": 1,
+    "speaker": "MOT",
+    "source_text": "all done ?",
+    "cue": "all"
+  },
+  {
+    "event_type": "repetition",
+    "utt_index": 3,
+    "speaker": "MOT",
+    "source_text": "can you put (th)em back now ?",
+    "cue": "can you put (th)em back"
+  },
+  {
+    "event_type": "repetition",
+    "utt_index": 5,
+    "speaker": "MOT",
+    "source_text": "can you put (th)em back ?",
+    "cue": "can you put (th)em back"
+  },
+  {
+    "event_type": "repair",
+    "utt_index": 15,
+    "speaker": "MOT",
+    "source_text": "no (.) where does that one go ?",
+    "cue": "(.)"
+  },
+  {
+    "event_type": "repair",
+    "utt_index": 28,
+    "speaker": "MOT",
+    "source_text": "you wanna try that one again ?",
+    "cue": "that one again"
+  },
+  {
+    "event_type": "overlap",
+    "utt_index": 27,
+    "speaker": "CHI",
+    "source_text": "ow &-uh !",
+    "cue": "&-uh"
+  }
+]
+
+[JSON_REPAIRED]
+{"malformed_json_text":"[\n  {\n    \"event_type\": \"non_speech\",\n    \"utt_index\": 0,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"all yyy !\",\n    \"cue\": \"yyy\"\n  },\n  {\n    \"event_type\": \"non_speech\",\n    \"utt_index\": 6,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"yyy [>] !\",\n    \"cue\": \"yyy\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utt_index\": 9,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"&-uh !\",\n    \"cue\": \"&-uh\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utt_index\": 8,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"&-uh !\",\n    \"cue\": \"&-uh\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utt_index\": 11,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"&-uh !\",\n    \"cue\": \"&-uh\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utt_index\": 19,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"&-uh (.) me !\",\n    \"cue\": \"(.)\"\n  },\n  {\n    \"event_type\": \"pause\",\n    \"utt_index\": 27,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"ow &-uh !\",\n    \"cue\": \"&-uh\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utt_index\": 1,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"all done ?\",\n    \"cue\": \"all\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utt_index\": 3,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"can you put (th)em back now ?\",\n    \"cue\": \"can you put (th)em back\"\n  },\n  {\n    \"event_type\": \"repetition\",\n    \"utt_index\": 5,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"can you put (th)em back ?\",\n    \"cue\": \"can you put (th)em back\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utt_index\": 15,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"no (.) where does that one go ?\",\n    \"cue\": \"(.)\"\n  },\n  {\n    \"event_type\": \"repair\",\n    \"utt_index\": 28,\n    \"speaker\": \"MOT\",\n    \"source_text\": \"you wanna try that one again ?\",\n    \"cue\": \"that one again\"\n  },\n  {\n    \"event_type\": \"overlap\",\n    \"utt_index\": 27,\n    \"speaker\": \"CHI\",\n    \"source_text\": \"ow &-uh !\",\n    \"cue\": \"&-uh\"\n  }\n]"}

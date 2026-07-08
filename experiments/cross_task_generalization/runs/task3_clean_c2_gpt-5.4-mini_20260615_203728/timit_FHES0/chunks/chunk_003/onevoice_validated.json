@@ -1,0 +1,275 @@
+{
+  "session_id": "timit_FHES0_chunk_3_3",
+  "session_date": "",
+  "sample_rate": 16000,
+  "audio_file_path": "",
+  "audio_format": "wav",
+  "session_duration": "00:00:12:532",
+  "speakers": [
+    {
+      "speaker_id": "FHES0",
+      "gender": "other",
+      "language": "en",
+      "native_language": "english",
+      "accent": "",
+      "age": "",
+      "name": "",
+      "age_group": "adult"
+    }
+  ],
+  "turns": [
+    {
+      "turn_index": 3,
+      "utt_id": "FHES0_SI1739",
+      "speaker_id": "FHES0",
+      "reference_transcript": "Oh, the time of death.",
+      "phoneme_reference": "",
+      "orthographic_transcript": "Oh, the time of death.",
+      "phonetic_transcript": "h# ow dh ih tcl t ay m ax v dcl d eh th h#",
+      "ipa_transcript": "",
+      "raw_transcript": "Oh, the time of death.",
+      "start": "00:00:10:797",
+      "end": "00:00:12:532",
+      "word_alignments": [
+        {
+          "word_index": 0,
+          "word": "oh",
+          "start": "00:00:10:928",
+          "end": "00:00:11:317",
+          "phonemes": [
+            {
+              "phone": "ow",
+              "start": "00:00:10:928",
+              "end": "00:00:11:317"
+            }
+          ]
+        },
+        {
+          "word_index": 1,
+          "word": "the",
+          "start": "00:00:11:317",
+          "end": "00:00:11:430",
+          "phonemes": [
+            {
+              "phone": "dh",
+              "start": "00:00:11:317",
+              "end": "00:00:11:370"
+            },
+            {
+              "phone": "ih",
+              "start": "00:00:11:370",
+              "end": "00:00:11:430"
+            }
+          ]
+        },
+        {
+          "word_index": 2,
+          "word": "time",
+          "start": "00:00:11:430",
+          "end": "00:00:11:774",
+          "phonemes": [
+            {
+              "phone": "tcl",
+              "start": "00:00:11:430",
+              "end": "00:00:11:474"
+            },
+            {
+              "phone": "t",
+              "start": "00:00:11:474",
+              "end": "00:00:11:541"
+            },
+            {
+              "phone": "ay",
+              "start": "00:00:11:541",
+              "end": "00:00:11:695"
+            },
+            {
+              "phone": "m",
+              "start": "00:00:11:695",
+              "end": "00:00:11:774"
+            }
+          ]
+        },
+        {
+          "word_index": 3,
+          "word": "of",
+          "start": "00:00:11:774",
+          "end": "00:00:11:902",
+          "phonemes": [
+            {
+              "phone": "ax",
+              "start": "00:00:11:774",
+              "end": "00:00:11:844"
+            },
+            {
+              "phone": "v",
+              "start": "00:00:11:844",
+              "end": "00:00:11:902"
+            }
+          ]
+        },
+        {
+          "word_index": 4,
+          "word": "death",
+          "start": "00:00:11:902",
+          "end": "00:00:12:455",
+          "phonemes": [
+            {
+              "phone": "dcl",
+              "start": "00:00:11:902",
+              "end": "00:00:11:960"
+            },
+            {
+              "phone": "d",
+              "start": "00:00:11:960",
+              "end": "00:00:11:984"
+            },
+            {
+              "phone": "eh",
+              "start": "00:00:11:984",
+              "end": "00:00:12:244"
+            },
+            {
+              "phone": "th",
+              "start": "00:00:12:244",
+              "end": "00:00:12:455"
+            }
+          ]
+        }
+      ],
+      "mispronunciations": [],
+      "behavioral_events": [
+        {
+          "type": "long_word",
+          "start": "00:00:00:130",
+          "end": "00:00:00:520"
+        },
+        {
+          "type": "short_word",
+          "start": "00:00:00:520",
+          "end": "00:00:00:632"
+        },
+        {
+          "type": "long_word",
+          "start": "00:00:01:105",
+          "end": "00:00:01:658"
+        },
+        {
+          "type": "boundary_gap",
+          "start": "00:00:00:000",
+          "end": "00:00:00:130"
+        },
+        {
+          "type": "inter_word_gap",
+          "start": "00:00:00:520",
+          "end": "00:00:00:520"
+        },
+        {
+          "type": "inter_word_gap",
+          "start": "00:00:00:632",
+          "end": "00:00:00:632"
+        },
+        {
+          "type": "inter_word_gap",
+          "start": "00:00:00:978",
+          "end": "00:00:00:978"
+        },
+        {
+          "type": "inter_word_gap",
+          "start": "00:00:01:105",
+          "end": "00:00:01:105"
+        },
+        {
+          "type": "boundary_gap",
+          "start": "00:00:01:658",
+          "end": "00:00:01:730"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:00:130",
+          "end": "00:00:00:520"
+        },
+        {
+          "type": "short_phone",
+          "start": "00:00:00:520",
+          "end": "00:00:00:572"
+        },
+        {
+          "type": "short_phone",
+          "start": "00:00:00:572",
+          "end": "00:00:00:632"
+        },
+        {
+          "type": "short_phone",
+          "start": "00:00:00:632",
+          "end": "00:00:00:678"
+        },
+        {
+          "type": "short_phone",
+          "start": "00:00:00:678",
+          "end": "00:00:00:744"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:00:744",
+          "end": "00:00:00:898"
+        },
+        {
+          "type": "short_phone",
+          "start": "00:00:00:898",
+          "end": "00:00:00:978"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:01:105",
+          "end": "00:00:01:162"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:01:188",
+          "end": "00:00:01:448"
+        },
+        {
+          "type": "long_phone",
+          "start": "00:00:01:448",
+          "end": "00:00:01:658"
+        },
+        {
+          "type": "pause_silence_segment",
+          "start": "00:00:00:000",
+          "end": "00:00:00:130"
+        },
+        {
+          "type": "pause_silence_segment",
+          "start": "00:00:01:658",
+          "end": "00:00:01:730"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:00:632",
+          "end": "00:00:00:678"
+        },
+        {
+          "type": "closure_segment",
+          "start": "00:00:01:105",
+          "end": "00:00:01:162"
+        },
+        {
+          "type": "glottal_stop",
+          "start": "00:00:01:105",
+          "end": "00:00:01:162"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "dataset_name": "TIMIT",
+    "dataset_split": "TEST",
+    "text_annotation_source": "TIMIT .TXT/.WRD",
+    "text_annotation_details": "Human-aligned word intervals.",
+    "text_coverage": "full",
+    "phoneme_annotation_source": "TIMIT .PHN",
+    "phoneme_annotation_details": "Human-aligned phone intervals.",
+    "phoneme_coverage": "full"
+  }
+}
