@@ -103,6 +103,8 @@ def task1_rows() -> list[dict[str, Any]]:
                     "task": "task1_uxssd",
                     "model": model,
                     "condition": condition,
+                    "metric_scope": "count_overlap_proxy",
+                    "metric_note": "Task 1 true positives are approximated as min(gold_count, predicted_count); do not report as event-level PRF.",
                     "source": csv_path.as_posix(),
                     **summarize_records(records),
                 }
@@ -146,6 +148,7 @@ def task2_rows() -> list[dict[str, Any]]:
                 "task": "task2_childes",
                 "model": model,
                 "condition": condition,
+                "metric_scope": "count_overlap_proxy",
                 "source": run_dir.as_posix(),
                 **summarize_records(records),
             }
@@ -176,6 +179,7 @@ def task3_rows() -> list[dict[str, Any]]:
                 "task": "task3_timit",
                 "model": model,
                 "condition": condition,
+                "metric_scope": "count_overlap_proxy",
                 "source": run_dir.as_posix(),
                 **summarize_records(records),
             }
@@ -184,13 +188,13 @@ def task3_rows() -> list[dict[str, Any]]:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Recompute precision/recall/F1 directly from generated outputs.")
-    parser.add_argument("--out", type=Path, default=REPORTS_ROOT / "proper_prf_from_generated_outputs.json")
+    parser = argparse.ArgumentParser(description="Recompute count-overlap proxy precision/recall/F1 from generated outputs.")
+    parser.add_argument("--out", type=Path, default=REPORTS_ROOT / "count_overlap_proxy_prf_from_outputs.json")
     args = parser.parse_args()
 
     results = task1_rows() + task2_rows() + task3_rows()
     payload = {
-        "description": "Aggregate precision/recall/F1 recomputed from generated outputs by task, model, and condition. Micro PRF is computed from total TP/pred/gold; macro PRF is the average of per-record PRF.",
+        "description": "Aggregate count-overlap proxy precision/recall/F1 by task, model, and condition. These values summarize event-count overlap and should not be described as strict event-level matching.",
         "results": results,
     }
     write_json(args.out, payload)

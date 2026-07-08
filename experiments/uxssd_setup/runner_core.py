@@ -181,7 +181,6 @@ Hard constraints:
   - {"type":"other_speaker_activity","start":"00:00:04:000","end":"00:00:04:700","notes":"adult overlap"}
 - Do not encode phone-level pronunciation errors as behavioral events.
 - Do not emit routine one-per-turn transitions by default.
-- If a behavioral_event_target_hint is provided, keep total behavioral events close to it.
 """
 
 
@@ -827,13 +826,6 @@ def build_exp1_payload(record: dict[str, Any], cfg: RunnerConfig) -> dict[str, A
 
     text_file_keys = [
         "transcript_txt",
-        "word_labels_textgrid",
-        "phone_labels_textgrid",
-        "speaker_labels_textgrid",
-        "reference_word_textgrid",
-        "reference_phone_textgrid",
-        "reference_speaker_textgrid",
-        "slt_labels_textgrid",
         "param_file",
     ]
 
@@ -1104,10 +1096,6 @@ def run_record_exp1(client: Any, cfg: RunnerConfig, record: dict[str, Any], reco
 def run_record_exp2(client: Any, cfg: RunnerConfig, record: dict[str, Any], record_dir: Path) -> tuple[bool, str]:
     bundle = build_compact_bundle_onevoice(record)
     write_json(record_dir / "bundle_input_onevoice.json", bundle)
-    expected_proxy = record.get("expected_proxy", {})
-    expected_beh_target: int | None = None
-    if isinstance(expected_proxy, dict):
-        expected_beh_target = _safe_int_or_none(expected_proxy.get("behavioral_events"))
 
     if cfg.dry_run:
         write_json(record_dir / "agentA_output.json", bundle)
@@ -1136,17 +1124,10 @@ def run_record_exp2(client: Any, cfg: RunnerConfig, record: dict[str, Any], reco
         "task": "Detect and add behavioral_events. Preserve mispronunciations.",
         "onevoice_json": a_fixed,
     }
-    if expected_beh_target is not None:
-        b_payload["behavioral_event_target_hint"] = {
-            "target_total_for_record": expected_beh_target,
-            "tolerance": EXP2_BEH_TARGET_SLACK,
-            "allowed_types": sorted(EXP2_BEH_ALLOWED_TYPES),
-            "guidance": "Avoid routine one-per-turn transitions; add only evidence-backed events.",
-        }
     b_json, b_raw = call_openai_json(client, cfg.model, SYSTEM_EXP2_BEH, b_payload, cfg.temperature, cfg.max_output_tokens)
     write_text(record_dir / "agentB_raw.txt", b_raw)
     b_fixed, b_ok = repair_with_validator(client, cfg, "agentB", SYSTEM_EXP2_BEH, str(record.get("record_id", "")), b_json, record_dir)
-    b_fixed = sanitize_exp2_behavioral_bundle(b_fixed, expected_beh_target)
+    b_fixed = sanitize_exp2_behavioral_bundle(b_fixed, None)
     write_json(record_dir / "agentB_output.json", b_fixed)
     if not b_ok:
         write_json(record_dir / "final_output.json", b_fixed)
@@ -1161,7 +1142,7 @@ def run_record_exp2(client: Any, cfg: RunnerConfig, record: dict[str, Any], reco
     c_json, c_raw = call_openai_json(client, cfg.model, SYSTEM_EXP2_MERGE, c_payload, cfg.temperature, cfg.max_output_tokens)
     write_text(record_dir / "agentC_raw.txt", c_raw)
     c_fixed, c_ok = repair_with_validator(client, cfg, "agentC", SYSTEM_EXP2_MERGE, str(record.get("record_id", "")), c_json, record_dir)
-    c_fixed = sanitize_exp2_behavioral_bundle(c_fixed, expected_beh_target)
+    c_fixed = sanitize_exp2_behavioral_bundle(c_fixed, None)
     write_json(record_dir / "agentC_output.json", c_fixed)
     write_json(record_dir / "final_output.json", c_fixed)
     if not c_ok:

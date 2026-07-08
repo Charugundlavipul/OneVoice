@@ -418,19 +418,16 @@ def write_outputs(selected: list, mis_proxy: dict, mis_targets: dict, beh_proxy:
                     "agent_outputs_format": "free_or_minimal_json",
                 },
                 "bundle_duration_s": b["duration_s"],
-                "expected_proxy": {
-                    "mispronunciation_events": b["mispronunciation_proxy_events"],
-                    "behavioral_events": b["behavioral_event_proxy_events"],
-                    "note": "mispron proxy: SLT pronunciation scores (median primary <= 3.0); behavioral proxy: speaker-label transitions/SLT activity",
-                },
                 "utterances": [
                     {
                         "utt": u["utt"],
                         "speaker_id": u["speaker_id"],
                         "duration_s": u["duration_s"],
-                        "mispronunciation_proxy_events": int(mis_proxy.get(u["utt"], 0)),
-                        "behavioral_event_proxy_events": int(beh_proxy.get(u["utt"], 0)),
-                        "files": u["paths"],
+                        "files": {
+                            "audio_wav": u["paths"].get("audio_wav", ""),
+                            "transcript_txt": u["paths"].get("transcript_txt", ""),
+                            "param_file": u["paths"].get("param_file", ""),
+                        },
                     }
                     for u in b["utterances"]
                 ],
@@ -451,18 +448,11 @@ def write_outputs(selected: list, mis_proxy: dict, mis_targets: dict, beh_proxy:
                     "max_repair_rounds_per_agent": 3,
                 },
                 "bundle_duration_s": b["duration_s"],
-                "expected_proxy": {
-                    "mispronunciation_events": b["mispronunciation_proxy_events"],
-                    "behavioral_events": b["behavioral_event_proxy_events"],
-                    "note": "mispron proxy: SLT pronunciation scores (median primary <= 3.0); behavioral proxy: speaker-label transitions/SLT activity",
-                },
                 "utterances": [
                     {
                         "utt": u["utt"],
                         "speaker_id": u["speaker_id"],
                         "duration_s": u["duration_s"],
-                        "mispronunciation_proxy_events": int(mis_proxy.get(u["utt"], 0)),
-                        "behavioral_event_proxy_events": int(beh_proxy.get(u["utt"], 0)),
                         "onevoice_json": u["paths"]["onevoice_json"],
                     }
                     for u in b["utterances"]

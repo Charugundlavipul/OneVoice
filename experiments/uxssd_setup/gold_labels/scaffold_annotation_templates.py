@@ -47,8 +47,7 @@ def build_template(record: dict[str, Any], manifest_path: Path) -> dict[str, Any
         },
         "summary": {
             "bundle_duration_s": float(record.get("bundle_duration_s", 0.0) or 0.0),
-            "target_min_total_events": 6,
-            "expected_proxy": record.get("expected_proxy", {}),
+            "annotation_min_total_events": 6,
         },
         "utterances": utterances_out,
         "qa": {
@@ -62,18 +61,18 @@ def build_template(record: dict[str, Any], manifest_path: Path) -> dict[str, Any
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(description="Generate strict per-record gold-label templates from experiment manifest.")
+    parser = argparse.ArgumentParser(description="Scaffold empty per-record annotation files from an experiment manifest.")
     parser.add_argument(
         "--manifest",
         type=Path,
         default=Path("experiments/uxssd_setup/experiment1_agnostic_manifest.jsonl"),
-        help="JSONL manifest to generate templates from.",
+        help="JSONL manifest to scaffold annotation files from.",
     )
     parser.add_argument(
         "--out-dir",
         type=Path,
         default=Path("experiments/uxssd_setup/gold_labels/templates"),
-        help="Directory for generated template files.",
+        help="Directory for scaffolded annotation files.",
     )
     parser.add_argument(
         "--record-ids",
@@ -107,7 +106,7 @@ def main() -> None:
 
     index_path = args.out_dir / "index.json"
     index_path.write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"Generated {len(index)} templates at {args.out_dir}")
+    print(f"Scaffolded {len(index)} annotation files at {args.out_dir}")
     print(f"Index: {index_path}")
 
 
