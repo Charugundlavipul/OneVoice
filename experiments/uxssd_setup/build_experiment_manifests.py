@@ -303,13 +303,6 @@ def write_outputs(
                 "audio_wav",
                 "transcript_txt",
                 "param_file",
-                "word_labels_textgrid",
-                "phone_labels_textgrid",
-                "speaker_labels_textgrid",
-                "reference_word_textgrid",
-                "reference_phone_textgrid",
-                "reference_speaker_textgrid",
-                "slt_labels_textgrid",
                 "onevoice_json",
             ]
         )
@@ -328,13 +321,6 @@ def write_outputs(
                         p["audio_wav"],
                         p["transcript_txt"],
                         p["param_file"],
-                        p["word_labels_textgrid"],
-                        p["phone_labels_textgrid"],
-                        p["speaker_labels_textgrid"],
-                        p["reference_word_textgrid"],
-                        p["reference_phone_textgrid"],
-                        p["reference_speaker_textgrid"],
-                        p["slt_labels_textgrid"],
                         p["onevoice_json"],
                     ]
                 )

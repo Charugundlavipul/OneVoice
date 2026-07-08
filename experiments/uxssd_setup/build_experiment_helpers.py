@@ -77,13 +77,6 @@ def load_utterances() -> dict:
                 "audio_wav": rel(core_audio) if core_audio.exists() else "",
                 "transcript_txt": rel(core_txt) if core_txt.exists() else "",
                 "param_file": rel(core_param) if core_param.exists() else "",
-                "word_labels_textgrid": rel(add_base / "word_labels" / "TG" / utt_tg) if (add_base / "word_labels" / "TG" / utt_tg).exists() else "",
-                "phone_labels_textgrid": rel(add_base / "phone_labels" / "TG" / utt_tg) if (add_base / "phone_labels" / "TG" / utt_tg).exists() else "",
-                "speaker_labels_textgrid": rel(add_base / "speaker_labels" / "TG" / utt_tg) if (add_base / "speaker_labels" / "TG" / utt_tg).exists() else "",
-                "reference_word_textgrid": rel(add_base / "reference_labels" / "word-labels" / "TG" / utt_tg) if (add_base / "reference_labels" / "word-labels" / "TG" / utt_tg).exists() else "",
-                "reference_phone_textgrid": rel(add_base / "reference_labels" / "phone-labels" / "TG" / utt_tg) if (add_base / "reference_labels" / "phone-labels" / "TG" / utt_tg).exists() else "",
-                "reference_speaker_textgrid": rel(add_base / "reference_labels" / "speaker-labels" / "TG" / utt_tg) if (add_base / "reference_labels" / "speaker-labels" / "TG" / utt_tg).exists() else "",
-                "slt_labels_textgrid": rel(add_base / "slt_labels" / utt_tg) if (add_base / "slt_labels" / utt_tg).exists() else "",
                 "onevoice_json": rel(ROOT / "ultrasuite" / "output" / "uxssd" / speaker_short / f"{utt}.json")
                 if (ROOT / "ultrasuite" / "output" / "uxssd" / speaker_short / f"{utt}.json").exists()
                 else "",
@@ -369,13 +362,6 @@ def write_outputs(selected: list, mis_proxy: dict, mis_targets: dict, beh_proxy:
                 "audio_wav",
                 "transcript_txt",
                 "param_file",
-                "word_labels_textgrid",
-                "phone_labels_textgrid",
-                "speaker_labels_textgrid",
-                "reference_word_textgrid",
-                "reference_phone_textgrid",
-                "reference_speaker_textgrid",
-                "slt_labels_textgrid",
                 "onevoice_json",
             ]
         )
@@ -394,13 +380,6 @@ def write_outputs(selected: list, mis_proxy: dict, mis_targets: dict, beh_proxy:
                         p["audio_wav"],
                         p["transcript_txt"],
                         p["param_file"],
-                        p["word_labels_textgrid"],
-                        p["phone_labels_textgrid"],
-                        p["speaker_labels_textgrid"],
-                        p["reference_word_textgrid"],
-                        p["reference_phone_textgrid"],
-                        p["reference_speaker_textgrid"],
-                        p["slt_labels_textgrid"],
                         p["onevoice_json"],
                     ]
                 )

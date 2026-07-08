@@ -37,23 +37,14 @@ python experiments/uxssd_setup/build_experiment_manifests.py \
   --max-records-per-speaker 4
 ```
 
-## Gold Data
+## Human Annotation Templates
 
-Generate templates:
+Scaffold empty annotation templates:
 
 ```bash
-python experiments/uxssd_setup/gold_labels/generate_gold_label_templates.py \
+python experiments/uxssd_setup/gold_labels/scaffold_annotation_templates.py \
   --manifest experiments/uxssd_setup/experiment1_agnostic_manifest.jsonl \
   --out-dir experiments/uxssd_setup/gold_labels/templates
-```
-
-Prefill templates:
-
-```bash
-python experiments/uxssd_setup/gold_labels/prefill_gold_labels_from_sources.py \
-  --template-dir experiments/uxssd_setup/gold_labels/templates \
-  --selected-utterances-csv experiments/uxssd_setup/selected_utterances.csv \
-  --mis-target-csv experiments/uxssd_setup/mispronunciation_proxy_targets.csv
 ```
 
 Validate:

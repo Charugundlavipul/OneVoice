@@ -1,4 +1,4 @@
-# Gold Labels: Strict Template
+# Annotation Labels: Strict Template
 
 This folder contains a strict annotation template and validators for human gold labels.
 
@@ -6,13 +6,13 @@ This folder contains a strict annotation template and validators for human gold 
 
 - `strict_gold_label_template.json`: canonical structure and field contract.
 - `gold_label.schema.json`: JSON Schema for structural checks.
-- `generate_gold_label_templates.py`: generates per-record `.gold.json` templates from manifest.
+- `scaffold_annotation_templates.py`: scaffolds empty per-record `.gold.json` annotation files from a manifest.
 - `validate_gold_labels.py`: strict semantic validator (required fields, time consistency, duplicates, final QA checks).
 
-## Generate Templates
+## Scaffold Templates
 
 ```bash
-python experiments/uxssd_setup/gold_labels/generate_gold_label_templates.py \
+python experiments/uxssd_setup/gold_labels/scaffold_annotation_templates.py \
   --manifest experiments/uxssd_setup/experiment1_agnostic_manifest.jsonl \
   --out-dir experiments/uxssd_setup/gold_labels/templates
 ```

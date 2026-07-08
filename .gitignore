@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local environment
+.env
+.venv/
+venv/
+
+# Generated experiment artifacts
+experiments/uxssd_setup/runs/
+experiments/uxssd_setup/gold_labels/templates/
+experiments/uxssd_setup/experiment1_agnostic_manifest.jsonl
+experiments/uxssd_setup/experiment2_onevoice_manifest.jsonl
+experiments/uxssd_setup/selected_bundles*.csv
+experiments/uxssd_setup/selected_utterances*.csv
+experiments/uxssd_setup/*proxy_targets*.csv
+experiments/cross_task_generalization/runs/
+experiments/cross_task_generalization/reports/
+experiments/cross_task_generalization/gold/task1_uxssd/
