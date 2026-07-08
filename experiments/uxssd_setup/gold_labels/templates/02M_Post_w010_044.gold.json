@@ -2,9 +2,7 @@
   "schema_version": "1.0",
   "record_id": "02M_Post_w010_044",
   "annotator": {
-    "annotator_id": "auto_prefill_from_sources",
-    "annotation_status": "in_progress",
-    "notes": "Auto-prefilled from UXSSD source files on 2026-02-20T19:26:48Z"
+    "annotation_status": "in_progress"
   },
   "timebase": "utterance_local",
   "source": {
@@ -13,17 +11,7 @@
   },
   "summary": {
     "bundle_duration_s": 152.74,
-    "target_min_total_events": 6,
-    "expected_proxy": {
-      "mispronunciation_events": 6,
-      "behavioral_events": 5,
-      "note": "small-scale bundle selection (5-10 behavioral, 5-10 mispronunciation)"
-    },
-    "auto_prefill_event_counts": {
-      "mispronunciations": 6,
-      "behavioral_events": 5,
-      "total_events": 11
-    }
+    "target_min_total_events": 6
   },
   "utterances": [
     {
@@ -51,8 +39,7 @@
           "target_phone": "r",
           "word_index": 1,
           "start": "00:00:02:730",
-          "end": "00:00:03:300",
-          "notes": "auto_prefill source=reference_word_textgrid; word=ZEBRA; phone_class=rhotics; median_primary_score=1.0"
+          "end": "00:00:03:300"
         }
       ],
       "behavioral_events": [],
@@ -112,8 +99,7 @@
           "target_phone": "r",
           "word_index": 1,
           "start": "00:00:01:616",
-          "end": "00:00:02:180",
-          "notes": "auto_prefill source=reference_word_textgrid; word=BERRY; phone_class=rhotics; median_primary_score=1.0"
+          "end": "00:00:02:180"
         }
       ],
       "behavioral_events": [],
@@ -172,14 +158,12 @@
         {
           "type": "slt_intervention",
           "start": "00:00:00:640",
-          "end": "00:00:01:090",
-          "notes": "auto_prefill source=speaker_labels_textgrid label=SLT"
+          "end": "00:00:01:090"
         },
         {
           "type": "speaker_transition",
           "start": "00:00:01:520",
-          "end": "00:00:01:540",
-          "notes": "auto_prefill source=speaker_labels_textgrid transition=SLT->CHILD"
+          "end": "00:00:01:540"
         }
       ],
       "review": {
@@ -212,8 +196,7 @@
           "target_phone": "r",
           "word_index": 1,
           "start": "00:00:01:916",
-          "end": "00:00:02:510",
-          "notes": "auto_prefill source=reference_word_textgrid; word=REEK; phone_class=rhotics; median_primary_score=2.0"
+          "end": "00:00:02:510"
         }
       ],
       "behavioral_events": [],
@@ -234,8 +217,7 @@
           "target_phone": "r",
           "word_index": 1,
           "start": "00:00:01:980",
-          "end": "00:00:02:631",
-          "notes": "auto_prefill source=reference_word_textgrid; word=WORRY; phone_class=rhotics; median_primary_score=1.0"
+          "end": "00:00:02:631"
         }
       ],
       "behavioral_events": [],
@@ -281,20 +263,17 @@
         {
           "type": "slt_intervention",
           "start": "00:00:04:670",
-          "end": "00:00:04:960",
-          "notes": "auto_prefill source=speaker_labels_textgrid label=SLT"
+          "end": "00:00:04:960"
         },
         {
           "type": "speaker_transition",
           "start": "00:00:04:660",
-          "end": "00:00:04:680",
-          "notes": "auto_prefill source=speaker_labels_textgrid transition=CHILD->SLT"
+          "end": "00:00:04:680"
         },
         {
           "type": "speaker_transition",
           "start": "00:00:05:640",
-          "end": "00:00:05:660",
-          "notes": "auto_prefill source=speaker_labels_textgrid transition=SLT->CHILD"
+          "end": "00:00:05:660"
         }
       ],
       "review": {
@@ -314,8 +293,7 @@
           "target_phone": "g",
           "word_index": 1,
           "start": "00:00:03:509",
-          "end": "00:00:04:100",
-          "notes": "auto_prefill source=reference_word_textgrid; word=GROW; phone_class=velars; median_primary_score=3.0"
+          "end": "00:00:04:100"
         }
       ],
       "behavioral_events": [],
@@ -388,8 +366,7 @@
           "target_phone": "r",
           "word_index": 1,
           "start": "00:00:02:394",
-          "end": "00:00:02:870",
-          "notes": "auto_prefill source=reference_word_textgrid; word=EERIE; phone_class=rhotics; median_primary_score=2.0"
+          "end": "00:00:02:870"
         }
       ],
       "behavioral_events": [],

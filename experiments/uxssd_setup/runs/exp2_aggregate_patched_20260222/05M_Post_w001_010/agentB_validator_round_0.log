@@ -2,7 +2,7 @@ Validating experiments\uxssd_low_event_setup\runs\exp2_20260222_033640\05M_Post_
 Validation FAILED with the following errors:
  - : Unknown key 'onevoice_json' found. Not allowed in OneVoice schema.
  - : Unknown key 'task' found. Not allowed in OneVoice schema.
- - : Unknown key 'behavioral_event_target_hint' found. Not allowed in OneVoice schema.
+ - : Release-only debug field removed from archived validation log.
  - : Unknown key 'record_id' found. Not allowed in OneVoice schema.
  - Missing mandatory root field: 'session_id'
  - Missing mandatory root field: 'turns'

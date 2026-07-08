@@ -9,29 +9,15 @@
     "agent_outputs_format": "free_or_minimal_json"
   },
   "bundle_duration_s": 152.135,
-  "expected_proxy": {
-    "mispronunciation_events": 8,
-    "behavioral_events": 7,
-    "note": "small-scale bundle selection (5-10 behavioral, 5-10 mispronunciation)"
-  },
   "utterances": [
     {
       "utt": "02M-BL1-040A",
       "speaker_id": "02M_CHILD",
       "duration_s": 3.901,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/040A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/040A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/040A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-040A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-040A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-040A.TextGrid",
-        "reference_word_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-040A.TextGrid",
-        "reference_phone_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-040A.TextGrid",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-040A.json"
       }
     },
@@ -39,19 +25,10 @@
       "utt": "02M-BL1-041A",
       "speaker_id": "02M_CHILD",
       "duration_s": 4.458,
-      "mispronunciation_proxy_events": 2,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/041A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/041A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/041A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-041A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-041A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-041A.TextGrid",
-        "reference_word_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-041A.TextGrid",
-        "reference_phone_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-041A.TextGrid",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-041A.json"
       }
     },
@@ -59,19 +36,10 @@
       "utt": "02M-BL1-042A",
       "speaker_id": "02M_CHILD",
       "duration_s": 3.344,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/042A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/042A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/042A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-042A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-042A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-042A.TextGrid",
-        "reference_word_textgrid": "",
-        "reference_phone_textgrid": "",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-042A.json"
       }
     },
@@ -79,19 +47,10 @@
       "utt": "02M-BL1-043A",
       "speaker_id": "02M_CHILD",
       "duration_s": 4.458,
-      "mispronunciation_proxy_events": 2,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/043A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/043A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/043A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-043A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-043A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-043A.TextGrid",
-        "reference_word_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-043A.TextGrid",
-        "reference_phone_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-043A.TextGrid",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-043A.json"
       }
     },
@@ -99,19 +58,10 @@
       "utt": "02M-BL1-044A",
       "speaker_id": "02M_CHILD",
       "duration_s": 4.458,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/044A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/044A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/044A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-044A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-044A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-044A.TextGrid",
-        "reference_word_textgrid": "",
-        "reference_phone_textgrid": "",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-044A.json"
       }
     },
@@ -119,19 +69,10 @@
       "utt": "02M-BL1-045A",
       "speaker_id": "02M_CHILD",
       "duration_s": 4.458,
-      "mispronunciation_proxy_events": 1,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/045A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/045A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/045A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-045A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-045A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-045A.TextGrid",
-        "reference_word_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-045A.TextGrid",
-        "reference_phone_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-045A.TextGrid",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-045A.json"
       }
     },
@@ -139,19 +80,10 @@
       "utt": "02M-BL1-046C",
       "speaker_id": "02M_CHILD",
       "duration_s": 5.016,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 2,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/046C.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/046C.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/046C.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-046C.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-046C.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-046C.TextGrid",
-        "reference_word_textgrid": "",
-        "reference_phone_textgrid": "",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-046C.json"
       }
     },
@@ -159,19 +91,10 @@
       "utt": "02M-BL1-047C",
       "speaker_id": "02M_CHILD",
       "duration_s": 5.016,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/047C.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/047C.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/047C.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-047C.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-047C.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-047C.TextGrid",
-        "reference_word_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-047C.TextGrid",
-        "reference_phone_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-047C.TextGrid",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-047C.json"
       }
     },
@@ -179,19 +102,10 @@
       "utt": "02M-BL1-048A",
       "speaker_id": "02M_CHILD",
       "duration_s": 4.458,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/048A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/048A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/048A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-048A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-048A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-048A.TextGrid",
-        "reference_word_textgrid": "",
-        "reference_phone_textgrid": "",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-048A.json"
       }
     },
@@ -199,19 +113,10 @@
       "utt": "02M-BL1-049A",
       "speaker_id": "02M_CHILD",
       "duration_s": 3.901,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 3,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/049A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/049A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/049A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-049A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-049A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-049A.TextGrid",
-        "reference_word_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-049A.TextGrid",
-        "reference_phone_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-049A.TextGrid",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-049A.json"
       }
     },
@@ -219,19 +124,10 @@
       "utt": "02M-BL1-050A",
       "speaker_id": "02M_CHILD",
       "duration_s": 2.229,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/050A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/050A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/050A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-050A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-050A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-050A.TextGrid",
-        "reference_word_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-050A.TextGrid",
-        "reference_phone_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-050A.TextGrid",
-        "reference_speaker_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/speaker-labels/TG/02M-BL1-050A.TextGrid",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-050A.json"
       }
     },
@@ -239,19 +135,10 @@
       "utt": "02M-BL1-051A",
       "speaker_id": "02M_CHILD",
       "duration_s": 5.016,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/051A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/051A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/051A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-051A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-051A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-051A.TextGrid",
-        "reference_word_textgrid": "",
-        "reference_phone_textgrid": "",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-051A.json"
       }
     },
@@ -259,19 +146,10 @@
       "utt": "02M-BL1-052A",
       "speaker_id": "02M_CHILD",
       "duration_s": 4.458,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/052A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/052A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/052A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-052A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-052A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-052A.TextGrid",
-        "reference_word_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-052A.TextGrid",
-        "reference_phone_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-052A.TextGrid",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-052A.json"
       }
     },
@@ -279,19 +157,10 @@
       "utt": "02M-BL1-053A",
       "speaker_id": "02M_CHILD",
       "duration_s": 2.786,
-      "mispronunciation_proxy_events": 1,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/053A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/053A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/053A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-053A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-053A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-053A.TextGrid",
-        "reference_word_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-053A.TextGrid",
-        "reference_phone_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-053A.TextGrid",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-053A.json"
       }
     },
@@ -299,19 +168,10 @@
       "utt": "02M-BL1-054A",
       "speaker_id": "02M_CHILD",
       "duration_s": 4.458,
-      "mispronunciation_proxy_events": 1,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/054A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/054A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/054A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-054A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-054A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-054A.TextGrid",
-        "reference_word_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-054A.TextGrid",
-        "reference_phone_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-054A.TextGrid",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-054A.json"
       }
     },
@@ -319,19 +179,10 @@
       "utt": "02M-BL1-055A",
       "speaker_id": "02M_CHILD",
       "duration_s": 4.458,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/055A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/055A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/055A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-055A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-055A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-055A.TextGrid",
-        "reference_word_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-055A.TextGrid",
-        "reference_phone_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-055A.TextGrid",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-055A.json"
       }
     },
@@ -339,19 +190,10 @@
       "utt": "02M-BL1-056A",
       "speaker_id": "02M_CHILD",
       "duration_s": 3.901,
-      "mispronunciation_proxy_events": 1,
-      "behavioral_event_proxy_events": 2,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/056A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/056A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/056A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-056A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-056A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-056A.TextGrid",
-        "reference_word_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-056A.TextGrid",
-        "reference_phone_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-056A.TextGrid",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-056A.json"
       }
     },
@@ -359,19 +201,10 @@
       "utt": "02M-BL1-057A",
       "speaker_id": "02M_CHILD",
       "duration_s": 4.458,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/057A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/057A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/057A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-057A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-057A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-057A.TextGrid",
-        "reference_word_textgrid": "",
-        "reference_phone_textgrid": "",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-057A.json"
       }
     },
@@ -379,19 +212,10 @@
       "utt": "02M-BL1-058A",
       "speaker_id": "02M_CHILD",
       "duration_s": 4.458,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/058A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/058A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/058A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-058A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-058A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-058A.TextGrid",
-        "reference_word_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-058A.TextGrid",
-        "reference_phone_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-058A.TextGrid",
-        "reference_speaker_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/speaker-labels/TG/02M-BL1-058A.TextGrid",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-058A.json"
       }
     },
@@ -399,19 +223,10 @@
       "utt": "02M-BL1-059A",
       "speaker_id": "02M_CHILD",
       "duration_s": 3.901,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/059A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/059A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/059A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-059A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-059A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-059A.TextGrid",
-        "reference_word_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-059A.TextGrid",
-        "reference_phone_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-059A.TextGrid",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-059A.json"
       }
     },
@@ -419,19 +234,10 @@
       "utt": "02M-BL1-060A",
       "speaker_id": "02M_CHILD",
       "duration_s": 3.901,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/060A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/060A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/060A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-060A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-060A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-060A.TextGrid",
-        "reference_word_textgrid": "",
-        "reference_phone_textgrid": "",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-060A.json"
       }
     },
@@ -439,19 +245,10 @@
       "utt": "02M-BL1-061A",
       "speaker_id": "02M_CHILD",
       "duration_s": 4.458,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/061A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/061A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/061A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-061A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-061A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-061A.TextGrid",
-        "reference_word_textgrid": "",
-        "reference_phone_textgrid": "",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-061A.json"
       }
     },
@@ -459,19 +256,10 @@
       "utt": "02M-BL1-062A",
       "speaker_id": "02M_CHILD",
       "duration_s": 4.458,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/062A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/062A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/062A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-062A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-062A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-062A.TextGrid",
-        "reference_word_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-062A.TextGrid",
-        "reference_phone_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-062A.TextGrid",
-        "reference_speaker_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/speaker-labels/TG/02M-BL1-062A.TextGrid",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-062A.json"
       }
     },
@@ -479,19 +267,10 @@
       "utt": "02M-BL1-063A",
       "speaker_id": "02M_CHILD",
       "duration_s": 3.901,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/063A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/063A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/063A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-063A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-063A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-063A.TextGrid",
-        "reference_word_textgrid": "",
-        "reference_phone_textgrid": "",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-063A.json"
       }
     },
@@ -499,19 +278,10 @@
       "utt": "02M-BL1-064A",
       "speaker_id": "02M_CHILD",
       "duration_s": 3.901,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/064A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/064A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/064A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-064A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-064A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-064A.TextGrid",
-        "reference_word_textgrid": "",
-        "reference_phone_textgrid": "",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-064A.json"
       }
     },
@@ -519,19 +289,10 @@
       "utt": "02M-BL1-065A",
       "speaker_id": "02M_CHILD",
       "duration_s": 3.901,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/065A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/065A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/065A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-065A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-065A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-065A.TextGrid",
-        "reference_word_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/word-labels/TG/02M-BL1-065A.TextGrid",
-        "reference_phone_textgrid": "ultrasuite/uxssd_additional/uxssd/reference_labels/phone-labels/TG/02M-BL1-065A.TextGrid",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-065A.json"
       }
     },
@@ -539,19 +300,10 @@
       "utt": "02M-BL1-066A",
       "speaker_id": "02M_CHILD",
       "duration_s": 2.786,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/066A.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/066A.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/066A.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-066A.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-066A.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-066A.TextGrid",
-        "reference_word_textgrid": "",
-        "reference_phone_textgrid": "",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-066A.json"
       }
     },
@@ -559,19 +311,10 @@
       "utt": "02M-BL1-067B",
       "speaker_id": "02M_CHILD",
       "duration_s": 7.245,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/067B.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/067B.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/067B.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-067B.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-067B.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-067B.TextGrid",
-        "reference_word_textgrid": "",
-        "reference_phone_textgrid": "",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-067B.json"
       }
     },
@@ -579,19 +322,10 @@
       "utt": "02M-BL1-068B",
       "speaker_id": "02M_CHILD",
       "duration_s": 6.687,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/068B.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/068B.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/068B.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-068B.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-068B.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-068B.TextGrid",
-        "reference_word_textgrid": "",
-        "reference_phone_textgrid": "",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-068B.json"
       }
     },
@@ -599,19 +333,10 @@
       "utt": "02M-BL1-069B",
       "speaker_id": "02M_CHILD",
       "duration_s": 6.13,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/069B.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/069B.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/069B.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-069B.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-069B.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-069B.TextGrid",
-        "reference_word_textgrid": "",
-        "reference_phone_textgrid": "",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-069B.json"
       }
     },
@@ -619,19 +344,10 @@
       "utt": "02M-BL1-070B",
       "speaker_id": "02M_CHILD",
       "duration_s": 8.359,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/070B.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/070B.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/070B.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-070B.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-070B.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-070B.TextGrid",
-        "reference_word_textgrid": "",
-        "reference_phone_textgrid": "",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-070B.json"
       }
     },
@@ -639,19 +355,10 @@
       "utt": "02M-BL1-071B",
       "speaker_id": "02M_CHILD",
       "duration_s": 6.13,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/071B.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/071B.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/071B.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-071B.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-071B.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-071B.TextGrid",
-        "reference_word_textgrid": "",
-        "reference_phone_textgrid": "",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-071B.json"
       }
     },
@@ -659,19 +366,10 @@
       "utt": "02M-BL1-072B",
       "speaker_id": "02M_CHILD",
       "duration_s": 6.687,
-      "mispronunciation_proxy_events": 0,
-      "behavioral_event_proxy_events": 0,
       "files": {
         "audio_wav": "ultrasuite/uxssd_core/02M/BL1/072B.wav",
         "transcript_txt": "ultrasuite/uxssd_core/02M/BL1/072B.txt",
         "param_file": "ultrasuite/uxssd_core/02M/BL1/072B.param",
-        "word_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/word_labels/TG/02M-BL1-072B.TextGrid",
-        "phone_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/phone_labels/TG/02M-BL1-072B.TextGrid",
-        "speaker_labels_textgrid": "ultrasuite/uxssd_additional/uxssd/speaker_labels/TG/02M-BL1-072B.TextGrid",
-        "reference_word_textgrid": "",
-        "reference_phone_textgrid": "",
-        "reference_speaker_textgrid": "",
-        "slt_labels_textgrid": "",
         "onevoice_json": "ultrasuite/output/uxssd/02M/02M-BL1-072B.json"
       }
     }

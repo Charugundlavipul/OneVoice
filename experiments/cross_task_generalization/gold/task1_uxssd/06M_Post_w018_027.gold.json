@@ -2,9 +2,7 @@
   "schema_version": "1.0",
   "record_id": "06M_Post_w018_027",
   "annotator": {
-    "annotator_id": "auto_prefill_from_sources",
-    "annotation_status": "in_progress",
-    "notes": "Auto-prefilled from UXSSD source files on 2026-02-20T19:26:48Z"
+    "annotation_status": "in_progress"
   },
   "timebase": "utterance_local",
   "source": {
@@ -13,17 +11,7 @@
   },
   "summary": {
     "bundle_duration_s": 146.102,
-    "target_min_total_events": 6,
-    "expected_proxy": {
-      "mispronunciation_events": 5,
-      "behavioral_events": 9,
-      "note": "small-scale bundle selection (5-10 behavioral, 5-10 mispronunciation)"
-    },
-    "auto_prefill_event_counts": {
-      "mispronunciations": 5,
-      "behavioral_events": 9,
-      "total_events": 14
-    }
+    "target_min_total_events": 6
   },
   "utterances": [
     {
@@ -38,28 +26,24 @@
           "target_phone": "r",
           "word_index": 1,
           "start": "00:00:28:466",
-          "end": "00:00:29:022",
-          "notes": "auto_prefill source=reference_word_textgrid; word=ZEBRA; phone_class=rhotics; median_primary_score=1.0"
+          "end": "00:00:29:022"
         }
       ],
       "behavioral_events": [
         {
           "type": "slt_intervention",
           "start": "00:00:25:500",
-          "end": "00:00:25:700",
-          "notes": "auto_prefill source=speaker_labels_textgrid label=SLT"
+          "end": "00:00:25:700"
         },
         {
           "type": "speaker_transition",
           "start": "00:00:25:490",
-          "end": "00:00:25:510",
-          "notes": "auto_prefill source=speaker_labels_textgrid transition=CHILD->SLT"
+          "end": "00:00:25:510"
         },
         {
           "type": "speaker_transition",
           "start": "00:00:28:400",
-          "end": "00:00:28:420",
-          "notes": "auto_prefill source=speaker_labels_textgrid transition=SLT->CHILD"
+          "end": "00:00:28:420"
         }
       ],
       "review": {
@@ -78,20 +62,17 @@
         {
           "type": "slt_intervention",
           "start": "00:00:24:890",
-          "end": "00:00:25:570",
-          "notes": "auto_prefill source=speaker_labels_textgrid label=SLT"
+          "end": "00:00:25:570"
         },
         {
           "type": "speaker_transition",
           "start": "00:00:24:880",
-          "end": "00:00:24:900",
-          "notes": "auto_prefill source=speaker_labels_textgrid transition=CHILD->SLT"
+          "end": "00:00:24:900"
         },
         {
           "type": "speaker_transition",
           "start": "00:00:28:380",
-          "end": "00:00:28:400",
-          "notes": "auto_prefill source=speaker_labels_textgrid transition=SLT->CHILD"
+          "end": "00:00:28:400"
         }
       ],
       "review": {
@@ -111,8 +92,7 @@
           "target_phone": "r",
           "word_index": 1,
           "start": "00:00:14:670",
-          "end": "00:00:15:356",
-          "notes": "auto_prefill source=reference_word_textgrid; word=RABBIT; phone_class=rhotics; median_primary_score=1.0"
+          "end": "00:00:15:356"
         }
       ],
       "behavioral_events": [],
@@ -132,20 +112,17 @@
         {
           "type": "slt_intervention",
           "start": "00:00:01:920",
-          "end": "00:00:02:310",
-          "notes": "auto_prefill source=speaker_labels_textgrid label=SLT"
+          "end": "00:00:02:310"
         },
         {
           "type": "speaker_transition",
           "start": "00:00:01:910",
-          "end": "00:00:01:930",
-          "notes": "auto_prefill source=speaker_labels_textgrid transition=CHILD->SLT"
+          "end": "00:00:01:930"
         },
         {
           "type": "speaker_transition",
           "start": "00:00:02:890",
-          "end": "00:00:02:910",
-          "notes": "auto_prefill source=speaker_labels_textgrid transition=SLT->CHILD"
+          "end": "00:00:02:910"
         }
       ],
       "review": {
@@ -230,24 +207,21 @@
           "target_phone": "k",
           "word_index": 1,
           "start": "00:00:05:024",
-          "end": "00:00:05:448",
-          "notes": "auto_prefill source=reference_word_textgrid; word=KAI; phone_class=velars; median_primary_score=2.0"
+          "end": "00:00:05:448"
         },
         {
           "type": "mispronunciation",
           "target_phone": "k",
           "word_index": 1,
           "start": "00:00:06:105",
-          "end": "00:00:06:656",
-          "notes": "auto_prefill source=reference_word_textgrid; word=HOCKEY; phone_class=velars; median_primary_score=1.0"
+          "end": "00:00:06:656"
         },
         {
           "type": "mispronunciation",
           "target_phone": "k",
           "word_index": 1,
           "start": "00:00:05:522",
-          "end": "00:00:06:052",
-          "notes": "auto_prefill source=reference_word_textgrid; word=CAME; phone_class=velars; median_primary_score=1.0"
+          "end": "00:00:06:052"
         }
       ],
       "behavioral_events": [],
